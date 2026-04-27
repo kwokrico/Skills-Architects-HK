@@ -200,8 +200,20 @@ START
 ├─ HK architects, design theory, critical regionalism, heritage discourse, or Asian architectural theory?
 │   └─► [hk-design-theory]
 │
+├─ Minor works (MWCS, Class I-III, APP-147, MW forms)?
+│   └─► [hk-minor-works]
+│
+├─ Consent to commence works, fast-track processing, consent timelines/scheduling, or renewal?
+│   └─► [hk-consent-scheduling]
+│
+├─ A&A works in existing buildings or major alterations?
+│   └─► [hk-alterations-additions]  (or route primarily to minor-works / building-codes)
+│
+├─ Lease conditions, LandsD submissions, or waiver applications?
+│   └─► [hk-lease-compliance]
+│
 └─ Default: answer directly from Section 1.
-   Multiple topics? Route to the primary skill; cross-reference secondary skills as needed.
+│   Multiple topics? Route to the primary skill; cross-reference secondary skills as needed.
 ```
  
 ### Multi-Skill Priority (when topics overlap)
