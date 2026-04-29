@@ -21,7 +21,14 @@ class HKArchitectDispatcher:
             "hk-building-services", "hk-building-sustainability", "hk-building-typology",
             "hk-concept-design", "hk-construction-documentation", "hk-daylighting-design",
             "hk-design-theory", "hk-fire-life-safety", "hk-material-selection",
-            "hk-spatial-planning", "hk-structural-systems"
+            "hk-spatial-planning", "hk-structural-systems", "hk-minor-works",
+            "hk-consent-scheduling", "hk-alterations-additions", "hk-lease-compliance",
+            "hk-heritage-conservation",
+            "hk-site-supervision", "hk-unauthorised-building-works",
+            "hk-tender-contract-administration", "hk-fee-proposal-strategy", "hk-mic-dfma",
+            "hk-professional-indemnity", "hk-cashflow-debt-recovery", "hk-certificate-of-compliance",
+            "hk-project-resource-levelling", "hk-op-submission-strategy", "hk-practical-completion-snagging",
+            "hk-fsd-licensing-compliance"
         ]
 
     def load_sub_skill(self, skill_id):

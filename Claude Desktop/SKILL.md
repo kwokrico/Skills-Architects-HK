@@ -6,16 +6,17 @@ description: >
   GFA, plot ratio, site coverage, BHR, OZP zoning, HKPSG, planning applications (s.16/s.12A),
   means of escape, fire safety (FS Code 2011), FSD, sprinklers, barrier-free access (DMBA 2008),
   BEAM Plus, OTTV/RTTV, AVA, public housing (HA/HD/Harmony), MTR TOD, composite buildings,
-  village houses (NTEH), Grade A office, heritage/adaptive reuse (AAB/AMO),
+  village houses (NTEH), Grade A office, heritage/adaptive reuse (AAB/AMO/HIA),
   structural systems (SUC 2013, HKWC), building services, curtain wall, acoustic design,
   daylighting (BO Reg. 30), BD submissions, AP/RSE, occupation permit, concept design,
-  construction documentation, material selection, or HK architects and design theory.
+  construction documentation, material selection, professional indemnity risk, PI insurance,
+  duty of care letters, or HK architects and design theory.
   When in doubt, activate — this is the master hub for all HK architectural practice.
 ---
 
 # HK Architect Master Suite
  
-Central intelligence hub and mandatory router for Hong Kong architectural practice. Provides an expanded **Foundation Quick Reference** for common queries and dispatches to 17 specialised sub-skills for deep expertise.
+Central intelligence hub and mandatory router for Hong Kong architectural practice. Provides an expanded **Foundation Quick Reference** for common queries and dispatches to 34 specialised sub-skills for deep expertise.
  
 ---
  
@@ -139,6 +140,16 @@ Answer routine questions directly from this section **before** loading a sub-ski
 | **Wong & Ouyang** | Complex mixed-use, hospitals, infrastructure | Hospital Authority projects |
  
 > For full design theory, critical regionalism, and HK urban discourse, load `hk-design-theory`.
+
+### 1.11 Completion Checklist
+
+| Milestone | Authority / Form | Critical Requirement |
+|---|---|---|
+| FSD Inspection | Form FSI/501 | All Fire Services Installations (FSI) must be 100% functional and tested. |
+| BD OP Inspection | Form BA14 | Building must be "rendered fit for occupation." No "Unauthorized Building Works" (UBW) vs. approved plans. |
+| Water Supply | WSD Form WWO 46 | Final inspection of plumbing and fire mains by Water Supplies Dept. |
+| Lifts/Escalators | EMSD Form 5 | "Permit to Use and Operate" from Electrical and Mechanical Services Dept. |
+| Practical Completion | HKIA PC Cert | Building is functionally complete; minor snags only. Transfer of insurance/risk to Client. |
  
 ---
  
@@ -164,7 +175,10 @@ START
 ├─ Barrier-free access, DMBA 2008, accessible ramps, lifts, or tactile paving?
 │   └─► [hk-accessibility-design]
 │
-├─ HA/HD public housing, Harmony blocks, MTR TOD, NTEH village houses, composite buildings, Grade A office, or heritage?
+├─ Heritage conservation, AMO/AAB processes, HIA, adaptive reuse submissions, or graded buildings?
+│   └─► [hk-heritage-conservation]
+│
+├─ HA/HD public housing, Harmony blocks, MTR TOD, NTEH village houses, composite buildings, or Grade A office?
 │   └─► [hk-building-typology]
 │
 ├─ Curtain wall, cladding, facade system, OTTV optimisation, typhoon wind load, or weatherproofing?
@@ -209,6 +223,42 @@ START
 ├─ A&A works in existing buildings or major alterations?
 │   └─► [hk-alterations-additions]  (or route primarily to minor-works / building-codes)
 │
+├─ AP/RSE supervision during construction, site meetings, deviations, BA14/BA12/BA13, or OP-stage handover?
+│   └─► [hk-site-supervision]
+│
+├─ Tender documentation, Bills of Quantities coordination, contract form strategy, variations, or post-contract administration?
+│   └─► [hk-tender-contract-administration]
+│
+├─ Fee bidding strategy, percentage-vs-lump-sum fee proposals, scope creep controls, or additional services definitions?
+│   └─► [hk-fee-proposal-strategy]
+│
+├─ Invoicing and payment-cycle strategy, milestone-linked billing (e.g. BD Approval / OP), receivables control, or aged debt recovery in the HK developer market?
+│   └─► [hk-cashflow-debt-recovery]
+│
+├─ Profit-vs-progress monitoring, manpower balancing, break-even hourly rate calculations, or burn-rate control against drawdown?
+│   └─► [hk-project-resource-levelling]
+│
+├─ Lands Department Certificate of Compliance (CC), Consent to Assign for private land grants, or Green Area handover coordination with departments (e.g. HyD / LCSD)?
+│   └─► [hk-certificate-of-compliance]
+│
+├─ OP submission pathway strategy, BA12/BA13/BA14 workflow sequencing, partial OP planning, OP inspection preparation, or full-set record drawing/test report coordination?
+│   └─► [hk-op-submission-strategy]
+│
+├─ Fire services handover certifications (FSI/314, FSI/501), FSD inspection strategy, hydrant/hose reel test closeout, or Fire Certificate (FS 172) readiness?
+│   └─► [hk-fsd-licensing-compliance]
+│
+├─ Practical completion certification (PC), DLP administration, or snagging/de-snagging workflows for premium finishes?
+│   └─► [hk-practical-completion-snagging]
+│
+├─ Professional indemnity (PI) insurance requirements, limit of liability clauses, or duty of care letters?
+│   └─► [hk-professional-indemnity]
+│
+├─ Modular Integrated Construction (MiC), DfMA strategy, MiC concession logic (6%–10%), or module logistics coordination?
+│   └─► [hk-mic-dfma]
+│
+├─ Unauthorised building works (UBW), BD orders (s.24/s.25), rectification strategy, regularization path, or sale/OP/consent implications?
+│   └─► [hk-unauthorised-building-works]
+│
 ├─ Lease conditions, LandsD submissions, or waiver applications?
 │   └─► [hk-lease-compliance]
 │
@@ -218,10 +268,10 @@ START
  
 ### Multi-Skill Priority (when topics overlap)
  
-1. **Regulatory**: `hk-building-codes` › `hk-spatial-planning` › `hk-fire-life-safety` › `hk-accessibility-design`
+1. **Regulatory**: `hk-building-codes` › `hk-spatial-planning` › `hk-fire-life-safety` › `hk-accessibility-design` › `hk-minor-works` › `hk-consent-scheduling` › `hk-alterations-additions` › `hk-lease-compliance`
 2. **Performance**: `hk-building-sustainability` › `hk-building-envelope` › `hk-daylighting-design` › `hk-acoustic-design`
 3. **Typology / Programme**: `hk-building-typology` › `hk-building-programming` › `hk-building-services`
-4. **Delivery**: `hk-concept-design` › `hk-construction-documentation` › `hk-structural-systems` › `hk-material-selection` › `hk-architect-calculator`
+4. **Delivery**: `hk-concept-design` › `hk-construction-documentation` › `hk-tender-contract-administration` › `hk-fee-proposal-strategy` › `hk-cashflow-debt-recovery` › `hk-project-resource-levelling` › `hk-certificate-of-compliance` › `hk-practical-completion-snagging` › `hk-professional-indemnity` › `hk-structural-systems` › `hk-material-selection` › `hk-architect-calculator`
 5. **Theory**: `hk-design-theory`
 ---
  
@@ -230,7 +280,7 @@ START
 ### `load_sub_skill`
 Injects the detailed instruction set for a specific HK domain into context.
 - **Parameter** — `skill_id` (string, required). Valid IDs:
-  `hk-accessibility-design`, `hk-acoustic-design`, `hk-architect-calculator`, `hk-building-codes`, `hk-building-envelope`, `hk-building-programming`, `hk-building-services`, `hk-building-sustainability`, `hk-building-typology`, `hk-concept-design`, `hk-construction-documentation`, `hk-daylighting-design`, `hk-design-theory`, `hk-fire-life-safety`, `hk-material-selection`, `hk-spatial-planning`, `hk-structural-systems`
+  `hk-accessibility-design`, `hk-acoustic-design`, `hk-alterations-additions`, `hk-architect-calculator`, `hk-building-codes`, `hk-building-envelope`, `hk-building-programming`, `hk-building-services`, `hk-building-sustainability`, `hk-building-typology`, `hk-cashflow-debt-recovery`, `hk-certificate-of-compliance`, `hk-concept-design`, `hk-consent-scheduling`, `hk-construction-documentation`, `hk-daylighting-design`, `hk-design-theory`, `hk-fee-proposal-strategy`, `hk-fire-life-safety`, `hk-fsd-licensing-compliance`, `hk-heritage-conservation`, `hk-lease-compliance`, `hk-material-selection`, `hk-mic-dfma`, `hk-minor-works`, `hk-op-submission-strategy`, `hk-practical-completion-snagging`, `hk-professional-indemnity`, `hk-project-resource-levelling`, `hk-site-supervision`, `hk-spatial-planning`, `hk-structural-systems`, `hk-tender-contract-administration`, `hk-unauthorised-building-works`
 ### `run_hk_calculator`
 Executes Python-based calculations for egress or GFA aggregation.
 - **Parameters**: `calc_type` ("egress_1004_7" or "gfa_aggregator") + `data` (JSON with dimensions or coordinates).
