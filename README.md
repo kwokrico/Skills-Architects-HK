@@ -1,31 +1,62 @@
-# Skills-Architects-HK
+# Skills-Architects-HK (Claude Desktop)
 
-A specialized digital toolkit and knowledge base tailored for architectural professionals practicing in Hong Kong. This project extends the core methodologies of the original **Skill-Architect** project to address the specific regulatory, environmental, and technical landscape of Hong Kong's built environment.
+Hong Kong architecture skill suite for Claude Desktop.
 
-## 📜 Credits & Attribution
-This project is a localized fork and expansion of the **[Skills-Architects](https://github.com/Amanbh997/Skills-Architects)** project originally developed by **Abhinav Bhardwaj**. We credit his foundational work in creating a structured framework for architectural digital twins and skill-based plugins.
+This package uses a **master router skill** (`SKILL.md`) plus modular `sub_skills` that cover statutory compliance, technical design, and project delivery workflows specific to Hong Kong practice.
 
-## 🏗️ Hong Kong Specific Skills
-This plugin provides deep-domain expertise in the following areas:
+## What This Installs
 
-### 1. Regulatory & Statutory Compliance
-* [cite_start]**HK Building Codes:** Guidance on the Buildings Ordinance, GFA concessions, and PNAPs.
-* [cite_start]**Accessibility Design:** Implementation of the "Code of Practice for Fire Safety and Access for Persons with Disabilities"[cite: 72, 77].
-* [cite_start]**Fire & Life Safety:** Specialized protocols for HK’s high-density urban fabric[cite: 72, 74].
+- `SKILL.md`: Main entry skill (`hk-architect-master`) with routing logic and quick-reference tables.
+- `sub_skills/*.md`: Domain sub-skills for focused expertise (codes, planning, fire, sustainability, delivery, contract, handover, etc.).
+- `core/calculators.py`: Calculation helpers used by calculator workflows.
+- `main.py`: Runtime entry point for loading sub-skills and tool dispatch.
 
-### 2. Technical Performance & Sustainability
-* [cite_start]**Acoustic & Daylighting:** Standards for urban noise mitigation and natural light optimization in HK[cite: 72, 79, 81].
-* [cite_start]**Building Envelope:** Technical standards for building skins and thermal performance[cite: 72, 73].
-* [cite_start]**HK Sustainability:** Integration of local green building standards and BEAM Plus requirements[cite: 72].
+## Installation (Claude Desktop)
 
-### 3. Professional Practice Tools
-* [cite_start]**HK Architect Calculator:** Computational tools for local GFA, plot ratio, and site coverage calculations.
-* [cite_start]**HK Architect Foundations:** Essential professional knowledge for HKIA/ARB practice[cite: 72, 85].
+1. Copy or clone this folder into your local Claude Desktop skills/workspace location.
+2. Ensure this folder keeps the current structure:
+   - `SKILL.md`
+   - `sub_skills/`
+   - `core/`
+   - `main.py`
+3. In Claude Desktop, load the skill package from this directory.
+4. Start a new chat and trigger with HK architecture prompts (for example: BO/PNAP compliance, OZP planning, BEAM Plus, OP workflow, MiC, or tender admin).
 
-## 🛠️ Project Structure
-- [cite_start]`.claude-plugin/`: Contains the `marketplace.json` configuration[cite: 72].
-- [cite_start]`/skills`: Modular sub-folders for each architectural discipline, each containing a `SKILL.md`[cite: 72, 77, 79, 82, 85].
-- [cite_start]`LICENSE`: Project licensing information.
+If you are distributing this as a plugin package, keep the directory names unchanged so `load_sub_skill` can resolve the sub-skill files correctly.
 
----
-*Note: This repository is intended for use as a Claude plugin to assist in architectural research and design coordination within the Hong Kong context.*
+## Skill Capability
+
+The current structure is built around **34 specialized sub-skills** routed by the master skill.
+
+### 1) Regulatory and Statutory
+
+- `hk-building-codes`, `hk-spatial-planning`, `hk-fire-life-safety`, `hk-accessibility-design`
+- `hk-minor-works`, `hk-consent-scheduling`, `hk-alterations-additions`, `hk-lease-compliance`
+- `hk-unauthorised-building-works`, `hk-fsd-licensing-compliance`, `hk-certificate-of-compliance`
+
+### 2) Technical and Performance Design
+
+- `hk-building-sustainability`, `hk-building-envelope`, `hk-building-services`, `hk-structural-systems`
+- `hk-acoustic-design`, `hk-daylighting-design`, `hk-material-selection`
+- `hk-building-programming`, `hk-building-typology`, `hk-mic-dfma`
+
+### 3) Design and Documentation
+
+- `hk-concept-design`, `hk-construction-documentation`, `hk-design-theory`
+- `hk-architect-calculator`
+
+### 4) Delivery, Contract, and Commercial Practice
+
+- `hk-site-supervision`, `hk-tender-contract-administration`, `hk-fee-proposal-strategy`
+- `hk-cashflow-debt-recovery`, `hk-project-resource-levelling`, `hk-professional-indemnity`
+- `hk-op-submission-strategy`, `hk-practical-completion-snagging`, `hk-heritage-conservation`
+
+## How Routing Works
+
+- The master skill first answers straightforward queries using built-in quick references.
+- For deeper questions, it routes to the most relevant sub-skill through `load_sub_skill`.
+- Multi-topic questions are handled by primary-skill routing with cross-reference to secondary skills when needed.
+
+## Credits
+
+This project is a localized expansion of the original [Skills-Architects](https://github.com/Amanbh997/Skills-Architects) framework by Abhinav Bhardwaj, adapted for Hong Kong regulations, workflows, and delivery conditions.
