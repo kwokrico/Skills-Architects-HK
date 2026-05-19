@@ -103,13 +103,36 @@ Recommended structure:
 
 ---
 
-## 8. Practical Output Checklist
+## 8. Consultant Appointment Scope by Role
+
+Use when defining or reviewing **multi-consultant appointments** on HK projects. Cross-reference: `hk-project-management`, `hk-deliverables-workstages` Section 6.
+
+| Role | Core scope (typical) | Fee basis notes |
+|---|---|---|
+| **Architect / Lead Designer** | Design, coordination, statutory submissions, tender docs, CA if appointed | % or lump sum by stage; CA often additional |
+| **Quantity Surveyor** | Cost plans, BoQ, tender evaluation, valuations, final account | % of construction cost or lump sum by stage |
+| **Project Manager** | Delivery plan, programme/budget reporting, client instructions, tender/award support | Monthly retainer or lump sum |
+| **Structural / MEP** | Discipline design, submissions, site support | Lump sum or % by trade value |
+| **H&S Advisor** | H&S strategy, RA, site inspections, CDM, accident investigation | Lump sum or monthly during construction |
+| **Specialists** | Façade, acoustic, traffic, etc. | Defined deliverable packages |
+
+Minimum appointment sections per role:
+1. Services by workstage (reference deliverables register).
+2. Meeting attendance and reporting obligations.
+3. Exclusions and additional services rates.
+4. Coordination duties (RACI attachment).
+5. PI insurance and liability caps.
+
+---
+
+## 9. Practical Output Checklist
 - Fee basis and cost baseline defined.
 - Scope inclusions/exclusions explicit and testable.
 - Included submission/revision rounds quantified.
 - Additional services list and rates included.
 - Variation instruction and approval protocol stated.
 - Payment milestones and delay/suspension terms stated.
+- Consultant-by-role scope matrix attached to proposals.
 
 ---
 

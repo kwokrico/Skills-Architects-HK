@@ -71,4 +71,17 @@ Climate: subtropical marine (CZ 1A). Performance target: BEAM Plus NB Materials 
 
 ---
 
+## 6. Standard Dimensions / Modular Coordination (HK Stock Sizes)
+
+Use **common stock sizes** to reduce waste, cost, and lead time (especially for boards/sheets, blockwork, drywall studs, and facade extrusions). This is often the fastest “materials” win in HK fit-out and facade packages.
+
+- **Partitions/ceilings**: set heights and bay spacing to typical board sizes (e.g., 1200 mm module; 2400/2700/3000 board lengths) to minimize offcuts.
+- **Blockwork**: coordinate openings and wall lengths to the **nominal block module** (commonly ~400 × 200 mm including joints) to avoid excessive cutting and weak returns.
+- **Facade/extrusions**: mullion/transom cut-optimization typically assumes **~6 m extrusion lengths**; align panelization to cut plans early.
+- **Tiling**: pick tile modules that land cleanly at thresholds, drains, and movement joints to avoid slivers (which fail quickly in humid zones).
+
+Reference table (typical HK / regional supply): `references/hk-common-material-dimensions.md`
+
+---
+
 *Sources: BEAM Plus NB v2.0 Materials credits, HKWC 2004, HKGBC material guidelines, EPD VOC guidelines.*

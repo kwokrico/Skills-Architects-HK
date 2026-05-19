@@ -10,13 +10,15 @@ description: >
   structural systems (SUC 2013, HKWC), building services, curtain wall, acoustic design,
   daylighting (BO Reg. 30), BD submissions, AP/RSE, occupation permit, concept design,
   construction documentation, material selection, professional indemnity risk, PI insurance,
-  duty of care letters, or HK architects and design theory.
+  duty of care letters, HK architects and design theory, quantity surveying and cost consultancy,
+  construction health and safety (CDM, site safety), project management and client delivery,
+  or procurement strategy (Design-Bid-Build, D&B, management contracting, NEC4, typhoon EOT).
   When in doubt, activate — this is the master hub for all HK architectural practice.
 ---
 
 # HK Architect Master Suite
  
-Central intelligence hub and mandatory router for Hong Kong architectural practice. Provides an expanded **Foundation Quick Reference** for common queries and dispatches to 34 specialised sub-skills for deep expertise.
+Central intelligence hub and mandatory router for Hong Kong architectural practice. Provides an expanded **Foundation Quick Reference** for common queries and dispatches to specialised sub-skills for deep expertise.
  
 ---
  
@@ -226,8 +228,20 @@ START
 ├─ AP/RSE supervision during construction, site meetings, deviations, BA14/BA12/BA13, or OP-stage handover?
 │   └─► [hk-site-supervision]
 │
+├─ Procurement route (traditional Design-Bid-Build, D&B, management contracting, NEC4 target cost), contract strategy, risk allocation, or pain/gain?
+│   └─► [hk-procurement-strategy]
+│
+├─ Typhoon delay, T8, inclement weather EOT, Compensation Event weather, or delay costs by contract type?
+│   └─► [hk-procurement-strategy]  (+ [hk-tender-contract-administration] §12.8 if acting as CA)
+│
 ├─ Tender documentation, Bills of Quantities coordination, contract form strategy, variations, or post-contract administration?
 │   └─► [hk-tender-contract-administration]
+│
+├─ Deliverables by workstage, who gets what (client / authorities / contractor), issue packs, transmittals, registers, or drawing scales for deliverables?
+│   └─► [hk-deliverables-workstages]
+│
+├─ RIBA plan of work, stage checklist, stage gate, Stage 0–7 tasks, strategic definition, or handover checklist?
+│   └─► [hk-plan-of-work]  (+ hk-deliverables-workstages for issue packs)
 │
 ├─ Fee bidding strategy, percentage-vs-lump-sum fee proposals, scope creep controls, or additional services definitions?
 │   └─► [hk-fee-proposal-strategy]
@@ -262,6 +276,24 @@ START
 ├─ Lease conditions, LandsD submissions, or waiver applications?
 │   └─► [hk-lease-compliance]
 │
+├─ Cost plan, BoQ, tender pricing, valuation, final account, feasibility budget, or QS commercial advice?
+│   └─► [hk-cost-consultancy]  (+ hk-tender-contract-administration if certification/interface)
+│
+├─ Site H&S strategy, risk assessment, CDM, accident investigation, safety plan review, or LD compliance?
+│   └─► [hk-construction-health-safety]  (not hk-fire-life-safety — that is building fire code)
+│
+├─ Project delivery plan, business case, strategic brief, client reporting, programme/budget monitoring, or dispute escalation?
+│   └─► [hk-project-management]
+│
+├─ Lead consultant coordination, consultant RACI, stage-freeze gates, or VM workshops?
+│   └─► [hk-deliverables-workstages] Section 6  (+ hk-project-management)
+│
+├─ Contract Administrator duties: EOT claims, interim certificate, client instructions, progress report, prime cost sum?
+│   └─► [hk-tender-contract-administration] Section 12  (+ hk-cost-consultancy / hk-practical-completion-snagging)
+│
+├─ HK practice foundations, PNAP index, or broad regulatory overview before specialist routing?
+│   └─► [hk-architect-foundations]
+│
 └─ Default: answer directly from Section 1.
 │   Multiple topics? Route to the primary skill; cross-reference secondary skills as needed.
 ```
@@ -271,16 +303,55 @@ START
 1. **Regulatory**: `hk-building-codes` › `hk-spatial-planning` › `hk-fire-life-safety` › `hk-accessibility-design` › `hk-minor-works` › `hk-consent-scheduling` › `hk-alterations-additions` › `hk-lease-compliance`
 2. **Performance**: `hk-building-sustainability` › `hk-building-envelope` › `hk-daylighting-design` › `hk-acoustic-design`
 3. **Typology / Programme**: `hk-building-typology` › `hk-building-programming` › `hk-building-services`
-4. **Delivery**: `hk-concept-design` › `hk-construction-documentation` › `hk-tender-contract-administration` › `hk-fee-proposal-strategy` › `hk-cashflow-debt-recovery` › `hk-project-resource-levelling` › `hk-certificate-of-compliance` › `hk-practical-completion-snagging` › `hk-professional-indemnity` › `hk-structural-systems` › `hk-material-selection` › `hk-architect-calculator`
-5. **Theory**: `hk-design-theory`
+4. **Delivery**: `hk-concept-design` › `hk-construction-documentation` › `hk-plan-of-work` › `hk-procurement-strategy` › `hk-tender-contract-administration` › `hk-cost-consultancy` › `hk-project-management` › `hk-deliverables-workstages` › `hk-fee-proposal-strategy` › `hk-cashflow-debt-recovery` › `hk-project-resource-levelling` › `hk-certificate-of-compliance` › `hk-practical-completion-snagging` › `hk-professional-indemnity` › `hk-structural-systems` › `hk-material-selection` › `hk-architect-calculator`
+5. **Site safety**: `hk-construction-health-safety` › `hk-site-supervision` › `hk-fire-life-safety`
+6. **Theory**: `hk-design-theory` › `hk-architect-foundations`
+
 ---
- 
+
+## 2.5 Role Coverage Index
+
+Load the **primary** skill first; add secondary skills when duties overlap.
+
+| Professional role | Duty cluster | Primary `skill_id` | Secondary |
+|---|---|---|---|
+| **Contract Administrator / Employer's Agent** | Tenders, contract execution, change control | `hk-tender-contract-administration` | `hk-cost-consultancy`, `hk-practical-completion-snagging` |
+| | Client instructions, progress meetings/reports | `hk-tender-contract-administration` §12 | `hk-project-management` |
+| | Variations, PC sums, EOT/claims | `hk-tender-contract-administration` §12 | `hk-cost-consultancy`, `hk-procurement-strategy` (typhoon/route) |
+| | Interim / PC / defects / final certificates | `hk-tender-contract-administration` §12 | `hk-practical-completion-snagging` §10 |
+| | Commissioning, defect procedures, site inspectors | `hk-tender-contract-administration` §12 | `hk-fsd-licensing-compliance`, `hk-site-supervision` |
+| **Cost Consultant (QS)** | Feasibility, benchmarking, budget | `hk-cost-consultancy` | `hk-deliverables-workstages` |
+| | Cost plans, cash flow, BoQ, tender pricing | `hk-cost-consultancy` | `hk-tender-contract-administration` |
+| | Tender evaluation, variations, valuations | `hk-cost-consultancy` | `hk-tender-contract-administration` |
+| | Claims support, cost reports, final account | `hk-cost-consultancy` | `hk-tender-contract-administration` |
+| **Designer** | Project set-up, design development | `hk-concept-design` | `hk-deliverables-workstages` §6.9 |
+| | Production info, tender documents | `hk-construction-documentation` | `hk-deliverables-workstages` |
+| | Contract administration (if appointed) | `hk-tender-contract-administration` | — |
+| | Check contractor/supplier work | `hk-site-supervision` | `hk-practical-completion-snagging` |
+| **Health & Safety Advisor** | H&S strategy, risk assessments | `hk-construction-health-safety` | — |
+| | Regulatory liaison, accidents, site inspections | `hk-construction-health-safety` | `hk-site-supervision` |
+| | CDM, contractor safety documentation review | `hk-construction-health-safety` | `hk-project-management` |
+| **Lead Designer / Lead Consultant** | Consultant coordination, meetings, progress reports | `hk-deliverables-workstages` §6 | `hk-project-management` |
+| | Client instructions, stage-freeze change control | `hk-deliverables-workstages` §6 | `hk-project-management` |
+| | Procurement route, risk allocation, NEC/D&B/traditional choice | `hk-procurement-strategy` | `hk-project-management` |
+| | Contract form ID, PQ/tender review, tender documents | `hk-tender-contract-administration` | `hk-fee-proposal-strategy` |
+| | Value management | `hk-deliverables-workstages` §6 | `hk-cost-consultancy` |
+| **Project Lead / Project Manager** | Business case, strategic brief, delivery plan | `hk-project-management` | `hk-deliverables-workstages` |
+| | Consultant appointments, RACI, client instructions | `hk-project-management` | `hk-fee-proposal-strategy` |
+| | Risk, VM, design reviews | `hk-project-management` | `hk-cost-consultancy`, `hk-deliverables-workstages` |
+| | Contractor selection, payment validation, change control | `hk-project-management` | `hk-procurement-strategy`, `hk-tender-contract-administration`, `hk-cost-consultancy` |
+| | Disputes, programme/budget monitoring | `hk-project-management` | `hk-tender-contract-administration` |
+| | Construction to occupation, client reporting | `hk-project-management` | `hk-op-submission-strategy`, `hk-practical-completion-snagging` |
+| **All roles** | RIBA Stage 0–7 task checklists, stage gates | `hk-plan-of-work` | `hk-deliverables-workstages` |
+
+---
+
 ## 3. Dispatcher Tools
  
 ### `load_sub_skill`
 Injects the detailed instruction set for a specific HK domain into context.
 - **Parameter** — `skill_id` (string, required). Valid IDs:
-  `hk-accessibility-design`, `hk-acoustic-design`, `hk-alterations-additions`, `hk-architect-calculator`, `hk-building-codes`, `hk-building-envelope`, `hk-building-programming`, `hk-building-services`, `hk-building-sustainability`, `hk-building-typology`, `hk-cashflow-debt-recovery`, `hk-certificate-of-compliance`, `hk-concept-design`, `hk-consent-scheduling`, `hk-construction-documentation`, `hk-daylighting-design`, `hk-design-theory`, `hk-fee-proposal-strategy`, `hk-fire-life-safety`, `hk-fsd-licensing-compliance`, `hk-heritage-conservation`, `hk-lease-compliance`, `hk-material-selection`, `hk-mic-dfma`, `hk-minor-works`, `hk-op-submission-strategy`, `hk-practical-completion-snagging`, `hk-professional-indemnity`, `hk-project-resource-levelling`, `hk-site-supervision`, `hk-spatial-planning`, `hk-structural-systems`, `hk-tender-contract-administration`, `hk-unauthorised-building-works`
+  `hk-accessibility-design`, `hk-acoustic-design`, `hk-alterations-additions`, `hk-architect-calculator`, `hk-architect-foundations`, `hk-building-codes`, `hk-building-envelope`, `hk-building-programming`, `hk-building-services`, `hk-building-sustainability`, `hk-building-typology`, `hk-cashflow-debt-recovery`, `hk-certificate-of-compliance`, `hk-concept-design`, `hk-construction-health-safety`, `hk-consent-scheduling`, `hk-construction-documentation`, `hk-cost-consultancy`, `hk-daylighting-design`, `hk-deliverables-workstages`, `hk-design-theory`, `hk-fee-proposal-strategy`, `hk-fire-life-safety`, `hk-fsd-licensing-compliance`, `hk-heritage-conservation`, `hk-lease-compliance`, `hk-material-selection`, `hk-mic-dfma`, `hk-minor-works`, `hk-op-submission-strategy`, `hk-plan-of-work`, `hk-practical-completion-snagging`, `hk-procurement-strategy`, `hk-professional-indemnity`, `hk-project-management`, `hk-project-resource-levelling`, `hk-site-supervision`, `hk-spatial-planning`, `hk-structural-systems`, `hk-tender-contract-administration`, `hk-unauthorised-building-works`
 ### `run_hk_calculator`
 Executes Python-based calculations for egress or GFA aggregation.
 - **Parameters**: `calc_type` ("egress_1004_7" or "gfa_aggregator") + `data` (JSON with dimensions or coordinates).

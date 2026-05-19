@@ -177,4 +177,68 @@ Controls:
 
 ---
 
+## 10. Certificate Chain (PC → Making Good Defects → Final)
+
+Align with Contract Administrator duties in `hk-tender-contract-administration` Section 12.9 and QS final account in `hk-cost-consultancy`.
+
+### 10.1 Sequence overview
+
+```
+Interim Certificates (construction)
+        ↓
+Practical Completion Certificate + snag schedule
+        ↓
+Defects Liability Period (snagging / de-snag)
+        ↓
+Certificate of Making Good Defects (defects corrected)
+        ↓
+Final Certificate (after final account agreed)
+```
+
+### 10.2 Practical Completion certificate
+- Issue only after Section 3 readiness gate is satisfied.
+- Attach **Schedule of Outstanding Minor Defects** with rectification dates.
+- Confirm DLP start date and retention release mechanics per contract.
+- Notify QS for valuation adjustment if contract ties payment to PC.
+
+### 10.3 Defect lists during DLP
+- Compile and issue defect lists after inspections (initial, periodic, final).
+- Use defect IDs linked to snag register; track contractor response and re-inspection.
+- Distinguish **defect** (contractual remedy) from **damage** or **maintenance** (may not be contractor obligation).
+
+### 10.4 Certificate of Making Good Defects
+**Purpose**: Certify contractor has made good defects notified during DLP per contract.
+
+Pre-issue checklist:
+1. Final DLP inspection completed with client/PM.
+2. All contractual defects closed or accepted with written agreement.
+3. Repeat-defect root causes addressed (not cosmetic re-patch only).
+4. Outstanding items explicitly listed if contract permits residual settlement.
+5. QS confirms no outstanding contra-charges or set-off disputes blocking certificate.
+
+**Issue basis**: Record inspection date, defect list reference, and any agreed exceptions.
+
+### 10.5 Final certificate
+**Purpose**: Close the building contract; typically triggers final retention release subject to contract.
+
+Pre-issue checklist:
+1. Certificate of Making Good Defects issued (or equivalent contract milestone).
+2. **Final account** agreed between QS and contractor (`hk-cost-consultancy`).
+3. All interim certificates and adjustments reconciled.
+4. Bonds/insurances released or extended per contract.
+5. Client confirms no outstanding claims barred only by late notice.
+
+**CA action**: Issue Final Certificate only when contractual prerequisites are met; maintain written record of basis.
+
+### 10.6 Role interfaces at closeout
+
+| Action | CA | QS | PM |
+|---|---|---|---|
+| Final defect inspection | Chairs / certifies | — | Attends |
+| Making Good Defects cert | Issues | Confirms account items | Client sign-off |
+| Final account | Issues Final Certificate after | Agrees final account | Validates for client payment |
+| Client handover | Coordinates docs | — | Leads occupation transition |
+
+---
+
 *Apply this framework alongside the executed HKIA/contract conditions, project specifications, and legal/professional advice where certificate entitlement or defect liability is disputed.*

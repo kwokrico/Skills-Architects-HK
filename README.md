@@ -2,7 +2,7 @@
 
 ### A Claude Desktop skill suite for Hong Kong architectural practice
 
-`Skills-Architects-HK` is a localized architecture plugin built around one master router (`hk-architect-master`) and 34 specialist sub-skills. It is tuned for Hong Kong statutory, technical, and delivery workflows: BO/PNAP compliance, OZP planning logic, fire and accessibility checks, BEAM Plus strategy, MiC/DfMA coordination, submissions, OP handover, and post-contract administration.
+`Skills-Architects-HK` is a localized architecture plugin built around one master router (`hk-architect-master`) and 35 specialist sub-skills. It is tuned for Hong Kong statutory, technical, and delivery workflows: BO/PNAP compliance, OZP planning logic, fire and accessibility checks, BEAM Plus strategy, MiC/DfMA coordination, submissions, OP handover, and post-contract administration.
 
 ---
 
@@ -47,7 +47,7 @@ claude --plugin-dir "/path/to/Skills-Architects-HK/Claude Desktop"
 ## What You Get
 
 - **1 master router skill**: `hk-architect-master` in `SKILL.md`
-- **34 sub-skills** across compliance, design, engineering, and delivery
+- **35 sub-skills** across compliance, design, engineering, and delivery
 - **Built-in quick-reference layer** for common HK metrics and code checks
 - **Calculation support** via `core/calculators.py`
 - **Structured routing** through `load_sub_skill` and calculator dispatch
@@ -110,6 +110,7 @@ This keeps routine queries fast while preserving deep, domain-specific responses
 ### 4) Delivery, Contract, and Practice Operations
 
 - `hk-site-supervision`
+- `hk-procurement-strategy`
 - `hk-tender-contract-administration`
 - `hk-fee-proposal-strategy`
 - `hk-cashflow-debt-recovery`
@@ -143,7 +144,7 @@ Claude Desktop/
     ├── hk-building-codes/
     ├── hk-fire-life-safety/
     ├── hk-spatial-planning/
-    ├── ... (34 specialist skills total)
+    ├── ... (35 specialist skills total)
     └── hk-heritage-conservation/
 ```
 
