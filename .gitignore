@@ -2,3 +2,11 @@
 OTHERS.py
 Todo_list.py
 TODO.py
+Idea Bank/
+*.egg-info/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+hk-architect-master-workspace/

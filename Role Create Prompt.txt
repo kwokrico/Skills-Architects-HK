@@ -1,12 +1,12 @@
-I am adding a sub-skill into @Claude Desktop/sub_skills. description of the subskill is input below. :
+I am adding a subskill into @hk-architect-master/subskills. description of the subskill is input below. :
 ===
 hk-site-supervision: Role of AP/RSE during construction, supervision plans, site meetings, deviation handling, Form BA14/BA12/13 (completion certificates), audit checks, and handover to OP stage.
 
 ===
 Now first create a folder of that added skill and draft the md file.
-Then Check @Claude Desktop/main.py and @Claude Desktop/SKILL.md to make sure the subskill is reachable.
+Then Check @hk-architect-master/main.py and @hk-architect-master/SKILL.md to make sure the subskill is reachable.
 
-@Claude Desktop/sub_skills/hk-tender-contract-administration/hk-tender-contract-administration.md make sure the knowledge of HK Standard architect contacts type can be clearly Identify and referred. If needs, add  If needed you can add references to @Claude Desktop/sub_skills/hk-tender-contract-administration/hk-tender-contract-administration.md for details
+@hk-architect-master/subskills/hk-tender-contract-administration/hk-tender-contract-administration.md make sure the knowledge of HK Standard architect contacts type can be clearly Identify and referred. If needs, add  If needed you can add references to @hk-architect-master/subskills/hk-tender-contract-administration/hk-tender-contract-administration.md for details
 
 I am writing to create a claude code as a professional quantitive surveyor in Hong Kong. what skills are required.
 
@@ -16,7 +16,7 @@ review the input planning. What should be improved:
 
 suggest what functionality should be included:
 
-I am writing to create a claude code as a professional personal assistant. The skill should has 1 SKILL.md, when needed call subskill through the main.py. subskill markdown file will be saved in seperated folder under @sub_skills, subskill file name should be <subskill>.md. The key ability of the personal assistant should refer the below.:
+I am writing to create a claude code as a professional personal assistant. The skill should has 1 SKILL.md, when needed call subskill through the main.py. subskill markdown file will be saved in seperated folder under @subskills, subskill file name should be <subskill>.md. The key ability of the personal assistant should refer the below.:
 
 Review my current Subskills and make sure the following roles are fully covered:
 ***************************
