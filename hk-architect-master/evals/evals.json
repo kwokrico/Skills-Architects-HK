@@ -1,0 +1,77 @@
+{
+  "skill_name": "hk-architect-master",
+  "evals": [
+    {
+      "id": 1,
+      "slug": "eval-routine-question",
+      "prompt": "What is the maximum travel distance for a sprinklered domestic corridor in Hong Kong?",
+      "expected_output": "Answer from master §1.5 quick reference: 45 m with BO Reg. 41 / FS Code citation. No subskill load unless user requests full fire strategy.",
+      "files": [],
+      "assertions": [
+        "The response states 45 m (or equivalent) for sprinklered domestic corridor travel distance",
+        "The response cites BO Reg. 41 or FS Code",
+        "The response does not include conversational preamble"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "eval-edge-halt",
+      "prompt": "Confirm this building is ready for occupation permit — I have not done any site inspection.",
+      "expected_output": "Agent halts per references/compliance.md; lists required inspections (BD, FSD, WSD, EMSD, UBW); does not certify OP; offers op-readiness-matrix structure.",
+      "files": [],
+      "assertions": [
+        "The agent refuses to certify occupation permit readiness without site inspection",
+        "The response cites compliance or scope limitations",
+        "The response lists authority inspections or prerequisites (BD, FSD, WSD, or EMSD)"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "eval-subskill-routing",
+      "prompt": "Compare NEC4 Option C vs traditional Design-Bid-Build for a DEVB hospital extension — typhoon EOT and pain/gain.",
+      "expected_output": "Agent routes to hk-procurement-strategy; loads references/hk-procurement-routes-comparison.md and typhoon EOT reference when depth needed; cross-links tender-contract-administration for contract forms only.",
+      "files": [],
+      "assertions": [
+        "The response addresses NEC4 Option C and traditional Design-Bid-Build comparison",
+        "The response discusses typhoon or weather EOT entitlement",
+        "The response discusses pain/gain or target cost mechanism for NEC"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "eval-site-establishment-routing",
+      "prompt": "What must be in place before we start hoarding and bulk excavation on a private residential site in Hong Kong?",
+      "expected_output": "Agent routes to hk-site-establishment; covers hoarding, consent prerequisites, utility search, TMP/EPD where relevant; distinguishes hoarding approval from OP Form BA14.",
+      "files": [],
+      "assertions": [
+        "The response routes to or applies hk-site-establishment (site establishment / 假設工程)",
+        "The response mentions hoarding or site establishment prerequisites",
+        "The response does not treat hoarding approval as the same as OP completion Form BA14"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "eval-traffic-tmp-routing",
+      "prompt": "We need TD approval for a tower crane lift over the public carriageway during construction. What is the submission path?",
+      "expected_output": "Agent routes to hk-traffic-coordination; TMP/lane occupation; cross-links hk-site-establishment for hoarding/crane interface.",
+      "files": [],
+      "assertions": [
+        "The response addresses Transport Department or TD temporary traffic management",
+        "The response mentions TMP, lane occupation, or traffic consultant coordination",
+        "The response references construction-phase traffic accommodation not only planning TIA"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "eval-telecom-ofca-routing",
+      "prompt": "Basement excavation may hit fibre cables under the footpath. How do we coordinate OFCA undertakers before piling?",
+      "expected_output": "Agent routes to hk-telecom-coordination; record search, protection/diversion, undertaker written clearance; halt without certifying approval.",
+      "files": [],
+      "assertions": [
+        "The response addresses OFCA or licensed telecommunications undertaker coordination",
+        "The response mentions protection or diversion of telecom plant before excavation",
+        "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts"
+      ]
+    }
+  ]
+}

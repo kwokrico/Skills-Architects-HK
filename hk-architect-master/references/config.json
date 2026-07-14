@@ -1,0 +1,18 @@
+{
+  "skill_metadata": {
+    "name": "hk-architect-master",
+    "version": "2.1.0",
+    "strict_mode": true
+  },
+  "operational_boundaries": {
+    "allow_assumptions": false,
+    "fallback_to_standard_baselines": true,
+    "maximum_iteration_depth": 3,
+    "jurisdiction": "Hong Kong SAR"
+  },
+  "compliance_verification": {
+    "require_framework_citations": true,
+    "enforce_jurisdictional_bounds": true,
+    "target_governance_framework": "Buildings Ordinance Cap. 123, BO Regulations, PNAP, FS Code 2011, Town Planning Ordinance Cap. 131, BEAM Plus, DMBA 2008"
+  }
+}
