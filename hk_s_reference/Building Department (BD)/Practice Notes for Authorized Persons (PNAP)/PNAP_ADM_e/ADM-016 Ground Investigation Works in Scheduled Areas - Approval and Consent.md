@@ -1,0 +1,54 @@
+R  e-issued under new categorization in August 2009 as Practice Note for Authorized
+Persons, Registered Structural Engineers and Registered Geotechnical Engineers  ADM-16
+
+Buildings Department
+
+Practice Note for Authorized Persons
+and Registered Structural Engineers
+
+225
+
+Ground Investigation Works in Scheduled Areas - Approval and Consent
+
+Ground  investigation  in  the  Scheduled  Areas  is  building  works  and
+
+requires approval and consent under the Buildings Ordinance.
+
+Concurrent Processing of Applications
+
+2.
+Procedures  are  in  place  in  Buildings  Department  for  concurrent
+processing  of  applications  for  approval  and  consent  in  respect  of  new  ground
+investigation works in the Scheduled Areas.
+
+Procedures
+
+3.
+should
+
+If  you  wish  to  take  advantage  of  the  concurrent  processing  option,  you
+
+(a)
+
+submit  a  site  supervision  plan  together  with  the  ground
+investigation plans; and
+
+(b)
+
+indicate  in  your  covering  letter  that  you  wish  to  take
+advantage of the concurrent processing option and submit an
+application  for  consent  after  the  32nd  day  of  the  submission
+of plans for approval.
+
+( H W CHEUNG )
+Building Authority
+
+Ref :   GR/1-50/74/0
+
+First issue  July 1998
+This revision  February 2006  [AD/NB2 and Deputy Head of GEO (Island)]
+
+(Paragraph 3(a) revised)
+
+Index under :  Ground Investigation in Scheduled Areas
+

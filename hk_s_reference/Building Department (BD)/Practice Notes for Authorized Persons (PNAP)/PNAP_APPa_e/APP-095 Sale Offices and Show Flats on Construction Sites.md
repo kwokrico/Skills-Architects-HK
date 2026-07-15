@@ -1,0 +1,101 @@
+Re-issued under new categorization in August 2009 as Practice Note for Authorized
+ Persons, Registered Structural Engineers and Registered Geotechnical Engineers
+
+Buildings Department
+
+Practice Note for Authorized Persons
+and Registered Structural Engineers
+
+APP-95
+
+ 213
+
+  Sale Offices and Show Flats on Construction Sites
+
+There  is  an  increasing  tendency  that  developers  wish  to  operate  sale  offices  and
+exhibit  show  flats  on  construction  sites  well  before  the  new  buildings  are  completed  and
+certified  for  occupation.    Since  sale  offices  and  show  flats,  which  are  open  to  the  general
+public,  are  incompatible  with  construction  works,  for  the  sake  of  public  safety,  the
+following principles must be observed:
+
+(a)  No  part  of  any  new  building,  whether  still  under  construction  or
+substantially completed, should be occupied and used as a sale office
+or a show flat without a temporary occupation permit.
+
+(b)  No  temporary  building  within  a  construction  site  should  be  occupied
+and used as a sale office or a show flat without a temporary building
+permit and a temporary occupation permit for that purpose.
+
+2.
+Building Authority has to be satisfied that -
+
+In  considering  applications  for  such  temporary  occupation  and  usage,  the
+
+(a)
+
+(b)
+
+(c)
+
+the  premises  intended  to  be  occupied  and  used  as  a  sale  office  or  a
+show flat is structurally suitable for the purpose;
+
+the premises is adequately segregated from the rest of the construction
+works in terms of fire resisting construction;
+
+there is available adequate independent and protected means of access
+and  escape  to  and  from  the  premises  with  direct  connection  with  a
+street; and
+
+(d)
+
+the premises is provided with adequate fire service installations to the
+satisfaction of the Director of Fire Services;
+
+3.
+depending on the circumstances, impose suitable conditions-
+
+In permitting such temporary occupation and usage, the Building Authority may,
+
+(a)
+
+(b)
+
+(c)
+
+to limit the period within which the premises may be so occupied and
+used;
+
+to restrict the number of persons to be accommodated at any one time;
+and
+
+if  necessary,  to  require  the  partial  or  total  suspension  of  building
+works  on  the  construction  site  during  the  period  of  such  occupation
+and use.
+
+/ 4. Any ...
+
+- 2 -
+
+4.
+Any  violation  of  the  above  requirements  or  conditions  may  be  liable  to
+revocation of the temporary occupation permit and prosecution under section 40(1) and (5)
+of the Buildings Ordinance.
+
+5.
+ Authorised  persons  should  take  note  of  the  above  principles  and  when
+making  an  application  for  such  occupation  and  usage  they  should  submit  sufficient
+information  to  justify  viability  in  terms  of  paragraph  2  above  and  specify  the  period
+therefor and the expected number of persons to be accommodated.
+
+(CHOI Yu-leuk)
+Building Authority
+
+Ref. :  BD GP/BORD/10 (III)
+
+First issued August 1997 (AD/D)
+
+Index under :  Sale offices
+Show flats
+TOP
+

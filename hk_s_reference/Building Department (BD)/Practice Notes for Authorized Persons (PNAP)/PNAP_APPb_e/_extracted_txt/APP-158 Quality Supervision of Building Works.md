@@ -1,0 +1,2506 @@
+Buildings Department 
+Practice Note for Authorized Persons,  
+Registered Structural Engineers and 
+Registered Geotechnical Engineers 
+APP-158 
+ 
+ 
+Quality Supervision of Building Works 
+ 
+ 
+ 
+The authorized person (AP), registered structural engineer (RSE), registered 
+geotechnical engineer (RGE) appointed in respect of any building works (including street 
+works) have the duties under the Buildings Ordinance (BO), inter alia, to supervise, 
+whereas the registered contractor (RC) appointed has to provide continuous supervision 
+to, the carrying out of the building works in accordance with the supervision plan.  
+Quality supervision forms part of the supervision plan system to ensure that the building 
+works are carried out in general accordance with the provisions of the BO and its 
+regulations, the plans approved by the Building Authority (BA) and any conditions 
+imposed when granting approval and/or consent. 
+ 
+2. 
+In accordance with the Code of Practice for Site Supervision 2009  
+(the Code), AP, RSE, RGE and authorized signatory (AS) of the RC shall devise 
+checklists by reference to the typical items, and to include any other particular items 
+considered essential for the project, including those for quality supervision and any other 
+conditions imposed by the BA when granting approval and/or consent, for compliance 
+by their respective streams of technically competent persons (TCPs) of all grades.  As 
+regards quality supervision, the Code provides guidance on the items of works to be 
+inspected at different stages of various foundation works, ground investigation field 
+works and soil nailing works; identifies areas as critical stages of the works warranting 
+more frequent supervision; and guides AP, RSE, RGE and AS to determine certain 
+sections of the works as critical activities. 
+ 
+Items of Works for Quality Supervision 
+ 
+3. 
+For the purpose of refining the extant quality supervision control 
+mechanism, this practice note provides further guidance on the common inspection items 
+for superstructure, excavation and lateral support and site formation works in  
+Appendix A for reference.  The items contained therein are not exhaustive and 
+AP/RSE/RGE/AS should include other items they consider essential for the building 
+project.  For example, under the category of superstructure, other inspection items such 
+as those for the construction of curtain walls, glass walls, prestressed concrete or 
+structural steelworks, application and testing of waterproofing works, etc. relevant to 
+individual building project should also be included.  
+ 
+Records of Quality Supervision  
+ 
+4. 
+AP, RSE, RGE and AS are responsible for the operation of the respective 
+parts of the supervision plans prepared by them and should carry out the necessary site 
+inspections (including personally) to satisfy themselves that the requirements of the 
+supervision plans are fulfilled, and that their respective representatives and TCPs 
+discharge their duties under the supervision plans.  
+ 
+/5. … 
+
+- 2 - 
+ 
+5. 
+In order to facilitate the BA’s audit of the AP/RSE/RGE/AS’s carrying out 
+of their supervision duties and to provide an overview of the progress of the building 
+works, all the checklists and inspection records should be kept on site and available for 
+inspection by the officers of the Site Monitoring Section or other representatives of the 
+BA.  A sample of record of quality supervision and inspections carried out by the 
+respective TCPs is given in Appendix B for reference.   To suit the needs and practice 
+of individual building projects, AP/RSE/RGE/AS may devise their record of quality 
+supervision carried out by TCPs under their respective streams. 
+ 
+6. 
+A similar practice note has been issued to RCs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+( YU Po-mei, Clarice ) 
+Building Authority 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. :  BD GR/BREG/A/23 
+ 
+First issue  
+November 2016 
+Last revision  February 2021 
+This revision  September 2024 (AD/NB1)   (Paragraph 3 and Appendix A amended) 
+ 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A 
+(PNAP APP-158) 
+Items of Works at 
+Various Stages of Superstructure/Excavation and Lateral Support/ 
+Site Formation Works for Quality Supervision 
+Items of works at various stages of building works required for quality supervision 
+are given in the tables below for reference. The heads of the project management structure shall 
+communicate with other streams to derive checklists of various works, determine appropriate 
+inspection frequencies and critical stages of individual items of works to suit the needs of 
+individual project. 
+Stages of Superstructure Works 
+(Quality supervision of superstructure works should be provided by the AP/RSE and his TCPs as 
+appropriate, as well as by the AS of the registered general building contractor (RGBC) and his TCPs) 
+Item 
+No. 
+Stage/Item 
+Description 
+Stream 
+AP RSE RGE RC 
+(a) In-situ Reinforced Concrete Works 
+QC1 
+Locations and sizes 
+of essential elements 
+Check the location, layout and sizes of 
+reinforced concrete elements. 
+• 
+• 
+QC2 
+Verifying quality of 
+steel reinforcing bars 
+Check material delivery records & batch 
+size; sampling and testing of steel 
+reinforcing bars in accordance with the 
+applicable version of CS2. 
+• 
+• 
+QC3 
+Fixing of steel 
+reinforcing bars 
+Check the sizes, location and amount of 
+steel reinforcing bars and their fixing details 
+including concrete cover and starter bars 
+details if so required for next stage of 
+concreting work and the workmanship in 
+accordance with PNAP ADV-15. 
+• 
+• 
+QC4 
+Verifying quality of 
+concrete 
+Check material delivery records; sampling 
+of concrete and compression testing and 
+statistics 
+of 
+concrete 
+test 
+cubes 
+in 
+accordance with the applicable version of 
+CS1. Check particular conditions imposed 
+for high strength concrete including the 
+coring tests. 
+• 
+• 
+QC5 
+Placing, compaction 
+and curing of 
+concrete 
+Check the quality and workmanship of 
+concrete works. 
+• 
+• 
+QC6 
+Placing, compaction 
+and curing of 
+concrete for transfer 
+structure 
+In addition to the quality and workmanship 
+as mentioned in Item QC5 above, check that 
+proper sequence of works, temporary work, 
+concreting method and curing method are 
+used. 
+• 
+• 
+- 1 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Superstructure Works 
+(Quality supervision of superstructure works should be provided by the AP/RSE and his TCPs as 
+appropriate, as well as by the AS of the registered general building contractor (RGBC) and his TCPs) 
+Item 
+No. 
+Stage/Item 
+Description 
+Stream 
+AP RSE RGE RC 
+QC7 
+Temporary 
+formwork and 
+falsework 
+Check the stability of the formwork and 
+falsework before concreting and no early 
+stripping of formwork and falsework. 
+★ 
+★ 
+QC8 
+Verifying concrete 
+condition 
+Check the quality of concrete after stripping 
+of formwork. 
+• 
+• 
+QC9 
+Verifying quality of 
+couplers 
+Check material delivery records & batch 
+size; sampling and testing of couplers in 
+accordance with conditions imposed & 
+design criteria, site quality control such as 
+tightening record. 
+• 
+• 
+QC10 
+Verifying cast-in 
+embeds or anchors 
+Check the location, layout and types of the 
+cast-in elements and the required sampling 
+and testing in accordance with conditions 
+imposed. 
+• 
+• 
+QC11 
+Verifying in-situ 
+concrete strength 
+Check in-situ concrete strength (e.g. by 
+concrete coring test or rebound hammer 
+test). 
+• 
+• 
+QCn 
+Any other items considered essential for quality supervision of the 
+superstructure works 
+as   appropriate 
+(b) General Building Works 
+QB1 
+Setting out of 
+basements and G/F 
+Check critical dimensions including lanes 
+and streets within site, emergency vehicular 
+access, building set back areas, dedicated 
+areas for public passage, surrendered areas 
+for 
+road 
+widening, 
+storey 
+height, 
+firefighting and rescue staircases, required 
+staircases, smoke vents, etc. 
+Check conformity with general layout in the 
+approved plans. 
+• 
+• 
+QB2 
+Setting out of upper 
+floors and roofs 
+Check critical dimensions including internal 
+dedicated areas, storey height, projections, 
+balconies, utility platforms, protective 
+barriers, required staircases, refuge floor 
+and/or roof, etc. 
+Check conformity with general layout in the 
+approved plans. 
+• 
+• 
+QB3 
+Interior and fitting 
+out works 
+Check critical dimensions for internal 
+dedicated areas, exit routes1 , fireman’s lift 
+lobbies, temporary refuge spaces, features 
+• 
+• 
+- 2 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Superstructure Works 
+(Quality supervision of superstructure works should be provided by the AP/RSE and his TCPs as 
+appropriate, as well as by the AS of the registered general building contractor (RGBC) and his TCPs) 
+Item 
+No. 
+Stage/Item 
+Description 
+Stream 
+AP RSE RGE RC 
+subject to exemptions/modifications of 
+gross floor area such as balconies, utility 
+platforms, wider common corridors and lift 
+lobbies, plant rooms, pipe ducts, pipe wells, 
+and residents’ recreational facilities, etc. 
+Check materials and construction of fire 
+barriers and installation of proprietary fire 
+resisting products such as FRR of fire doors 
+and smoke seal, etc. 
+Check suitable waterproofing for roofs. 
+Check conformity with general layout in the 
+approved plans. 
+QB4 
+Installation of 
+windows 
+Check minimum areas of glazing and 
+openable areas of prescribed windows and 
+windows for rooms containing soil or waste 
+fitments. 
+Check according to guidelines on design, 
+installation 
+and 
+water 
+tightness 
+test 
+promulgated in PNAP APP-116. 
+Check 
+provisions 
+required 
+under 
+modification/exemption. 
+Check conformity with general layout in the 
+approved plans. 
+• 
+• 
+QB5 
+Provision of Barrier 
+Free Access (if 
+applicable) 
+Check critical dimensions of tactile guide 
+paths, tactile warning strips, car parking 
+spaces, dropped kerbs, service counters, 
+accessible lifts, ramps, landings, bathrooms, 
+corridors, 
+lobbies, 
+paths, 
+dead-end 
+manoeuvring spaces, handrail extensions, 
+clear door width and unobstructed area 
+adjacent to the door handle, accessible 
+toilets and urinals, etc. 
+Check conformity with the applicable 
+version of the Design Manual: Barrier Free 
+Access such as provision of tactile and 
+braille map, automatic main entrance doors, 
+braille and tactile information on handrail, 
+signage, etc. 
+ 
+ 
+- 3 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+Stages of Superstructure Works 
+(Quality supervision of superstructure works should be provided by the AP/RSE and his TCPs as 
+appropriate, as well as by the AS of the registered general building contractor (RGBC) and his TCPs) 
+Item 
+No. 
+Stage/Item 
+Description 
+Stream 
+AP RSE RGE RC 
+QB6 
+Application and 
+testing of 
+waterproofing works 
+for roofs, balconies, 
+utility platforms, 
+bathrooms, toilets, 
+kitchens, basements 
+and other areas with 
+waterproofing 
+system applied 
+Check waterproofing system is applied in 
+accordance with manufacturer’s 
+specifications and recommendations. 
+Check performance test of waterproofing 
+works is carried out in accordance with 
+manufacturer’s specifications and 
+recommendations. 
+ 
+ 
+QB7 
+Mock up and On-site 
+water penetration 
+tests for curtain 
+walls 
+Check water penetration tests are carried out 
+in 
+accordance 
+with 
+relevant 
+testing 
+methods2 . 
+ 
+ 
+QB8 
+On-site water 
+penetration tests for 
+precast façade 
+Check water penetration tests are carried out 
+in 
+accordance 
+with 
+relevant 
+testing 
+methods3 . 
+ 
+ 
+QBn 
+Any other items considered essential for quality supervision of the 
+general building works. 
+as appropriate 
+Legend: 
+★ 
+The division of responsibility between RSE and RC for formwork and falsework is detailed in 
+clauses 4.7 to 4.9 of the Code of Practice for Site Supervision 2009. 
+1 
+Some examples of critical items to be checked are given for reference. These include : the continuous 
+path of travel from any part of a building to the ultimate place of safety; clear dimensions of staircases 
+including height and width together with dimensions of treads and risers and the general 
+configuration of staircases (e.g. not more than 16 risers); and provision of adequate signage and 
+lighting. 
+2 
+Water penetration test for curtain walls shall refer to Annex A – Reference Standards to the Code of 
+Practice for Structural Use of Glass 2018. 
+3 
+Water penetration test for precast façade shall refer to clauses 2.8.2.8 and 4.3 of the Code of Practice 
+for Precast Concrete Construction 2016. 
+- 4 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Excavation and Lateral Support Works 
+(Quality supervision of excavation and lateral support works should be provided by the AP/RSE and his 
+TCPs as appropriate, as well as by the AS of the RGBC/registered specialist contractor and his TCPs. 
+Quality supervision by RGE stream should be provided only when the requirements of qualified 
+supervision on the geotechnical aspects is imposed as a condition of approval.) 
+Item 
+No. 
+Stage 
+Description 
+Stream 
+AP RSE RGE RC 
+QE1 
+Locations of the 
+temporary retaining 
+planking 
+Check the location and layout of the 
+temporary retaining planking. 
+* 
+• 
+• 
+QE2 
+Installation of the 
+temporary retaining 
+planking 
+Check the material and sizes of the 
+planking and the working procedures for 
+installing the planking in position. 
+• 
+• 
+QE3 
+Installation of grout 
+curtain 
+Check the grout mix, grout pressure and 
+grout volume used on site and the grouting 
+operation is in compliance with the 
+method statement. 
+• 
+• 
+QE4 
+Pumping test or other 
+ground treatment 
+performance testing 
+Check the testing procedures. 
+• 
+• 
+QE5 
+Erection and removal 
+of struts, lateral 
+support works 
+Check 
+the 
+method 
+statement 
+and 
+construction sequence for erection and 
+removal of lateral supporting system, i.e. 
+waling and strutting for excavation in 
+stages. 
+* 
+• 
+• 
+QE6 
+Preloading of struts 
+Check the preloading procedures. 
+• 
+• 
+QE7 
+Excavation works 
+Check that the excavation is carried out 
+stage by stage and there is no over-
+excavation, excessive temporary cutting 
+slopes and stockpiling of materials 
+adversely affecting the adjoining ground, 
+structure or building. 
+* 
+• 
+• 
+• 
+QE8 
+Backfilling works 
+Check that the backfilling works are 
+carried out with proper compaction; the 
+work sequence, plants and equipment, 
+materials, final backfilling levels, test, etc. 
+agree with approved plans or accepted 
+proposal. 
+* 
+• 
+• 
+• 
+QE9 
+Instrumentation and 
+monitoring works 
+throughout the 
+excavation and lateral 
+support works 
+Check locations of all monitoring points 
+and see if they are in proper working 
+conditions; readings are properly taken in 
+a timely manner; and 
+Check 
+that 
+there 
+is 
+no 
+excessive 
+ground/building 
+movement, 
+excessive 
+groundwater drawdown and excessive 
+water ingress into the site. 
+* 
+• 
+  
+- 5 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Excavation and Lateral Support Works 
+(Quality supervision of excavation and lateral support works should be provided by the AP/RSE and his 
+TCPs as appropriate, as well as by the AS of the RGBC/registered specialist contractor and his TCPs. 
+Quality supervision by RGE stream should be provided only when the requirements of qualified 
+supervision on the geotechnical aspects is imposed as a condition of approval.) 
+Item 
+No. 
+Stage 
+Description 
+Stream 
+AP RSE RGE RC 
+QEn 
+Any other items considered essential for quality supervision of the 
+excavation and lateral support works 
+as   appropriate 
+Legend : 
+* AP and his TCPs are required to ensure that checking and supervision of the works are carried out by 
+the appropriate building professionals (RSE and/or RGE) and RC; and to coordinate for follow up 
+actions on non-conformity of works. 
+- 6 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Site Formation Works 
+(Quality supervision of site formation works should be provided by the AP/RSE/RGE and his TCPs, 
+as well as by the AS of the RGBC/registered specialist contractor and his TCPs, as appropriate) 
+Item 
+No. 
+Stage 
+Description 
+Stream 
+AP RSE RGE RC 
+(a) General Works 
+QSF1 
+Monitoring of ground 
+or building 
+movements or 
+groundwater 
+drawdown 
+Check locations of all monitoring check 
+points and they are in proper working 
+conditions; readings are correct and taken 
+in a timely manner. 
+* 
+• 
+• 
+QSF2 
+Site drainage 
+Check carrying out of the site drainage 
+works. 
+# 
+• 
+• 
+QSF3 
+Protection of 
+earthworks against 
+heavy rainstorm 
+Check carrying out of the protection 
+measures. 
+# 
+• 
+• 
+(b) Cutting & Filling Works 
+QSF4 
+Setting out of cut/fill 
+profile 
+Check the location, extent and gradient of 
+cut/fill. 
+# 
+• 
+• 
+QSF5 
+Excavation works 
+Check that the excavation is carried out 
+stage 
+by 
+stage 
+and 
+there 
+is 
+no 
+over-excavation, excessive 
+temporary 
+cutting slopes and stockpiling of materials 
+adversely affecting the adjoining ground, 
+structure or building. 
+* 
+• 
+• 
+QSF6 
+Backfilling works 
+Check that the backfilling works are 
+carried out with proper compaction; the 
+work sequence, plants and equipment, 
+materials, final backfilling levels, test, 
+etc. agree with approved plans or 
+accepted proposal and in accordance with 
+PNAP APP-15. 
+* 
+• 
+• 
+QSF7 
+Records of backfilling 
+works 
+Check that all backfilling works and 
+testing 
+results/records 
+are 
+properly 
+prepared. 
+• 
+• 
+QSFn 
+Any other items considered essential for quality supervision of the 
+general, and cutting & filling works 
+as   appropriate 
+(c) Rock Slope and Rock Slope Treatment Works 
+QRS1 Setting out of rock 
+slope 
+Check the location, extent and gradient of 
+rock cut slope. 
+# 
+• 
+• 
+QRS2 Excavation 
+Check the sequence/method of excavation 
+and the standard of construction in 
+accordance with PNAP APP-17. 
+* 
+• 
+• 
+- 7 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Site Formation Works 
+(Quality supervision of site formation works should be provided by the AP/RSE/RGE and his TCPs, 
+as well as by the AS of the RGBC/registered specialist contractor and his TCPs, as appropriate) 
+Item 
+No. 
+Stage 
+Description 
+Stream 
+AP RSE RGE RC 
+QRS3 Scaling and trimming 
+of rock slopes 
+Check that scaling and trimming of rock 
+slopes are carried out in such a manner 
+without affecting the stability and integrity 
+of the slope. 
+• 
+• 
+QRS4 Verification of rock 
+slope treatment design 
+Check that the design assumptions and 
+conditions of joint sets agree with the 
+design and the approved plans. 
+• 
+• 
+QRS5 Setting out of rock 
+slope treatment works 
+Check the location, extent and layout of 
+rock slope treatment works. 
+• 
+• 
+QRS6 Verifying quality of 
+rock slope treatment 
+works 
+Check the material, sampling and testing of 
+rock slope treatment works. 
+• 
+• 
+QRSn Any other items considered essential for quality supervision of the 
+rock slope and rock slope treatment works 
+as   appropriate 
+(d) Retaining Wall Works 
+QRW1 Location of retaining 
+wall 
+Check the location, extent and layout of 
+retaining wall. 
+# 
+• 
+• 
+• 
+QRW2 Excavation 
+Check that the excavation is carried out 
+stage 
+by 
+stage 
+and 
+there 
+is 
+no 
+over-excavation, 
+excessive 
+temporary 
+cutting slopes and stockpiling of materials 
+adversely affecting the adjoining ground, 
+structure or building. 
+* 
+• 
+• 
+QRW3 Inspection of bearing 
+stratum 
+Check that the quality of ground bearing 
+stratum is in compliance with approved 
+plans, site investigation reports and design 
+assumptions. 
+• 
+• 
+QRW4 Fixing of steel 
+reinforcement 
+Check the sizes and amount of steel 
+reinforcing bars and their fixing details 
+including 
+concrete 
+cover 
+and 
+the 
+workmanship in accordance with PNAP 
+ADV-15. 
+• 
+• 
+QRW5 Verifying quality of 
+concrete 
+Check material delivery records; sampling 
+of concrete and compression testing of 
+concrete test cubes in accordance with the 
+applicable 
+version 
+of 
+CS1. 
+Check 
+particular conditions imposed for high 
+strength concrete including the coring 
+tests. 
+• 
+• 
+- 8 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stages of Site Formation Works 
+(Quality supervision of site formation works should be provided by the AP/RSE/RGE and his TCPs, 
+as well as by the AS of the RGBC/registered specialist contractor and his TCPs, as appropriate) 
+Item 
+No. 
+Stage 
+Description 
+Stream 
+AP RSE RGE RC 
+QRW6 Placing, compaction 
+and curing of concrete 
+Check the quality and workmanship of 
+concrete works. 
+• 
+• 
+QRW7 Verifying quality of 
+drainage and filter 
+material 
+Check the drainage and filter material and 
+they are in accordance with PNAP 
+APP-54. 
+• 
+• 
+QRW8 Waterproofing and 
+insulation works^ 
+Check the materials and workmanship. 
+• 
+• 
+QRW9 Backfilling works 
+Check that the backfilling works are 
+carried out with proper compaction; the 
+work sequence, plants and equipment, 
+materials, final backfilling levels, test, etc. 
+agree with approved plans and in 
+accordance with PNAP APP-15 
+& 
+APP-54. 
+* 
+• 
+• 
+QRWn Any other items considered essential for quality supervision of the 
+retaining wall works 
+as   appropriate 
+(e) Reinforced Fill Structure 
+QRF1 Setting out of 
+reinforced fill 
+structure 
+Check the location, extent and layout of 
+reinforced fill structure. 
+# 
+• 
+• 
+QRF2 Verifying quality of 
+drainage and filter 
+material 
+Check the drainage and filter material and 
+they are in accordance with PNAP 
+APP-54. 
+• 
+• 
+QRF3 Backfilling works 
+Check that the backfilling works are 
+carried out with proper compaction; the 
+work sequence, plants and equipment, 
+materials, final backfilling levels, test, etc. 
+agree with approved plans or accepted 
+proposal and in accordance with PNAP 
+APP-15. 
+* 
+  
+QRF4 Records of backfilling 
+works 
+Check that all backfilling works and 
+testing 
+results/records 
+are 
+properly 
+prepared. 
+ 
+  
+QRFn Any other items considered essential for quality supervision of the 
+reinforced fill structure works. 
+as   appropriate 
+- 9 -
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Legend: 
+* AP and his TCPs are required to ensure that checking and supervision of the works are carried out by 
+the appropriate building professionals (RSE and/or RGE) and RC; and to coordinate for follow up 
+actions on non-conformity of works. 
+# AP and his TCPs are required to check and satisfy that the works are carried out in compliance with 
+the general layouts shown on the approved plans. 
+^ For retaining walls forming parts of a domestic building as required under regulation 48 of the Building 
+(Planning) Regulations. 
+(Rev. 9/2024) 
+- 10 -
+
+Sample Record 
+Appendix B 
+(PNAP APP-158) 
+Record of Quality Supervision Carried Out by 
+TCP under AP / RSE / RGE / RC* Stream 
+BD Ref. 
+ 
+BD 3/1234/15 
+Building Project 
+ 
+ABC Centre 
+Type of Works 
+ 
+Superstructure Works 
+Name of TCP(1) 
+Mr Lee Tai-man 
+Grade of TCP 
+T3 
+Frequency of Inspection 
+Weekly 
+Item  
+(2)
+No.  
+Date 
+7/1/2015 (Wed) 
+Locations of the works 
+inspected 
+(if applicable) 
+Location / Details 
+Inspection Findings 
+Result 
+(S(3)/NS(4)/NA(5)) 
+Remedial / Remark 
+Photos 
+(if any) 
+QC1 
+Zone A of 3/F 
+S 
+- 
+QC2 
+Batch no. 24, delivered on 
+02/01/2015 
+S 
+- 
+QC3 
+Zone C of 6/F 
+NS 
+Inadequate no. of stirrup found at 
+beam 6B23, 6B34 & 6B56 
+1-3 
+QC4 
+Zone A of 6/F 
+S 
+QC5 
+Zone A of 6/F 
+S 
+- 
+QC7 
+Zone B of 6/F 
+NS 
+Insufficient lateral bracings to 
+vertical props 
+QC8 
+- 
+NA 
+- 
+QC9 
+Batch no. 7, delivered on 
+02/01/2015 
+S 
+3 nos. of couplers sampled for 
+testing 
+QC10 
+Glass Balustrade at Zone C of 6/F 
+S 
+Drill-in anchors selected for testing;  
+tests witnessed 
+Signature 
+* Delete if inappropriate 
+Note (1)  : Full name of the TCP as provided in the supervision plan.  
+Note (2) : According to the checklists attached. 
+Note (3)  : “S” denotes “Satisfactory”. 
+If a non-conformity is very minor in nature and has been rectified to the satisfaction of 
+the TCP at the same inspection, it would be recorded as “satisfactory”. 
+Note (4) : “NS” denotes “Not Satisfactory”. 
+It should be recorded in the site supervision report and where applicable Form B. 
+Completion of Form B is Required for a non-conformity that (a) has material concern 
+for safety; or (b) does not have material concern for safety but the works 
+item/rectification works cannot be verified due to the areas have been covered up during 
+inspection or re-inspection. 
+Note (5) : “NA” denotes “Not Applicable”. 
+(2/2021)

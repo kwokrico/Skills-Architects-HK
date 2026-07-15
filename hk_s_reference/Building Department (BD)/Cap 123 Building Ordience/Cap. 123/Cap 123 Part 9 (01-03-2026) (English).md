@@ -1,0 +1,51 @@
+Buildings Ordinance
+
+Part 9
+
+Section 56
+
+9-2
+
+Cap. 123
+
+Part 9
+
+(Part 9 added 20 of 2008 s. 32)
+
+56.
+
+Savings and transitional provisions relating to minor works
+
+(1)  Where,  before  the  date  of  commencement,  the  Building
+Authority  has  given  approval  and  consent
+the
+commencement  of  any  building  works  under  section  14(1),
+the  building  works  shall  not  be  treated  as  minor  works  for
+the  purposes  of  this  Ordinance  notwithstanding  that  they  are
+building works designated as minor works in the regulations.
+
+for
+
+(2)  Where  any  building  works,  which  are  exempt  from  section
+14(1)  by  virtue  of  section  41(3)  or  (3A)  as  it  was  in  force
+immediately  before  the  date  of  commencement,  have  been
+completed  or  are  being  carried  out  as  at  the  beginning  of
+the  date  of  commencement,  the  building  works  shall  not  be
+treated  as  minor  works  for  the  purposes  of  this  Ordinance
+notwithstanding  that  they  are  building  works  designated  as
+minor works in the regulations.
+In  this  section,  date  of  commencement  (生效日期)  means
+the  date  on  which  section  29  of  the  Buildings  (Amendment)
+Ordinance 2008 (20 of 2008) comes into operation*.
+
+(3)
+
+Editorial Note:
+
+* In operation on 31 December 2010.
+
+Verified Copy
+
+Last updated date
+9.2.2012
+
