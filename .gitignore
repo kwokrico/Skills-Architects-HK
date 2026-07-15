@@ -10,3 +10,8 @@ __pycache__/
 dist/
 build/
 hk-architect-master-workspace/
+
+env
+
+ADV-033
+ch11_en.pdf

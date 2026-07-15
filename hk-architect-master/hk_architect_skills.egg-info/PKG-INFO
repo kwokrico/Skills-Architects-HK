@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: hk-architect-skills
+Version: 2.1.0
+Summary: Hong Kong architectural practice skills suite for Claude — master router, sub-skills, calculators
+License: MIT
+Requires-Python: >=3.10
+License-File: LICENSE
+Provides-Extra: dev
+Dynamic: license-file
