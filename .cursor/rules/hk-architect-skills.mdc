@@ -1,0 +1,16 @@
+---
+description: Activate HK Architect Master Suite for Hong Kong buildings, planning, and construction work
+alwaysApply: false
+---
+
+## Professional skill activation
+
+When the user's request involves Hong Kong architecture, Buildings Ordinance, PNAP, OZP, fire safety (FS Code), BEAM Plus, BD/FSD submissions, procurement, construction sequencing (工序穿插, fast-tracking, hold points), or HK contract administration:
+
+1. Read and follow `hk-architect-master/SKILL.md` (master router) and `hk-architect-master/references/compliance.md` halt rules.
+2. Dispatch via installed module: `pip install -e .` then `hk-architect-master/main.py` (skills tools only: `load_sub_skill`, `run_hk_calculator`). Programmatic: `from hk_architect_skills.dispatcher import HKSkillsDispatcher`.
+3. For **Project Vault**, site facts, or massing briefs — use the separate **Architect Desk-HK** app (`architect_desk` package), not this repo.
+4. Answer from §1 Foundation Quick Reference when sufficient; otherwise dispatch to `subskills/<slug>/<slug>.md` per routing tree.
+5. Cross-reference `hk-architect-master/references/domain_terms.json` for acronyms.
+
+Do not invent PNAP clauses or state statutory compliance without OZP Notes and lease verification.

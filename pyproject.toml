@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hk-architect-skills"
+version = "2.1.0"
+description = "Hong Kong architectural practice skills suite — master router, sub-skills, calculators"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+hk-architect-skills = "hk_architect_skills.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["hk_architect_skills*"]
