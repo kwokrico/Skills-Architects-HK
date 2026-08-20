@@ -1,0 +1,208 @@
+Buildings Department
+
+Practice Note for Authorized Persons,
+Registered Structural Engineers and
+Registered Geotechnical Engineers
+
+ADV-10
+
+Lift Shaft Platforms
+
+Lift shaft platforms are temporary wall-supported platforms erected inside
+lift  shafts  of  buildings  or  structures  under  construction.    They  are  provided  as  a  rain
+shelter; a formwork platform to construct lift shaft walls; a mid-shaft platform to protect
+the lift well; a debris-catching platform; or a crash deck.
+
+2.
+The construction of these platforms is governed by the provisions of the
+Construction Site (Safety) Regulations.  In addition, every occupier and employer have
+the general duty to ensure that a safe place of work is provided and maintained under the
+Occupational  Safety  and  Health  Ordinance,  Cap.  509  and  the  Factories  and  Industrial
+Undertakings Ordinance, Cap. 59.
+
+Collapses resulting from the failure of lift shaft platforms had in the past
+3.
+claimed  the  lives  of  workers.    There  had  also  been  other  serious  accidents  when
+construction  workers  sustained  multiple  injuries  from  the  failure  of  such  platforms.
+There is an imminent risk to the safety of workers engaged in the erection, maintenance
+and dismantling of lift shaft platforms.
+
+4.
+In view of the risk involved, the Labour Department will consider serving
+suspension  notices  to  the  contractors  to  suspend  the  erection,  maintenance  and
+dismantling  of  lift  shaft  platforms  under  section  10  of  the  Occupational  Safety  and
+Health  Ordinance  should  they  fail  to  comply  with  any  one  of  the  following  safety
+requirements:
+
+(a)
+
+(b)
+
+(c)
+
+Every  lift  shaft  platform  should  be  properly  designed  by  an
+authorized person (AP) or a registered structural engineer (RSE)
+employed by the contractor (Contractor’s AP/RSE).  The design
+plan  prepared  for  this  purpose  should  contain  all  the  necessary
+details and specifications of the platform;
+
+Construction plans containing method statements on the erection,
+alteration,  maintenance  and  dismantling  of  lift  shaft  platforms
+should be prepared by an engineer holding a qualification of TCP
+T4 or above, employed by the contractor (Contractor’s Engineer)
+and checked and signed-off by the Contractor’s AP/RSE;
+
+Every lift shaft platform should be constructed in accordance with
+the construction plan under the full-time immediate supervision of
+a  competent  person  with  TCP  T1  qualification  appointed  in
+writing by the contractor.  Upon completion, the works should be
+checked by the Contractor’s Engineer;
+
+/(d) Any …..
+
+- 2 -
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+Any  alteration  to  lift  shaft  platforms  should  be  designed  by  the
+Contractor’s  AP/RSE  while  the  construction  plan  and  method
+statement  for  the  alteration  works  should  be  prepared  by  the
+Contractor’s  Engineer  and  checked  and  signed-off  by  the
+Contractor’s AP/RSE;
+
+Risk  assessment  should  be  conducted  by  a  planning  team
+comprising  site  managerial  and  supervisory  representatives  from
+the  main  contractor  and  subcontractors,  with  at  least  one  person
+within  the  team  holding  TCP  T4  or  equivalent  qualifications,
+before work commences to erect, maintain or dismantle lift shaft
+platforms.    The  assessment  should  also  include  a  thorough
+inspection by the competent person appointed under paragraph (c)
+above to ascertain the stability of the lift shaft platforms erected
+such that works can be safely done on the platforms;
+
+Lift shaft platforms should be properly maintained in accordance
+with construction plans.  Materials accumulated on the platforms
+should be removed regularly;
+
+The dismantling of lift shaft platforms should be carried out under
+the  full-time  immediate  supervision  of  the  competent  person
+appointed under paragraph (c) above;
+
+Steps  should  be  taken  to  ensure  that  no  material  are  thrown,
+tipped or shot down onto lift shaft platforms unless the platforms
+have  been  designed  for  such  purpose  by  the  Contractor’s
+AP/RSE; and
+
+Suitable fall-arresting systems should be provided for and used by
+workers while they are engaged in the erection, maintenance and
+dismantling of lift shaft platforms.
+
+5.
+inspection by an Occupational Safety Officer of the Labour Department:
+
+Copies  of  the  following  documents  should  be  made  available  on  site  for
+
+(a)
+
+(b)
+
+(c)
+
+Design plan by the Contractor’s AP/RSE;
+
+Construction  plan  and  its  method  statement  by  the  Contractor’s
+Engineer;
+
+Record of the date of erection, maintenance and dismantling of a
+lift  shaft  platform  and  the  name  of  the  competent  person  who
+supervised the works; and
+
+(d)
+
+Risk assessment report.
+
+6.
+
+If temporary occupation permit (TOP) arrangement is to be adopted:
+
+(a)
+
+All necessary safety features and provisions to ensure fire safety,
+safety  of  workers  and  safety  of  occupants  should  be  considered
+thoroughly in the planning and design stage; and
+
+/(b) All …..
+
+- 3 -
+
+(b)
+
+All  conditions  imposed  in  the  TOP  (having  regard  to  the  TOP
+boundary  plan  accepted/approved  by  the  Building  Authority)
+including precautionary measures (e.g. fire separation of adequate
+fire  rating  between  occupied  and  construction  areas)  and  all  the
+safety features and provisions in (a) above must be fulfilled and
+maintained  accordingly  at  all  times  (including  during  the  course
+of carrying out lift shaft works and lift shaft platform works) until
+the  occupation  permit  is  issued.    Please  also  note  paragraph  7
+below.
+
+7.
+reference to the following documents:
+
+In  connection  with  the  above,  further  information  may  be  obtained  by
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Occupational Safety and Health Ordinance, Cap. 509
+- general duties of employers and occupiers under section 6 & 7;
+- service of suspension notice(s) under section 10;
+
+Factories and Industrial Undertakings Ordinance, Cap. 59
+- general duties of proprietors under section 6A;
+
+Construction Sites (Safety) Regulations
+-  safety requirements of working places, scaffolds etc. in Part VA;
+
+and
+
+Guidelines  on  Safety  of  Lift  Shaft  Works  (Volume  1  –  During
+Construction Stage and Before Handing Over to Lift Installation
+Contractor) issued by the Construction Industry Council.
+-  Design and Construction of Lift Shaft Platforms (paragraph 9);
+
+and
+
+-    Special  Attention  to  Buildings  under  Temporary  Occupation
+
+Permit Arrangement (paragraph 12).
+
+8.
+
+A similar practice note has been issued to registered contractors.
+
+( AU Choi-kai )
+Building Authority
+
+Ref. :  L/M 18-92 to BD GR/ACT/11
+
+This PNAP is previously known as PNAP 181
+First issue  October 1995 (AD/LM)
+This revision  February 2011 (AD/NB2) – General revision
+
