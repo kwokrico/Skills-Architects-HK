@@ -1,0 +1,897 @@
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-2
+
+Cap. 123
+
+Part 4
+
+Offences
+
+40.
+
+Offences
+
+(1AA)  Any  person  who  knowingly  contravenes  section  14(1)  in
+respect  of  building  works  (other  than  minor  works)  or  street
+works  shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—
+
+(a)
+
+(b)
+
+to  a  fine  of  $400,000  and  to  imprisonment  for  2  years;
+and
+
+to  a  fine  of  $20,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Replaced 20 of 2008 s. 28)
+
+(1AB)  Any  person  who  commits  an  offence  under  section  4A(2)
+or  9AA(2)  shall  be  liable  on  conviction  to  a  fine  at  level  6.
+(Added 20 of 2008 s. 28)
+
+(1)  Any  person  who  contravenes  section  21(1)  shall  be  guilty  of
+an  offence  and  shall  be  liable  on  conviction—    (Amended  15
+of 2004 s. 31)
+
+(a)
+
+to a fine at level 6 and to imprisonment for 2 years; and
+
+(b)
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Replaced 24 of 1979 s. 3)
+
+(1A)  Any  person  who  contravenes  section  22(2)(a),  24B(14)  or
+27(5)(a)  shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction  to  a  fine  at  level  2  and  to  imprisonment  for  6
+months. (Added 24 of 1979 s. 3. Amended 91 of 1990 s. 6)
+
+(1B)  Any person who—
+
+(a)  contravenes section 30(1) or 31(1); or
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-4
+
+Cap. 123
+
+(b)  without reasonable excuse, fails to comply with an order
+served  on  him  under  section  19(2),  20(2),  22(3),  23,
+25(2),  26(1),  26A(1)  or  (3),  27A(1)  or  (2B),  27C(1)  or
+(4),  28(2)(a)  or  (3)  or  (5),  29(2)(a),  29A(2),  30(3)  or
+31(2)(a), (Amended 77 of 1992 s. 4; 55 of 1996 s. 9; 15
+of 2004 s. 31)
+
+shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—
+
+(i)
+
+to a fine at level 5 and to imprisonment for 1 year; and
+
+(ii)
+
+in  the  case  of  an  offence  consisting  of  a  failure  to
+comply  with  an  order  served  on  him  under  section  23,
+25(2), 26(1), 26A(1) or (3), 27A(1) or (2B), 27C(1) or (4)
+or  28(3)  or  (5)  to  a  further  fine  of  $5,000  for  each  day
+during which it is proved to the satisfaction of the court
+that  the  failure  to  comply  with  the  order  has  continued.
+(Added  24  of  1979  s.  3.  Amended  72  of  1980  s.  15;  77
+of 1992 s. 4; 55 of 1996 s. 9; 15 of 2004 s. 31)
+
+(1BA)  Any  person  who,  without  reasonable  excuse,  fails  to  comply
+with  an  order  served  on  him  under  section  24(1)  shall  be
+guilty of an offence and shall be liable on conviction—
+
+(a)
+
+(b)
+
+to  a  fine  of  $200,000  and  to  imprisonment  for  1  year;
+and
+
+to  a  fine  of  $20,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 15 of 2004 s. 31)
+
+(1BB)  Any  person  who,  without  reasonable  excuse,  fails  to  comply
+with  an  order  served  on  him  under  section  24AA(1)  shall  be
+guilty of an offence and shall be liable on conviction—
+
+(a)
+
+to  a  fine  at  level  5  and  to  imprisonment  for  3  months;
+and
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-6
+
+Cap. 123
+
+(b)
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 20 of 2008 s. 28)
+
+(1BC)  Any  person  who,  without  reasonable  excuse,  fails  to  comply
+with a notice served on the person under section 30B(3), (4),
+(5) or (6) commits an offence and is liable on conviction—
+
+(a)
+
+to a fine at level 5 and to imprisonment for 1 year; and
+
+(b)
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 16 of 2011 s. 28)
+
+(1BD)  Any  person  who,  without  reasonable  excuse,  fails  to  comply
+with a notice served on the person under section 30C(3) or (4)
+commits an offence and is, subject to subsection (1BE), liable
+on conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  4  and  to  imprisonment  for  3  months;
+and
+
+to  a  fine  of  $2,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 16 of 2011 s. 28)
+
+(1BE)  Before  taking  court  proceedings  against  a  person  for  an
+offence  under  subsection  (1BD),  the  Building Authority  must
+serve on the person a penalty notice described in Schedule 7.
+(Added 16 of 2011 s. 28)
+
+(1BF)  Schedule  7  has  effect  in  relation  to  a  penalty  notice.  (Added
+
+16 of 2011 s. 28)
+
+(1BG)  The  Chief  Executive  in  Council  may,  by  notice  published  in
+
+the Gazette, amend Schedule 7. (Added 16 of 2011 s. 28)
+
+(1C)  Any person who—
+
+(a)  without reasonable excuse, fails to comply with an order
+
+served on him under section 32(2); or
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-8
+
+Cap. 123
+
+(b)  contravenes  section  24B(8)  or  32(3),  (Amended  91  of
+
+1990 s. 6)
+
+shall be guilty of an offence and shall be liable on conviction
+to a fine at level 1 and to imprisonment for 6 months. (Added
+24 of 1979 s. 3)
+
+(1D)  Any owner who—
+
+(a)
+
+fails  to  serve  upon  all  former  occupiers  who  have
+notified him of their addresses, the copies required to be
+served under section 27(10)(a); or
+
+(b)
+
+fails to serve upon the Building Authority the certificate
+required to be served under section 27(10)(b),
+
+shall be guilty of an offence and shall be liable on conviction
+to a fine at level 3 and to imprisonment for 6 months. (Added
+45 of 1985 s. 2)
+
+(1E)  Any  person  who  contravenes  section  24B(6)  shall  be  guilty
+of  an  offence  and  shall  be  liable  on  conviction  to  a  fine  at
+level 5 and to imprisonment for one year and to a further fine
+of  $5,000  for  each  day  during  which  the  offence  continues.
+(Added 91 of 1990 s. 6)
+
+(2)  Any person who—
+
+(a)
+
+fails  to  give  any  notice  required  to  be  given  under
+section 25(1); or
+
+(b)  contravenes  any  condition  of  a  permit  granted  by  the
+
+Building Authority under section 42,
+
+shall  be  guilty  of  an  offence  and  shall,  without  prejudice  to
+any  other  penalty,  be  liable  on  conviction  to  a  fine  at  level  6
+and to imprisonment for 2 years. (Replaced 39 of 2000 s. 6)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-10
+
+Cap. 123
+
+  (2AAA)  Any person who obstructs the Building Authority, any officer
+authorized  by  him  or  any  other  public  officer,  in  the  exercise
+of  his  power  under  this  Ordinance,  shall  be  guilty  of  an
+offence  and  shall,  without  prejudice  to  any  other  penalty,  be
+liable  on  conviction  to  a  fine  at  level  3  and  to  imprisonment
+for 6 months. (Added 39 of 2000 s. 6)
+
+(2A)  Any  person  for  whom  any  prescribed  inspection  or  building
+works or street works are being carried out and any authorized
+person,  registered  structural  engineer,  registered  geotechnical
+engineer,  registered  inspector,  qualified  person,  registered
+general  building  contractor,  registered  specialist  contractor  or
+registered minor works contractor directly concerned with any
+such inspection or works who—  (Amended 43 of 1993 s. 10;
+54  of  1996  s.  22;  15  of  2004  s.  31;  20  of  2008  s.  28;  16  of
+2011 s. 28)
+
+(a)  permits  or  authorizes  to  be  incorporated  in  or  used  in
+the  carrying  out  of  any  such  inspection  or  works  any
+materials which—  (Amended 16 of 2011 s. 28)
+
+(i)  are defective or do not comply with the provisions
+
+of this Ordinance;
+
+(ii)  have  not  been  mixed,  prepared,  applied,  used,
+erected, constructed, placed or  fixed  in  the  manner
+required for such materials under this Ordinance;
+
+(b)  diverges or deviates in any material way from any work
+shown  in  a  plan  approved  by  the  Building  Authority
+under this Ordinance;
+
+(ba)  diverges  or  deviates  in  any  material  way  from  any
+works  shown  in  a  plan  relating  to  minor  works  that  is
+required to be submitted to the Building Authority under
+the simplified requirements; or (Added 20 of 2008 s. 28)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-12
+
+Cap. 123
+
+(c)  knowingly  misrepresents  a  material  fact  in  any  plan,
+certificate,  form,  report,  notice  or  other  document
+given  to  the  Building  Authority  under  this  Ordinance,
+(Replaced 24 of 1979 s. 3. Amended 16 of 2011 s. 28)
+
+shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—  (Amended 20 of 2008 s. 28)
+
+(d)
+
+(e)
+
+in  the  case  of  a  prescribed  inspection  (other  than
+a  prescribed  inspection  in  respect  of  a  window  in
+a  building)  or  building  works  (other
+than  minor
+works)  or  street  works,  to  a  fine  of  $1,000,000  and  to
+imprisonment for 3 years; or (Amended 16 of 2011 s. 28)
+
+in  the  case  of  a  prescribed  inspection  in  respect  of
+a  window  in  a  building  or  minor  works,  to  a  fine  of
+$500,000 and to imprisonment for 18 months. (Amended
+24 of 1979 s. 3; 15 of 2004 s. 31; 16 of 2011 s. 28)
+
+(2AA)  Any  authorized  person,  registered  structural  engineer  or
+registered  geotechnical  engineer  who  contravenes  section
+4(3)(b),  or  any  registered  general  building  contractor  or
+registered  specialist  contractor  who  contravenes  section
+9(5)(b)  or  (6)(b),  shall  be  guilty  of  an  offence  and  shall  be
+liable  on  conviction  to  a  fine  of  $250,000:  (Amended  54  of
+1996 s. 22; 39 of 2000 s. 6; 15 of 2004 s. 31)
+
+Provided  that  it  shall  be  a  defence  in  any  prosecution  for  a
+contravention of any section referred to in this subsection for
+the  person  charged  to  prove  to  the  satisfaction  of  the  court
+that  he  did  not  know,  nor  could  reasonably  have  discovered,
+the contravention referred to in the charge. (Added 24 of 1979
+s. 3)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-14
+
+Cap. 123
+
+ (2AAAA)  Any  prescribed  building  professional  who  contravenes
+section  4B(2)(c),  or  any  prescribed  registered  contractor  who
+contravenes section 9AA(4)(b) or (6)(b), shall be guilty of an
+offence  and  shall  be  liable  on  conviction  to  a  fine  at  level  5.
+(Added 20 of 2008 s. 28)
+
+ (2AAAB)  It  is  a  defence  in  any  prosecution  for  a  contravention  of  any
+section  referred  to  in  subsection  (2AAAA)  for  the  person
+charged to prove that he had no knowledge of, and could not
+have  reasonably  discovered,  the  contravention  referred  to  in
+the charge. (Added 20 of 2008 s. 28)
+
+ (2AAAC)  Any person who contravenes an order made by a disciplinary
+section  7(2)(bb),  7(2)(d),  13(4)(d)  or
+board  under
+13(4)(e)  shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—  (Amended 16 of 2011 s. 28)
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 20 of 2008 s. 28)
+
+(2AB)  Any person (whether or not an authorized person, a registered
+structural  engineer,  a  registered  geotechnical  engineer,  a
+registered  general  building  contractor,  a  registered  specialist
+contractor  or  a  registered  minor  works  contractor)  directly
+concerned  with  any  building  works  or  street  works  set  out  in
+items  1,  2,  3,  4,  5  and  6  of  Column A  in  the  table  to  section
+17(1)  who  contravenes  any  condition  imposed,  or  fails  to
+comply  with  any  requirement  of  an  order  in  writing,  under
+that section in respect of such building works or street works,
+or the plans thereof, shall be guilty of an offence and shall be
+liable on conviction—  (Amended 20 of 2008 s. 28)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-16
+
+Cap. 123
+
+(a)
+
+(b)
+
+in  the  case  of  building  works  (other  than  minor
+works)  or  street  works,  to  a  fine  of  $150,000  and  to
+imprisonment for 1 year; or
+
+in  the  case  of  minor  works,  to  a  fine  of  $35,000  and  to
+imprisonment  for  3  months.  (Added  72  of  1980  s.  15.
+Amended 54 of 1996 s. 22; 15 of 2004 s. 31)
+
+(2AC)  Any person (whether or not an authorized person, a registered
+structural  engineer,  a  registered  geotechnical  engineer,  a
+registered  general  building  contractor,  a  registered  specialist
+contractor  or  a  registered  minor  works  contractor)  directly
+concerned  with  any  site  formation  works,  piling  works,
+excavation  works  or  foundation  works  who  contravenes  any
+condition  imposed  under  item  7  in  the  table  to  section  17(1)
+in  respect  of  such  works,  or  the  plans  thereof,  shall  be  guilty
+of  an  offence  and  shall  be  liable  on  conviction—    (Amended
+20 of 2008 s. 28)
+
+(a)
+
+(b)
+
+in  the  case  of  site  formation  works,  piling  works,
+excavation works or foundation works (other than minor
+works), to a fine of $750,000 and to imprisonment for 3
+years; or
+
+in  the  case  of  site  formation  works,  excavation  works
+or  foundation  works  that  are  minor  works,  to  a  fine  of
+$350,000  and  to  imprisonment  for  18  months.  (Added
+72 of 1980 s. 15. Amended 54 of 1996 s. 22; 15 of 2004
+s. 31)
+
+(2AD)  Any  registered  inspector  who  contravenes  section  30D(3)(a),
+or  any  qualified  person  who  contravenes  section  30E(3)(a),
+or  any  representative  of  a  qualified  person  who  contravenes
+section  30E(4)(a),  commits  an  offence  and  is  liable  on
+conviction to a fine of $250,000. (Added 16 of 2011 s. 28)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-18
+
+Cap. 123
+
+(2AE)  Any  registered  inspector  who  contravenes  section  30D(4)(a),
+or  any  qualified  person  who  contravenes  section  30E(5)(a),
+commits an offence and is liable on conviction—
+
+(a)
+
+(b)
+
+in  the  case  of  supervision  of  a  prescribed  repair  (other
+than minor works), to a fine of $250,000; or
+
+in  the  case  of  supervision  of  a  prescribed  repair  that  is
+minor  works,  to  a  fine  of  $150,000.  (Added  16  of  2011
+s. 28)
+
+(2AF)  Any  registered  inspector,  qualified  person,  registered  general
+building  contractor  or  registered  minor  works  contractor  who
+contravenes  section  30D(4)(c),  30E(5)(c)  or  30F,  as  the  case
+may be, commits an offence and is liable on conviction—
+
+(a)
+
+(b)
+
+in  the  case  of  a  prescribed  repair  (other  than  minor
+works), to a fine of $1,000,000 and to imprisonment for
+3 years; or
+
+in the case of a prescribed repair that is minor works, to
+a  fine  of  $500,000  and  to  imprisonment  for  18  months.
+(Added 16 of 2011 s. 28)
+
+(2B)  Any person (whether or not an authorized person, a registered
+structural  engineer,  a  registered  geotechnical  engineer,  a
+registered  inspector,  a  qualified  person,  a  registered  general
+building  contractor,  a  registered  specialist  contractor  or  a
+registered  minor  works  contractor)  directly  concerned  with
+any  prescribed
+inspection,  site  formation  works,  piling
+works,  foundation  works  or  other  form  of  building  works
+who—    (Amended  54  of  1996  s.  22;  15  of  2004  s.  31;  20  of
+2008 s. 28; 16 of 2011 s. 28)
+
+(a)  carries  out  or  has  carried  out  such  inspection  or  works,
+or  authorizes  or  permits  or  has  authorized  or  permitted
+such  inspection  or  works  to  be  carried  out,  in  such
+manner that it causes injury to any person or damage to
+any property; or
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-20
+
+Cap. 123
+
+(b)  carries  out  or  has  carried  out  such  inspection  or  works,
+or  authorizes  or  permits  or  has  authorized  or  permitted
+such  inspection  or  works  to  be  carried  out,  in  such
+manner  as  is  likely  to  cause  a  risk  of  injury  to  any
+person or damage to any property,
+
+shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—  (Amended 20 of 2008 s. 28)
+
+(c)
+
+(d)
+
+in  the  case  of  a  prescribed  inspection  (other  than
+a  prescribed  inspection  in  respect  of  a  window  in
+a  building),  or  site  formation  works,  piling  works,
+foundation  works  or  other  form  of  building  works
+(other than minor works), to a fine of $1,000,000 and to
+imprisonment for 3 years; or
+
+in  the  case  of  a  prescribed  inspection  in  respect  of
+a  window  in  a  building,  or  site  formation  works,
+foundation  works  or  other  form  of  building  works
+that  are  minor  works,  to  a  fine  of  $500,000  and  to
+imprisonment for 18 months. (Replaced 24 of 1979 s. 3.
+Amended 15 of 2004 s. 31; 16 of 2011 s. 28)
+
+(2C)  Any  person  who,  without  reasonable  excuse,  fails  to  comply
+with  an  order  served  on  him  under  section  24A,  shall  be
+guilty of an offence and shall be liable on conviction—
+
+(a)
+
+in  the  case  of  building  works  (other  than  minor  works)
+or street works—
+
+(i)
+
+(ii)
+
+to  a  fine  of  $1,000,000  and  to  imprisonment  for  3
+years; and
+
+to  a  fine  of  $200,000  for  each  day  during  which  it
+is  proved  to  the  satisfaction  of  the  court  that  the
+offence  has  continued;  or  (Replaced  20  of  2008
+s. 28)
+
+(b)
+
+in the case of minor works—
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-22
+
+Cap. 123
+
+(i)
+
+(ii)
+
+to  a  fine  of  $500,000  and  to  imprisonment  for  18
+months; and
+
+to  a  fine  of  $100,000  for  each  day  during  which  it
+is  proved  to  the  satisfaction  of  the  court  that  the
+offence has continued. (Replaced 20 of 2008 s. 28)
+
+(Added 71 of 1972 s. 5. Amended 24 of 1979 s. 3; 15 of 2004
+s. 31)
+
+(2D)  Any  person  who  knowingly  misrepresents  a  material  fact  in
+any  report  submitted  to  the  Building Authority  under  section
+27C(2)(c)  shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction  to  a  fine  of  $250,000  and  to  imprisonment  for  3
+years. (Added 55 of 1996 s. 9)
+
+(2E)  Where  a  registered  minor  works  contractor  or  a  registered
+specialist  contractor  certifies  or  carries  out  minor  works
+belonging  to  a  class,  type  or  item  for  which  he  is  not
+registered, he shall be guilty of an offence and shall be liable
+on conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 20 of 2008 s. 28)
+
+(2F)  Any  person  other  than  a  prescribed  building  professional,
+who,  without  reasonable  excuse,  certifies  minor  works  shall
+be guilty of an offence and shall be liable on conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 20 of 2008 s. 28)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-24
+
+Cap. 123
+
+(2G)  Any  person  other  than  a  prescribed  registered  contractor  or
+a  person  acting  under  the  supervision  of  any  such  contractor,
+who, without reasonable excuse, certifies or carries out minor
+works  shall  be  guilty  of  an  offence  and  shall  be  liable  on
+conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 20 of 2008 s. 28)
+
+(2H)  Any  person  other  than  a  registered  inspector  who,  without
+reasonable  excuse,  certifies  a  prescribed  inspection  (other
+than  a  prescribed  inspection  in  respect  of  a  window  in  a
+building),  or  certifies  or  supervises  a  prescribed  repair  (other
+than a prescribed repair in respect of a window in a building),
+in  respect  of  a  building  commits  an  offence  and  is  liable  on
+conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 16 of 2011 s. 28)
+
+(2I)  Any  person  other  than  a  qualified  person  who,  without
+reasonable excuse, certifies a prescribed inspection or certifies
+or supervises a prescribed repair, in respect of a window in a
+building commits an offence and is liable on conviction—
+
+(a)
+
+(b)
+
+to  a  fine  at  level  6  and  to  imprisonment  for  6  months;
+and
+
+to  a  fine  of  $5,000  for  each  day  during  which  it  is
+proved  to  the  satisfaction  of  the  court  that  the  offence
+has continued. (Added 16 of 2011 s. 28)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-26
+
+Cap. 123
+
+(3)  Any  person  who  unlawfully  and  maliciously  removes,  pulls
+down,  demolishes  or  damages,  or  in  any  way  whatsoever
+interferes with, any shoring erected for a building pursuant to
+section  18(1)  or  any  groundwater  drainage  works  carried  out
+pursuant to section 28A shall be guilty of an offence and shall
+be  liable  to  a  fine  at  level  5  and  to  imprisonment  for  1  year.
+(Added 27 of 1964 s. 6. Amended 24 of 1979 s. 3; 41 of 1982
+s. 10)
+
+(3A)  Any  person  who  without  reasonable  excuse  fails  to  comply
+with  a  requirement  imposed  under  section  28A  to  maintain
+groundwater drainage works shall be guilty of an offence and
+shall be liable to a fine at level 5 and imprisonment for 1 year
+and  to  a  further  fine  of  $5,000  for  each  day  during  which  it
+is  proved  to  the  satisfaction  of  the  court  that  the  failure  to
+comply  with  the  requirement  has  continued.  (Added  41  of
+1982 s. 10)
+
+(4)  Any  person  who,  after  a  copy  of  a  warrant  issued  under
+section  18(6)(c)  has  been  posted  in  accordance  with  section
+18(6)(d),  obstructs  the  entry  to  the  building  specified  in  such
+warrant  of  any  police  officer  or  other  person  authorized  by
+such  warrant  to  enter  the  same  shall  be  guilty  of  an  offence
+and shall be liable to a fine at level 5 and to imprisonment for
+1 year. (Added 40 of 1965 s. 7. Amended 24 of 1979 s. 3)
+
+(4A)  Any person who, after a copy of warrant issued under section
+28C  has  been  posted  under  subsection  (2)  of  that  section,
+obstructs  the  entry  upon  the  land  specified  in  the  warrant
+by  any  police  officer  or  other  person  authorized  by  the
+warrant  to  enter  upon  the  land  or  obstructs  the  carrying  out
+or  maintenance  of  any  groundwater  drainage  works  by  any
+person authorized by the warrant to carry out or maintain the
+works  shall  be  guilty  of  an  offence  and  shall  be  liable  to  a
+fine  at  level  5  and  to  imprisonment  for  1  year.  (Added  41  of
+1982 s. 10)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-28
+
+Cap. 123
+
+(4B)  Any  person  who  without  reasonable  excuse  contravenes
+section  39B(1)  shall  be  guilty  of  an  offence  and  shall  be
+liable  on  conviction  to  a  fine  at  level  3  and  to  imprisonment
+for 6 months. (Added 15 of 2004 s. 31)
+
+(4C)  Any  person  who  without  reasonable  excuse  contravenes
+section  39B(1A)  commits  an  offence  and  is  liable  on
+conviction to a fine at level 4. (Added 16 of 2011 s. 28)
+
+(5)  Any person, being a person directly concerned in or with any
+building  works  or  street  works,  who  permits  the  commission
+of  any  offence  specified  in  this  section  shall  be  deemed  to
+be  guilty  of  such  offence  and  shall  be  liable  to  the  penalty
+prescribed  therefor.  (Replaced  44  of  1959  s.  20. Amended  43
+of 1993 s. 10)
+
+(6)  Where an offence under this Ordinance committed by a body
+corporate is proved to have been committed with the consent
+or  connivance  of,  or  to  be  attributable  to  any  neglect  or
+default  on  the  part  of,  any  director,  manager,  or  other  officer
+concerned  in  the  management  of  the  body  corporate,  or  any
+person  purporting  to  act  in  any  such  capacity,  he,  as  well  as
+the  body  corporate,  is  guilty  of  the  offence.  (Replaced  6  of
+1995 s. 5)
+
+(6A)  Where  an  offence  under  this  Ordinance  committed  by  a
+partner  in  a  partnership  is  proved  to  have  been  committed
+with  the  consent  or  connivance  of,  or  to  be  attributable  to
+any neglect or default on the part of, any other partner of the
+partnership,  that  other  partner  is  also  guilty  of  the  offence.
+(Added 6 of 1995 s. 5)
+
+(7)  Where  anything  is  required  to  be  done  by  the  owner  of  a
+building,  and  by  virtue  of  section  2  there  is  more  than  one
+owner of such building, it shall be a defence to any charge of
+failing to do that thing—
+
+Verified Copy
+
+Last updated date
+2.8.2012
+
+Buildings Ordinance
+
+Part 4
+
+Section 40
+
+4-30
+
+Cap. 123
+
+(a)
+
+(b)
+
+that  such  thing  was  done  by  another  owner  of  the
+building; or
+
+that any notice or order in respect of such thing required
+under  this  Ordinance  to  be  served  on  the  owner  was
+served  on  another  owner  of  the  building  and  not  on  the
+person charged.
+
+(7A)  Where anything is required to be done by an owner of land or
+by a person referred to in section 27A(1), it shall be a defence
+to  any  charge  of  failing  to  do  that  thing  that  any  notice  or
+order  in  respect  of  such  thing  required  under  this  Ordinance
+to  be  served  on  the  owner  or  on  such  person  was  served  on
+another  owner  of  the  land  or  on  another  such  person  and  not
+on the person charged. (Added 72 of 1980 s. 15)
+
+(8)  Any  prosecution  under  the  provisions  of  this  Ordinance  may
+be  commenced  within  12  months  of  the  commission  of  the
+offence or within 12 months of the same being discovered by
+or  coming  to  the  notice  of  the  Building Authority.  (Added  44
+of 1959 s. 20. Amended 68 of 1993 s. 19)
+
+(Amended 20 of 2008 s. 28)
+
+(Format changes—E.R. 2 of 2012)
+
+Verified Copy
+
+Last updated date
+2.8.2012
+

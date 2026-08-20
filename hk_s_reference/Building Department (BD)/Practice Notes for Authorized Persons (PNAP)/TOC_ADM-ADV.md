@@ -1,0 +1,59 @@
+# Table of Contents — ADM & ADV
+
+- PNAP ADM-1: Practice Notes in Force
+- PNAP ADM-2: Centralised Processing of Building Plans
+- PNAP ADM-3: Emergency Situations — Telephone Numbers for Use Outside Office Hours
+- PNAP ADM-4: Priority
+- PNAP ADM-5: Submissions to the Buildings Department
+- PNAP ADM-6: Computer Programs for Use in Structural and Geotechnical Design
+- PNAP ADM-7: Geotechnical Information Unit
+- PNAP ADM-8: Structural Design Information
+- PNAP ADM-9: Colouring of Plans
+- PNAP ADM-10: Imaging Standards for Plans
+- PNAP ADM-11: Change of Address
+- PNAP ADM-13: Monitoring for Site Safety and Quality
+- PNAP ADM-14: Minor Amendments to Plans and Specified Forms
+- PNAP ADM-15: Submission of Site Formation Proposals
+- PNAP ADM-16: Ground Investigation Works in Scheduled Areas - Approval and Consent
+- PNAP ADM-17: Submission of Plans and Documents in Electronic Format
+- PNAP ADM-18: Site Auditing for Building Works
+- PNAP ADM-19: Building Approval Process
+- PNAP ADM-20: Central Data Bank
+- PNAP ADM-21: Site Parameters - Documentary Proof
+- PNAP ADM-22: Withdrawal and Resubmission
+- PNAP ADM-23: Self-certification System for Plan Submission of Simple Structural Works
+- PNAP ADV-1: Asbestos
+- PNAP ADV-2: Legislation and Publications Affecting the Building Industry
+- PNAP ADV-3: Standardization of Floor Numbering
+- PNAP ADV-4: Control of Environmental Nuisance from Construction Sites
+- PNAP ADV-5: Tropical Hardwood Timber
+- PNAP ADV-6: Lightning Protection for Buildings
+- PNAP ADV-8: Registration of Slopes and Retaining Walls
+- PNAP ADV-9: Submission of Development Progress
+- PNAP ADV-10: Lift Shaft Platforms
+- PNAP ADV-11: Suspended Working Platforms
+- PNAP ADV-12: Display of Site Information
+- PNAP ADV-13: Application for Excavation Permit for Works on Public Road — Circulation of Proposal to Utility Undertakers
+- PNAP ADV-14: Facilities for External Inspection and Maintenance of Buildings
+- PNAP ADV-15: Fixing of Reinforcement for Concrete Works
+- PNAP ADV-16: Street Name and Building Number
+- PNAP ADV-17: Noise Annoyance Prevention — Design of Pump Room and Ventilation System
+- PNAP ADV-18: Corruption Prevention
+- PNAP ADV-19: Construction and Demolition Waste
+- PNAP ADV-21: Management Framework for Disposal of Dredged/Excavated Sediment
+- PNAP ADV-23: Improvement of Visual Appearance and Landscape Treatment for Man-made Slopes and Retaining Walls
+- PNAP ADV-24: Floor Drains in Kitchens and Bathrooms
+- PNAP ADV-25: Extractor Fans in Bathrooms and Lavatories in Domestic Buildings
+- PNAP ADV-26: Ventilation of Common Corridors and Lift Lobbies in Buildings
+- PNAP ADV-27: Protection of Natural Streams/Rivers from Adverse Impacts Arising from Construction Works
+- PNAP ADV-28: Provision of Sanitary Fitments in Offices, Shopping Arcades, Department Stores, Places of Public Entertainment, Cinemas and Other Public Places
+- PNAP ADV-29: Construction Site Safety — Pay for Safety Scheme
+- PNAP ADV-30: Provision of Mechanical Ventilation under Building (Planning) Regulation 34
+- PNAP ADV-31: Building External Finishes — Wet-fixed Tiles
+- PNAP ADV-32: Provision of Babycare Rooms and Lactation Rooms in Commercial Buildings
+- PNAP ADV-33: Essential Information in Plan Submissions
+- PNAP ADV-34: Building Information Modelling (BIM)
+- PNAP ADV-35: Greening in Buildings
+- PNAP ADV-36: Modular Integrated Construction
+- PNAP ADV-37: Conduct of Registered Building Professionals under the Buildings Ordinance
+- PNAP ADV-38: Innovative Building Materials and Technologies
