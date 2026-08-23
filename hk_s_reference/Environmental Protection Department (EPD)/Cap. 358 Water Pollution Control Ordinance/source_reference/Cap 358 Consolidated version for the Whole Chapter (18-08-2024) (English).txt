@@ -1,0 +1,1134 @@
+T-2 
+Cap. 358 
+
+## Water Pollution Control Ordinance
+
+(Cap. 358)
+
+## Contents
+
+Section Page 
+Part I 
+Preliminary 
+1. Short title 1-2 
+2. Interpretation 1-2 
+3. Chief Executive may give directions 1-10 
+Part II 
+Water Control Zones and Water Quality 
+Objectives 
+4. Water control zones 2-2 
+5. Secretary to establish quality objectives 2-2 
+6. Authority to seek to achieve quality objectives 2-4 
+Part III 
+Prohibited Discharges and Deposits 
+7. Application and commencement of sections 8 
+and 9 
+
+| 4. | | Water control zones | 2-2 | |
+| --- | --- | --- | --- | --- |
+| 5. | | Secretary to establish quality objectives | 2-2 | |
+| 6. | | Authority to seek to achieve quality objectives | 2-4 | |
+
+3-2
+
+3-4
+
+8. Prohibited discharges into waters of Hong Kong and inland waters
+
+3-8
+
+9. Prohibited discharges into communal sewers and communal drains
+
+T-4 
+Cap. 358 
+
+Section Page 10. Mental ingredient of offences under sections 8 and 9
+
+3-12 
+10A. Liability of directors, etc. 3-12 
+11. Penalties 3-14 
+12. Defences 3-16 
+13. Restoration of waters by convicted person 3-20 
+13A. Restoration of waters by Authority 3-22 
+Part IV 
+Licensing of Existing Discharges and 
+Deposits 
+14. Notices of existing discharges and deposits 4-2 
+15. Licensing of existing discharges and deposits 4-2 
+16. Transitional; licensing of exempted discharges 
+and deposits 
+
+| 14. | | Notices of existing discharges and deposits | 4-2 | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| 15. | | Licensing of existing discharges and deposits | 4-2 | | | |
+| 16. | | Transitional; licensing of exempted discharges | 4-6 | | | |
+
+17. Tolo Harbour—transitional 4-10 
+18. (Repealed) 4-12 
+Part V 
+Licensing of Discharges and Deposits 
+19. Applications for licences 5-2 
+20. Grant of licences 5-4 
+21. Technical memorandum 5-6 
+22. Effect of a licence 5-12 
+23. Renewal of licences 5-14 
+
+T-6 
+Cap. 358 
+
+Section Page 23A. Renewal of section 16 licences 5-16 24. Cancellation or variation of a licence 5-18 25. Compensation for cancellation or variation of certain licences
+
+5-24
+
+5-26
+
+26. Compensation for cancellation of licences and exemptions with the approval of the Chief Executive in Council
+
+| 29. | | When appeal may be brought | 6-2 | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| 30. | | Constitution of Appeal Board | 6-6 | | | |
+| 31. | | Exercise of Appeal Board’s jurisdiction | 6-8 | | | |
+| 32. | | Supplementary provisions as to Appeal Board | 6-10 | | | |
+| 33. | | Review of Appeal Board’s decision by Chief | 6-12 | | | |
+
+27. Assessment of compensation 5-26 
+28. Applications for variation of licences 5-28 Part VI Appeals Executive in Council 
+
+34. Case may be stated for Court of Appeal 6-14 
+Part VII 
+Powers of Enforcement 
+35. Authority may obtain information 7-2 
+36. Authorized officers 7-4 
+37. Powers of authorized officers to enter 
+premises etc. 
+7-4 
+
+T-8 
+Cap. 358 
+Section Page 
+38. Further powers of authorized officers 7-8 
+39. Analysis of samples 7-12 
+40. Offences in relation to sections 37 and 38 7-14 
+40A. Sampling offences 7-16 
+Part VIII 
+Miscellaneous 
+40B. Recovery of costs 8-2 
+40C. Documentary evidence 8-4 
+41. Authority may hold a hearing 8-4 
+42. Authority to keep register 8-6 
+43. Protection of private information from 
+publicity 
+8-6 
+
+8-8
+
+44. Offence to disclose secret information obtained officially
+
+| 45. | | Protection of Government and public officers | 8-10 | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| 46. | | Regulations | 8-10 | | | |
+| 47. | | Application of Ordinance to Government | 8-18 | | | |
+| 48. | | Advisory Council on the Environment | 8-22 | | | |
+| 49. | | Ordinance not to affect or be affected by other | 8-22 | | | |
+
+Ordinances
+
+50. (Omitted as spent) 8-22 
+51. Disapplication of certain enactments 8-24 
+
+First Schedule Terms and Conditions Subject to which a Licence may be Granted
+
+S1-2
+
+#### Section Page
+
+Second Schedule Determination of Compensation S2-2 
+Third Schedule (Omitted as spent) S3-2 
+Fourth Schedule S4-2 
+
+T-10 
+Cap. 358 
+
+To control the pollution of the waters of Hong Kong.
+
+[1 April 1981] L.N. 87 of 1981 (Format changes—E.R. 3 of 2018)
+
+## Part I Preliminary
+
+1. Short title This Ordinance may be cited as the Water Pollution Control Ordinance. 
+2. Interpretation (1) In this Ordinance, unless the context otherwise requires— Appeal Board (上訴委員會) means an Appeal Board constituted under Part VI; Authority (監督) means the Director of Environmental Protection; (Replaced 83 of 1993 s. 2) authorized agent (獲授權代理人) means a person authorized in writing by the Authority to exercise the powers and perform the duties of an authorized agent under this Ordinance; (Added 83 of 1993 s. 2) communal drain (公用排水渠) means a drain that is not used exclusively by one discharger; (Added 67 of 1990 s. 2) communal sewer (公用污水渠) means a sewer that is not used exclusively by one discharger and includes a public wastewater treatment facility; (Added 67 of 1990 s. 2. Amended 83 of 1993 s. 2) 
+
+Part I 1-2 
+Section 1 Cap. 358 
+
+drainage or sewerage system (排水或排污系統) includes sewage 
+and wastewater treatment facilities and the processes in them; 
+(Added 67 of 1990 s. 2. Amended 83 of 1993 s. 2) 
+existing deposit (現有的沉積), in relation to a water control zone, 
+means a deposit of matter which— 
+(a) was made, whether or not regularly or continuously, in 
+any place and which is, or of which a component is, 
+likely to enter the waters of Hong Kong or into inland 
+waters or a communal sewer or communal drain in that 
+zone; and 
+(b) was so made during the period of 12 months ending 
+with the day appointed by the Chief Executive by order 
+under section 7(2) which applies to that zone and that 
+deposit; (Amended 21 of 2024 s. 78) 
+existing discharge (現有的排放), in relation to a water control 
+zone, means a discharge of matter which was made, whether 
+or not regularly or continuously— 
+(a) into the waters of Hong Kong or into inland waters; or 
+(b) into a communal sewer or communal drain, 
+in that zone during the period of 12 months ending with the 
+day appointed by the Chief Executive by order under section 
+7(2) which applies to that zone and that discharge; (Amended 
+21 of 2024 s. 78) 
+inland waters (內陸水域) means any river, stream, watercourse, 
+lake, pool or pond, whether natural or artificial or above 
+or below ground, and the bed or channel of any such river, 
+stream, watercourse, lake, pool or pond which is for the 
+time being dry, and includes groundwater and the ground 
+in which groundwater is from time to time found, but 
+excludes— (Amended 67 of 1990 s. 2) 
+
+Part I 1-4 
+Section 2 Cap. 358 
+
+(a) a lake, pool or pond the waters of which do not enter 
+(whether directly or by way of another lake, pool or 
+pond) any river, stream or watercourse or the sea within 
+the boundary of, or the tidal waters of, Hong Kong 
+unless the lake, pool or pond is brought within this 
+definition by regulations made under section 46(1)(l); 
+(Amended 21 of 2024 s. 78) 
+(b) (Repealed 67 of 1990 s. 2) 
+(c) any drain or sewer; 
+licence (牌照) means a licence granted under this Ordinance; 
+public wastewater treatment facility (公共廢水處理設施) means 
+a wastewater treatment facility that is operated by, for or on 
+behalf of the Government but does not include a wastewater 
+treatment facility the operation of which is taken over under 
+the regulations; (Added 83 of 1993 s. 2) 
+register (登記冊) means a register required to be kept under 
+section 42; 
+Secretary (局長) means the Secretary for Environment and 
+Ecology; (Replaced 78 of 1999 s. 7. Amended L.N. 106 of 
+2002; L.N. 130 of 2007; L.N. 144 of 2022) 
+technical memorandum (技術備忘錄) means a technical 
+memorandum issued under section 21; (Added 67 of 1990 s. 2) 
+wastewater (廢水) means water that is directly or indirectly used in 
+or generated by human activity and then discarded but does 
+not include unpolluted water as defined in section 9(3); (Added 
+83 of 1993 s. 2) 
+wastewater treatment facility (廢水處理設施) means— 
+(a) a man made structure, plant, works or device designed 
+and constructed for the purpose of receiving wastewater 
+from a dwelling or from a trade, business, commercial, 
+industrial or agricultural operation; or 
+
+Part I 1-6 
+Section 2 Cap. 358 
+
+(b) land onto which wastewater is discarded, 
+which is intended to bring about a change in the physical, 
+chemical or biological characteristics of the wastewater; and 
+includes an Imhoff tank, a septic tank, a cesspit and a soak 
+away pit; (Added 83 of 1993 s. 2) 
+water control zone (水質管制區) means any part of Hong Kong 
+declared to be a water control zone under section 4; 
+water quality objective (水質指標) means a water quality objective 
+established by the Secretary under section 5; 
+waters of Hong Kong (香港水域) means all inland waters and 
+tidal waters of Hong Kong, and all the sea within the 
+boundary of Hong Kong, and in sections 5(1), 6(5)(a), 13(1), 
+24 and 29(4)(a) includes the flora and fauna thereof. (Amended 
+21 of 2024 s. 78) 
+(Amended 67 of 1990 s. 2) 
+(2) References in this Ordinance to discharging or making a discharge of matter into the waters of Hong Kong or into inland waters or into a communal sewer or communal drain are references to causing or permitting that matter to enter those waters or the communal sewer or communal drain (whether by emitting, throwing, placing or by any other means) at the place where the matter first enters the same. 
+(3) References in this Ordinance to discharging or making a discharge of matter into the waters of Hong Kong or into inland waters or into a communal sewer or communal drain in the water control zone include causing or permitting matter to be deposited in any place (whether in that zone or elsewhere) in circumstances where the matter, or any component of it, is likely to enter the waters of Hong Kong or inland waters in that zone or to enter the communal sewer or communal drain within a reasonably foreseeable time by falling, descending, percolating or being carried by wind or water. 
+
+Part I 1-8 
+Section 2 Cap. 358 
+
+(Amended 67 of 1990 s. 22)
+
+#### 3. Chief Executive may give directions
+
+(Amended 21 of 2024 s. 78) 
+(1) The Chief Executive may give such directions as he thinks fit, either generally or in any particular case, with respect to the exercise or performance by the Secretary or the Authority of any powers, functions or duties under this Ordinance. 
+(2) The Secretary and the Authority shall, in the exercise or performance of their respective powers, functions and duties under this Ordinance, comply with any directions given by the Chief Executive under subsection (1). (Amended 83 of 1993 s. 3; 21 of 2024 s. 78) 
+
+Part I 1-10 
+Section 3 Cap. 358 
+
+## Part II Water Control Zones and Water Quality Objectives
+
+4. Water control zones 
+(1) The Chief Executive in Council may by order published in 
+the Gazette— (Amended 21 of 2024 s. 78) 
+(a) after consultation with the Advisory Council on the 
+Environment, declare any part of Hong Kong to be a 
+water control zone for the purposes of this Ordinance. 
+(Amended L.N. 165 of 1984; L.N. 57 of 1994) 
+(b) (Repealed 83 of 1993 s. 4) 
+(2)-(3) (Repealed 83 of 1993 s. 4) 
+(4) An order under subsection (1) shall, for each water control 
+zone constituted thereby— 
+(a) make reference to a plan or map of that zone deposited 
+in the Land Registry; or (Amended 8 of 1993 s. 2; 21 of 
+2024 s. 78) 
+(b) sufficiently describe the zone by other means. 
+5. Secretary to establish quality objectives 
+(1) The Secretary shall, after consultation with the Advisory 
+Council on the Environment, establish for the waters of Hong 
+Kong in each water control zone a water quality objective or 
+different objectives for different parts of a zone. (Amended 
+L.N. 165 of 1984; L.N. 57 of 1994) 
+(2) The water quality objective for any particular waters shall be 
+the quality which, in the opinion of the Secretary, should be 
+achieved and maintained in order to promote the conservation 
+and best use of those waters in the public interest. 
+
+Part II 2-2 
+Section 4 Cap. 358 
+
+(3) Any water quality objective may be amended from time to time by the Secretary, after consultation with the Advisory Council on the Environment. (Amended L.N. 165 of 1984; L.N. 57 of 1994) (4) A statement of every water quality objective established under subsection (1) and all amendments thereto, signed by the Secretary, shall be published in the Gazette and shall be kept with the register and made available for inspection by the public free of charge at the same times as the register is so available. (5) Where under subsection (1) the Secretary establishes different water quality objectives for different parts of a water control zone he shall ensure that the statement thereof kept with the register pursuant to subsection (4) sufficiently delineates each part of the water control zone. 6. Authority to seek to achieve quality objectives (1) (Repealed 83 of 1993 s. 5) (2) The Secretary shall notify the Authority of all water quality objectives and of any amendment thereof under section 5(3). (Amended L.N. 76 of 1982; L.N. 74 of 1986; 83 of 1993 s. 5) (3) The Authority shall exercise and perform his powers, functions and duties under this Ordinance with the aim of achieving the relevant water quality objectives as soon as is reasonably practicable and thereafter maintaining the quality so achieved. (Amended 83 of 1993 s. 5) (4) If in the opinion of the Secretary the achievement or maintenance of any water quality objective would be better served by the exercise by the Authority of any of his powers under section 20(4) or 24, the Secretary may, subject to subsection (5), give directions in writing to the Authority as to the manner in which he shall exercise those powers;
+
+Part II 2-4 
+Section 6 Cap. 358 
+
+and, in the case of a direction which relates to section 20(4), 
+any such direction may be of a general nature or relate to a 
+particular case or particular cases. 
+(5) The Secretary shall not give any direction under subsection (4) as to the manner in which the Authority shall exercise the powers in section 24 in relation to a discharge or deposit unless he considers that— (Amended 83 of 1993 s. 5) (a) any part of the waters of Hong Kong are in such a condition as to constitute a danger to the health of the public, or a section of the public, and the exercise of the powers in relation to that discharge or deposit would tend to lessen the danger; or (b) in the case of a licence for the purpose of section 9, the discharge or deposit may be harmful to the operation of any sewage treatment plant. 
+(6) The Authority shall comply with any direction given to him under subsection (4) and the discretion conferred on the Authority by section 20(4) or 24(1) shall not apply to any discharge or deposit in respect of which such a direction is in force. 
+
+(Amended 67 of 1990 s. 22)
+
+Part II 2-6 
+Section 6 Cap. 358 
+
+## Part III Prohibited Discharges and Deposits
+
+7. Application and commencement of sections 8 and 9 (1) Notwithstanding that this Ordinance has come into operation by virtue of a notice under section 1, neither section 8(1)(a), nor section 8(1)(b) nor section 9(1) shall apply— (a) to any discharge or deposit, not being an existing discharge or existing deposit, which would otherwise be prohibited by those sections until the day appointed by the Chief Executive under subsection (2) which applies to that discharge or deposit; (b) to an existing discharge or existing deposit which would otherwise be prohibited by those sections until the day appointed by the Chief Executive under subsection (3) which applies to that discharge or deposit. (Amended 21 of 2024 s. 78) (2) The Chief Executive may from time to time by order published in the Gazette which is declared to be applicable to any water control zone appoint a day by reference to which the following shall be classified as an existing discharge or existing deposit for the purposes of this Ordinance— (Amended 21 of 2024 s. 78) (a) the discharge of any matter into the waters of Hong Kong or inland waters in that zone, being a discharge within the prohibitions in section 8(1); (b) the deposit of any matter which, or a component of which, is likely to enter the waters of Hong Kong or inland waters in that zone, being a deposit within the prohibitions in section 8(1);
+
+Part III 3-2 
+Section 7 Cap. 358 
+
+(c) the discharge of any matter into a communal sewer or 
+communal drain in that zone, being a discharge within 
+the prohibition in section 9(1); (Amended 67 of 1990 
+s. 22) 
+(d) the deposit of any matter which, or a component of 
+which, is likely to enter a communal sewer or communal 
+drain. (Amended 67 of 1990 s. 22) 
+(3) The Chief Executive may from time to time by order published in the Gazette which is declared to be applicable to any water control zone appoint a day on and after which— (Amended 21 of 2024 s. 78) (a) section 8(1)(a) shall apply to all existing discharges into the waters of Hong Kong in that zone or to all existing deposits which, or a component of which, is likely to enter the waters in that zone; (b) section 8(1)(b) shall apply to all existing discharges into inland waters in that zone or to all existing deposits which, or a component of which, is likely to enter the inland waters in that zone; (c) section 9(1) shall apply to all existing discharges into a communal sewer or communal drain in that zone or to all existing deposits which, or a component of which, is likely to enter a communal sewer or communal drain in that zone. (Amended 67 of 1990 s. 22) 
+(4) (Repealed 67 of 1990 s. 3) 
+(5) An order under this section may, in respect of the same water control zone, appoint different days for discharges and for deposits. 
+
+(Amended 67 of 1990 s. 3) 8. Prohibited discharges into waters of Hong Kong and inland waters
+
+Part III 3-4 
+Section 8 Cap. 358 
+
+(1) Subject to section 12, a person commits an offence who discharges— (a) any waste or polluting matter into the waters of Hong Kong in a water control zone; (Amended 67 of 1990 s. 4) (b) any matter into any inland waters in a water control zone which tends (either directly or in combination with other matter which has entered those waters) to impede the proper flow of the water in a manner leading or likely to lead to a substantial aggravation of pollution. (1A) Subject to section 12(1A), a person commits an offence who discharges any poisonous or noxious matter into the waters of Hong Kong. (Added 67 of 1990 s. 4) (2) Where any matter referred to in subsection (1)(a) or (b) or (1A) is discharged from any premises or vessel, then, subject to section 12, the occupier of the premises or the person having command or charge of the vessel commits an offence, in addition to any other person who may be guilty of an offence under subsection (1) or (1A). (Amended 67 of 1990 s. 22) (3) This section does not apply to any of the following discharges or deposits— (a) a discharge which is made by way of a communal sewer or communal drain; (Amended 67 of 1990 s. 22) (b) (Repealed 42 of 1985 s. 2) (c) a discharge incidental to, or derived from, the normal operation of a vessel (including a dynamically supported craft) or of its equipment; (d) a discharge which requires a permit under the Dumping at Sea Ordinance (Cap. 466); (Amended 18 of 1995 s. 34) (e) a discharge or deposit made—
+
+Part III 3-6 
+Section 8 Cap. 358 
+
+(i) by, or with the consent of, the Director of Marine for the purpose of carrying out harbour works or providing moorings or aids to navigation; (ii) in accordance with the grant of a Government lease or as part of the execution of a reclamation or other work of a public nature which has been authorized under section 7, 8 or 16A of the Foreshore and Sea-bed (Reclamations) Ordinance (Cap. 127); (Replaced 63 of 1985 s. 21. Amended 29 of 1998 s. 72; Amended 25 of 2023 s. 112) (iii) (Repealed 63 of 1985 s. 21) (f) a discharge of unpolluted water, as defined in section 9(3). (Replaced 67 of 1990 s. 4) 9. Prohibited discharges into communal sewers and communal drains (1) Subject to section 12, a person commits an offence who discharges any matter into a communal sewer or communal drain in a water control zone other than— (a) a discharge of domestic sewage into a communal sewer or communal drain that— (i) is vested in and maintained by the Government as a sewer or drain for the carriage of foul water; (ii) conducts the discharge into a communal sewer or communal drain that is vested in and maintained by the Government as a sewer or drain for the carriage of foul water; or (iii) delivers the sewage to a wastewater treatment facility, the discharge from which is licensed; (Replaced 83 of 1993 s. 6) (aa) a discharge of domestic sewage into—
+
+Part III 3-8 
+Section 9 Cap. 358 
+
+(i) a communal sewer; or 
+(ii) a communal drain, 
+that has been designated by the Authority, by notice in 
+the Gazette, as a communal sewer or communal drain 
+for the carriage of foul water or surface drainage water; 
+or (Added 67 of 1990 s. 5. Amended 83 of 1993 s. 6) 
+(b) a discharge of unpolluted water into— 
+(i) a communal sewer; or 
+(ii) a communal drain, 
+for the carriage of surface drainage water. (Amended 67 
+of 1990 s. 22) 
+(2) Where any matter is, in contravention of subsection (1), discharged into a communal sewer or communal drain in a water control zone from any premises, then, subject to section 12, the occupier of the premises commits an offence, in addition to any other person who may be guilty of an offence under subsection (1). (Amended 67 of 1990 ss. 5 & 22) 
+(3) In subsection (1)— domestic sewage (住宅污水) means waste of a kind and quantity that is generated by the domestic use of a toilet, watercloset, bath, shower, sink, basin or other sanitary fitment by a person residing in a household or while at a place of work but does not include— (a) the solid residue from a wastewater treatment facility; (b) the effluent from a wastewater treatment facility that uses electrical or mechanical equipment in its operation; or (c) waste that is generated by a food business that is subject to the Food Business Regulation (Cap. 132 sub. leg. X); 
+
+Part III 3-10 
+Section 9 Cap. 358 
+
+(Replaced 83 of 1993 s. 6. Amended 78 of 1999 s. 7; E.R. 3 of 2018) unpolluted water (沒有污染的水) means— (a) rain water from any part of a building, including any area appurtenant to a building; (b) water which does not contain any poisonous, noxious or polluting matter. (4) This section does not apply to— (a) (Repealed 67 of 1990 s. 5) (b) water used— (i) for firefighting purposes; (ii) in connexion with an occurrence in which life or property is endangered; (iii) for the cleansing of streets, thoroughfares, and other areas. 10. Mental ingredient of offences under sections 8 and 9 In any proceedings for an offence under section 8(1), 8(1A), 8(2), 9(1) or 9(2) in which it is alleged that the defendant caused matter to enter the waters of Hong Kong or inland waters or a communal sewer or communal drain or caused matter to be deposited as provided in section 2(3) it shall not be necessary for the prosecution to prove that the acts or omissions in question were accompanied by any intention, knowledge or negligence on the part of the defendant as to any element of the offence. (Amended 67 of 1990 s. 22)
+
+10A. Liability of directors, etc. (1) Where a person convicted of an offence under this Ordinance is a body corporate and it is proved that the offence was
+
+Part III 3-12 
+Section 10 Cap. 358 
+
+committed with the consent or connivance of, or was attributable to any neglect or omission on the part of, any director, manager, secretary or other person concerned in the management of the body corporate, the director, manager, secretary or other person also commits the offence. (2) Where a person convicted of an offence under this Ordinance is a partner in a partnership and it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect or omission on the part of, any other partner or any person concerned in the management of the partnership, the partner or the person concerned in the management also commits the offence.
+
+(Added 67 of 1990 s. 6)
+
+11. Penalties (1) A person who commits an offence under section 8(1), 8(2), 9(1) or 9(2) is liable to imprisonment for 6 months and— (a) for a first offence, a fine of $200,000; (b) for a second or subsequent offence, a fine of $400,000, and in addition, if the offence is a continuing offence, to a fine of $10,000 for each day during which it is proved to the satisfaction of the court that the offence has continued. (Amended 67 of 1990 ss. 7 & 22; 83 of 1993 s. 7) (2) A person who commits an offence under section 8(1A) or who commits an offence under section 9(1) or (2) by discharging any poisonous or noxious matter into a communal sewer or communal drain is liable to— (a) for a first offence, a fine of $400,000 and imprisonment for 1 year; (b) for a second or subsequent offence, a fine of $1,000,000 and imprisonment for 2 years, (Amended E.R. 3 of 2018)
+
+Part III 3-14 
+Section 11 Cap. 358 
+
+and in addition, if the offence is a continuing offence, to a fine of $40,000 for each day during which it is proved to the satisfaction of the court that the offence has continued. (Added 83 of 1993 s. 7) 12. Defences (1) A person does not commit an offence under section 8(1), 8(2), 9(1) or 9(2) if he proves that— (a) the discharge or deposit in question is an existing discharge or deposit— (i) in respect of which an application under section 14 has been made and the prescribed application fee paid when required and the applicant has not been notified of a refusal to grant a licence as required by section 15(2); or (ii) which is made under, and in accordance with, a licence granted under section 15, 16 or 23A; or (Replaced 67 of 1990 s. 8. Amended 83 of 1993 s. 8) (b) the discharge or deposit in question is made under, and in accordance with, a licence granted under section 20; or (c) where section 2(3) applies, the matter was deposited pursuant to an approval under subsection (2) and in accordance with the terms and conditions thereof; or (d) (Repealed 67 of 1990 s. 8) (e) the discharge or deposit was made in an emergency in order to avoid danger to life or property and as soon as was reasonably practicable he informed the Authority thereof in writing; or
+
+Part III 3-16 
+Section 12 Cap. 358 
+
+(f) he acted under instructions given to him by his employer 
+and he exercised the care and took the steps that the 
+court, having regard to his position as an employee, 
+considers reasonable in the circumstances to avoid 
+the occurrence of the prohibited discharge or deposit. 
+(Replaced 67 of 1990 s. 8) 
+(1A) A person does not commit an offence under section 8(1A) if 
+he proves that— 
+(a) the discharge or deposit was made in an emergency in 
+order to avoid danger to life or property and as soon as 
+was reasonably practicable he informed the Authority 
+thereof in writing; or 
+(b) he acted under instructions given to him by his employer 
+and he exercised the care and took the steps that the 
+court, having regard to his position as an employee, 
+considers reasonable in the circumstances to avoid the 
+occurrence of the prohibited discharge or deposit. (Added 
+67 of 1990 s. 8) 
+(1B) A person does not commit an offence under section 8 or 9 in 
+respect of a discharge— 
+(a) that is licensed under the Waste Disposal Ordinance 
+(Cap. 354); or 
+(b) that complies with the Waste Disposal (Livestock Waste) 
+Regulations (Cap. 354 sub. leg. A). (Added 67 of 1990 
+s. 8. Amended E.R. 3 of 2018) 
+(2) The Authority may by order published in the Gazette approve 
+the making of any particular kind of deposit as a farming 
+practice to which the provisions of subsections (1)(a), (1)(b) 
+and (1A) of section 8, or either of those provisions, do not 
+apply so far as it is made in such areas by such persons and 
+in such manner as may be specified in the order. (Amended 
+L.N. 74 of 1986; 67 of 1990 s. 22; 83 of 1993 s. 8) 
+Last updated date 
+18.8.2024 
+
+Part III 3-18 
+Section 12 Cap. 358 
+
+(3) The power of the Authority under subsection (2) extends to practices employed in all kinds of farming, including agriculture, animal husbandry and fish farming. (Amended L.N. 74 of 1986; 83 of 1993 s. 8) 13. Restoration of waters by convicted person (1) Where any person has been convicted of an offence under section 8(1), 8(1A), 8(2), 9(1) or 9(2) the Authority may if he is of the opinion that— (Amended 67 of 1990 s. 22) (a) any part of the waters of Hong Kong suffered continuing damage as a direct result of the commission of the offence; and (b) it is reasonably practicable to restore, or partially restore, that part to the condition it was in before the commission of the offence, by notice in writing require the person so convicted to carry out such work as is specified in the notice to effect such restoration or partial restoration. (2) A notice under subsection (1)— (a) may specify the manner in which the work is to be carried out; (b) shall stipulate the time before which the work shall be commenced and the time by which it shall be completed; (c) shall be addressed to and served personally or by registered post on the person who committed the offence. (3) If a person fails to comply with a notice under subsection (1) served on him, the Authority may, without further notice but subject to subsection (4), carry out or cause to be carried out the work, or the remaining work, specified in the notice and
+
+Part III 3-20 
+Section 13 Cap. 358 
+
+recover from that person the cost of so doing as a civil debt due to the Government. (Amended 21 of 2024 s. 78) (4) The Authority shall not exercise the power in subsection (3)— (a) until after the expiry of the time allowed under section 29(3) for appeal against a requirement under subsection (1); and (b) where an appeal is brought, until it is determined, withdrawn or abandoned. (5) (Repealed 83 of 1993 s. 9) 13A. Restoration of waters by Authority (1) Where the Authority considers that there has been an offence committed under section 8(1), 8(1A), 8(2), 9(1) or 9(2) and he considers that— (a) any part of the waters of Hong Kong is suffering continuing damage as a direct result of the commission of the alleged offence; (b) it is reasonably practicable to restore, or partially restore, that part to the condition it was in before the commission of the alleged offence; and (c) the damage is so severe that work to restore or partially restore the waters should start before any person has been charged or convicted, the Authority may carry out work to restore or partially restore the waters. (2) Following completion of the work the Authority shall reinstate any land that was entered to carry out the work under subsection (1), as far as it is practicable to do so, to the condition it was in before the entry.
+
+Part III 3-22 
+Section 13A Cap. 358 
+
+(3) All costs incurred by the Authority in carrying out work under this section, including any compensation paid by the Authority under the regulations to a third party, are recoverable from any person who is responsible for the damage to the waters of Hong Kong, regardless of whether or not the person has been convicted of an offence referred to in subsection (1).
+
+(Added 83 of 1993 s. 10)
+
+Part III 3-24 
+Section 13A Cap. 358 
+
+Part IV Licensing of Existing Discharges and Deposits (Amended 67 of 1990 s. 9) 14. Notices of existing discharges and deposits (1) After a day appointed by order under subsection (2) of section 7 and before a day appointed by order under subsection (3) of that section a person may apply to the Authority for a licence under section 15 in respect of an existing discharge or deposit to which those orders apply. (2) An application under subsection (1) shall be in such manner and form and contain such information and estimates as may be prescribed. (2A) The Authority is not required to consider an application under subsection (1) unless it is made by— (a) the person who makes or authorizes the discharge or deposit; or (b) the owner or occupier of the premises from which the discharge or deposit is made. (Added 67 of 1990 s. 10) (2B) The fee prescribed for an application under subsection (1) must be paid by a date specified in a demand note issued by the Authority. (Replaced 83 of 1993 s. 11) (3) (Repealed 83 of 1993 s. 11)
+
+(Amended 67 of 1990 s. 10) 15. Licensing of existing discharges and deposits (1) After receipt of an application and the prescribed fee under section 14, the Authority shall grant a licence under this section for the existing discharge or deposit unless—
+
+Part IV 4-2 
+Section 14 Cap. 358 
+
+(a) he considers that the discharge or deposit endangers or is likely to endanger public health; (b) he considers that the discharge or deposit is or is likely to be harmful to the health or safety of any person engaged in the operation or maintenance of a drainage or sewerage system; (c) he considers that the discharge or deposit is or is likely to be harmful to a drainage or sewerage system; (d) it has come to his attention that the discharge or deposit is made from premises that were erected in contravention of section 4 of the Land (Miscellaneous Provisions) Ordinance (Cap. 28); or (Amended 29 of 1998 s. 73) (e) it has come to his attention that where the discharge or deposit is made from premises on land held under a Government lease or on land occupied under a licence issued under section 5 of the Land (Miscellaneous Provisions) Ordinance (Cap. 28), the discharge or deposit is in breach of that Government lease or licence. (Amended 83 of 1993 s. 12; 29 of 1998 s. 73) (2) If the Authority refuses to grant a licence under this section he shall notify the applicant in writing of his refusal and shall in the notice state the reasons for the refusal. (3) A licence granted under this section expires, as specified by the Authority in the licence, not less than 2 years after the day appointed by order under section 7(3) in respect of the discharges or deposits. (Amended 83 of 1993 s. 12) (3A) Despite subsection (3) but subject to section 24, the Authority may, in respect of a licence granted under this section exclusively for the discharge of domestic sewage, as defined in section 9(3), specify in the licence that it continues in effect indefinitely. (Added 83 of 1993 s. 12)
+
+Part IV 4-4 
+Section 15 Cap. 358 
+
+(4) The Authority may grant a licence under this section on such terms and conditions as he thinks fit including terms and conditions relating to the matters set out in the First Schedule but the licence shall not, in the case of a discharge or deposit measurable by a flow rate, authorize a maximum flow rate less than the existing discharge or deposit. (Replaced 67 of 1990 s. 11) 16. Transitional; licensing of exempted discharges and deposits (1) Where, immediately before the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990), a discharge or deposit was exempt under section 15 as in force before that date, the discharge or deposit shall be deemed to be licensed under a licence granted under this subsection subject to any terms and conditions that were imposed in relation to the exempted discharge or deposit, and the licence shall continue in effect until the earlier of— (a) its replacement by a new licence granted under subsection (3); or (b) 2 years after the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990). (2) The Authority shall cancel a licence deemed to have been granted under subsection (1) where he considers that— (a) the discharge or deposit endangers or is likely to endanger public health; (b) the discharge or deposit is or is likely to be harmful to the health or safety of any person engaged in the operation or maintenance of a drainage or sewerage system; (c) the discharge or deposit is or is likely to be harmful to a drainage or sewerage system;
+
+Part IV 4-6 
+Section 16 Cap. 358 
+
+(d) the discharge or deposit is made from premises erected in contravention of section 4 of the Land (Miscellaneous Provisions) Ordinance (Cap. 28); (Amended 29 of 1998 s. 74) (e) where the discharge is made from premises on land held under a Government lease or on land occupied under a licence issued under section 5 of the Land (Miscellaneous Provisions) Ordinance (Cap. 28), the discharge or deposit is in breach of that Government lease or licence; (Amended 29 of 1998 s. 74) (f) the location of the discharge or deposit or the times or periods of the discharge or deposit differ from that set out in the notice given under section 14 as in force before the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990) or differs from any variation, cancellation or approval granted under section 18 as in force before that date; or (g) there has been a breach of any of the terms or conditions of the licence. (3) The Authority may, at any time before the expiry of a licence deemed to have been granted under subsection (1), grant a new licence to replace a licence deemed to have been granted under subsection (1) on such terms and conditions as he thinks fit including terms and conditions relating to the matters set out in the First Schedule but the licence shall not impose more stringent terms or conditions in respect of the flow rate or characteristics of the discharge or deposit as exempt under section 15 as it was in force immediately before the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990).
+
+Part IV 4-8 
+Section 16 Cap. 358 
+
+(4) A licence granted under subsection (3) expires 2 years after the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990). 
+(5) A licence under subsection (3) shall be granted only to— (a) the person who makes or authorizes the discharge or deposit; or (b) the owner or occupier of the premises from which the discharge or deposit is made. 
+
+(Replaced 67 of 1990 s. 11)
+
+Editorial Note: * Commencement date: 1 December 1990.
+
+17. Tolo Harbour—transitional (1) In this section— existing deposits (現有的沉積) and existing discharges (現有的 排放) have the same meanings as in section 2(1) but the day appointed (指定日期) referred to in the definitions of those expressions shall be construed as the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990); remaining discharges and deposits (其餘的排放及沉積) means all existing discharges and existing deposits that are not specified in the Schedule to the Water Pollution Control (Tolo Harbour and Channel Water Control Zone) (Appointed Days) Order (Cap. 358 sub. leg. E). (Amended E.R. 3 of 2018) (2) For the purposes of section 16(1), all remaining discharges and deposits that would, as set out in section 7(3)(a) or (b), affect the Tolo Harbour and Channel Water Control Zone shall be deemed to have been exempted under section 15 as in force before the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990)
+
+Part IV 4-10 
+Section 17 Cap. 358 
+
+other than those discharges and deposits made from premises referred to in section 15(3)(a) and (b) as then in force. (Replaced 67 of 1990 s. 11)
+
+Editorial Note: * Commencement date: 1 December 1990.
+
+18. (Repealed 67 of 1990 s. 11)
+
+Part IV 4-12 
+Section 18 Cap. 358 
+
+## Part V Licensing of Discharges and Deposits
+
+19. Applications for licences (1) A person who wishes to obtain a licence under section 20 for the purposes of section 8(1)(a), 8(1)(b) or 9(1) shall apply to the Authority in the prescribed form. (Amended 67 of 1990 s. 22) (1A) The Authority is not required to consider an application under subsection (1) unless it is made by— (a) the person who makes or authorizes the discharge or deposit; or (b) the owner or occupier of the premises from which the discharge or deposit is made. (Added 67 of 1990 s. 12) (2) The fee prescribed for an application under subsection (1) must be paid by a date specified in a demand note issued by the Authority. (Replaced 83 of 1993 s. 13) (3) The Authority shall publicly notify all applications for licences under section 20 for the purposes of section 8(1)(a) or section 8(1)(b)— (Amended 67 of 1990 s. 22) (a) by entering in the register such particulars thereof as may be prescribed; (b) by causing a notice to be published at the expense of the applicant in an English language and a Chinese language newspaper determined by the Authority containing such particulars of the application and other information as may be prescribed and a statement of the place or places where a copy of the application may be inspected.
+
+Part V 5-2 
+Section 19 Cap. 358 
+
+(3A) Subsection (3)(b) does not apply where the application is for a licence to discharge domestic sewage from a separate household unit. (Added 67 of 1990 s. 12) (4) During the period of 30 days after the last notice is published pursuant to subsection (3)— (a) a copy of the application shall be kept at each place notified under subsection (3)(b) and shall be available for inspection by the public during normal office hours; (b) any person may, in such manner as may be prescribed, object to the granting of the application on the ground that it would tend to inhibit the attainment or maintenance of the relevant water quality objective. 20. Grant of licences (1) The Authority may, not earlier than 40 days after the last notice is published in a newspaper pursuant to section 19(3), either grant or refuse to grant a licence under this section. (Amended 67 of 1990 s. 22) (2) If he refuses to grant a licence under this section the Authority shall notify the applicant in writing of his refusal and shall in the notice state his reasons therefor. (Amended 67 of 1990 s. 22) (3) The Authority shall not grant a licence under this section where he considers that, even by imposing terms or conditions under subsection (4)— (a) the discharge or deposit will endanger or is likely to endanger public health; (b) the discharge or deposit will be or is likely to be harmful to the health or safety of any person engaged in the operation or maintenance of a drainage or sewerage system;
+
+Part V 5-4 
+Section 20 Cap. 358 
+
+(c) the discharge or deposit will be or is likely to be harmful to a drainage or sewerage system; or (d) the attainment and maintenance of water quality objectives will not be or is not likely to be achieved. (Replaced 67 of 1990 s. 13) (3A) The Authority may refuse to grant a licence under this section if, in relation to the discharge or deposit, there has been a breach of any of the terms or conditions of a licence granted under section 15, 16 or 23A or a person has been convicted of an offence under this Ordinance in relation to the discharge or deposit. (Added 67 of 1990 s. 13) (4) The Authority may grant the licence under this section in such terms and on such conditions as he thinks fit including terms and conditions relating to the matters set out in the First Schedule. (Amended 67 of 1990 s. 22) (5) The Authority may grant a licence under this section for a period of not less than 2 years. (Replaced 67 of 1990 s. 13) (6) Despite subsection (5) but subject to section 24, the Authority may, in respect of a licence granted under this section exclusively for the discharge of domestic sewage, as defined in section 9(3), specify in the licence that it continues in effect indefinitely. (Added 83 of 1993 s. 14) 21. Technical memorandum (1) The Secretary may issue a technical memorandum setting out permissible limits of the physical characteristics and chemical components of discharges and deposits in a water control zone. (2) The Secretary may issue different technical memorandums in respect of different locations in Hong Kong or in respect of different parts of the environment, or both.
+
+Part V 5-6 
+Section 21 Cap. 358 
+
+(3) The Authority shall be guided by all applicable technical memorandums when issuing or renewing a licence under sections 15, 20, 23 and 23A. 
+(4) A technical memorandum issued under this section shall be published in the Gazette and shall be laid on the table of the Legislative Council at the next sitting after its publication. 
+(5) Where a technical memorandum has been laid on the table of the Legislative Council under subsection (4), the Legislative Council may, by resolution passed at a sitting of the Legislative Council held before the expiration of a period of 28 days after the sitting at which it was so laid, provide that the technical memorandum shall be amended in any manner consistent with this section. 
+(6) If the period referred to in subsection (5) would but for this subsection expire— (a) after the end of a session of the Legislative Council or a dissolution thereof; but (b) on or before the day of the second sitting of the Legislative Council in the next following session thereof, that period shall be deemed to extend to and expire on the day after that second sitting. 
+(7) Before the expiration of the period referred to in subsection (5) or that period as extended by virtue of subsection (6), the Legislative Council may by resolution in relation to a technical memorandum specified therein— (a) in the case of the period referred to in subsection (5), extend that period to the first sitting of the Legislative Council held not earlier than the twenty-first day after the day of its expiration; 
+
+Part V 5-8 
+Section 21 Cap. 358 
+
+(b) in the case where the period referred to in subsection (5) 
+has been extended by virtue of subsection (6), extend 
+that period as so extended to the first sitting of the 
+Legislative Council held not earlier than the twenty 
+first day after the day of the second sitting in that next 
+following session. (Replaced 8 of 2002 s. 11) 
+(8) A resolution passed by the Legislative Council in accordance with this section shall be published in the Gazette not later than 14 days after the passing thereof or within such further period as the Chief Executive may allow in any particular case. (Amended 21 of 2024 s. 78) 
+(9) A technical memorandum issued under this section shall come into operation— (a) in the case where before the expiration of the period referred to in subsection (5) or, before the expiration of that period as extended under subsection (6) or (7), the Legislative Council does not pass a resolution amending the technical memorandum, upon the expiration of that period or, upon the expiration of that period as so extended, as the case may be; and (b) in the case where the Legislative Council passes a resolution amending the technical memorandum, upon the expiration of the day next preceding the day of the publication in the Gazette of such resolution under subsection (8). 
+(10) In this section, sitting (立法會會議), when used to calculate time, means the day on which the sitting commences and only includes a sitting at which subsidiary legislation is included on the order paper. (Added 89 of 1993 s. 35. Amended 21 of 2024 s. 78) 
+
+(Replaced 67 of 1990 s. 14)
+
+Part V 5-10 
+Section 21 Cap. 358 
+
+22. Effect of a licence (1) A licence for the purposes of section 8(1)(a) shall, subject to the terms and conditions of the licence and during the period specified therein, authorize— (a) the discharge of matter or any specified class or description of matter into the waters of Hong Kong; (b) the deposit of matter or any specified class or description of matter (as provided in section 2(3)), which, but for such authorization, would be a contravention of section 8(1)(a). (2) A licence for the purposes of section 8(1)(b) shall, subject to the terms and conditions of the licence and during the period specified therein, authorize— (a) the discharge of matter or any specified class or description of matter into inland waters; (b) the deposit of matter or any specified class or description of matter (as provided in section 2(3)), which, but for such authorization, would be a contravention of section 8(1)(b). (3) A licence for the purposes of section 9(1) shall, subject to the terms and conditions of the licence and during the period specified therein, authorize— (a) the discharge of matter, or any specified class or description of matter, into a communal sewer or communal drain; (Amended 67 of 1990 s. 22) (b) the deposit of matter, or any specified class or description of matter (as provided in section 2(3)), which, but for such authorization, would be a contravention of section 9(1).
+
+Part V 5-12 
+Section 22 Cap. 358 
+
+(4) A licence shall not be limited to a discharge or deposit by a particular person but shall extend to the discharge or deposit in question when made by any person. 23. Renewal of licences (1) During such period before the expiry of a licence granted under section 20 as may be prescribed, the person who is making the discharge or deposit may apply in the prescribed form for a renewal of the licence. (2) The fee prescribed for an application under subsection (1) must be paid by a date specified in a demand note issued by the Authority. (Replaced 83 of 1993 s. 15) (3) Section 19(3), (3A) and (4) shall apply for the purpose of publicly notifying an application for the renewal of a licence for the purposes of section 8(1)(a) or 8(1)(b) as if it were an application for a licence. (3A) Despite subsection (3), section 19(3), (3A) and (4) shall not apply for the purpose of publicly notifying an application where the application is in respect of a discharge from an applicant’s establishment that consumes 10 m 3 or less of water a day and the rate of flow of the discharge applied for is not greater than that. (Added 83 of 1993 s. 15) (4) The Authority may renew or refuse to renew the licence but, except where section 19(3A) applies, in the case of an application for renewal of a licence for the purposes of section 8(1)(a) or 8(1)(b) shall not do so earlier than 30 days after the last notice is published in a newspaper pursuant to subsection (3). (5) Subsections (2), (3), (4) and (5) of section 20 shall apply to the renewal of a licence as they apply to the grant or refusal of a licence under that section.
+
+(Amended 67 of 1990 s. 22)
+
+Part V 5-14 
+Section 23 Cap. 358 
+
+23A. Renewal of section 16 licences (1) During such period before the expiry of a licence originally granted or deemed to have been granted under section 16 as may be prescribed, the person making the discharge or deposit may apply to the Authority in the prescribed form for renewal of the licence. (2) The fee prescribed for an application under subsection (1) must be paid by a date specified in a demand note issued by the Authority. (Replaced 83 of 1993 s. 16) (3) Section 19(3), (3A) and (4) apply for the purpose of publicly notifying an application under subsection (1) as if it were an application for a licence under that section. (3A) Despite subsection (3), section 19(3), (3A) and (4) shall not apply for the purpose of publicly notifying an application where the application is in respect of a discharge from an applicant’s establishment that consumes 10 m 3 or less of water a day and the rate of flow of the discharge applied for is not greater than that. (Added 83 of 1993 s. 16) (4) In a case where section 19(3) applies, the Authority shall not renew or refuse to renew a licence under this section earlier than 30 days after the last notice is published in a newspaper pursuant to section 19(3). (5) After receipt of an application under subsection (1) and the prescribed fee under subsection (2) the Authority shall renew the licence in respect of the discharge or deposit unless— (a) he considers that any of the conditions set out in section 16(2)(a), (b), (c), (f) or (g) exists; (aa) it has come to his attention that any of the conditions set out in section 16(2)(d) or (e) exists; (Added 83 of 1993 s. 16)
+
+Part V 5-16 
+Section 23A Cap. 358 
+
+(b) he considers that the composition of the discharge or 
+deposit does not comply with a technical memorandum 
+that is applicable to the discharge or deposit; 
+(c) he considers that there has been a breach of any of the 
+terms or conditions of the licence; or 
+(d) he considers that a person has been convicted of an 
+offence under this Ordinance in relation to the discharge 
+or deposit. (Amended 83 of 1993 s. 16) 
+(6) If the Authority refuses to renew a licence under this section he shall notify the applicant in writing of his refusal and shall in the notice state the reasons for the refusal. 
+(7) The Authority may renew a licence under this section on such terms and conditions as he thinks fit including terms and conditions relating to the matters set out in the First Schedule but the licence shall not, in the case of a discharge or deposit measurable by a flow rate, authorize a maximum flow rate less than the discharge or deposit as exempt under section 15 as it was in force immediately before the date of commencement* of the Water Pollution Control (Amendment) Ordinance 1990 (67 of 1990). (Amended L.N. 210 of 1994) 
+(8) The Authority may renew a licence under this section for a period of not less than 2 years. 
+
+(Added 67 of 1990 s. 15)
+
+Editorial Note: * Commencement date: 1 December 1990.
+
+24. Cancellation or variation of a licence (1) Subject to section 6(6), the Authority may, by notice in writing to a person who is making a discharge or deposit for which a licence is in force, exercise any of the powers set out in subsection (3) if he considers that—
+
+Part V 5-18 
+Section 24 Cap. 358 
+
+(a) any part of the waters of Hong Kong are in such a 
+condition as to constitute a danger to the health of the 
+public, or a section of the public and the exercise of the 
+power in relation to the discharge or deposit would tend 
+to lessen that danger; (Amended 67 of 1990 s. 16) 
+(b) in the case of a licence for the purposes of section 9(1), 
+the discharge or deposit may be harmful to the drainage 
+or sewerage system or to the health or safety of any 
+person engaged in the operation thereof; (Amended 67 of 
+1990 ss. 16 & 22) 
+(c) it is necessary in order to achieve a new water quality 
+objective; or (Added 67 of 1990 s. 16) 
+(d) in the case of a licence originally granted or deemed to 
+have been granted under section 15 or 16, there has been 
+a breach of any of terms or conditions of the licence or 
+a person has been convicted of an offence under this 
+Ordinance in relation to the discharge or deposit. (Added 
+67 of 1990 s. 16) 
+(2) Where paragraphs (a) to (d) of subsection (1) do not apply to a discharge or deposit, the Authority may (by notice in writing as provided in that subsection) exercise any power set out in subsection (3), in relation to that discharge or deposit only with the prior approval of the Chief Executive in Council, as to both the exercise and the manner of the exercise of the power, or with the agreement of the person who is making the discharge or deposit. (Amended 67 of 1990 s. 16; 21 of 2024 s. 78) 
+(3) The powers referred to in subsections (1) and (2) are— (a) (i) to impose new or amended terms and conditions subject to the observance of which, as from a specified date, the licence shall continue in force; 
+
+Part V 5-20 
+Section 24 Cap. 358 
+
+(ii) to declare the licence liable to cancellation at any 
+time the person fails to observe any such term or 
+condition; 
+(iii) to cancel the licence as from a specified date if the 
+person fails to observe any such term or condition; 
+(b) to cancel the licence as from a specified date; 
+(c) to amend or add to any notice previously given under 
+this section, or any part of such notice, or to substitute a 
+new notice for it. 
+(4) The Authority may revoke a notice previously given under this section, subject to the further approval of the Chief Executive in Council in the case of a revocation which affects anything previously done under this section with the approval of the Chief Executive in Council. (Amended 21 of 2024 s. 78) 
+(5) The date specified in a notice for the amendment or addition of any term or condition under paragraph (a)(i) or (c) of subsection (3) or the cancellation of a licence under paragraph (a)(iii) or (b) thereof shall be not less than 90 days after the day on which the notice is given to the person who is making the discharge or deposit. 
+(6) Subject to subsection (2), the Authority may impose such terms and conditions under subsection (3) as he thinks fit including any term or condition— (a) requiring the person to restrict or from time to time to suspend the discharge or deposit; (b) relating to the matters set out in the First Schedule. 
+(7) Where, before the first discharge of wastewater into a communal sewer or communal drain that— (a) is vested in and maintained by the Government as a sewer or drain for the carriage of foul water; 
+
+Part V 5-22 
+Section 24 Cap. 358 
+
+(b) conducts the discharge into a communal sewer or communal drain that is vested in and maintained by the Government as a sewer or drain for the carriage of foul water; or (c) delivers the sewage to a wastewater treatment facility, the discharge from which is licensed, the discharge was previously licensed, the licence in respect of that discharge shall be deemed to be cancelled when the discharge is first made into the sewer or drain. (Added 83 of 1993 s. 17) 25. Compensation for cancellation or variation of certain licences (1) Where a licence is, pursuant to section 24(1)— (a) cancelled as provided in section 24(3)(b); or (b) varied as provided in section 24(3)(a)(i) or (c) so as to impose additional obligations on the person making the discharge or deposit, within 2 years after it came into effect, the Authority shall be liable to pay compensation to the person whose licence is cancelled or varied if the circumstances set out in subsection (2) are present. (Amended 42 of 1985 s. 3) (2) The circumstances mentioned in subsection (1) are— (a) that the possibility of danger to health or harm to the drainage or sewerage system or to the health or safety of any person engaged in the operation thereof or the establishment of a new water quality objective (as provided in section 24(1)(a), (b) and (c)) was known or could with reasonable foresight have been known, to the Authority at the time the licence was granted or renewed; or
+
+Part V 5-24 
+Section 25 Cap. 358 
+
+(b) that the danger, harm or new water quality objective mentioned in paragraph (a) is a consequence of licences granted or renewed after the grant, or, where a licence has been renewed, the last renewal of the licence which is cancelled or varied.
+
+(Amended 67 of 1990 s. 22) 26. Compensation for cancellation of licences and exemptions with the approval of the Chief Executive in Council (Amended 21 of 2024 s. 78)
+
+(1) (Repealed 67 of 1990 s. 22) (2) Where a licence is, pursuant to section 24(2)— (a) cancelled as provided in section 24(3)(b); or (b) varied as provided in section 24(3)(a)(i) or (c) so as to impose additional obligations on the person making the discharge or deposit, within 2 years after it came into effect the Authority shall be liable to pay compensation to the person whose licence is cancelled or varied. (Amended 42 of 1985 s. 4; 67 of 1990 s. 22) 27. Assessment of compensation (1) Subject to subsection (2), the manner of determining the amount of compensation payable under sections 25 and 26, the factors to be taken into account or disregarded and the principle to be applied in determining that amount shall be such as may be prescribed in regulations made under section 46. (2) The provisions of the Second Schedule shall have effect for the purposes of determining the amount of compensation
+
+Part V 5-26 
+Section 26 Cap. 358 
+
+payable under sections 25 and 26 and for the purposes of the incidental matters for which they provide. 28. Applications for variation of licences (1) A person who is making a discharge or deposit for which a licence is in force may apply to the Authority in the prescribed form for a variation of the licence. (2) The fee prescribed for an application under subsection (1) must be paid by a date specified in a demand note issued by the Authority. (Replaced 83 of 1993 s. 18) (3) Section 19(3), (3A) and (4) shall apply for the purpose of publicly notifying an application under this section for the variation of a licence for the purposes of section 8(1)(a) or section 8(1)(b) as if it were an application for a licence. (Amended 67 of 1990 s. 22) (4) The Authority may either grant the application, with or without modification, or refuse to grant it but, except where section 19(3A) applies, in the case of a variation of a licence for the purposes of section 8(1)(a) or section 8(1)(b) shall not do so earlier than 30 days after the last notice is published in a newspaper pursuant to subsection (3). (Amended 67 of 1990 s. 22) (5) If the Authority refuses to grant an application or any part thereof he shall notify the applicant and shall inform him of the reasons for his refusal. (6) Section 20(3) shall apply to the exercise by the Authority of his discretion under this section as it applies to the exercise of his discretion to grant or refuse a licence. (7) The Authority may grant an application on such terms and conditions as he thinks fit (including terms and conditions relating to the matters set out in the First Schedule) except that, without prejudice to section 24, he shall not impose any
+
+Part V 5-28 
+Section 28 Cap. 358 
+
+new obligation on the applicant in relation to that part of the 
+discharge or deposit which is already licensed unless— 
+(a) the place at which the discharge or deposit may be made 
+is being varied; or 
+(b) in his opinion such part would have a significantly 
+different effect on the relevant waters as a result of the 
+granting of the application. 
+
+Part V 5-30 
+Section 28 Cap. 358 
+
+## Part VI Appeals
+
+29. When appeal may be brought (1) Subject to subsection (2), a person who is aggrieved by a requirement or decision of the Authority or the Secretary under any of the following provisions may appeal to an Appeal Board constituted under this Part— (a) section 13(1) (requiring a convicted person to restore waters); (aa) section 13A(3) respecting the responsibility for damage and the reasonableness of the costs incurred, but no appeal is available to a person convicted of one of the offences referred to in section 13A(1); (Added 83 of 1993 s. 19) (b) section 14(2A) (refusing to consider an application); (Replaced 67 of 1990 s. 22) (c) section 15(1) (refusing to grant a licence); (Replaced 67 of 1990 s. 22) (d) section 15(4) (fixing terms and conditions of a licence); (Replaced 67 of 1990 s. 22) (e) section 16(2) (cancelling a temporary licence); (Replaced 67 of 1990 s. 22) (f) section 16(3) (granting or fixing terms and conditions of a new licence); (Replaced 67 of 1990 s. 22) (fa) section 19(1A) (refusing to consider an application); (Added 67 of 1990 s. 22) (g) section 20(1) (refusing to grant a licence);
+
+Part VI 6-2 
+Section 29 Cap. 358 
+
+(h) section 20(4) (fixing terms and conditions of a licence); 
+(i) section 20(5) (the period of the licence); (Replaced 67 
+of 1990 s. 22) 
+(j) section 23(4) (refusing to renew a licence); 
+(ja) section 23A(5) (refusing to renew a licence); (Added 67 
+of 1990 s. 22) 
+(jb) section 23A(7) (fixing terms and conditions of a 
+licence); (Added 67 of 1990 s. 22) 
+(jc) section 23A(8) (the period of the renewed licence); 
+(Added 67 of 1990 s. 22) 
+(k) section 24(3)(a)(i) (imposing new or amended terms or 
+conditions for continuance of a licence); 
+(l) sections 24(3)(a)(iii) and 24(3)(b) (cancelling a licence); 
+(m) section 24(3)(c) (amending or adding to a notice or 
+substituting a new notice); 
+(n) section 28(4) (refusing to vary a licence); 
+(o) section 35 (requiring information to be furnished); 
+(p) section 43 (refusing to withhold information from the 
+register). 
+(2) No appeal shall lie under this section where the requirement of the Authority is made with the prior approval of the Chief Executive in Council under section 24(2). (Amended 67 of 1990 s. 22; 21 of 2024 s. 78) 
+(3) An appeal under subsection (1) shall be made by lodging a notice of appeal in the prescribed manner and form within 21 days after the person aggrieved has received notice of the decision or requirement. 
+(4) Where the decision or requirement appealed from was made under a provision mentioned in paragraphs (a), (b) to (e), (i) to (m) or (o) of subsection (1) the notice thereof shall 
+
+Part VI 6-4 
+Section 29 Cap. 358 
+
+be suspended and cease to have effect as from the day on which notice of appeal is duly given to the Authority and until the appeal is disposed of, withdrawn or abandoned, unless— (Amended 67 of 1990 s. 22; 83 of 1993 s. 19) (a) the decision or requirement is considered by the Authority to be necessary because— (i) in any case, the quality of the part of the waters of Hong Kong to which the decision or requirement relates may constitute a danger to the health of the public or a section of the public; or (ii) in the case of a licence for the purposes of section 9, the discharge or deposit to which the decision or requirement relates may be harmful to the drainage or sewerage system or to the health or safety of any person engaged in the operation thereof; and (b) the notice contains a statement to that effect. (Amended 67 of 1990 s. 22) (4A) Subsection (4) does not apply where the decision that is appealed under this section arises under section 20(3A) or 24(1)(d). (Added 67 of 1990 s. 22) (4B) Where the decision appealed from was made under section 13A(3), no enforcement or further enforcement for the recovery of costs shall be taken under section 40B until the appeal is disposed of, withdrawn or abandoned. (Added 83 of 1993 s. 19) (5) Where the appeal is from a decision of the Secretary under section 43, he shall not enter in the register the information to which the appeal relates until the appeal is disposed of, withdrawn or abandoned. 30. Constitution of Appeal Board (1) Every appeal under section 29 shall be determined by an
+
+Part VI 6-6 
+Section 30 Cap. 358 
+
+Appeal Board constituted under this Part. (2) The Chief Executive shall appoint as Chairman of Appeal Boards a person who is qualified in law. (Amended 21 of 2024 s. 78) (3) Subject to section 32(3), the Chairman and any person appointed under subsection (4) shall be appointed for a term of not exceeding 3 years but may be reappointed. (Amended 83 of 1993 s. 20) (4) The Chief Executive shall also appoint a panel of persons whom he considers to be suitable for appointment as members of an Appeal Board pursuant to section 31(1). (Amended 21 of 2024 s. 78) (5) An appointment under subsection (2) and every appointment to the panel under subsection (4) shall be notified in the Gazette. (6) In subsection (2) and in section 32(1) qualified in law (具法 律專業資格) means qualified for appointment as a District Judge under section 5 of the District Court Ordinance (Cap. 336). (Amended E.R. 3 of 2018) 31. Exercise of Appeal Board’s jurisdiction (1) The jurisdiction of an Appeal Board on any appeal or group of appeals shall be exercised by the Chairman and such number of persons from the panel referred to in section 30(4) as the Chairman may appoint for that appeal or group of appeals. (2) On any appeal an Appeal Board may confirm, reverse or vary the decision or requirement of the Authority or the Secretary. (3) Every question before an Appeal Board shall be determined by the opinion of the majority of the Chairman and the members hearing the appeal except a question of law which
+
+Part VI 6-8 
+Section 31 Cap. 358 
+
+shall be determined by the Chairman; in the event of an equality of votes the Chairman shall have a casting vote. (4) An Appeal Board shall not at any time consist of a majority of persons who are public officers. (5) An Appeal Board may— (a) receive evidence on oath; (b) admit or take into account any statement, document, information or matter whether or not it would be admissible as evidence in a court of law; and (c) by notice in writing summon any person to appear before it to produce any document or to give evidence. (6) The Chairman may determine any form or matter of practice or procedure in so far as no provision is made therefor in this Ordinance. 32. Supplementary provisions as to Appeal Board (1) If the Chairman of Appeal Boards is precluded by illness, absence from Hong Kong or any other cause from exercising his functions the Chief Executive may appoint any other person qualified in law to act as Chairman and as such to exercise and perform all of the powers, functions and duties of the Chairman during the period of his appointment. (Amended 21 of 2024 s. 78) (2) If a person appointed by the Chairman under section 31(1) to hear an appeal or group of appeals is precluded by illness, absence from Hong Kong, or any other cause from exercising his functions, the Chairman may appoint any other person from the panel provided for in section 30(4) to act in his place. (3) The Chairman of Appeal Boards and any person appointed under section 30(4) may at any time resign his office by
+
+Part VI 6-10 
+Section 32 Cap. 358 
+
+notice in writing to the Chief Executive. (Amended 83 of 1993 s. 21; 21 of 2024 s. 78) (4) If the parties to an appeal consent, the hearing of the appeal may be continued notwithstanding any change in the membership of an Appeal Board as if the change had not occurred. 33. Review of Appeal Board’s decision by Chief Executive in Council
+
+(Amended 21 of 2024 s. 78)
+
+(1) This section applies where— (a) an Appeal Board has reversed or varied a decision or requirement of the Authority or the Secretary; and (b) the Authority or Secretary considers that exceptional circumstances require the review of the Board’s decision in the public interest. 
+(2) The Authority or Secretary may, where this section applies, within 14 days of being notified of a decision of an Appeal Board refer the case for review by the Chief Executive in Council. 
+(3) Where the Authority or the Secretary has referred a case for review under subsection (2), he shall forthwith notify the other party in writing of the reference, giving his reasons for seeking the review and inviting him to submit written representations concerning the review, within 14 days of receiving the notice, for consideration by the Chief Executive in Council. 
+(4) Upon a reference under subsection (2) and upon the expiry of the period of 14 days referred to in subsection (3) the Chief Executive in Council may review the case, considering any representations submitted under subsection (3), and may confirm, reverse or vary the decision of the Appeal Board. 
+
+Part VI 6-12 
+Section 33 Cap. 358 
+
+(Amended 21 of 2024 s. 78) 34. Case may be stated for Court of Appeal (1) The Chairman of Appeal Boards may of his own motion, before an appeal is determined, refer any question of law to the Court of Appeal by way of case stated. (2) On the hearing of the case the Court of Appeal may amend the case or order it to be sent back to the Appeal Board for amendment.
+
+Part VI 6-14 
+Section 34 Cap. 358 
+
+## Part VII Powers of Enforcement
+
+35. Authority may obtain information (1) The Authority may by notice in writing to any person require him to furnish to the Authority, within a period and in a form stipulated in the notice, any information specified in the notice being information which he is authorized to obtain by regulations made under section 46(1)(j) or which the Authority may reasonably require for the purpose of exercising and performing his powers, functions and duties under this Ordinance. (2) A person who— (a) fails without reasonable excuse to comply with the requirements of a notice served on him under subsection (1); or (b) in compliance or purported compliance with such a notice, makes any statement which he knows to be false in a material particular or recklessly makes any statement which is false in a material particular or knowingly omits any material particular, commits an offence and is liable to a fine at level 3. (Amended 67 of 1990 s. 17) (3) A person who in an application under this Ordinance makes a statement or gives an estimate which he knows to be false in a material particular or who recklessly makes a statement or gives an estimate which is false in a material particular or knowingly omits a material particular from the application commits an offence and is liable to a fine at level 3. (Added 83 of 1993 s. 22)
+
+Part VII 7-2 
+Section 35 Cap. 358 
+
+(Amended E.R. 2 of 2021)
+
+36. Authorized officers 
+(1) Subject to subsection (2), the Authority may in writing 
+authorize public officers to exercise the powers conferred on 
+an authorized officer by sections 37 and 38, or such of those 
+powers as the Authority may specify. 
+(2) The Authority shall under subsection (1), authorize only a 
+public officer of or above the rank specified to exercise the 
+following powers— 
+(a) the powers in section 38(b) and (c), an officer of or 
+above the rank of Environmental Protection Officer; 
+(b) any other power conferred by section 37 or 38 on an 
+authorized officer, an officer of or above the rank of 
+Environmental Protection Inspector. (Amended 58 of 
+1987 s. 15; 83 of 1993 s. 23) 
+(3) An authorized officer exercising any power in section 37 or 
+38 may take with him such persons as he reasonably requires 
+to assist him in the discharge of his duties. 
+37. Powers of authorized officers to enter premises etc. 
+(1) Subject to subsection (2), an authorized officer may, for the 
+purposes of this Ordinance, without a warrant enter any place 
+or premises or stop and board any vessel— 
+(a) from or on which he has reason to suspect that, in 
+contravention of section 8(1) or (1A), matter has been or 
+is being discharged or deposited into the waters of Hong 
+Kong or inland waters, or, in contravention of section 
+9(1), matter has been or is being discharged or deposited 
+into any communal sewer or communal drain; 
+(b) from or on which matter is being discharged or 
+deposited as mentioned in paragraph (a) pursuant 
+
+Part VII 7-4 
+Section 36 Cap. 358 
+
+to a licence, whether or not there is a suspected contravention of section 8 or 9; (c) on which he has reason to believe there is any thing likely to be, or to contain, evidence of an offence against this Ordinance. (2) An authorized officer shall not under subsection (1) enter domestic premises (other than that part of such premises on which there is a private wastewater treatment facility) or board any vessel used wholly or principally for dwelling purposes without a warrant issued by a magistrate under subsection (3). (Amended 83 of 1993 s. 24) (3) A magistrate may issue a warrant empowering any authorized officer to enter domestic premises or to board any vessel used wholly or principally for dwelling purposes if the magistrate is satisfied by information on oath that there is reasonable ground for suspecting that— (a) contrary to section 8(1) or (1A), any matter is being or has been discharged or deposited into the waters of Hong Kong or inland waters from those premises or that vessel; or (b) contrary to section 9(1), any matter is being or has been discharged or deposited from those premises or that vessel into any communal sewer or communal drain; (c) there is on those premises or on that vessel any thing likely to be, or to contain, evidence of an offence against this Ordinance. (3A) Where an authorized officer or authorized agent has reasonable grounds for believing that it is necessary for the purpose of carrying out any work under section 13A or authorized under the regulations, he may without warrant enter any place or premises on which any inspection, survey
+
+Part VII 7-6 
+Section 37 Cap. 358 
+
+or work is to be carried out or through which access is needed 
+for that purpose. (Added 83 of 1993 s. 24) 
+(3B) An authorized officer or authorized agent shall not under 
+subsection (3A) enter domestic premises without a warrant 
+issued by a magistrate under subsection (3C). (Added 83 of 
+1993 s. 24) 
+(3C) A magistrate may issue a warrant empowering an authorized 
+officer or authorized agent to enter any premises if he is 
+satisfied by information on oath that the entry is required for 
+the purpose of section 13A or for the purposes authorized 
+under the regulations. (Added 83 of 1993 s. 24) 
+(4) An authorized officer or authorized agent who enters any 
+place or premises or boards any vessel— 
+(a) shall, if so required, produce evidence of his identity 
+and of his authorization by the Authority under this 
+Ordinance; and 
+(b) shall, if a warrant is under subsection (3) or (3C) 
+required for entry, produce that warrant. (Amended 83 of 
+1993 s. 24) 
+
+(Amended 67 of 1990 s. 22)
+
+38. Further powers of authorized officers An authorized officer who has pursuant to section 37 or any warrant issued thereunder, entered any place or premises or boarded any vessel, or who has been admitted to any place, premises or vessel in the course of his duties, may— (a) inspect any plant or equipment or observe any process or procedure which he has reason to suspect is being, or has been, or is intended to be, used in connexion with—
+
+Part VII 7-8 
+Section 38 Cap. 358 
+
+(i) a discharge or deposit which is being, or has been, 
+made contrary to section 8(1) or (1A) or 9(1), or is 
+made pursuant to a licence; 
+(ii) the treatment of any matter which is being, or is 
+intended to be, discharged or deposited into the 
+waters of Hong Kong or inland waters or into any 
+communal sewer or communal drain, 
+and may require any person in charge of the place, 
+premises or vessel to do anything which the officer 
+reasonably considers to be necessary for facilitating the 
+inspection or observation; 
+(b) require the person in charge of the place, premises or 
+vessel to produce for examination any drawing, record 
+or document which is in the possession of such person, 
+or which he can reasonably obtain, relating to any plant 
+or equipment referred to in paragraph (a) or to any 
+discharge or deposit to which section 8(1) or (1A) or 
+9(1) applies or the officer has reason to suspect may 
+apply; 
+(ba) if there are reasonable grounds for believing that it is 
+necessary for the purpose of carrying out his duties 
+or for the effective enforcement of this Ordinance, 
+require a person present at the place or premises or by 
+or on board the vessel to produce his identity card for 
+inspection, to give his address and telephone number 
+and to produce evidence to that effect for inspection; 
+(Added 83 of 1993 s. 25) 
+(c) seize, remove and detain any drawing, record or 
+document referred to in paragraph (b) or any other 
+article or thing if he has reason to suspect that it is, or 
+contains, evidence of an offence under this Ordinance; 
+
+Part VII 7-10 
+Section 38 Cap. 358 
+
+(d) examine and make copies of records kept pursuant to a 
+condition of the kind mentioned in paragraph 9 of the 
+First Schedule; 
+(e) install sampling devices for and take samples of any 
+matter which is within the description in paragraph (a)(ii) 
+or which he has reason to believe may come within that 
+description. (Amended 83 of 1993 s. 25) 
+(Amended 67 of 1990 s. 22) 
+
+39. Analysis of samples (1) A certificate of analysis of a sample of any matter may be tendered in evidence in any proceedings under this Ordinance and shall, until the contrary is proved, be sufficient evidence of the facts stated therein if the procedure set out in this section has been complied with, or substantially complied with so far as is reasonably practicable, in relation to that sample. (2) An authorized officer who takes a sample of any matter for the purposes of subsection (1) shall— (a) divide it into 3 approximately equal parts; (b) place each part in a separate container and suitably mark or label each container; (c) ensure that the person appearing to be in occupation of the premises on which the sample was taken or his servant or agent— (i) is handed such one of the parts as that person or his servant or agent may select or, if that is not reasonably practicable, is handed or sent by registered post such one of the parts as the officer shall select; and
+
+Part VII 7-12 
+Section 39 Cap. 358 
+
+(ii) is informed that one of the other 2 parts is intended to be submitted to the analyst for analysis; (d) except where an analysis proves to be unnecessary, personally submit one of the remaining 2 parts to the analyst for analysis and retain the other for the purposes of comparison. (3) As soon as the analyst has completed the analysis he shall furnish to the Authority and to the person referred to in subsection (2)(c), or his servant or agent, a certificate of the results of the analysis. (Amended 83 of 1993 s. 26) (4) A certificate under subsection (3) shall be signed by the analyst but the analysis may be made by a person acting under his directions; and any certificate purporting to have been signed by the analyst shall be presumed, until the contrary is proved, to have been signed by him. (5) In this section analyst (化驗師) means the Government Chemist or any person appointed by the Chief Executive as an analyst for the purposes of this section. (Amended 21 of 2024 s. 78) (6) An appointment by the Chief Executive under subsection (5) shall be notified in the Gazette. (Amended 21 of 2024 s. 78) 40. Offences in relation to sections 37 and 38 A person who— (a) wilfully obstructs an authorized officer in the exercise of any power conferred on such officer by or under section 37 or 38; or (b) fails without reasonable excuse to comply with any requirement duly made by an officer under those sections; or
+
+Part VII 7-14 
+Section 40 Cap. 358 
+
+(c) in compliance or purported compliance with any such requirement produces any drawing, document or record which he knows to be incorrect or inaccurate in a material particular or does not believe to be correct and accurate, commits an offence and is liable to a fine at level 3. (Amended 67 of 1990 s. 18; E.R. 2 of 2021)
+
+40A. Sampling offences A person who— (a) tampers or interferes with a device that is used for sampling any matter under this Ordinance; (b) tampers or interferes with a sample obtained under this Ordinance; (c) diverts an effluent stream away from an installed device that is used for sampling discharges under this Ordinance; or (d) does anything in relation to an effluent stream for the purpose of causing a misleading sample to be taken from an installed device that is used for sampling discharges under this Ordinance, commits an offence and is liable to a fine at level 3. (Added 67 of 1990 s. 19. Amended E.R. 2 of 2021)
+
+Part VII 7-16 
+Section 40A Cap. 358 
+
+## Part VIII Miscellaneous
+
+40B. Recovery of costs (1) Where under this Ordinance the Authority is authorized to recover the costs of works carried out, he may certify the costs due and names of the persons liable for the costs, apportioning the costs if appropriate. (2) Without limiting the generality of costs (費用), the costs may include supervision charges and the costs of materials supplied by the Authority for the purpose of carrying out the works. (3) The Authority shall serve a copy of his certificate on each person who is liable to pay costs. (4) Annual interest at the rate of 10% commencing 1 month after the date of service of the certificate is recoverable as part of the costs. (5) Payment of costs by any person is without prejudice to his right to recover the payment from any other person who is liable to pay for the costs. (6) Costs certified by the Authority are recoverable as a civil debt due to the Government. (Amended 21 of 2024 s. 78) (7) A writ of summons initiating an action to recover costs as a civil debt due to the Government shall be presumed to have been served if the court is satisfied that the writ was left at the defendant’s residence or place of business or, if those are not known, that it was left at the building or land in respect of which the claim is made. (Amended 21 of 2024 s. 78)
+
+Part VIII 8-2 
+Section 40B Cap. 358 
+
+(8) A certificate purporting to be certified by the Authority under subsection (1) shall on its production be admitted in any proceedings without further proof and shall be presumed, in the absence of evidence to the contrary, to be proof of the signature of the Authority and of the facts certified in relation to the costs due from the person sued for the matters specified. 
+(9) At any time before the costs have been wholly recovered, a copy of the certificate referred to in subsection (1) may be registered under the Land Registration Ordinance (Cap. 128) against the land or premises in respect of which the costs arose, and the copy so registered constitutes a legal charge as defined in the Conveyancing and Property Ordinance (Cap. 219). 
+(10) On the recovery of all of the costs certified under this section the Authority shall, if there has been a registration against land or premises under subsection (9), register under the Land Registration Ordinance (Cap. 128) a certificate of satisfaction against the land or premises. 
+
+(Added 83 of 1993 s. 27)
+
+40C. Documentary evidence A document purporting to be signed or issued by or on behalf of the Authority under this Ordinance is on its production admissible in evidence without proof of the signature or that it was issued by or on behalf of the Authority and is, in the absence of evidence to the contrary, proof of the facts stated in it.
+
+(Added 83 of 1993 s. 27)
+
+41. Authority may hold a hearing (1) Where on an application under section 19, 23, 23A or 28, any objection to the grant of the application is duly made to
+
+Part VIII 8-4 
+Section 40C Cap. 358 
+
+the Authority, he may hear the applicant and any objector 
+if he considers it expedient for the purpose of obtaining 
+information relevant to any question to be decided. (Amended 
+67 of 1990 s. 22) 
+(2) The procedure to be followed at, or for the purpose of 
+convening, any hearing under subsection (1) shall be 
+determined by the Authority. 
+42. Authority to keep register (1) The Authority shall cause to be kept, in such form as the Secretary may determine, a register containing the prescribed particulars in relation to such of the following as fall under his jurisdiction— (a) (Repealed 67 of 1990 s. 22) (b) all discharges and deposits for which a licence is in force, applications for such licences and other applications and notices under this Ordinance in respect thereof; (c) such other matters as may be required by regulations made under section 46 to be recorded in the register. (2) The register shall be open for inspection by the public during normal office hours at such places as the Secretary thinks fit. (3) A person shall be entitled, upon payment of the prescribed fee, to a copy of any entry in the register certified by or on behalf of the Authority. 
+43. Protection of private information from publicity (1) Any person may apply to the Secretary to withhold from public notification or other public access under this Ordinance any specified information concerning a discharge or deposit, whether appearing in a licence or an application therefor or in any notice, return or other document. 
+
+Part VIII 8-6 
+Section 42 Cap. 358 
+
+(2) An application under subsection (1) shall be granted by the Secretary to the extent that he is satisfied that public notification or other public access to the information would— (a) be contrary to the applicant’s private interest to an unreasonable degree; or (b) be contrary to the public interest. (3) Where an application under this section is refused by the Secretary, whether in whole or in part— (a) notice of the refusal and of the reasons therefor shall be given in writing by the Secretary to the applicant; (b) the information shall not be publicly notified or otherwise made accessible to the public until the time for appeal under section 29(3) has expired. 44. Offence to disclose secret information obtained officially (1) A person commits an offence who, except in the circumstances provided for in subsection (2), discloses or gives to another person any information or document concerning a trade or business secret which has come to his knowledge or into his possession in the course of the exercise or performance of his powers, functions or duties under this Ordinance. (2) A person does not commit an offence under subsection (1) if he discloses or gives any information or document to another person— (a) for the purpose of the exercise or performance of his powers, functions or duties under this Ordinance and proceedings connected therewith; (b) pursuant to an order of a court under subsection (3);
+
+Part VIII 8-8 
+Section 44 Cap. 358 
+
+(c) with the consent in writing of all such persons as appear to him, after reasonable inquiry, to be interested in the confidentiality of the information or document. (3) Where in any proceedings a court considers that the justice of the case so requires, the court may order the disclosure of any information or the giving of any document referred to in subsection (1). (4) A person who commits an offence under subsection (1) is liable to a fine at level 4 and to imprisonment for 6 months. (Amended 67 of 1990 s. 20; E.R. 2 of 2021) 45. Protection of Government and public officers (Amended 21 of 2024 s. 78) (1) No liability shall rest on the Government or upon any public officer by reason of the fact that any licence is granted or continued under this Ordinance for the discharge or deposit of any matter into the waters of Hong Kong or into inland waters or into a communal sewer or communal drain. (Amended 67 of 1990 s. 22) (2) A public officer shall not be personally liable in respect of any act or omission of his if it was done or made by him in the honest belief that it was required or authorized in the exercise of any power, function or duty of his under this Ordinance. (3) The protection conferred on public officers by subsection (2) in respect of any act or omission shall not in any way affect any liability of the Government in tort for that act or omission.
+
+(Amended 21 of 2024 s. 78)
+
+46. Regulations (1) The Chief Executive in Council may, after consultation with the Advisory Council on the Environment, by regulation
+
+Part VIII 8-10 
+Section 45 Cap. 358 
+
+provide for— (Amended L.N. 165 of 1984; L.N. 57 of 1994; 
+21 of 2024 s. 78) 
+(a) the control and maintenance of wastewater treatment 
+facilities, including the requirement that only persons 
+registered under the regulations may operate and 
+maintain a wastewater treatment facility; (Added 83 of 
+1993 s. 28) 
+(b) the form and contents of— 
+(i) an application under section 14; (Amended 67 of 
+1990 s. 22) 
+(ii) (Repealed 67 of 1990 s. 22) 
+(iii) an application for a licence under section 19; 
+(iv) an application for a renewal of a licence under 
+section 23 and 23A; (Amended 67 of 1990 s. 22) 
+(v) an application for a variation of a licence under 
+section 28; 
+(c) the period within which a licensee shall make an 
+application for a renewal of the licence, and the 
+circumstances in which a licence may continue in force 
+pending the determination of any such application; 
+(d) the particulars to be entered in the register; 
+(e) the particulars to be contained in a notice referred to in 
+section 19(3)(b); 
+(f) the manner in which objections shall be made under 
+section 19(4)(b); 
+(g) the manner of determining the amount of compensation 
+payable under sections 25 and 26, the factors to be taken 
+into account or disregarded and the principles to be 
+applied in determining that amount; 
+
+Part VIII 8-12 
+Section 46 Cap. 358 
+
+(h) the forms to be used and the procedure to be followed for the purpose of appeals under Part VI; (i) fees and charges which may be imposed by the Authority or the Secretary— (Amended 83 of 1993 s. 28) (i) on persons who are making discharges or deposits for which a licence is in force, or on any class or description of such persons or in respect of such discharges or deposits or any class or description thereof, including charges for the reception, treatment and disposal of matter discharged pursuant to a licence for the purposes of section 9; (Amended 67 of 1990 s. 22) (ii) persons making any application referred to in paragraph (b); (j) matters about which information may be obtained under section 35(1); (k) the manner in which notices required or authorized by this Ordinance may be given or sent to the person to whom they are addressed; (l) the inclusion of a lake, pool or pond or any description of lake, pool or pond within the definition of inland waters in section 2; (Amended 67 of 1990 s. 22) (m) prescribing anything (including any fee) which is to be or may be prescribed by regulations; (n) generally for the better carrying out of the provisions and purposes of this Ordinance. (2) The Chief Executive in Council may, after consultation with the Advisory Council on the Environment, by regulation— (Amended L.N. 57 of 1994; 21 of 2024 s. 78)
+
+Part VIII 8-14 
+Section 46 Cap. 358 
+
+(a) provide for the construction, maintenance, repair and 
+demolition of sewerage; 
+(b) require an owner or occupier of property to construct 
+works to convey wastewater from the property to a 
+place for connection to sewerage; 
+(c) authorize the Authority to— 
+(i) construct the works referred to in paragraph (b) if 
+the owner or occupier fails to do so and to recover 
+the costs from the owner or occupier; 
+(ii) connect the works to sewerage; 
+(d) require an owner or occupier of property to maintain the 
+works and connection referred to in paragraphs (b) to (c); 
+(e) authorize the Authority to maintain the works and 
+connection referred to in paragraphs (b) and (c) if the 
+owner or occupier fails to do so and to recover the costs 
+from the owner or occupier; 
+(f) require an owner or occupier of property on which a 
+wastewater treatment facility has become redundant 
+as a result of providing a sewerage connection to the 
+property to carry out works to fill in or demolish the 
+wastewater treatment facility and to fill in or demolish 
+redundant drainage facilities; 
+(g) authorize the Authority to carry out the works referred 
+to in paragraph (f) if the owner or occupier fails to do 
+so and to recover the costs from the owner or occupier; 
+(h) authorize the Authority to require the owner of a 
+wastewater treatment facility in a water control zone to 
+construct works, effect repairs or modify or carry out 
+operations as he specifies in order to ensure the effective 
+operation of the facility; 
+
+Part VIII 8-16 
+Section 46 Cap. 358 
+
+(i) authorize the Authority to do the things referred to in paragraph (h) if the owner fails to do so and to recover the costs from the owner; (j) authorize the Authority, if there is more than one owner of the facility referred to in paragraph (h) and they fail to do the things referred to in that paragraph, to take over the operation of the facility and to recover the costs from the owners; (k) provide for compensation for damage that may be caused by the Authority during entry onto property or the carrying out or construction of works under this subsection; (l) provide for appeals to an Appeal Board from decisions of the Authority under regulations made under this subsection; and (m) apply any or all of the provisions of the Roads (Works, Use and Compensation) Ordinance (Cap. 370), with any modifications or additions as are considered necessary or desirable, for any purposes of this Ordinance relating directly or indirectly to the carrying out of works or the construction, maintenance, repair and demolition of works. (Added 83 of 1993 s. 28) (3) A regulation made under this section may provide that a contravention of specified provisions of it or of specified provisions of a licence or notice is an offence and may provide a penalty not exceeding imprisonment for 6 months, a fine of $200,000 and in addition a fine of $10,000 for each day during which it is proved to the satisfaction of the court that the offence has continued. (Replaced 83 of 1993 s. 28) 47. Application of Ordinance to Government (Amended 21 of 2024 s. 78)
+
+Part VIII 8-18 
+Section 47 Cap. 358 
+
+(1) Subject to this section, this Ordinance shall bind the Government. 
+(2) Sections 8 and 9 shall not have effect to permit proceedings to be taken against, or to impose any criminal liability on, the Government or on any person who makes any discharge or deposit which he is required to make in the course of carrying out his duties in the service of the Government. 
+(3) If it appears to the Authority that any discharge or deposit is being, or has been, made in contravention of section 8(1) or (1A) or 9(1) by any person in the course of carrying out his duties in the service of the Government, he shall, if the contravention is not forthwith terminated to the satisfaction of the Authority, report the matter to the Chief Secretary for Administration. (Amended 67 of 1990 s. 22; 83 of 1993 s. 29; L.N. 362 of 1997) 
+(4) On receipt of a report under subsection (3) the Chief Secretary for Administration shall inquire into the circumstances and, if his inquiry shows that a contravention of section 8(1) or (1A) or 9(1) is continuing or likely to recur, he shall ensure that the best practicable steps are taken to terminate the contravention or avoid the recurrence. (Amended 67 of 1990 s. 22; L.N. 362 of 1997) 
+(5) Any notice or application under this Ordinance concerning a discharge or deposit which is to be, or may be, given or made by or on behalf of the Government may be given or made by any public officer on behalf of the Government. 
+(6) Any notice under this Ordinance concerning a discharge or deposit which is to be, or may be, given by the Authority to the Government shall be given to the principal officer of the Government Department which appears to the Authority to be responsible for the discharge or deposit or, in the event of any question arising as to which Department is responsible, to 
+
+Part VIII 8-20 
+Section 47 Cap. 358 
+
+such public officer as the Chief Secretary for Administration 
+shall determine. (Amended L.N. 362 of 1997) 
+(7) No compensation shall be payable under section 25 in respect of any discharge or deposit made by or on behalf of the Government. 
+(8) No fee or charge prescribed for the purposes of this Ordinance shall be payable by the Government. (Amended 21 of 2024 s. 78) 
+48. Advisory Council on the Environment 
+If any question arises as to who are the body of persons for the 
+time being constituting the Advisory Council on the Environment 
+mentioned in sections 4, 5 and 46, the matter shall be referred to 
+the Chief Secretary for Administration who shall determine the 
+question by certificate under his hand. 
+(Amended L.N. 165 of 1984; L.N. 57 of 1994; L.N. 362 of 1997) 
+49. Ordinance not to affect or be affected by other Ordinances 
+(1) No licence or requirement to construct, maintain or pay for 
+works under this Ordinance shall be construed as granting any 
+right, title or interest in property or as a dispensation from the 
+requirements of any other Ordinance except where that other 
+Ordinance so provides. (Amended 83 of 1993 s. 30) 
+(2) Without limiting section 8(3), the giving, granting or making 
+of any direction, licence, permit, consent, approval or other 
+requirement or authority under any other Ordinance shall not 
+be taken to authorize any act or omission which contravenes 
+section 8(1) or (1A) or 9(1). 
+
+(Amended 67 of 1990 s. 22)
+
+50. (Omitted as spent—E.R. 3 of 2018)
+
+Part VIII 8-22 
+Section 48 Cap. 358 
+
+51. Disapplication of certain enactments Upon section 8(1)(a) or 9(1) becoming applicable to a discharge or deposit pursuant to section 7 the enactments mentioned in the first column of the Fourth Schedule shall have effect in relation to that discharge or deposit as if they were amended in the manner specified in the second column of that Schedule.
+
+Part VIII 8-24 
+Section 51 Cap. 358 
+
+## First Schedule
+
+[ss. 15(4), 16(3), 20(4), 23A(5), 24(6), 28(7) & 38]
+
+## Terms and Conditions Subject to which a Licence may be Granted
+
+(Amended 67 of 1990 s. 22) 
+1. The place and times or periods at or during which the discharge or 
+deposit may be made. 
+2. The design and construction of any plant or equipment used in 
+making the discharge or deposit. 
+3. The rate of discharge or deposit or the total amount thereof in 
+relation to the matter discharged or deposited or any constituent 
+thereof. 
+4. The nature, composition, colour and temperature of the matter 
+discharged or deposited or of any constituent thereof. 
+5. The treatment of matter before it is discharged or deposited and the 
+plant and equipment to be provided, maintained and used therefor. 
+6. The equipment and facilities to be provided for inspecting, 
+sampling or measuring the discharge or deposit or any constituent 
+thereof. 
+
+First Schedule S1-2 
+Cap. 358 
+
+7. The maintenance and security of any equipment and facilities referred to in paragraph 6. 
+8. The provision to the Authority of samples, and of the results of the analysis of samples, of discharges and deposits. 
+9. The keeping of records in relation to the matters mentioned in paragraphs 3 and 4. 
+10. The access of authorized officers to the equipment, facilities and records referred to in paragraphs 6 and 9. 
+11. Precautions to be taken against matter discharged or deposited entering any specified part of the waters of Hong Kong or any communal drain or communal sewer. (Amended 67 of 1990 s. 22) 
+
+First Schedule S1-4 
+Cap. 358 
+
+## Second Schedule
+
+[s. 27(2)]
+
+## Determination of Compensation
+
+1. A person who claims compensation under section 25 or 26 shall submit to the Authority particulars in writing of his claim. 
+2. (1) A claim under paragraph 1 shall be submitted— (a) where a licence is cancelled, within 1 year after the cancellation; (Amended 67 of 1990 s. 22) (b) where a licence is varied so as to impose additional obligations on the person making the discharge or deposit, within 1 year after the completion of the works attributable solely to the requirement of the Authority. (Amended 67 of 1990 s. 22) (2) The period referred to in sub-paragraph (1) may, upon application made to the Chief Executive either before or after the expiry of that period be extended in accordance with this paragraph. (3) Notice of an application under sub-paragraph (2) shall be given to the Authority by the applicant. (4) The Chief Executive may extend the period within which particulars of a claim must be submitted to the Authority if the Chief Executive considers that the delay in submitting the particulars was occasioned by mistake of fact or mistake of any matter of law (other than the matters contained in subparagraph (1)) or by any other reasonable cause or that the Government is not materially prejudiced by the delay. 
+
+Second Schedule S2-2 
+Cap. 358 
+
+(5) An extension may be granted by the Chief Executive under subparagraph (4) with or without conditions for such period as the Chief Executive thinks fit but not in any case exceeding 6 years from the time when the right to compensation first arose.
+
+(Amended 21 of 2024 s. 78) 
+3. If the Authority and the claimant do not agree on the settlement 
+or compromise of the claim within 3 months of the submission 
+of particulars under paragraph 1, the claimant may notify the 
+Authority that he desires a reference to the Lands Tribunal and 
+the Authority shall thereupon refer the claim with the particulars 
+thereof to the Lands Tribunal. (Amended 42 of 1985 s. 5) 
+4-7. (Repealed 42 of 1985 s. 5) 
+*8. (1) The Lands Tribunal may direct that interest be paid on 
+compensation (but not on costs) from such date and for such 
+period as the Lands Tribunal thinks fit, at the rate specified in 
+subparagraph (2) or at such other rate as may be determined 
+by resolution of the Legislative Council. (Amended 76 of 
+1980 s. 24; 42 of 1985 s. 5; 6 of 2001 s. 8) 
+(2) For the purposes of subparagraph (1), the rate of interest 
+paid— 
+(a) in respect of a working day shall be the lowest of the 
+interest rates paid on deposits at 24 hours’ call by note 
+issuing banks at the close of business on that day; and 
+(b) in respect of a non-working day shall be the lowest of 
+the interest rates paid on deposits at 24 hours’ call by 
+note-issuing banks at the close of business on the last 
+working day before that day. (Added 6 of 2001 s. 8) 
+(3) In this paragraph— 
+
+Second Schedule S2-4 
+Cap. 358 
+
+non-working day (非工作日) means a day that is not a working day; note-issuing bank (發鈔銀行) has the meaning assigned to it by section 2 of the Legal Tender Notes Issue Ordinance (Cap. 65); working day (工作日) means any day other than— (a) a public holiday; or (b) a gale warning day or black rainstorm warning day as defined in section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1). (Added 6 of 2001 s. 8) 9. (Repealed 42 of 1985 s. 5)
+
+Editorial Note: * For the validation of interest payments and application provisions relating to the amendments made by 6 of 2001, see s. 13 of 6 of 2001.
+
+Second Schedule S2-6 
+Cap. 358 
+
+## Third Schedule
+
+### (Omitted as spent—E.R. 3 of 2018)
+
+Third Schedule S3-2 
+Cap. 358 
+
+## Fourth Schedule
+
+[s. 51]
+
+Enactment Amendment deemed to have been made for the purposes of section 51
+
+Public Health and Municipal Services Ordinance (Cap. 132) (Amended 10 of 1986 s. 32)
+
+The Ordinance shall have effect as if section 6(1) were amended as follows— (a) by deleting paragraphs (a), (c) and (d); (b) by deleting paragraph (b) and substituting the following— “(b) causes or permits any solid matter, mud or waste to be placed or thrown, or to fall, or to be carried over any grate communicating with any public sewer or drain;”.
+
+Public Cleansing and Prevention of Nuisances Regulation (Cap. 132 sub. leg. BK) (Amended E.R. 3 of 2018)
+
+The Regulation shall have effect as if it was amended as follows— (a) in section 10, by deleting paragraph (c);
+
+Fourth Schedule S4-2 
+Cap. 358 
+
+Fourth Schedule S4-4 
+Cap. 358 
+
+Enactment Amendment deemed to have been made for the purposes of section 51 (b) in section 14, by deleting subsection (2) and substituting the following— “(2) No person shall discharge, deposit, or place any pigwash in or into a public place.”. (Replaced 78 of 1999 s. 7)
+
+| | | discharge, | deposit, |
+| --- | --- | --- | --- |
+| | | or place any pigwash | |
+| | | in or into | a public |
+| | | place.”. (Replaced 78 | |
+
+Summary Offences 
+Ordinance 
+(Cap. 228) 
+The Ordinance shall have effect as if it 
+were amended as follows— 
+(a) in section 4(1), by deleting the 
+words “, stream, watercourse, 
+ford or reservoir, or into any 
+drain or sewer” and the words 
+“, stream or watercourse”; 
+(Amended 21 of 2024 s. 78) 
+(b) in section 5(1), by deleting 
+paragraph (c). 
+(Amended 68 of 1995 s. 2; 78 of 1999 s. 7) 
+
