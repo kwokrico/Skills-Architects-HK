@@ -1,0 +1,694 @@
+
+----- page 1/17 -----
+ 
+ 
+Lands Administration Office 
+Lands Department 
+ 
+Practice Note 
+Issue No.   3/2018 
+ 
+ 
+ 
+ 
+ 
+Building Plan Submissions 
+Use of Computer for Mathematical Calculation of Areas 
+ 
+ 
+ 
+The purpose of this Practice Note is to advise on the electronic format and the 
+pre-requisites for checking of area calculations electronically if Authorized Person 
+(AP) adopts the use of computer for calculating of floor areas of buildings in 
+preparation of general building plans which will be referred to the Lands Department 
+(LandsD) by the Buildings Department (BD) under the Centralized Processing 
+System. 
+ 
+2.  
+This Practice Note is issued in relation to paragraph 16 and Appendix F of the 
+Practice Note for Authorized Persons, Registered Structural Engineers and Registered 
+Geotechnical Engineers (PNAP) ADM-19 issued by BD on the subject ‘Use of 
+Computer for Mathematical Calculations’.  The said PNAP gives advice on the 
+electronic format and the pre-requisites for plan checking of area calculations in 
+Computer-Aided Design (CAD) drawing files electronically. 
+ 
+3.  
+For the avoidance of doubt, the issuance of this Practice Note does not affect 
+the current practice of LandsD that any approval or disapproval of general building 
+plans under lease will be given in respect of the hard copies of the general building 
+plans only.  Hence, submission of hard copies of the general building plans is still 
+required. 
+ 
+ 
+Requirement on Electronic Format and Pre-requisites 
+ 
+4.  
+To facilitate checking of the area calculations under lease, AP should follow 
+the guidelines at Annex 1 when preparing the CAD drawing files stored in non-
+rewritable DVD-ROM diskette(s) (DVD-ROM).  In addition to this requirement, AP 
+should follow the guidelines at Annex 3 to prepare a full set of floor plans in hard 
+copy which is identical to the floor layout plans in the general building plans and duly 
+coloured to show the extent of site coverage (SC), transfer plate and gross floor area 
+(GFA) accountable and non-accountable areas under lease (Coloured Building Plans) 
+to facilitate compliance checking of area calculations under lease.  AP should submit 
+the Coloured Building Plans together with the general building plans to LandsD 
+through BD under the Centralized Processing System.  The extent of the SC, transfer 
+- 1 - 
+ 
+
+----- page 2/17 -----
+plate, GFA accountable and non-accountable areas as shown on the Coloured 
+Building Plans should be in line with the GFA/SC calculations and GFA/SC diagrams 
+in the GBP submissions.  Otherwise, the GBP submission may be rejected without 
+further checking due to the incorrect information. 
+ 
+5. 
+If the submission in the DVD-ROM is found not conforming to the minimum 
+requirements as set out in paragraphs 3.1 to 3.4 of Annex 1, the AP will be informed 
+by LandsD to replace the DVD-ROM and for the purpose of fulfillment of our 
+performance pledge, the time specified in our performance pledge is deemed to have 
+been “frozen” at this point. If a replacement DVD-ROM is received within 7 calendar 
+days from the date of notification, the time of our pledge period will count again 
+immediately upon receipt of the replacement DVD-ROM.  If a replacement DVD-
+ROM is received after 7 calendar days, the pledge time will be re-set afresh as a new 
+start on the date of receipt of the replacement DVD-ROM.  In the event no 
+replacement DVD-ROM is received before the expiry of the pledge time, the general 
+building plans submission will be rejected without further scrutiny on the ground of 
+insufficient information. Information shown in both the soft and hard copies of the 
+plans submitted for approval must be identical to each other.  Otherwise, plans may be 
+rejected without further checking on grounds of incorrect information.  
+ 
+ 
+Review 
+ 
+6.  
+The above practice will be reviewed in 6 months’ time from date of 
+implementation. Depending on the result of the review, LandsD will decide on 
+whether further revamping of the practice is required and/or such other actions 
+(including but not limited to the acceptance of Building Information Modeling on 
+GFA calculation) as may be considered appropriate.  The guidelines at Annexes 1 and 
+3 will also be reviewed taking into the experience gained.  Suggestions from the 
+industry and the professional bodies to facilitate and/or to improve the electronic 
+vetting procedures are always welcome. 
+ 
+ 
+Application and Effective Date 
+ 
+7.  
+This Practice Note will apply to all new general building plans submissions 
+(including subsequent amendments or major revisions and re-submissions) for 
+development and redevelopment projects received by LandsD through the Centralized 
+Processing System on or after 1st February 2019.  For the general building plans 
+submissions received by LandsD through the Centralized Processing System before 
+the said date, they would continue to be processed in the usual manner. 
+ 
+8.  
+For other amendment, addition and alteration plans, annotations and 
+dimensions of the areas concerned are required to be indicated on the hard copies of 
+the general building plans for checking purpose. Submission of a new DVD-ROM nor 
+Coloured Building Plans is NOT necessary.  Such DVD-ROM, if submitted, will not 
+be considered when processing the amendment, addition and alteration plans for 
+approval under the lease conditions. 
+ 
+ 
+- 2 - 
+ 
+
+----- page 3/17 -----
+9. 
+Lands Administration Office Practice Note Issue No. 8/2006 IS hereby 
+superseded. 
+(Thomas CHAN) 
+Director of Lands 
+26 November 2018 
+Annex 1 : Guidelines on Use of Computer for Mathematical Calculation of Areas 
+Annex 2: List of Layer Names for LandsD's Area Calculation under Lease 
+Annex 3 : Guidelines on Preparation and Submission of Coloured Building Plans 
+- 3-
+
+----- page 4/17 -----
+Annex 1 
+LAO PN 3/2018 
+ 
+Guidelines on Use of Computer for 
+Mathematical Calculation of Areas 
+ 
+1.  
+For area calculations computed electronically, soft copies of the building plans 
+containing the area diagram layer(s) are required to facilitate verification of the 
+calculations. LandsD generally makes reference to the Notes on Submission Drawing 
+Standards in Electronic Format at Appendix F of PNAP ADM-19. However, to 
+facilitate checking of the area calculations under lease, AP should further observe the 
+minimum requirements stipulated in these Guidelines. 
+ 
+2.  
+When the minimum requirements set out in the following paragraphs are 
+complied with and clearly shown in the submitted CAD drawing files, diagrammatic 
+breakdowns and details on calculation of the gross floor area, site coverage and green 
+features area, etc. would not be required to be included in the plan submission. For the 
+avoidance of doubt, annotation and dimension of the areas concerned are required to 
+be indicated on individual floor plans for checking purpose. 
+ 
+3. 
+For approval purpose, hard copies of the general building plans showing floor 
+layouts, area diagrams and calculations without breakdowns are required. 
+Information shown in both the soft and hard copies of the plans submitted for 
+approval must be identical to each other. Otherwise, plans may be rejected 
+without further checking on grounds of incorrect information. It is advisable to 
+ensure the minimum requirements are met before making plan submissions. 
+ 
+3.1  Format and Software Version 
+ 
+(a) The electronic copy of the plan submission with the calculations should be 
+prepared in an accepted format capable of being verified by AutoCAD or other 
+software accepted by the Director of Lands. 
+ 
+(b) The electronic copy of the plan submission should be stored in non-rewritable 
+DVD-ROM diskette(s). Except otherwise agreed by the Director of Lands all 
+other electronic submission medias are not acceptable. 
+ 
+ 
+1 
+ 
+
+----- page 5/17 -----
+(c) CAD drawings using AutoCAD version R14 or later or other software 
+versions announced by the Director of Lands are acceptable. 
+ 
+(d) CAD files should be saved in “.dwg” format only. All other compressed or 
+zipped file formats are not acceptable. 
+ 
+(e) Title blocks completed with drawing number showing revision legends, 
+site/project title, drawing title etc. should be inserted in every drawing for 
+identification purpose. 
+ 
+3.2  Referencing System 
+(a) Each CAD file should contain one hard copy drawing only, default zoom to full 
+drawing extent.  
+ 
+(b) All information for approval should be contained in the same drawing file. The 
+need to cross-reference or hyper-link with another CAD file to enable 
+verification of the area calculations in the DVD-ROM is not acceptable except in 
+the following situation:  
+ 
+- 
+where the layering number and the system are limited due to software 
+constraint, limited referencing system might be used provided that all 
+information and model files which compose the final drawings are clearly 
+visible and intact when files are open in the computer. A clear and systematic 
+path trial in hard copy format highlighting the list of file(s) for area checking 
+purpose should be provided to facilitate the verification exercise. All drawing 
+files and model files area to put into the same folder to ensure coherent path 
+recognition. Cross-referencing and hyper-linking within folder should be 
+kept to the minimum.  
+ 
+(c) Naming and numbering of drawing files in the hard copy should be identical to 
+those in the submitted electronic version. 
+ 
+(d) A completed hard and soft copy of the drawing index listing all file names, 
+drawing numbers with brief description on location and contents of the submitted 
+drawings should be provided. Drawing under different version must carry a 
+revision letter (e.g. A to Z) for identification purpose. For large and complicated 
+project involving numerous drawing versions/amendments, a revision legend 
+should also be provided as well. 
+2 
+ 
+
+----- page 6/17 -----
+ 
+(e) AP should list out the name(s) of the drawing file(s) in the DVD-ROM that 
+contains the information for area checking under lease conditions in his covering 
+letter attached to the general building plan submission. Further, AP should 
+certify in his covering letter that the computations and deductions of gross floor 
+area and site coverage under lease are derived directly from CAD applications 
+without manual input. If such required information is not clearly provided in the 
+covering letter, the plans will be rejected without further checking. 
+ 
+3.3  Layering Organization – Layer Name Convention 
+(a) CAD drawing files including floor plans, tables and calculations, etc. should 
+contain all information identical to their hard copy. Each file should 
+accommodate different elements such as floor layout plans, usable floor area, 
+gross floor area and dimension etc. into the relevant layers.  
+ 
+(b) To facilitate checking of the area calculations, general building plans should 
+contain gross floor area and other areas diagram layer(s) for verification and 
+calculations. To adopt the rules under CAD Standard for Works Project (CSWP) 
+of the Development Bureau (Works Branch), AP should name the relevant layers 
+according to the list of layer names for LandsD’s area calculation as specified in 
+Annex 2. CAD file drawings not following the layer name convention will be 
+rejected without further checking. 
+ 
+(c) Layering organization of the file(s) in hard copy format should be submitted. As 
+the list in Annex 2 is by no means exhaustive, if more layering description is 
+required in the submitted general building plans, AP could lengthen the layer 
+name convention at Annex 2 but a legendary description concerning the 
+additional layer(s) should be provided. In any event, all layering organizations 
+must be clearly shown in his covering letter, otherwise, the plans will be rejected 
+without further checking. 
+ 
+(d) CAD file for the floor plan should contain all elements and information that have 
+to be shown on the drawings to facilitate approval, including inter alias, the area 
+and the dimension layers. Elements such as lighting, electric appliances and the 
+like where approval from the Director of Lands is not required under lease 
+should not be shown in the submitted drawings. 
+ 
+ 
+3 
+ 
+
+----- page 7/17 -----
+3.4  Presentation Style 
+(a) Drawing Scale – Drawing objects for checking and area calculation including 
+area diagrams and dimensions should be drawn in true size (i.e. 1 drawing unit = 
+1 mm or metre) with precision rounded up to the nearest mm unit and in “model” 
+space. The drawing objects not drawn in true size, in “model” space nor in 
+metric unit will be rejected without further checking. The default scale adopted 
+for area checking electronically in LandsD’s customized software is in 
+milli-metre. 
+ 
+(b) Polyline – All line drawings intended for area calculations in area layer(s) should 
+be in closed polyline diagram by using the “Close” option in creating the closing 
+segment of the line drawings. Each closed polyline diagram should correspond to 
+one area diagram and vice versa. CAD file drawings containing any open 
+polyline diagram, self intersecting area diagram or duplicated area diagram will 
+be rejected and the plans will be rejected without further checking. 
+ 
+(c) Dimension – All dimensions should be true dimensions generated automatically 
+by the software and laid in the specified layer i.e. Dimension Layer. Text figures 
+or figures manually inserted, amended or constructed (collectively referred as 
+“typed-in dimension(s)” for calculation purpose in the CAD file are not 
+acceptable. CAD file drawings containing any typed-in dimension(s) will be 
+rejected and the plans will be rejected without further checking. 
+ 
+(d) Decimal Places of Areas: All areas should be presented in m2 units and with 
+precision rounded up to 3 decimal places, otherwise the plans will be rejected 
+without further checking. 
+ 
+4.  
+Text style is not compulsory. Conventional text fonts are suggested. Common 
+type such as “Romans” font is recommended for use in the text. 
+ 
+ 
+4 
+ 
+
+----- page 8/17 -----
+Annex 2 
+LAO PN 3/2018 
+ 
+List of Layer Names for LandsD’s Area Calculation under Lease 
+ 
+Note 
+1. The list of layer names below is generated based on the rules under CAD 
+Standards for Works Projects (CSWP) of the Development Bureau (Works 
+Branch).  AP should refer to the concerned CSWP Practice Note for further 
+details about the rules laid down. 
+ 
+2. The prefix “ADA” means the Agent Responsible Codes (ARC) registered in ARC 
+tables 
+kept 
+by 
+Architectural 
+Services 
+Department 
+(please 
+see 
+www.devb.gov.hk/cswp). Each AP/agent has his/her own ARC codes e.g. ADA = 
+Architectural Services Department – Architectural.  The customized program of 
+LandsD ignores the ARC by default when checking the area calculation 
+electronically. 
+ 
+3. The list of layer names may not be exhaustive. If a new deduction layer in 
+addition to the descriptions listed below is required, the AP may lengthen the layer 
+name convention to cater for other deductions not specified in the list 4. New 
+layer names may be added to the list when appropriate. 
+ 
+Non-Domestic SC calculations 
+Layer Name 
+Description 
+ 
+ADA08610  
+Area for SC calculations  
+ADA08615  
+Area to be deducted from SC calculations  
+ADA0861A  
+Green features under Joint Practice Note Nos. 1 & 2  
+ADA0861B  
+Curtain walling system  
+ADA0861C  
+Refuse chambers, E&M provisions, plant rooms for A/C or 
+heating system, lift shaft area allowed under PNAP APP-89, etc.  
+ADA0861D  
+Private car parking spaces, loading and unloading spaces  
+ADA0861E-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+ 
+ 
+1 
+ 
+
+----- page 9/17 -----
+Domestic SC calculations 
+Layer Name 
+Description 
+ 
+ADA08620  
+Area for SC calculations  
+ADA08625  
+Area to be deducted from SC calculations  
+ADA0862A 
+Green features under Joint Practice Note Nos. 1 & 2  
+ADA0862B  
+Curtain walling system  
+ADA0862C 
+Caretaker’s/watchmen’s office 
+ADA0862D 
+Caretaker’s/watchmen’s quarters 
+ADA0862E 
+Recreational facilities 
+ADA0862F  
+Owners’ corporation / owners’ committee office  
+ADA0862G  
+Refuse chambers, E&M provisions, plant rooms for A/C or 
+heating system, lift shaft area allowed under PNAP APP-89, etc.  
+ADA0862H  
+Private car parking spaces, loading and unloading spaces  
+ADA0862J-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+Non-Domestic GFA calculations 
+Layer Name 
+Description 
+ 
+ADA08640  
+Area for GFA calculations  
+ADA08645  
+Area to be deducted from GFA calculations  
+ADA0864A  
+Green features under Joint Practice Note Nos. 1 & 2  
+ADA0864B  
+Curtain walling system  
+ADA0864C  
+Refuse chambers, E&M provisions, plant rooms for A/C or 
+heating system, lift shaft area allowed under PNAP APP-89, etc.  
+ADA0864D  
+Private car parking spaces, loading and unloading spaces  
+ADA0864E 
+Covered walkways 
+ADA0864F  
+Mail Rooms / Nest Letter Boxes (only for commercial and 
+industrial building)  
+ADA0864G  
+Residential Care Homes for the Elderly  
+ADA0864H 
+Government Accommodation 
+ADA0864J  
+Public transport terminus  
+ADA0864K  
+Hotel back of house facilities  
+ADA0864L-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+2 
+ 
+
+----- page 10/17 -----
+Domestic GFA calculations 
+Layer Name 
+Description 
+ 
+ADA08650  
+Area for GFA calculations.  
+ADA08655  
+Area to be deducted from GFA calculations.  
+ADA0865A  
+Green features under Joint Practice Note Nos. 1 & 2  
+ADA0865B  
+Curtain walling system  
+ADA0865C 
+Bay windows 
+ADA0865D 
+Caretaker’s/watchmen’s office 
+ADA0865E 
+Caretaker’s/watchmen’s quarters 
+ADA0865F 
+Recreational facilities under LAO PN 4/2000(B) 
+ADA0865G  
+Owners’ corporation / owners’ committee office 
+ADA0865H  
+Refuse chambers, E&M provisions, plant rooms for A/C or 
+heating system, lift shaft area allowed under PNAP APP-89, etc.  
+ADA0865J  
+Private car parking spaces, loading and unloading spaces  
+ADA0865K 
+Covered walkways 
+ADA0865L  
+Logistic service room (only for residential building)  
+ADA0865M  
+Residential Care Homes for the Elderly  
+ADA0865P 
+Area to be deducted from Recreational facilities 
+ADA0865N-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+NOFA calculations 
+Layer Name 
+Description 
+ 
+ADA08670  
+Area for NOFA calculations.  
+ADA08675  
+Area to be deducted from NOFA calculations.  
+ADA0867A-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not tobe used)  
+ 
+UFA calculations 
+Layer Name 
+Description 
+ 
+ADA08690  
+Area for UFA calculations  
+ADA08695  
+Area to be deducted from UFA calculations  
+ADA0869A  
+Active Recreational Facilities under LAO PN 4/2000 (obsolete) 
+ADA0869B  
+Passive Recreational Facilities under LAO PN 4/2000 (obsolete) 
+3 
+ 
+
+----- page 11/17 -----
+ADA0869C 
+Area for greenery calculations 
+ADA0869D 
+Area to be deducted from greenery calculations 
+ADA0869E 
+Area for water feature, green paver and other 50% accountable 
+green areas calculations 
+ADA0869F 
+Area to be deducted from water feature, green paver and other 
+50% accountable green areas calculations 
+ADA0869G 
+Area for green roof calculations 
+ADA0869H 
+Area to be deducted from green roof calculations 
+ADA0869J-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+Open Space calculations 
+Layer Name 
+Description 
+ 
+ADA08600  
+Area for Open Space calculations  
+ADA08605  
+Area to be deducted from Open Space calculations  
+ADA0860A-Z  
+Miscellaneous Deduction (reserve layers to cater for future needs. 
+I and O not to be used)  
+ 
+Dimension 
+Layer Name 
+Description 
+ 
+ADA086_8 
+Dimension layer  
+ 
+ 
+ 
+4 
+ 
+
+----- page 12/17 -----
+Annex 3 
+LAO PN 3/2018 
+ 
+Guidelines on Preparation and Submission of Coloured Building Plans 
+ 
+1.  
+To facilitate compliance checking of area calculations under lease, AP should 
+submit a full set of floor plans duly coloured to show the extent of site coverage (SC), 
+transfer plate, gross floor area (GFA) accountable and non-accountable areas under 
+lease (Coloured Building Plans).  Sample Coloured Building Plans are attached at 
+Appendix 1 for illustration purpose.  One hard copy of Coloured Building Plans 
+should be submitted to LandsD through BD under the Centralized Processing System 
+together with the general building plan (GBP) submission. Requirements as set out in 
+the following paragraphs should be observed.  Plans may be rejected on grounds of 
+insufficient information if these requirements are not complied with.   
+ 
+ 
+Colour Code 
+ 
+2.  
+All categories of GFA such as office, retail/commercial, hotel and residential 
+GFA under lease should be coloured in accordance with the standard colour code at 
+Appendix 2.  In other circumstances, e.g. sites restricted for industrial purposes, sites 
+with provision of government accommodations as required under the lease, AP may 
+propose additional colours that are required to indicate GFA categories other than 
+those appeared in the standard colour code and AP should clearly mark in his 
+correspondence with LandsD the use of additional colours and the corresponding 
+categories of GFA.  AP may suitably adjust the level of colour transparency such 
+that the colouring on the plans will not visually block the details of the floor plans. 
+1 
+ 
+
+----- page 13/17 -----
+ 
+ 
+Format 
+ 
+3.  
+Only hard copy of the Coloured Building Plans will be accepted. The 
+Coloured Building Plans should be printed in the same scale and size as the 
+corresponding floor plans in the GBP submission and should contain all information 
+including dimensions and annotations identical to the corresponding floor plans.  
+ 
+4. 
+The extent of the SC, transfer plate, GFA accountable and non-accountable 
+areas as shown on the Coloured Building Plans should be in line with the GFA/SC 
+calculations and GFA/SC diagrams in the GBP submissions.  Otherwise, the GBP 
+submission may be rejected without further checking due to the incorrect information. 
+ 
+ 
+Appendix 1: Sample Drawings of Coloured Building Plans  
+Appendix 2: Standard Colour Code  
+ 
+ 
+2 
+ 
+
+----- page 14/17 -----
+Plan 1 
+Appendix 1 of Annex 3, LAO PN 3/2018
+
+----- page 15/17 -----
+Plan 2 
+Appendix 1 of Annex 3, LAO PN 3/2018
+
+----- page 16/17 -----
+1 
+ 
+Appendix 2 of Annex 3 
+LAO PN 3/2018 
+ 
+Standard Colour Code for Coloured Building Plans 
+ 
+List of standard colour code: 
+ 
+Area Category 
+Colour on Coloured Building Plans 
+Colour 
+True colour 
+(RGB) 
+Line of transfer plate 
+ 
+Red 
+thick dash line 
+227, 100, 102 
+Line of site coverage 
+ 
+Blue 
+thick dash line 
+73, 167, 209 
+Building line above 
+ 
+Black  
+thick dash line 
+0, 0, 0 
+Residential area 
+  
+Orange 
+255, 164 ,25 
+Residential area - balcony / utility platform 
+  
+Edged with orange 
+255, 164, 25 
+Residential area - caretaker’s / watchmen’s 
+office 
+  
+Light brown 
+hatched black 
+208, 177, 149 
+Residential area - caretaker’s / watchmen’s 
+quarters 
+  
+Light brown 
+208, 177, 149 
+Residential area - owners’ corporation /  
+owners' committee office 
+  
+Light brown 
+cross hatched black 
+208, 177, 149 
+Residential area - recreational facilities 
+  
+Pink 
+255, 167, 255 
+ 
+ 
+
+----- page 17/17 -----
+2 
+ 
+ 
+ 
+List of standard colour code (cont’d): 
+ 
+Area Category 
+Colour on Coloured Building Plans 
+Colour 
+True colour 
+(RGB) 
+Office area 
+  
+Red 
+hatched black 
+227, 100, 102 
+Retail / commercial area 
+  
+Red 
+227, 100, 102 
+Hotel area 
+  
+Light blue 
+144, 214, 236 
+GFA non-accountable area (deducted area within 
+GFA accountable area) 
+  
+Blue 
+73, 167, 209 
+GFA non-accountable area (outside GFA 
+accountable area) 
+  
+Yellow 
+255, 237, 61 
+ 
+ 
+ 

@@ -1,0 +1,557 @@
+
+----- page 1/12 -----
+logo of lands department
+Lands Administration Office 
+Lands Department 
+Practice Note 
+Application for 
+(a) Lease Modification (or a Land Exchange) for Development of an 
+Industrial Lot for High-tier Data Centre Use; or 
+(b) Waiver for Data Centre Use in Part of an Industrial Building 
+Issue No. 3/2012 
+A land owner who wishes to apply for: 
+(a) a lease modification or a land exchange for development of an industrial lot for 
+high-tier data centre use; or 
+(b) a waiver for data centre' use in part of an industrial building situated in a zone 
+designated for use as either "Industrial", "Commercial" or "Other Specified Uses 
+(Business)" ("OU(B)") according to the statutory town plans 
+may wish to refer to this Practice Note before submitting an application to the Lands 
+Department ("LandsD"). Applications for the purpose of this Practice Note may only be 
+submitted2 to LandsD during the period from 25th June 2012 to 31 5t March 2016 (both dates 
+inclusive). Applications submitted outside the said period will not be considered. 
+I 
+A data centre is a facility for housing computer systems, servers, telecommunications equipment, and 
+associated support components in a secure and controlled environment. The support components, depending 
+on scale, generally include electrical and mechanical facilities such as uninterruptible power supply, power 
+distribution, standby power generation, heat rejection, computer room air-conditioning, fire suppression, 
+environmental control and security control. 
+2 
+For an application by post, the date on the postal chop shall be taken as the date of submission to LandsD. For 
+other means of submission, the date of receipt by LandsD will be taken as the date of submission. 
+1
+
+----- page 2/12 -----
+Lease Modification (or a Land Exchange) for Development of an Industrial Lot·1 for 
+High-tier Data Centre4 Use 
+2. 
+An owner of an industrial lot may apply for a lease modification (or a land 
+exchange, as the case may be) for development ofthe lot for high-tier data centre use (wholly 
+or in conjunction with other uses). For the purpose of this Practice Note, any reference to a 
+lease modification shall include a land exchange and any reference to a lease modification 
+letter shall include Conditions of Exchange, where the context so admits or requires. 
+3. 
+An application may be submitted for development of an industrial lot for 
+high-tier data centre use up to or less than the maximum permissible development intensity 
+permitted under the relevant statutory town plan or, where the statutory town plan does not 
+specify the maximum permissible development intensity, the Buildings Ordinance ("BO"). 
+The data centre part of the proposed development should not be less than 40% of the applicable 
+maximum permissible development intensity or a plot ratio of2.5, whichever is the higher. All 
+applications approved under this special arrangement will be subject to such terms and 
+conditions (including but not limited to payment of a premium and that not more than 30% of 
+the total usable floor area of the data centre part shall be used for ancillary office) as may be 
+imposed by LandsD. 
+4. 
+The maximum development intensity for the proposed development (including 
+that of the data centre part) as approved by LandsD will be specified as part of the terms and 
+conditions of the lease modification letter. The land premium payable by the owner for the 
+lease modification, to be assessed by LandsD, will be an amount equivalent to the difference 
+between the value of the land under the current lease conditions and its value under the 
+proposed modified lease conditions. Premium assessment for the data centre part (irrespective 
+of whether the development is wholly or partially for use as high-tier data centre) will be on the 
+basis of "high-tier data centre" use. 
+5. 
+An administrative fee will be payable in two instalments to LandsD for 
+processing the application. The initial instalment will be payable as and when demanded by 
+LandsD upon submission of the application. The balance of the administrative fee will be 
+payable on the acceptance ofthe binding basic terms offer. Where applicable, a fee charged for 
+services rendered by the Legal Advisory and Conveyancing Office of LandsD for processing 
+the application will also be payable as and when demanded by LandsD ("LACO Fee"). The 
+administrative fee and (where applicable) LACO Fee will not be refunded in any of the 
+circumstances rendering such fees non-refundable as set out in any letters demanding payment 
+thereof 
+3 
+An industrial lot refers to a lot which, under the tenus of its Government lease, shall not be used for any 
+purpose other than for industrial or godown purposes or both. Lots for special industrial uses such as those 
+located in industrial estates, storage premises in container terminals and flatted factories built by the Hong 
+Kong Housing Authority are excluded. 
+4 
+A high-tier data centre is a data centre designed to support concurrent maintenance such that the data centre 
+services will not be interrupted during plmmed maintenance to the component(s) in the data centre. It is also 
+designed for high availability of operation and services to a level as generally accepted by the industry. A 
+high-tier data centre generally includes the following functions and features: 
+• 
+Redundant telecommunications access; 
+• 
+Redundant support components, including but not limited to power generator and cooling equipment; 
+• 
+Redundant power and cooling distribution paths; 
+• 
+Dedicated and environmentally controlled space for the computer room; 
+• 
+Dedicated cooling equipment; and 
+• 
+Dedicated power generator and associated fuel tank. 
+The redundant systems will be able to take over the functions of the primary systems to ensure uninterrupted 
+operation. The dedicated equipment will be used solely for the operation of the data centre and will not be 
+shared with non-data centre uses. 
+2 
+2
+
+----- page 3/12 -----
+Waiver for Data Celltre use ill Part of all Industrial Buildillg 5 
+6. 
+An owner of a part of an industrial building (such part is hereinafter referred to 
+as the "Industrial Premises"), located in a zone designated either for "Industrial", 
+"Commercial" or "OU(B)" use according to the statutory town plans, may apply for a waiver at 
+nil waiver fee for the change of use of the Industrial Premises or any part thereof as data centre, 
+for the lifetime of the industrial building or until expiry or termination of the current 
+Government lease of the lot, whichever is the earlier ("Data Centre Waiver"), if at the date of 
+submission of the application the age of the industrial building is not less than 15 years 
+(calculated from the date of the last-issued occupation permit for the industrial building). 
+7. 
+Approval for the grant of the Data Centre Waiver is subject to such terms, 
+covenants and conditions as may be imposed by LandsD, including but not limited to the 
+following: 
+(a) any building works permitted under the Data Centre Waiver shall in all respects 
+comply with the prevailing provisions of the BO; 
+(b) such building works must be completed within three years from the date of the 
+Data Centre Waiver letter. The owner shall provide documentary proof of 
+completion of the building works (if any) (e.g. Building Authority's 
+acknowledgement of the Form BA 14 submitted), which should be certified by 
+an Authorized Person (as defined in the BO); 
+(c) the grant of the Data Centre Waiver shall not prejudice any of the rights and 
+remedies under the Deed of Mutual Covenant of the industrial building (if 
+applicable); 
+(d) the owner shall indemnify and keep indemnified the Government, its officers 
+and servants, from and against all actions, costs, claims and demands arising 
+directly or indirectly out of or in connection with the use of the Industrial 
+Premises or any part thereof for the purpose of data centre; and 
+(e) during the validity period of the Data Centre Waiver, no part of the Industrial 
+Premises may be used for any uses other than data centre. 
+8. 
+The Data Centre Waiver will primarily waive the Government's right to enforce 
+the user restriction in the Government lease for the Industrial Premises. If the owner of the 
+whole industrial lot where the Industrial Premises are situated, after obtaining a Data Centre 
+Waiver of the Industrial Premises, wishes to modify any other terms contained in the 
+Government lease, a separate lease modification6 application will have to be submitted and 
+will be processed by LandsD separately. 
+9. 
+The owner shall pay an administrative fee as and when demanded by LandsD 
+upon submission of the application. The administrative fee will not be refunded if the owner 
+either withdraws the application, rejects LandsD's offer in respect of the application, is unable 
+5 
+An industrial building refers to a building lawfully erected and which is standing on a lot at the date of 
+submission of an application under this Practice Note which, under the terms of its Government lease, shall not 
+be used for any purpose other than for industrial or godoWll purposes or both. Special factories such as those 
+located in industrial estates, storage premises in container terminals and flatted factories built by the Hong 
+Kong Housing Authority are excluded. 
+6 The lease modification may take such form and contain such conditions as LandsD may consider appropriate 
+for the case, including, among others, payment of a premium. 
+3 
+3
+
+----- page 4/12 -----
+to duly execute the documentation for the application for any reason to the satisfaction of 
+LandsD or in any ofthe circumstances rendering such administrative fee non-refundable as set 
+out in any letters demanding payment thereof 
+10. 
+The owner is reminded of the need to approach other relevant authorities and 
+departments, such as the Fire Services Department and the Building Authority, regarding any 
+other approvals or licences that may be required under any Ordinances, by-laws or regulations 
+that are in force from time to time, whether or not the proposed uses that may be permitted 
+under the Data Centre Waiver would involve any alteration, structural or otherwise, to the 
+industrial building. 
+11. 
+If the owner wishes to revert, after execution of the Data Centre Waiver, to any 
+of the original uses permitted under the Government lease, he should submit an application to 
+LandsD to cancel the Data Centre Waiver. 
+12. 
+The Data Centre Waiver will have effect only for the lifetime of the building in 
+existence at the date 0 f issue 0 fthe Data Centre Waiver or until the Government lease 0 f the lot 
+expires or is terminated, whichever is the earlier. Notwithstanding the Data Centre Waiver, a 
+premium at full market value (i.e. assessment will be made without the benefit of the Data 
+Centre Waiver) will be payable if any modification of any Government lease condition is 
+applied for and approved. During the validity period of the Data Centre Waiver, if the owner 
+wishes to change any of the Data Centre Waiver conditions, including any change of the area to 
+be covered under the Data Centre Waiver, he should submit an application to LandsD, which 
+may, at its sole and absolute discretion, approve or reject and any approval granted may be 
+made upon such terms and conditions (including the payment of any premium or charge) as it 
+may Impose. 
+Other Points to Note 
+13. 
+The application should be submitted to the LandsD Headquarters at 191F, North 
+Point Government Offices, 333 Java Road, North Point, Hong Kong, for the attention of the 
+Redevelopment and Conversion ofIndustrial Buildings Team ("RCIB"). The owner may wish 
+to refer to Appendix I for a sample application and Appendix II for a note on the use of the 
+personal data required to be provided in the application. 
+14. 
+The owner is advised to engage competent professionals to assist them in 
+submitting the applications. 
+15. 
+If a lease modification application ("Original Application") for development of 
+an industrial lot is in the course of being processed (i.e. the Original Application has been 
+submitted prior to 25th June 2012), the owner may, within the period specified in paragraph 1 
+hereof, submit an application ( "New Application") for either (I) development of the lot for 
+high-tier data centre use referred to in paragraph 2 hereof or (II) a Data Centre Waiver for part 
+of an industrial building under paragraph 6 hereof (if applicable) with a request that LandsD 
+will defer processing the Original Application pending the outcome of the New Application. 
+Should the New Application be rejected or not pursued for any reason, LandsD will resume 
+processing the Original Application unless such application is withdrawn by the owner. If the 
+New Application is approved and the relevant documentation is formally executed, 
+(a) where the New Application is submitted under item (I) above, the Original 
+Application will be treated as withdrawn by the owner; or 
+4 
+4
+
+----- page 5/12 -----
+sign ature
+(b) where the New Application is submitted under item (II) above, LandsD will 
+continue processing the Original Application upon receipt of a written request 
+from the owner. 
+The owner should note that: 
+(i) the administrative fee and LACO Fee paid for the Original Application will not 
+be refunded in any case; 
+(ii) an administrative fee and LACO Fee for the New Application will be payable as 
+and when demanded by LandsD following submission of the New Application; 
+and 
+(iii) the administrative fee and LACO Fee for the New Application will not be 
+refunded if the owner either withdraws the New Application, rejects LandsD's 
+offer in respect of the New Application, is unable to duly execute the 
+documentation for the New Application for any reason to the satisfaction of 
+LandsD or in any of the circumstances rendering such fees non-refundable as 
+set out in any letters demanding payment thereof 
+16. 
+Notwithstanding that there is an existing waiver in respect of any units of the 
+Industrial Premises ("Existing Waiver"), an application for a Data Centre Waiver for or 
+including those units may be submitted under paragraph 6 hereof and the applicable 
+administrative fee shall be paid as and when demanded by LandsD. The Existing Waiver will 
+be terminated by agreement simultaneously upon the execution ofthe Data Centre Waiver, and 
+notwithstanding any conditions in the Existing Waiver to the contrary, no waiver fees paid for 
+the Existing Waiver will be refunded and no notice of termination will be given or required. 
+There will be no refund of any administrative fees paid under the Existing Waiver. 
+17. 
+An application for a lease modification as referred to in paragraph 2 hereof and 
+a Data Centre Waiver as referred to in paragraph 6 hereof may not be submitted concurrently. 
+18. 
+Every application submitted to LandsD pursuant to this Practice Note will be 
+considered on its own merits by LandsD at its absolute discretion acting in its capacity as a 
+landlord. The amount of any administrative fee and LACO Fee mentioned herein will be 
+determined by LandsD from time to time. 
+This Practice Note shall not constitute any 
+representation on the part of the Government or give rise to any expectation on the part of the 
+owner that any application submitted to the LandsD will be processed or approved. 
+19. 
+This Practice Note is issued for general reference purposes only. All rights to 
+modify the whole or any part ofthis Practice Note are hereby reserved. 
+5 
+(Miss Annie TAM) 
+Director of Lands 
+18 June 2012 
+5
+
+----- page 6/12 -----
+Appendix I 
+Sample of an Application 
+Application for 
+(a) Lease Modification (or a Land Exchange) for Development of an Industrial Lot 
+for High-tier Data Centre Use; or 
+(b) Waiver for Data Centre Use in Pali of an Industrial Building 
+To: Chief Estate Surveyor/Headquarters, 
+Redevelopment and Conversion 
+of Industrial Buildings Team, 
+Lands Department 
+Dear Sirs, 
+(Address of the building or lot, Lot number) 
+I1We, 
+(name of the Applicants) 
+[as 
+the 
+(Sole 
+Owner 
+/ 
+Owners)* of (Lot 
+/ Lots __ / Premises 
+)*] hereby apply for a 
+(please specify [and note paragraph 1 of Practice Note Issue No. 3/2012]) in respect of the 
+Lease/ Special Condition No. 
+of Conditions of 
+/ 
+Special Condition No. 
+of New Grant No. 
+) under which the Lot 
+No(s). 
+is/are held. 
+Details of the proposal are provided on separate sheet(s) 
+attached to the application. 
+In order to facilitate consideration of my / our application, I / we attach the 
+Checklist of Basic Requirements together with the required documents / information for 
+your reference. 
+I I We hereby expressly warrant and declare that the above information provided in 
+support of my I our application is correct and genuine and I / we expressly acknowledge that 
+I am / we are aware and accept that the decision on the application will be made by the 
+Lands Department on the basis of the information supplied by me / us and may be 
+immediately cancelled in the event that such information is found to be false or misleading. 
+I I We further expressly acknowledge that the personal data provided by me I us in 
+this application will be used by the Lands Department in connection with the processing of 
+my / our application. 
+The provision of any personal data requested in the application form 
+is voluntary. 
+I / We understand that if I / we do not provide sufficient information, the 
+Lands Department may not be able to process my / our application. 
+1 
+6
+
+----- page 7/12 -----
+__________ _ 
+__________ _ 
+I / We hereby authorize the Lands Department to disclose my / our personal data in 
+the application and the attached documents to such Government Departments and any other 
+body, organization or person(s) as it may see fit at its absolute discretion to obtain such 
+information which is deemed relevant to my / our application, whether on policy or any 
+other grounds. 
+I / We further authorize and direct and request any Government Department or 
+other body which may be approached by the Lands Department to supply any and all 
+information which it may require. 
+* Delete as appropriate 
+Yours faithfully, 
+Applicant(s)'s Signature: 
+(H.K.I.D. Card Number(s): 
+) 
+Name of the Applicant(s) in Block Letters: 
+Address: 
+Telephone Number: 
+Date: 
+Notes: 
+(1) 
+Details of the proposed development or proposed uses under application will need to 
+be provided on separate sheet(s) attached to the application. 
+(2) 
+All owners must sign in the capacity of applicants. 
+(3) 
+This application and the separate sheet referred to in Note (1) above should be 
+submitted in triplicate. 
+2 
+7
+
+----- page 8/12 -----
+Checklist of Basic Requirements 
+for Submission of an Application for 
+(a) Lease Modification (or a Land Exchange) for Development of an 
+Industrial Lot for High-tier Data Centre Use; or 
+(b) Waiver for Data Centre Use in Part of an Industrial Building 
+A. 
+Information I Documents that must be submitted (1) : 
+General: 
+(i) 
+2 copies (2) of a complete set of Government Land Grant documents 
+(including all executed lease modification letters and extension 
+letters, if any) affecting the property (3). 
+(ii) 
+A copy of an up-to-date location / site plan on an appropriate scale 
+(normally 1: 1 000) showing the property. 
+(iii) 
+2 copies (2) of a computer printout containing the historical and 
+current ownership particulars of the property. 
+(iv) 
+(a) If any of the registered owners is a limited company, 2 sets of 
+certified true copies of its Certificate of Incorporation, 
+Certificate of Change of Name (if applicable) and Notice of 
+Situation of Registered Office. 
+For overseas companies, 
+documents equivalent to the above should be produced. 
+(b) If there are any chargees/mortgagees, letter(s) from chargees/ 
+mortgagees confirming that they have no objection to / agree to 
+enter into the proposed waiver letter/lease Modification 
+Letter/Conditions of Exchange. 
+(c) 
+In the event of the lot or premises being in multiple ownership 
+and unless otherwise consented to by LandsD, a summary list 
+(in duplicate) certified by the solicitor acting for the applicants 
+containing the names of all registered owners/chargees/ 
+mortgagees/ purchasers who have entered into an Agreement for 
+Sale and Purchase of a unit or units ("Purchasers") (if any) of 
+the property together with details of number of undivided shares 
+held by each owner and an undertaking by the solicitor to 
+inform the RCIB (4) of the Lands Department of any change in 
+the names of the registered owners/chargees/mortgagees/ 
+purchasers between the date of application up to the date of the 
+waiver letter/lease Modification Letter/Conditions of Exchange; 
+(v) 
+A copy of the Town Planning Board approval letter for the proposed 
+uses or development, if applicable. 
+(vi) 
+If submitted by an agent, a written authorization from all the 
+registered owners and purchasers (if applicable) of the property. 
+3 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+8
+
+----- page 9/12 -----
+For Lease Modification (including a Land Exchange) only: 
+(vii) 
+Details of the application clearly identifying the property concerned, 
+the variations being sought in respect of any tenns and conditions of 
+the existing lease conditions including the modification of any 
+restrictions and development parameters included in the existing 
+lease conditions (e.g. proposed user, maximum gross floor area 
+(GFA), GFA for the high-tier data centre part, site coverage, number 
+ofstoreyslbuilding height, etc.); and indicating :-
+(a) whether the proposed development intensity is less than the 
+maximum permissible intensity, and if yes, the proposed amount 
+of GFA and the percentage in terms of the maximum 
+permissible development intensity; and 
+D 
+Yes 
+(please provide detail) 
+(viii) 
+Documents showing that the property concerned will be developed 
+into a high-tier data centre satisfying the descriptions as set out at 
+footnote 4 of the practice note, including but not limited to the 
+conceptual design of the data centre. 
+(please provide details on separate sheet) 
+(ix) 
+A list of green measures to be adopted for the planned high-tier data 
+centre and elaboration of each of such measures (e.g. the adoption of 
+design and/or performance criteria under prevailing building 
+environmental assessment methods). 
+For Waiver only: 
+(x) 
+2 copies of a complete set of the building plans (5) last approved by 
+the Building Authority for the part of the existing building under 
+application and a schedule showing the total accountable GFA and 
+total internal floor area (5) of part of the existing building under 
+application. 
+(xi) 
+2 copies of all occupation permits (5) issued by the Building 
+Authority for the existing building under application. 
+(xii) 
+Details of the proposed operation of data centre in part of the 
+existing building under the application with reference to footnote 1 
+of the practice note, including but not limited to the conceptual 
+design of the data centre. 
+(please provide details on separate sheet) 
+4 
+D 
+D 
+D 
+D 
+D 
+D 
+9
+
+----- page 10/12 -----
+(xiii) 
+2 copies of any building works proposal (6) for the part of the existing 
+building under application, which should include certification :-
+• of any change in GFA, site coverage, number of storeys and 
+building height to the existing building; and 
+• that no other non-compliance with the lease conditions. 
+(xiv) 
+If applicable, a certified copy of the Deed of Mutual Covenant 
+("DMC") of the building and a written confirmation by the solicitor 
+acting for the applicants as to whether there are any inconsistencies 
+between the provisions of the DMC and the proposed data centre 
+use. 
+If so, a proposal as to how they are going to deal with the 
+inconsistencies should also be submitted. 
+(xv) 
+Does the applicant for waiver also wish to modify other lease 
+restrictions (other than the user restriction) in association with the 
+proposed data centre uses? 
+D 
+Yes 
+(Please provide detail on 
+separate sheet if necessary) 
+D 
+B. 
+Information / Documents that will facilitate the processing of the 
+application (7) : 
+(xvi) 
+A copy of an extract of the relevant Outline Zoning Plan (together 
+with the explanatory notes, as appropriate) showing the property. 
+(xvii) 
+For an application which involves portion(s) of a lot, or 
+sub-divisions of any lots, to assist the verification of site areas and 
+site boundaries, all relevant assignment plans or Deed Poll plans 
+should be provided together with any relevant information relating 
+to the delineation of the boundaries of these sub-divisions. 
+(xviii) 
+2 sets of sketch plans illustrating the proposed development of a 
+high-tier data centre or the change in use of data centre, if available. 
+(xix) 
+2 copies of any submissions approved by other relevant authorities 
+relating to the development proposal or other relevant study 
+assessment reports, if applicable (e.g. Approved Master Layout 
+Plans under the Town Planning Ordinance, Environmental/Traffic / 
+Drainage Impact Assessment Reports etc.) 
+5 
+D 
+D 
+D 
+D 
+D 
+D 
+10
+
+----- page 11/12 -----
+Notes: 
+(I) 
+Please put a tick in the relevant box if applicable unless otherwise specified; and delete 
+as appropriate. 
+(2) 
+One set of documents should be certified by the Land Registry or by the solicitor acting 
+for the applicant, while the other set may be a photocopy of the certified documents. 
+Certification of the documents should be done not more than one month before 
+submission of the application. 
+(3) 
+Property includes all premises or lots involved in a lease modification, land exchange 
+or waiver application. 
+(4) 
+RCIB refers to the Redevelopment and Conversion ofIndustrial Buildings Team ofthe 
+Lands Department at 19/F, NOlth Point Government Offices, 333 Java Road, North 
+Point. 
+(5) 
+The plans and documents should be certified by the Authorized Person acting for the 
+applicant. 
+(6) 
+The proposal should be prepared and submitted by the Authorized Person or other 
+competent professionals acting for the applicant. 
+(7) 
+Any other information may be supplied in triplicate on separate sheet(s) attached to the 
+application. 
+6 
+11
+
+----- page 12/12 -----
+Appendix II 
+Note on use of Personal Information Required in the Application 
+Purpose of Collection 
+The personal data provided by means of this form will be used 
+by the Lands Department for the purpose of considering and 
+processing the application. 
+The provision of personal data by means of this form is 
+voluntary. If you do not provide sufficient information, the 
+Lands Department may not be able to process your application. 
+Class of Transferees 
+The personal data you provided by means of this form may be 
+disclosed to other Government bureaux I departments for the 
+purpose mentioned above. 
+Access to Personal Data 
+The applicants have a right of access and correction with 
+respect to personal data as provided for in Sections 18 and 22 
+and Principle 6 of Schedule 1 of the Personal Data (Privacy) 
+Ordinance. Such right of access includes the right to obtain a 
+copy of the personal data provided on this form. 
+Enquiries 
+Enquiries concerning the personal data collected, including the 
+request for access and corrections, should be addressed to: 
+The Office Personal Data Controlling 
+Officer of the Lands Department 
+12

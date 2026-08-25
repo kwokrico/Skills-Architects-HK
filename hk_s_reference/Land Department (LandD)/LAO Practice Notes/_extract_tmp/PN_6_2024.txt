@@ -1,0 +1,217 @@
+
+----- page 1/2 -----
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lands Administration Office 
+Lands Department
+Practice Note 
+Issue No. 6/2024 
+即
+Building Plan Submissions 
+Use of Building Information Modelling for Mathematical Calculation of Areas 
+To promote the adoption of Building Information Modelling (“BIM”) technology in 
+private development projects, the Lands Department (“LandsD”) with effect from the issuance of 
+this Practice Note (“PN”) accepts BIM files for area calculations in general building plans 
+(“GBP”) submissions, in addition to the Computer-Aided Design drawing files allowed under 
+Lands Administration Office Practice Note Issue No. 3/2018. This PN advises on the general 
+requirement for the use of BIM in area calculations in GBP submissions for compliance checking 
+under lease1. 
+2. 
+This PN is to be read in conjunction with paragraph 24 of Practice Note for 
+Authorized Persons, Registered Structural Engineers and Registered Geotechnical Engineers 
+(“PNAP”) ADM-19 on “Building Approval Process” and PNAP ADV-34 on “Building 
+Information Modelling (BIM)”, issued by the Buildings Department (“BD”), which advise on 
+the use of BIM in the preparation of GBP submissions to BD. 
+General Requirement 
+3. 
+When BIM files are used to demonstrate area calculations in a GBP submission, the 
+Authorized Person (“AP”) should fulfil the requirements stated in the “Guidance Notes on Use 
+of Building Information Modelling for Mathematical Calculation of Areas” (“the Guidance 
+Notes”), available on LandsD website (https://www.landsd.gov.hk). In particular, for GBP 
+submissions in hardcopy format, BIM files should be submitted in a form of non-rewritable 
+DVD-ROM diskette(s). For GBP submissions via Electronic Submission Hub (“ESH”)2, BIM 
+1 All references to “lease” in this PN shall include Government Lease or Conditions of Sale/Grant/Exchange, etc. and “lease” 
+shall be construed accordingly. 
+2 ESH, being a digital platform for receiving and processing of building plans, documents and applications submitted under the 
+Buildings Ordinance (Cap. 123), serves an alternative means to the paper-based mode of submission. 
+
+----- page 2/2 -----
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+files should be uploaded simultaneously with the electronic copy through ESH. In parallel with 
+the submission of GBP and BIM files, AP should also submit a set of Coloured Building Plans3 
+to facilitate compliance checking under lease. A GBP submission may be rejected without 
+further checking if (i) these requirements and (ii) the time frame or technical requirements as set 
+out in the Guidance Notes are not complied with. 
+Consent to the Use of BIM Data 
+4. 
+BIM files submitted to LandsD in support of a GBP submission will also be used for 
+updating 3-Dimensional Digital Map and other spatial data. The BIM files will also be kept in 
+the Government BIM Data Repository to facilitate smart city applications of the Government, 
+such as city pla画ng and urban design. The submission of BIM files from AP will be taken as 
+pennitting the use of the BIM models for such purposes by the Government. 
+Application and Effective Date 
+5. 
+For the avoidance of doubt, any approval or disapproval under lease will only be given 
+to a GBP submission either in hard copy format or electronic format accepted by BD under 
+PNAP ADM-17. In case of any discrepancy between the GBP submission and BIM files 
+submitted, the GBP submission shall prevail. 
+6. 
+This PN takes immediate effect and applies to all GBP submissions with BIM files 
+submitted (including re-submissions, major revisions or any amendments). 
+( Maurice L OO) 
+Director of Lands 
+30 September 2024 
+3 Coloured Building Plans should be prepared in accordance with paragraphs 6 to 9 of the Guidance Notes which must be 
+identical to the floor layout plans in the GBP and duly coloured to show the extent of site coverage,. transfer plate and gross 
+floor area accountable and non-accountable areas under lease. 
