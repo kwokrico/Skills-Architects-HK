@@ -1,0 +1,28 @@
+# APP-14
+
+**Official title:** Cinemas and Other Places of Public Entertainment in Non-domestic Buildings or Composite Buildings
+
+**In plain words:** This note sets how cinemas and other places of public entertainment may sit in a non-domestic building or in the non-domestic part of a composite building, including shared exits, seating, and foyer size. It does not grant a gross floor area (GFA) concession. Foyer size still affects means of escape, and a cinema foyer void is a separate APP-2 question.
+
+**Numbers that matter**
+- Under Building (Planning) Regulation 49B, one or more cinemas with not more than 2,000 persons in total may be on any storey of a non-domestic building, or of the non-domestic part of a composite building, and they may share exits, foyers, waiting space, vestibules, and projection rooms.
+- Shared exits (paragraph 2) need all of the following. Dedicated smoke extraction and fire service installations to the satisfaction of the Director of Fire Services (DFS). Walls and floors with a fire resistance period (FRP) to the fire resisting construction code, and doors at least matching the wall FRP. The foyer is separated to the same FRP, unless the foyer is also smoke-extracted, in which case separate the foyer from other accommodation. Openings into adjoining non-domestic premises are protected by a door or shutter of equal FRP. Shared exits are reached from common circulation without passing through private premises. A staircase that connects only to the cinema or cinemas follows means-of-escape code paragraphs 17.2(b) and 26.2. Exit widths are based on the combined occupancy (paragraphs 4 to 7). In a composite building, cinema exits are separated from domestic exits. Exits discharge to streets at least 4.5 m wide, with two routes to different thoroughfares. This shared-exit arrangement is not used in a basement.
+- If the cinema is 12 m or more above the pavement, means-of-escape code paragraphs 25.1, 25.3, and 25.4 set the widths. If a shared exit is wider than the exits on the floors below, that greater width continues down to the ground.
+- Horizontal exits through adjoining accommodation may provide not more than half of the total exit width required for that cinema. Common circulation floor area is at least 0.5 m² per person, based on the pro-rata cinema load using those exits, plus the foyer at 1 person per 0.5 m², plus adjoining circulation from means-of-escape Table 1.
+- Seatway (the clear distance from the back of a seat to the nearest projection behind it; a tip-up seat is measured tipped up): maximum row length 12 m with one gangway, or 24 m with two. Table A gives the number of seats for each seatway width, from 300–324 mm (7 seats with one gangway, or 14 with two) through to 500 mm and above, where the row is limited by the 12 m or 24 m length.
+- Gangway width (Table B): fewer than 500 persons, 1,100 mm; 501 to 1,000 persons, 1,200 mm; 1,001 to 1,500 persons, 1,350 mm; more than 1,500 persons, 1,500 mm.
+- Projection rooms: walls and floors of at least 1 hour FRP. Door leakage not more than 3 m³ per hour per metre of head and jambs at 25 Pa, to BS 476 Section 31.1, and the door FRP at least 1 hour. The leakage-and-FRP door rule does not apply if there is no film, arc, xenon, or other hazardous light source. An elevated projection room serving one box may have one exit if the travel distances in means-of-escape paragraph 14(3)(b) are met, and it may discharge across the seating to a staircase. If there is no natural vent, mechanical ventilation to the open air is by an independent system.
+- Foyers (regulation 49E): 0.5 m² per person, sized at 1 in 6 of the seating capacity. A basement cinema has its foyer on the ground floor, at 0.5 m² per person and at 1 in 3 of capacity, with 4-hour FRP separation, lifts reached through a protected lobby, and a fireman’s lift reached through a ventilated lobby in a firefighting stairway.
+- A premises with not more than 50 persons in a place of public entertainment or cinema may share exits without the Part III means-of-escape rules for places of public entertainment, and without the full shared-exit suite in this note, if all such premises together hold not more than 150 persons, they are not in a basement, the projection rooms comply, and the foyer follows paragraph 13.
+- Other places of public entertainment, not more than 500 persons in total, in a non-domestic building (including non-polluting industrial) or in the non-domestic part of a composite building, may front one thoroughfare if there is emergency vehicular access and the Director of Fire Services does not object. A modification of Building (Planning) Regulation 49A may be considered.
+
+**What to submit**
+- Plans showing means-of-escape and fire-resisting-construction compliance, and smoke extraction and fire service installations to the Director of Fire Services’ satisfaction.
+- Seats need not be installed before the occupation permit or BA14 if the gangways and seatways are marked out and the developer or authorized person undertakes that the seats will be installed before the cinema licence is applied for.
+
+**Watch-outs**
+- Shared exits without dedicated smoke extraction, with inadequate FRP, or used in a basement under the paragraph 2 regime, are not acceptable.
+- Discharge streets narrower than 4.5 m, or both exits leading to the same thoroughfare, fail the rule.
+- Seatway and gangway sizes outside Tables A and B fail the rule.
+- Missing the foyer ratio, especially a basement foyer at 1 in 3 rather than the usual 1 in 6, fails the rule.
+- A composite building must separate domestic exits from non-domestic exits.

@@ -1,0 +1,145 @@
+FIRE SERVICES DEPARTMENT 5foi ~jj at 
+LICENSING & CERTIFICATION COMMAND ~~&~mi,,~ 5/F, Fire Services Headquarters Building, 
+W~:fL~~~ll_§_}l:[gjlll!t;lfili:-~ No . I Hong Chong Road , Tsim Sha Tsui East, 
+Kowloon, Hong Kong 5Jl1 Jl,o t.! W */Jr .li fW 
+*~¥el'lJ/Jf OUR REF.: (19) in FP(LC) 314/07 Pt. 10 
+*15h¥el'lJ/Jf YOUR REF.: 
+!i:Xf$Ji FAX NO.: 852 2723 2197 
+~r!ffll{tf: E-mail: Icpolic2@hkfsd.gov.hk 
+~ lfi5 TEL. NO.: 852 2733 7619 
+7 June 2023 
+To: Recipients of FSD Circular Letters 
+Dear Sir/Madam, 
+FSD Circular Letter No. 3/2023 
+Specification of Gas Extraction System for 
+Battery Room and Electrical Charging Facilities 
+This Circular Letter serves to announce the revised specification of gas extraction 
+system in battery rooms and electrical charging facilities, supplementary to the Code ofPractice 
+for Minimum Fire Service Installations and Equipment (September 2022) (the "CoP"). 
+Currently, the specification of the gas extraction system for battery rooms shall 
+comply with relevant requirements set out in paragraph 8 - Battery Rooms Mechanical 
+Ventilating Systems, of Part XI of FSD Circular Letter No. 4/96. With a view to enhancing 
+fire safety standards in battery room and electrical charging facilities, a Sub-working Group 
+joined by Ventilation Installation Liaison Group and Fire Safety Standard Advisory Group has 
+conducted a holistic review on the requirements. The specification of gas extraction system 
+has been revised with details provided in the Appendix of this Circular Letter. 
+The gas extraction system as required by the CoP would serve for reducing 
+concentration of flammable vapour/gas, such as hydrogen, which may be released during 
+charging of the battery, to below its lower explosion limit. The gas extraction system shall be 
+inspected and tested to demonstrate the satisfactory performance including gas extraction flow 
+rate, means of actuation, audio and visual indication for status monitoring and other 
+requirements as specified and may be prescribed by this Department on the account of specific 
+features of the system. 
+The system shall be maintained in efficient working order at all times and shall be 
+inspected by a registered fire service installation contractor at least once in every 12 months . 
+. . . ./2 
+Ref. Number and date should be quoted in reference to this letter 
+fL t'E &. ;$: {~ ~ ffi ~I ~ ~I 5!ff. &. B M 
+2 -
+The paragraph 8 of Part XI ofFSD Circular Letter No. 4/96 is hereby superseded and 
+the revised specification shall be applicable to all developments with initial building plan 
+submission received by this Department on or after 1 September 2023. Building plans 
+submitted before 1 September 2023 are welcome to voluntarily adopt these revised 
+requirements. 
+For enquiries, please contact our Fire Service Installations Division at 3961 5217 
+during office hours. 
+Encl. 
+Ref. Number and date should be quoted in reference to this letter 
+fL m & *{g Mi ~J!i sl :lltt ~i 51ft & B Wl 
+Gas Extraction System for Appendix 
+Battery Room and Electrical Charging Facilities 
+1. Purpose 
+1.1 The Gas Extraction System referred herein is regarded as fire service 
+installation as defined under Code of Practice for Minimum Fire Service 
+Installations and Equipment. 
+1.2 The purpose of providing gas extraction system to battery room and 
+electrical charging facilities is to reduce the concentration of flammable 
+vapour/gas, such as hydrogen, which may be released during the charging 
+ofthe battery, to below its lower explosion limit. 
+1.3 Gas extraction system shall be provided to dedicated battery room 
+accommodating the following types of battery having total outputs of not 
+less than 400 Ampere-hour:-
+(i) Lead-acid; 
+(ii) Nickel-cadmium; or 
+(iii) Other types of battery evolving flammable vapour/gas during 
+recharging of the battery. 
+2. Requirements for Dedicated Battery Room 
+2.1 All open type batteries regardless of size shall be accommodated m 
+dedicated battery room. 
+3. Design Calculation 
+3.1 Gas extraction system shall be provided to battery room to keep the 
+concentration offlammable vapour/gas below the safety limit. 
+3.2 The extraction rate shall be provided in accordance with one of the 
+following: 
+(i) The safety limit of hydrogen gas concentration inside the battery 
+room is 1 % by volume maximum during the worst-case event of 
+simultaneous "boost" charging of all the batteries.; or 
+(ii) The extraction shall be provided at a rate not less than 5.1 
+Litre/sec/m2) of the floor area of the room. 
+3.3 The design of the gas extraction system for this purpose shall follow the 
+guidelines in BS EN IEC 62485-1, BS EN IEC 62485-2, NFPAl, 
+NFPAl 11 or other acceptable international standards as agreed by the 
+Director of Fire Services. In accepting gas extraction systems for battery 
+system, the Director of Fire Services may require a set of design 
+calculations to be submitted to substantiate that the gas extraction system 
+has been properly designed to meet the above requirement. 
+Page 1 of 3 
+4. Technical Requirements 
+4.1 The ventilating fan shall be constructed of non-combustible material and 
+the fan motor shall be of totally enclosed fan cooled (TEFC) type. 
+4.2 The gas extraction system for the battery room shall be independent to all 
+other systems in the building. The extracted air shall be exhausted directly 
+to open air. 
+4.3 Extraction points shall be located at the highest level of the room while air 
+inlets shall be at low level. Extraction points and air inlets shall be so 
+arranged that a "cross-flow" effect can be achieved in all areas within the 
+room. 
+4.4 The gas extraction system shall be operated by means of continuous 
+ventilation or electrically interlocked with the battery charger. 
+4.5 Ifthe ventilation is not continuously provided, the ventilating fan motor 
+shall be electrically interlocked with the battery charger so that the charger 
+cannot be put in operation when the ventilating fan is not running. 
+Electricity supply for the ventilating fan(s) shall be from an independent 
+circuit other than that ofthe battery charger, and the interlock control relay 
+shall be protected by an independent protective device. 
+4.6 If due to the functional requirement of the batteries, the condition in 
+paragraph 4.4 cannot be met, alternative safety measures may be accepted 
+but these must be agreed by the Director of Fire Services before 
+installation. 
+4.7 All components of the gas extraction system shall be made of corrosion 
+resistant materials. 
+4.8 The operation of gas extraction system shall not affect the operation of 
+other fire service installations in case of fire. 
+4.9 The status ofeach fan comprising "Power Supply On", "Fan Running" and 
+"Fan Failed" are monitored and displayed at the local control panel. Audio 
+and visual indication shall be provided at fire control panel to monitor the 
+status of the gas extraction system. 
+4.10 Ifthe gas extraction system ductwork passes through compartments, any 
+part of the ductwork outside the serviced compartment shall be totally 
+enclosed ·by fire resisting construction to BS 476: Part 20, to the same fire 
+resisting period as the serviced compartment or the containing 
+compartment whichever is the higher. 
+Page 2 of3 
+4.11 All ductwork designed to operate at static pressure in excess of 750 Pa, 
+including builders work ducts or shafts and other construction shall, be 
+pressure tested to Building and Engineering Services Association 
+specification DW 143 or subsequent amendments. No pressure sensitive 
+tapes shall be used for sealing. 
+4.12 Generally, there shall be no damper nor other restrictions in the ductwork 
+or shafts. The exceptions shall be where enclosure integrity is required for 
+effective operation of other fire service installations or at main exhaust 
+louvre. 
+4.13 Cables used for gas extraction system shall comply with the same 
+requirements of items 2 to 15 stipulated in Appendix 8 of the Code of 
+Practice for Inspection, Testing and Maintenance of Installations and 
+Equipment (September 2022). 
+5. Inspection, Testing and Maintenance 
+5.1 The gas extraction system shall be inspected and tested to demonstrate the 
+satisfactory performance including gas extraction flow rate, means of 
+actuation, audio and visual indication for status monitoring and other 
+requirements as specified and may be prescribed by Fire Services 
+Department on the account of specific features of the system. 
+5.2 The system shall be maintained in efficient working order at all times and 
+shall be inspected by a registered fire service installation contractor at least 
+once in every 12 months. 
+Page 3 of3

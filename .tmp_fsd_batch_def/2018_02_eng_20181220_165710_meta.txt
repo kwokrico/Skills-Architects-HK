@@ -1,0 +1,5 @@
+file=2018_02_eng_20181220_165710.pdf
+method=ocr
+chars=7395
+alpha=5772
+lines=184

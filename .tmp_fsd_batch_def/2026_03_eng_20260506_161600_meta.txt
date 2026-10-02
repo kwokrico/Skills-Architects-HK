@@ -1,0 +1,5 @@
+file=2026_03_eng_20260506_161600.pdf
+method=pypdf
+chars=9335
+alpha=7165
+lines=200

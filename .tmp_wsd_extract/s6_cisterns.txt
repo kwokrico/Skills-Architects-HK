@@ -1,0 +1,677 @@
+\n===== PDF PAGE 54 =====\n  
+April 2026 version 
+ 
+- 45 - 
+ 
+6. Water Cisterns, Water Pumps and Other Miscellaneous 
+6.1 General  
+*6.1.1 No cistern for the storage of cold water shall be installed or used except with the 
+permission in writing of the WA who shall specify the maximum permitted 
+capacity.   
+ 
+*6.1.2 No cistern for the storage of fresh water supp lied from the waterworks shall, 
+without the written permission of the WA, be so connected that it can be used for 
+the storage of any water other than that supplied from the waterworks. 
+ 
+ 
+6.2 Cold Water Cisterns (or Cold Water Tanks) 
+6.2.1 Location 
+6.2.1.1 Access for Maintenance and Inspection 
+*6.2.1.1.1 Water Storage Tanks shall be installed so that they are easily accessible for cleaning 
+or repairs.  
+ 
+*6.2.1.1.2 Safe access shall be provided to all cisterns by means of a secure permanent ladder 
+or readily available portable ladder. 
+ 
+*6.2.1.1.3 Where a cistern is installed inside a building and, due to limited headroom available, 
+it is fixed with limited clearance from the ceiling or underside of the roof, a quickly 
+detachable fitting must be used to enable it to be easily removed for cleansing and 
+repair. 
+ 
+#6.2.1.1.4 For water cisterns with top access, the access on top of the cisterns should have a 
+minimum headroom of 800mm. 
+ 
+#6.2.1.1.5 Safe, free and uninterrupted access to the water cisterns should be provided and 
+maintained at all time to ensure the safety of personnel undertaking cleaning or 
+maintenance works. 
+ 
+6.2.1.2 Protection against Pollution of Potable Water by Non-Potable Water  
+*6.2.1.2.1 If a cistern for non-potable water is placed adjoining to a cistern for potable water, 
+a physical break must be provided between the cisterns, such that the walls and 
+slabs of the cisterns are separated, however, tie beams linking the cisterns for 
+structural requirements may be fitted and, if fitted, must be c onstructed in a way 
+that cross contamination of the cisterns via the tie beams is not possible. 
+ \n\n===== PDF PAGE 55 =====\n  
+April 2026 version 
+ 
+- 46 - 
+ 
+#6.2.1.2.2 A non-potable water cistern shall not be placed above a potable water cistern in the 
+same compartment of the building. If a cistern for non -potable water is placed 
+above a cistern for potable water due to site constraints, a physical break must be 
+provided between the cisterns, such that the walls and slabs of the cisterns are 
+separated. Full justifications and details for such arrangement shall be provided to 
+the WA for consideration and approval. 
+ 
+6.2.2 Material Requirements 
+*6.2.2.1 A cistern must be watertight, of adequate strength, properly supported and be made 
+of concrete, stainless steel or fibre glass.   
+ 
+#6.2.2.2 For concrete fresh water cisterns/storage tank, all internal surface of floors, walls 
+(to full height) and soffits of potable water cisterns shall be lined with a non-toxic 
+smooth finish.  
+ 
+6.2.2.3 Not Used.  
+ 
+#6.2.2.4 When fibreglass storage tank is to be used, prior approval by the WA must be 
+sought.  Fibreglass storage cistern for potable water shall be of an approved type 
+or certified to contain no toxic materials and suitable for storage of potable water. 
+ 
+6.2.2.5 Material testing standards and requirements of fresh water tanks in inside service 
+is given in Part B of this TR. 
+ 
+#6.2.2.6     All sealing compound, cover or other materials, no matter in contact or not in 
+contact with potable water, adopted for sealing any opening at the internal surface 
+of potable water cisterns shall be non-toxic. 
+ 
+6.2.3 Cover for Water Tanks 
+*6.2.3.1 A cistern must be so located as to minimize the risk of contamination of stored 
+water and be fitted with a suitable close fittings lockable cover that is not airtight. 
+The cover must be so positioned as to facilitate inspection and cleaning.  
+ 
+#6.2.3.2 Every storage cistern shall have a lockable close fitting rigid cover secured by 
+mechanical means which excludes light and the ingress of particles and / or insects 
+from the cistern. The cover shall be made of a material or materials which do not 
+shatter or fragment when broken and which will not contaminate any condensate 
+which may form on its underside or the stored water. For the potable water storage \n\n===== PDF PAGE 56 =====\n  
+April 2026 version 
+ 
+- 47 - 
+ 
+cistern, the cover and its base frame shall possess double upstand edges 
+interlocking one another to provide additional protection.  
+ 
+#6.2.3.3 Double sealed covers with locking devices shall be provided for all storage cisterns 
+other than cisterns  that provide supply solely for irrigation, cleansing, air-
+conditioning system make-up water, flushing and fire-fighting.  The double-sealed 
+covers prevent the ingress of surface water.   
+ 
+6.2.4 Installation Requirements for Inlet and Outlet Pipes 
+6.2.4.1 Minimization of Water Stagnation 
+#6.2.4.1.1 All outlet pipes from the storage cistern should, whenever possible, be positioned 
+at the opposite side to the inlet supply pipe to prevent stagnation of water.  
+ 
+6.2.4.2 Controlling Incoming Water Supply  
+*6.2.4.2.1 The inlet of a single cistern fed by a gravity supply must be fitted with a ball float 
+valve and stop valve. 
+ 
+*6.2.4.2.2 For ball float valves of a nominal diameter not exceeding 50mm, their valve bodies 
+must be made of copper alloy or stainless steel. For ball float valves of a nominal 
+diameter exceeding 50mm, their valve bodies must be made of copper alloy, 
+stainless steel, epoxy coated cast iron or epoxy coated ductile iron.  
+ 
+*6.2.4.2.3 Floats for use with fresh water must be made of copper alloy or stainless steel. 
+Floats for use with salt water must be made of plastic or stainless steel. 
+ 
+*6.2.4.2.4 Ball float valves fitted to a cistern must have the size of the orifice, the size of the 
+float and the length of the lever so proportioned to one another that, when the float 
+is immersed to an extent not exceeding half its volume, the valve is watertight 
+against the highest pressure at which the valve may be required to work. 
+ 
+*6.2.4.2.5 A ball float valve or float-operated valve fitted to a cistern must be securely fixed 
+to the cistern above the waterline of the float of the valve, and must be supported 
+independently of the inlet pipe (unless the inlet pipe is itself rigid and securely fixed 
+to the cistern), in a position that no part of the body of the valve is submerged when 
+the cistern is charged to the overflowing level.  
+ 
+*6.2.4.2.6 If a ball float valve or float -operated valve is provided with a pipe so arranged as 
+to discharge water into a cist ern below its overflowing level, an air hole must be \n\n===== PDF PAGE 57 =====\n  
+April 2026 version 
+ 
+- 48 - 
+ 
+provided in the outlet chamber of the valve above the overflowing level. The air 
+hole must be of a size sufficient to prevent syphonage of water back through the 
+valve. 
+ 
+*6.2.4.2.7 Ball float valves must not be fitted to a cistern that is used to contain heated water.  
+ 
+*6.2.4.2.8 The inlet of a single cistern fed by a pumped supply must be fitted with an 
+automatic control switch and without any stop valve. 
+*6.2.4.2.9 A ball float valve or automatic control switch installed at the inlet of a cistern must 
+shut off the supply when the water level is 25mm below the invert of the overflow 
+pipe or warning pipe. The invert of the inlet pipe or the outlet of the ball float valve 
+must not be less than 25mm above the top of the overflow pipe. 
+ 
+#6.2.4.2.10 In case of a mixed flushing water supplies, the water tank shall be fitted with a ball 
+float valve with submerged float control and a fullway gate valve for controlling 
+and isolating the inflow of mains supply respectively.  For other source of flushing 
+water supply, a ball float valve and a fullway gate valve shall be provided.  Typical 
+detail for flushing water tank with mixed supply is illustrated in Fig. 15. 
+Performance of the ball float valve shall meet the requirements specified in case of 
+gravity supply. 
+ 
+6.2.4.3 Outlet Water Pipes 
+#6.2.4.3.1 The invert of an outlet pipe from a water storage cistern with capacity less than 
+5,000 litres shall be at least 30 mm above the bottom of the ciste rn; this distance 
+shall be increased to 100 mm if the capacity is 5,000 litres or more.   
+ 
+*6.2.4.3.2 A stop valve must be provided at the outlet of a cistern.  Provisions must be made 
+for a drain-off pipe to enable the cistern to be emptied.   
+ 
+#6.2.4.3.3 Fullway gate valves shall be used with as the stop valves in Clause 6.2.4.3.2 at the 
+outlet pipe of every water storage cistern.  The drain-off pipe in Clause 6.2.4.3.2 
+shall be properly plugged or adequate means shall be provided to prevent any 
+unauthorized operation of the control valve at drain -off pipe.  If the outlet of a 
+flushing water cistern is of nominal size 50mm  or below, a ball valve can be used 
+to substitute the above gate valve. 
+ 
+6.2.4.4 Overflow Pipes and Warning Pipes 
+*6.2.4.4.1 All overflow pipes and warning pipes of a potable water cistern must be made of a \n\n===== PDF PAGE 58 =====\n  
+April 2026 version 
+ 
+- 49 - 
+ 
+corrosion-resisting material.   
+ 
+*6.2.4.4.2 An overflow pipe of one commercial size larger than the inlet pipe, and in no case 
+less than 25mm in nominal diameter, must be fitted to a cistern and be extended to 
+terminate in a conspicuous position. The overflow pipe must not be connected to a 
+drain or sewer or to the overflow pipe from another cistern. 
+ 
+#6.2.4.4.3 The position of discharge should be in a communal area easily vis ible and 
+accessible by the occupants. 
+ 
+#6.2.4.4.4 If the overflow pipe is not extended to terminate in a conspicuous position, t he 
+overflow pipe shall be installed with an overflow alarm with signal transferred to 
+a 24-hourly manned management office for timely notification. Full justifications 
+for such arrangement shall be provided to the WA for consideration and approval. 
+ 
+#6.2.4.4.5 In case of mixed flushing water supply as shown in Fig. 15, the overflow shall be 
+twice the diameter of larg est in let o r of nominal diameter 40mm, whichever is 
+greater.  
+ 
+#6.2.4.4.6 No part of the overflow pipe shall be submerged inside the storage tank. 
+ 
+#6.2.4.4.7 A grating and a self-closing non-return flap shall be provided at the overflow pipe 
+outside the storage tank. 
+ 
+#6.2.4.4.8 A warning pipe shall be installed in addition to an overflow pipe.  A warning pipe 
+can be of any size not less than 25 mm in diameter and shall comply with all other 
+requirements of an overflow pipe. 
+ 
+#6.2.4.4.9 The warning pipes shall be installed at a level below the overflow pipe and shall be 
+either extended to conspicuous location, i.e. outside of the building periphery for 
+roof tank or outside the pump room for sump tank , or installed with signal 
+transferred to a 24-hourly manned management office. 
+ 
+#6.2.4.4.10 Any openings of storage cistern shall  be properly covered with non -corrodible or 
+corrosion-resistant mesh (with size of opening not more than 2 mm) to prevent the 
+ingress of any small animal, insect or foreign matter into the water tank. 
+ 
+6.2.5 Size of Storage Cisterns for Flushing, Domestic and Trade/Commercial Water Uses 
+#6.2.5.1 The proportion of capacity of sump cistern to roof cistern is recommended to be in \n\n===== PDF PAGE 59 =====\n  
+April 2026 version 
+ 
+- 50 - 
+ 
+the order of 1:3. Otherwise, the designer shall demonstrate that the proposed ratio 
+of sump cistern to roof cistern is capable of fulfilling the designed demand. 
+ 
+#6.2.5.2 The capacity of the flushing water storage shall be  designed according to the 
+criteria in Table 6.2.5.2 .1 with a minimum capacity of 250 litres. [This clause is 
+applicable to new applications  with Form WWO 542 submitted on or after 1 
+January 2019 only.] 
+ 
+Table 6.2.5.2.1 Design criteria for flushing water storage 
+Building types  Litres per flushing apparatus  
+1. Residential  
+- Water closet 
+ 
+30  
+2. Commercial  
+- Urinal  
+- Water closet 
+ 
+30  
+40 
+ 
+#6.2.5.3 Storage criteria for fresh water supply for domestic flats are given in Table 6.2.5.3.1. 
+ 
+Table 6.2.5.3.1 Storage criteria for domestic application (sump and pump system) 
+Up to 10 flats 
+135 litres/flat 
+In case of a sump and pump system, the 
+minimum total storage including sump tank is 
+allowed to be 500 litre,  
+> 10 flats 90 litres for each additional flat 
+ 
+#6.2.5.4 For industrial buildings, the entire i nside service shall be supplied from storage 
+cisterns with separated outlets/downpipes feeding independent systems to serve 
+separately the industrial and processing purposes and the other general and ablution 
+appliances.  These independent systems shall not be interconnected.   
+ 
+#6.2.5.5 The required capacity of storage tanks for industrial use is one-day demand.  
+ 
+#6.2.5.6 For trade/commercial premises, the storage criteria for fresh water supply shall be 
+designed according to the criteria in Table 6.2.5.6.1 and Sections 6.2.5.7 to 6.2.5.9. 
+The criteria shall apply to building types not listed below, yet having similar 
+functions. In addition, designers should avoid oversize or undersize of the storage 
+of water tanks which may result in water quality problems. However, applicant 
+may request for relaxation of the requirement with justifications and flexibility will 
+be allowed by the WA if justified.  
+ 
+ \n\n===== PDF PAGE 60 =====\n  
+April 2026 version 
+ 
+- 51 - 
+ 
+Table 6.2.5.6.1 Storage criteria for trade/commercial fresh water supply 
+Food Shop (Small) 900 litres Not including provision 
+of stores, fruiters, etc. (Large) 1800 litres 
+Restaurants 25 litres/seat 
+(0.929m2/person on net area) 
+(1.394m2/person on gross area) 
+Barber’s Shop and Beauty Parlour 135 litres/chair 
+Funeral Parlour 45 litres/92.903m2 on gross area 
+School Drinking 4.5 litres/head 
+Laboratory 45 litres/sink 
+Industry 100% of daily demand 
+Clinic 250 litres (surgery only) 
+Dentist 250 litres/dental unit 
+Clubs Kitchen 2.5 litres/member 
+Changing Rooms 90 litres/shower 
+(hot and cold combined) 
+Office Blocks 45 litres/point 
+Cinemas/Theatres 45 litres/point 
+Hotels Bedrooms 45 litres/single room 
+(hot and cold combined) 
+70 litres/double room 
+(hot and cold combined) 
+Pantries, Bars and 
+Laundries 
+Individual consideration 
+Boarding Houses and Staff 
+Quarters 
+25 litres/bed 
+(hot and cold combined) 
+Fire Stations, Police Quarters, 
+Army Barracks 
+45 litres/person x 50% of establishment 
+(ablution rooms only – hot and cold combined) 
+ 
+#6.2.5.7 For laundry, the required storage criterion is given in Table 6.2.5.7.1. 
+ 
+Table 6.2.5.7.1 Storage criterion for laundry 
+Laundry Allowable Storage = L x 120 min. x N T 
+    
+where L = Litres/complete operational cycle 
+ T = Time/complete operational cycle 
+ N = No. of machines 
+ 
+#6.2.5.8 For hospital, the required storage criterion is one day’s consumption as given by 
+the hospital authorities. 
+ \n\n===== PDF PAGE 61 =====\n  
+April 2026 version 
+ 
+- 52 - 
+ 
+#6.2.5.9 For boilers, the required storage criterion is given in the following formula:- 
+ 
+Allowable Storage 
+(litres) 
+= (Boiler capacity (kW) x 15 – percentage of 
+water return (%)) x working hours. 
+ 
+6.2.6 Other Requirements 
+6.2.6.1 Not Used.  
+ 
+#6.2.6.2 When the capacity of water cistern exceeds 5 ,000 litres, adoption of twin -tank 
+system is required.  The applicability shall also be subject to factors such as 
+availability of plant room space. 
+ 
+#6.2.6.3 A set of inlet, outlet and associated overflow and drain pipes shall be provided to 
+each cistern compartment.   
+ 
+*6.2.6.4 Each inlet of a twin -cistern fed by a pumped supply must be fitted with an 
+automatic control switch and a stop valve for temporary isolation purpose. 
+ 
+#6.2.6.5 For water supplies other than pumped supply, this inlet shall comply with 
+requirements stated in Clause 6.2.4.2.1. 
+ 
+ 
+6.3 Water Pumps 
+#6.3.1 Where a sump -and-pump system is used, it shall be provided with a duplicate 
+pumpset.  The pumping capacity of the pumps shall not be less than the designed 
+out-flow rate of the storage tank being supplied. 
+ 
+6.3.2 Not Used.  
+ 
+ 
+6.4 Not Used.  
+ 
+ 
+6.5 Pressure Reducing Valves 
+#6.5.1 No part in the internal pipework and/or draw-off point shall be subject to excessive 
+high pressure.  In case of excessive high pressure, provision of break pressure tanks 
+at a suitable level of the internal supply system would be a positive and viable  
+means to reduce the water pressure . Alternatively, pressure reducing  valves may 
+be provided in lieu of break pressure tank.  \n\n===== PDF PAGE 62 =====\n  
+April 2026 version 
+ 
+- 53 - 
+ 
+#6.5.2 Whenever a pressure reducing valve is installed, a bypass arrangement shall be 
+incorporated with the provision of a second pressure reducing valve, except for fire 
+service installations, to e nable isolation of any defective pressure reducing valve 
+for repair and replacement when necessary.  A pressure indicator shall be provided 
+for pressure monitoring and the associated pipes and fittings shall be able to 
+withstand the maximum pressure that m ay arise upon the failure of the pressure 
+reducing valve  as far as practicable .  Fault alarm shall be installed with signal 
+transferred to a 24 -hourly manned management office for timely notification , 
+except for fire service installations. 
+ 
+ 
+6.6 Stop Valves for Draw-off Points 
+#6.6.1 Individual stop valves shall be provided at all draw-off points or at a series of draw-
+off points if situated close together.  
+ 
+6.6.2 Not Used  
+ 
+ 
+6.7 Water Taps 
+6.7.1 Application of Water Taps  
+#6.7.1.1 When infra-red sensor operated automatic taps are used as inside services, a stop 
+cock or gate valve must be installed at the upstream of each fitting for manual 
+isolation of water supply. 
+ 
+#6.7.1.2 Self-closing taps, of non -concussive type and of approved pattern, or infra -red 
+operated automatic taps, shall be used for the public or communal lavatory basins.   
+ 
+*6.7.1.3 Except with the written permission of the WA, fitting with a threaded outlet, or any 
+device facilitating the connecting of rubber hose or another type of flexib le hose, 
+must not be used.  
+ 
+6.7.2 Installation Requirements for Sanitary Fixtures Supplied by Water Taps 
+*6.7.2.1 All taps supplying baths, lavatory basins, sinks or similar apparatus shall have a 
+stop valve fixed in a readily accessible position to control the supply to each fitting 
+or branch pipe supplying a range of fittings. 
+ 
+*6.7.2.2 Every inlet to a bath, lavatory basin or sink shall be distinct from, and unconnected 
+with, any outlet therefrom and every outlet for emptying such bath, lavatory basin \n\n===== PDF PAGE 63 =====\n  
+April 2026 version 
+ 
+- 54 - 
+ 
+or sink shall be provided with a well -fitting and easily accessible watertight plug 
+or some other equally suitable apparatus. 
+ 
+*6.7.2.3 The level of the point of discharge of hot or cold water to a bath, lavatory basin or 
+sink shall be above the level of the overflow, or if there be no overflow, of the top 
+edge of the bath, basin or sink. 
+ 
+*6.7.2.4 The water supply to any bidets, sitz bath, slop or sluicing sink or similar 
+apparatus, shall, if the inlet is liable to be submerged, be provided by:- 
+(a) a cistern supplying water to such apparatus only; 
+(b) a cistern for flushing purposes only; or 
+(c) a hot water distribution system supplying such apparatus only. 
+ 
+ 
+6.8 Domestic Appliances 
+6.8.1 Water Purifiers/ Filters 
+6.8.1.1 Not Used.  
+ 
+#6.8.1.2 Domestic water purifiers/ filters must not be connected directly to the mains supply 
+because of the possibility of contamination.   
+ 
+#6.8.1.3 When there is installation of any domestic filter or water filter incorporated in water 
+using apparatuses (such as drinking fountain etc.), backflow prevention device 
+shall be installed. 
+ 
+#6.8.1.4 Requirements for backflow prevention and written permission fro m the WA for 
+typical types of water filters are summarized in Table 6.8.1.4.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n===== PDF PAGE 64 =====\n  
+April 2026 version 
+ 
+- 55 - 
+ 
+Table 6.8.1.4.1 Installation requirements for water filters 
+Type of water filters 
+ 
+Availability of an 
+Off-tank Water 
+Supply 
+Written Permission from 
+the WA 
+Installation of Backflow 
+Prevention Device 
+Faucet filters or 
+Countertop filters 
+Yes Not required; 
+The customer can install 
+himself. 
+Not required 
+No. Not required; 
+The customer has to engage 
+a licensed plumber to install.   
+Required 
+A non -return valve either 
+within the filter or upstream 
+of the filter without any 
+branch pipe in between the 
+valve and the filter 
+In-line filter of Point-
+of-Use (POU) type1  
+Yes or No. Required; 
+Plumbing proposal is 
+required. 
+Required 
+A single check valve or no 
+less effective backflow 
+prevention device is 
+provided upstream of the 
+filter and there is no branch 
+pipe in between the device 
+and the filter 
+In-line filter of Point -
+of-entry (POE) type2 
+Yes or No. Required;  
+Plumbing proposal is 
+required. 
+Yes. Water supply from 
+storage tank is mandatory. 
+1 Point-of-Use (POU) type in-line filter may serve a single water point e.g.  drinking fountain etc. under 
+direct or indirect water supply. 
+2 Point-of-Entry (POE) type in-line filter may treat water from the mains serving a premise. 
+ 
+#6.8.1.5 Sterilizers with or without attached filtering devices could be connected directly to 
+the mains supply provided that backflow prevention device is provided upstream 
+of the sterilizer such that there is no possibility of contaminating the mains supply. 
+ 
+6.8.2 Washing Machines and Dishwashers 
+6.8.2.1 Not Used.  
+ 
+#6.8.2.2 Regarding non-domestic use of washing machines and dishwashers, appropriate 
+backflow prevention devices must be installed according to Table 4.2.3.7.2.   
+ 
+6.8.2.3 Not used. 
+ 
+#6.8.2.4 Domestic use washing machines and dishwashers shall comply with Electrical 
+Products (Safety) Regulation (Cap. 406G)  and no extra backflow prevention 
+measures is required; otherwise a double check valve must be installed. \n\n===== PDF PAGE 65 =====\n  
+April 2026 version 
+ 
+- 56 - 
+ 
+6.8.2.5 Not used. 
+ 
+ 
+6.9 Not Used. 
+ 
+ 
+6.10 Flushing Apparatus 
+6.10.1 General Requirements 
+6.10.1.1 Not Used.  
+ 
+*6.10.1.2 A flushing cistern must in all cases be supplied from a cistern. Except with the 
+written permission of the WA, the cistern must not be used to supply any other 
+apparatus, appliance or fitting. The cistern must be fitted with a suitable close 
+fitting cover and provided with appropriate access to enable the cistern to be 
+entered and cleaned. 
+ 
+*6.10.1.3 A trough water-closet or urinal must be fitted with a flushing cistern. 
+ 
+*6.10.1.4 A water-closet fitment or slop sink must be fitted with a flushing cistern. However, 
+a pressure flushing valve may be installed for flushing without the provision of a 
+flushing cistern if there is a suitable head of water. 
+ 
+*6.10.1.5 The internal diameter of flushing pipes shall:- 
+(a) in the case of water-closet fitments, trough water closets and slop sinks, be not 
+less than 30mm; 
+(b) in the case of urinals (other than trough urinals), be not less than 15mm for 
+each basin and stall; and 
+(c) in the case of trough urinals, be not less than 15mm for every metre thereof. 
+ 
+*6.10.1.6 A flushing appa ratus must be operated by mechanical means or a sensor. In the 
+case of an automatic flushing apparatus, the method of control and the volume and 
+frequency of the flushes must be designed to ensure adequate cleaning. 
+ 
+6.10.2 Flushing Cisterns 
+*6.10.2.1 A flushing cistern must be fitted with a flushing device of the valveless syphonic 
+or valve type. A stop valve must be fixed in a readily accessible position so as to 
+control the water supply to the cistern. 
+ \n\n===== PDF PAGE 66 =====\n  
+April 2026 version 
+ 
+- 57 - 
+ 
+*6.10.2.2 A flushing cistern for a water-closet fitment or slop sink must be capable of giving 
+a flush of not more than 15 litres of water on each occasion the fitment is used. 
+ 
+*6.10.2.3 The capacity of the flushing cistern in the case of trough water closets and urinals 
+shall be approved by the WA sub ject to the discharge in the case of trough water 
+closets being not less than 9 litres of water for every metre of the channel and the 
+discharge in the case of urinal being not less than 4.5 litres of water for every basin 
+or stall, or in the case of a trough urinal, every metre thereof. 
+ 
+#6.10.2.4 The WA would have no objection to accepting the use of flushing cisterns with 
+discharge less than that required by the current regulations provided that the design 
+flushing volume is compatible with the toilet bowl to ensure effective clearance of 
+waste by a single flush and the flushing apparatus meets the requirements of the 
+WA. 
+ 
+*6.10.2.5 A flushing cistern operated by mechanical means or a sensor must be fitted with a 
+ball float valve that is arranged to refill the cistern within 2 minutes. 
+ 
+*6.10.2.6 Every flushing cistern shall have an overflow which shall discharge in a 
+conspicuous location. 
+ 
+6.10.2.7 Not Used.  
+ 
+#6.10.2.8 The requirements on the use of valve type flushing cisterns are as follows:-  
+(a) The valve seal of the flushing devices shall be easily replaceable; 
+(b) A dual flush valve which is designed to give two different volumes of flush 
+shall have a readily discernible method of actuating the flush at different 
+volumes. Such method should be illustrated clearly and permanently displayed 
+at the cistern or nearby; 
+(c) For dual flush devices, the reduced flushing volume shall not be more than 
+two-thirds of the larger flushing volume; and 
+(d) The flushing devices must pass the 200,000-cycle endurance test.  
+ 
+*6.10.2.9 The components of all valve type flushing devices shall be of material that is 
+suitable for the use of salt water.  
+ 
+*6.10.2.10 For an existing building with permission to use government water supply for \n\n===== PDF PAGE 67 =====\n  
+April 2026 version 
+ 
+- 58 - 
+ 
+flushing purposes, any existing flushing apparatus found unsuitable shall be 
+replaced with a proper apparatus as specified under Section 6.10.  
+ 
+#6.10.2.11 A filter which is readily accessible for inspection and cleaning shall be installed 
+before a flushing valve.  This filter can be replaced by a built-in strainer, which can 
+be readily inspected and cleaned, in the flushing device. 
+ 
+6.10.3 Flushing Valves (Flushometers) 
+#6.10.3.1 The installation of flushing valves (flushometers) shall be permitted when the 
+following requirements are fulfilled:- 
+(a) A filter/strainer shall be installed before a flushing valve or a group of flushing 
+valves; 
+(b) The cartridge and other valve components shall be easily replaceable; 
+(c) Flushing valves shall be used within the range of working pressures specified 
+by the manufacturer; 
+(d) The flushing valves must pass the 200,000-cycle endurance test; 
+(e) An effective maintenance management system shall be provided for frequent 
+inspection and cleaning of filters, i.e. normally only public toi lets 
+(administered by government, quasi -government bodies, hotel operators, 
+commercial complex management offices etc.) will be considered; 
+(f) A plate etched with the name of the responsible party and the telephone 
+number in both Chinese and English shall be provided to facilitate users to 
+report defective flushing valves. Other effective arrangements may also be 
+considered; and 
+(g) Flushing valves shall be of water efficiency Grade 1 or Grade 2 under Water 
+Efficiency Labelling Scheme (WELS). Sections 7.3 shall be referred for details. 
+ 
+*6.10.3.2 The valve components shall be of material that is suitable for the use of salt water.  
+ 
+*6.10.3.3 For an existing building with permission to use mains water (fresh or salt) for 
+flushing purposes, any existing flushing apparatus found unsuitable shall be 
+replaced with a proper apparatus as specified under Section 6.10. 
+ 
+6.11 Earthing 
+#6.11.1 The metal work of an inside service shall not be used as an earth electrode. The use 
+of non-metallic pipes or fittings should not have had any effect on the earthing 
+arrangement of the building.   
+ 
+6.11.2 Not Used.  \n\n===== PDF PAGE 68 =====\n  
+April 2026 version 
+ 
+- 59 - 
+ 
+7. Water Conservation 
+7.1 General  
+#7.1.1 To uplift the standard of water efficiency of plumbing fixtures and appliances, a 
+mandatory Water Efficiency Labelling Scheme (WELS) has been implemented .  
+For all proposed plumbing works submitted using the Form WWO 46 for 
+designated part of premises as listed below, the proposed products to be used for 
+shower head s for bathing, water tap s, urinal flushing valve s and water-closet 
+fitments11 should comply with prescribed water efficiency grades registered under 
+WELS.   
+ 
+ 
+7.2 Minimum Flow Requirements for Fittings and water-closet fitments in Inside Service  
+#7.2.1 The minimum flow requirements for draw -off taps, single and combination taps 
+shall conform to the specification in the relevant international standards.  Relevant 
+standards for respective tapware has been summarized in Part B of this TR. 
+ 
+ 
+7.3 Water Efficiency Requirements for Fittings and water-closet fitments in Inside Service 
+#7.3.1 Subject to exemption stipulated in Section 7.5.1, designated products (showers for 
+bathing, water taps and urinal flushing valves) of prescribed water efficiency 
+requirements registered under WELS shall be used in the following designated part 
+of premises:- 
+i. Kitchens of the domestic premises; and  
+ii. Bathrooms and toilets of all premises. 
+ 
+#7.3.2 the products shall comply with the prescribed water efficiency requirements in 
+Table 7.3.2.1 below:- 
+ 
+Table 7.3.2.1 Prescribed water efficiency requirements for designated products 
+Designated products Prescribed water efficiency requirements 
+Showers for bathing1 Grade 1 or Grade 2 
+Water taps (for use in kitchen sinks)2 Grade 1 or Grade 2 or Grade 3 
+Water taps (for use in washing basins of 
+bathrooms and toilets)2 
+Grade 1 or Grade 2 
+Urinal flushing valves Grade 1 or Grade 2 
+                                                 
+11 In accordance with Section 4.6 of the Scheme Document for WELS on water closets, the term “water closet” 
+covers toilet suite (one-piece water closet pan); water closet pan only; water closet cistern only; and a 
+combination of a water closet pan and cistern (close-coupled suite). 

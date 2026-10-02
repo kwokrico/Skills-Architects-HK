@@ -1,0 +1,82 @@
+. 
+FIRE SERVICES DEPARTMENT /~1'-.~ :~5~ IDJ m '!/;'~' \ I ~£""'•~ii:,•,()'! // /;:::·'•.,'~.)i) LICENSING & CERTIFICATION COMMAND ., _,-~-,"' '
+AA! ~ & ~ :ftt ~I ~ 5/F, Fire Services Headquarters Building, 
+w ~ 1L ft ~ 0> a.§. :!!Fr llf5 lllt ill: :m - IJtJf No. I Hong Chong Road, Tsim Sha Tsui East, 
+Kowloon, Hong Kong 5~ lln Mi! llf5 :k. Wt Ii ~ 
+*lltffl51JE OUR REF.: (6) in FP(LC) 314/07 Pt. 11 
+*~ffl51JE YOUR REF.: 
+1/ilX:~~ FAX NO.: 852-2723 2197 
+~ ~ TEL. NO.: 852-2733 7619 
+~rm!3{tf: E-mail: lcpolic2@hkfsd.gov.hk 
+18 April 2024 
+To: Recipients of FSD Circular Letters 
+Dear Sir/Madam, .. 
+FSD Circular Letter No. 3/2024 
+Requirements on the Use of Flexible Connectors for 
+Connecting Single Sprinklers to Range Pipes in Sprinkler System 
+This Circular Letter serves to announce the applicability and modified 
+specification for the use of flexible connectors to connect single sprinklers to range 
+pipes ("Flexible Connectors"). It is supplementary to the Technical Guidance 
+published in FSD Circular Letter No. 5/2020 "Specification for Automatic Sprinkler 
+Installations" issued on 10 September 2020, which addresses the adoption with local 
+modifications of the Loss Prevention Council Rules for Automatic Sprinkler 
+Installations 2015 incorporating BS EN 12845 ("LPC Rules"). 
+Currently, the specification for the use of Flexible Connectors as stipulated in 
+Clauses TB227.2.4 to TB227.2.5 in the Technical Bulletins supplementary to the LPC 
+Rules is stated as "not mandatory and for reference only" in the Technical Guidance. 
+A Sub-working Group under the Fire Safety Standard Advisory Group was 
+formed and tasked to look into the feasibility and applicability of Flexible Connectors 
+in Hong Kong. After thorough review and consultation with the trade and respective 
+parties of interest, the Sub-working Group has modified the specification for the design 
+and installation ofFlexible Connectors locally. 
+The modification is detailed in the amendment sheet attached to this letter and 
+should be read in conjunction with the Technical Guidance, the LPC Rules including 
+the Technical Bulletins, Notes, Commentary and Recommendations and the relevant 
+requirements of the Codes quoted in these documents. The relevant entries in the 
+Technical Guidance will be replaced by this modification, effective from 1 May 2024. 
+Ref. Number and date should be quoted in reference to this letter 
+fL m Ez. * {f,l Bit gij sl }fil ~,l\j §1}1 Ez. B M 
+For the avoidance of doubt, prior approval for the adoption of the Flexible 
+Connectors in the form of an enquiry submission should be addressed to New Projects 
+Division of this department. 
+For enquiries, please contact the Fire Protection Facilities Group of the Fire 
+Protection Engineering Compliance Division at 3961 5217 dur" office hours. 
+urs faithfully, 
+ming) 4 
+fo Ire Services 
+Encl. 
+Ref. Number and date should be quoted in reference to this letter 
+fL :J=M & 2fi; f§ B~ f# 5/ Mt~~ & El Wl 
+Technical Guidance 
+Application of Loss Prevention Council Rules for Automatic Sprinkler 
+Installations 2015 incorporating BS EN 12845 in Hong Kong 
+Amendment Sheet Serial No.1/2024 
+(1) Replace relevant entries "TB227.2.4 to TB227 .2.7 are not mandatory and for reference 
+only." under Clause TB227: 2015:1 Pipework in Part 3 of the Technical Guidance 
+with:-
+lli8J The second sentence of TB227.2.4.1 ["The products shall be ... specifiers' guide or 
+amendments"] is not to be applied locally. 
+Note : FSI and fire safety product shall be of an accepted type as required by the FSD . 
+~ Item (b) of TB227.2.4.2 should be revised and read as 
+"Flexible c01mectors shall be used on wet pipe installations only and applicable up to 
+OH Group 3 where relative movement between two ends of the pipes are expected. 
+Prior approval for the use offlexible connectors connecting single sprinklers to range 
+pipes shall be obtained from the Director of Fire Services." 
+Note : This is to suit local practice. 
+~ Item (d) of TB227.2.4.2 should be revised and read as 
+"All flexible connector sprinkler tem1inations shall be supported by a product 
+supplier's certified support bracket assembly. The Registered Fire Service 
+Installation Contractor shall certify the installation and the support bracket assembly 
+is in compliance with the manufacturer's reconunendations." 
+Note: This is to suit local practice. 
+~ Item (k) of TB227.2.4.2 should be revised and read as 
+"Flexible connector shall only be used in accessible locations where inspections are 
+pemussible." 
+Note: This is to suit local practice. 
+~ The following new item for TB227.2.4.2 should be added 
+"(I) Configurations of the single sprinkler flexible co1mector shall comply with 
+figure TB227 .Fl. Configurations other than the aforesaid acceptable design shall 
+comply with the manufacturer's recommendations." 
+Note: This is to suit local practice. 
+CEJ TB227.2.6 to TB227.2.7 are not mandatory and for reference only. 
+Note: This is to suit local practice. 

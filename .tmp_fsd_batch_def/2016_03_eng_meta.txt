@@ -1,0 +1,5 @@
+file=2016_03_eng.pdf
+method=ocr
+chars=1858
+alpha=1406
+lines=57

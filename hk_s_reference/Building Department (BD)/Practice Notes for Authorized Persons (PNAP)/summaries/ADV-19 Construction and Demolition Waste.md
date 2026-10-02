@@ -1,0 +1,22 @@
+# ADV-19
+
+**Official title:** Construction and Demolition Waste
+
+**In plain words:** More than a quarter of the solid waste in the landfills comes from building construction. Plan the waste at design stage, sort it on site, and send inert material to a public fill bank rather than to a landfill. This note does not grant a gross floor area (GFA) or site coverage (SC) concession. Prefabrication and system formwork do change how the site is laid out.
+
+**Numbers that matter**
+- Design measures listed: precast and prefabrication, including modular design, precast facade, staircase, and slab, prefabricated external elements, precast bridge decks and footbridges, paving blocks, prefabricated kitchen and bathroom fittings, and proprietary doorsets and partitions; sprayed plaster; balancing cut and fill; pulverised fuel ash in concrete for substructure, superstructure, and streetworks; combined services trenches; letting purchasers choose finishes and fittings; minimising timber from non-sustainable sources; and system formwork.
+- Site measures: a waste management plan; a non-timber hoarding; metal formwork and falsework; sorting on site; saving water on site; recycling concrete as fill or hardcore; recycling aggregate for non-structural concrete; identifying recycling facilities; and an underground mechanical spray wheel-wash.
+- Advise the client to require the contractor’s waste management plan to cover: types and quantities of waste; when it arises; reduction measures; separation on site; reuse on site and off site; storage areas; quantities and outlets for off-site disposal; monitoring and audit; organisation; a reuse and recycle list with quantities; how trip tickets will work; hazardous-waste processing, storage, and disposal; and packaging.
+- If the project will produce more than 300,000 m³ of construction and demolition material, the Director of Environmental Protection is prepared to advise before the plan is accepted, and the Public Fill Committee of the Civil Engineering and Development Department is prepared to advise on management and beneficial reuse.
+- The trip-ticket system, Works Bureau Technical Circular No. 5/99, effective 1 July 1999, is recommended for private sites. Inert public fill (soil, rock, concrete, bricks, bituminous material, and similar) goes to a designated public filling facility. Non-inert construction and demolition waste goes to a designated landfill. Each truckload has a disposal delivery form. A dump truck needs a valid dumping licence from the Civil Engineering and Development Department. Public fill facilities are generally free for delivery by vehicle over land. Typical opening hours are 8:30 a.m. to 12:00 noon and 1:00 p.m. to 6:00 p.m. Appendix A sets out what to tell the two departments, how outlets are designated, what to put in the tender about facilities and acceptance criteria, and how receipts are reconciled.
+- The Building Authority strongly recommends the trip-ticket system on private sites. The client or the project administrator applies to the Public Fill Committee and to the Environmental Protection Department Facilities Management Group for designated outlets, with the contract, the site, quantities, the programme, any environmental-impact recommendations, contaminant tests, waste types, and contact details. The contractor carries a disposal delivery form on each trip and gives the exit-gate receipt to the engineer’s or architect’s representative for a monthly reconciliation against the departments’ records. The waste management plan is an agreement between the authorized person and the contractor, required by the client. The Environmental Protection Department’s advisory role for projects above 300,000 m³ is separate.
+
+**What to submit**
+- No Buildings Department statutory form. Apply to the Civil Engineering and Development Department and the Environmental Protection Department for the designated outlets, and build the trip-ticket rules into the contract.
+
+**Watch-outs**
+- Illegal dumping, which the note links to projects with no trip tickets and no dumping licence.
+- Sending inert public fill to a landfill, which uses up landfill space the policy is trying to save.
+- No waste management plan and no on-site sorting, which also overlaps with the nuisance controls in ADV-4.
+- A project above 300,000 m³ that accepts a waste management plan without asking the Environmental Protection Department and the Public Fill Committee.

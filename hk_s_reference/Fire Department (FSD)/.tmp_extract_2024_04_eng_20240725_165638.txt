@@ -1,0 +1,944 @@
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+消防處 
+FIRE SERVICES DEPARTMENT
+消防安全總區 
+FIRE SAFETY COMMAND
+香港九龍尖沙咀東康莊道一號 
+7/F, Fire Services Headquarters Building 
+1 Hong Chong Road, Tsim Sha Tsui East
+消防處總部大廈七樓 
+Kowloon, Hong Kong
+本處檔號 
+OUR REF. : 
+(8) in FSD FSC GR 13-314/07 V
+來函檔案 
+YOUR REF. :
+圖文傳真 
+FAX NO. 
+: 
+(852) 2312 0376
+電
+話 
+TEL. NO. 
+: 
+(852) 2170 9670
+電子郵件 
+E-MAIL 
+: 
+fschq@hkfsd.gov.hk 
+26 April 2024 
+To: Recipients of FSD Circular Letters 
+Dear Sir/Madam, 
+FSD Circular Letter No. 4/2024 
+Part I: 
+Corrigendum – English version of Codes of Practice for Minimum Fire 
+Service Installations and Equipment and Inspection, Testing and 
+Maintenance of Installations and Equipment (September 2022) (the 
+Codes); and 
+Part II: 
+Chinese version of the Codes 
+This Circular Letter serves to announce the issue of the corrigendum to the English 
+version of the Codes of Practice for Minimum Fire Service Installations and Equipment and 
+Inspection, Testing and Maintenance of Installations and Equipment (September 2022) (the 
+Codes) and the release of the Chinese version of the Codes. It should be read in conjunction 
+with the FSD Circular Letters No. 5/2022, 1/2023 and 3/2023. 
+Part I: Corrigendum – English version of the Codes 
+Subsequent to the issue of the FSD Circular Letter No. 2/2022 relating to the 
+promulgation of the English version of the Codes, some clarifications were made and a 
+corrigendum to the English version of the Codes is attached at Appendix to announce the 
+subsequent amendments. 
+The electronic version of the revised Codes in English is available on the FSD 
+website: 
+https://www.hkfsd.gov.hk/eng/fire_protection/notices/code.html 
+…/2 
+R E F .  N U M B E R  A N D  D A T E  S H O U L D  B E  Q U O T E D  I N  R E F E R E N C E  T O  T H I S  L E T T E R
+凡提及本信時請引述編號及日期
+
+--- PAGE 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2­
+Part II: Chinese version of the Codes 
+The electronic version of the Codes in Chinese, which have incorporated the 
+corrigendum to the Codes, is also available on the FSD website: 
+https://www.hkfsd.gov.hk/chi/fire_protection/notices/code.html 
+For enquiries, please contact Senior Divisional Officer (New Projects) on 
+3971 4600. 
+Yours faithfully, 
+(LEUNG Wai-lok) 
+for Director of Fire Services 
+Encl. 
+R E F  .  N U M B E R  A N D  D A T E  S H O U L D  B E  Q U O T E D  I N  R E F E R E N C E  T O  T H I S  L E T T E R
+凡提及本信時請引述編號及日期
+
+--- PAGE 3 ---
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+Appendix 
+Corrigendum to the Code of Practice for Minimum Fire Service Installations and Equipment 2022 
+Legend: 
+Parts of amendment 
+Item Paragraph/Section Original contents 
+Amendments 
+1 
+3.2 
+Group I: A designated area of special hazard normally within 
+a building i.e.: 
+Audio/visual production facilities 
+Battery rooms and electrical charging facilities 
+Boiler rooms 
+Bowling alleys 
+Dangerous goods stores 
+Consumer electrical equipment, incorporating transformers, 
+switchgears, generators/alternators, requiring separate 
+installation 
+Kitchens (other than kitchens in domestic premises) 
+Lift motor rooms 
+Mechanical plant rooms 
+Telephone distribution equipment, computer installation and 
+similar installations 
+Group I: A designated area of special hazard normally within a 
+building i.e.: 
+Audio/visual production facilities 
+Battery rooms and electrical charging facilities 
+Boiler rooms 
+Bowling alleys 
+Cold storage areas 
+Dangerous goods stores 
+Consumer electrical equipment, incorporating transformers, 
+switchgears, generators/alternators, requiring separate 
+installation 
+Kitchens (other than kitchens in domestic premises) 
+Lift motor rooms 
+Lifts not discharging to protected means of escape 
+Mechanical plant rooms 
+Telephone distribution equipment, computer installation and 
+similar installations 
+2 
+EXTENT of 
+Fire hydrant/hose 
+reel 
+system 
+in 
+para. 4.1, 4.2, 4.7, 
+4.8, 4.13, 4.17, 
+4.27, 4.28, 4.40 & 
+4.44 
+There shall be sufficient hydrants and hose reels on each floor. 
+Fire hydrants shall be provided in all approach lobbies to 
+required staircases or required staircase enclosures. For 
+buildings not having the required staircase, fire hydrants shall 
+be provided to the satisfaction of the Director of Fire Services. 
+Hose reels shall be provided to ensure that every part of the 
+building can be reached by a length of not more than 30 m of 
+hose reel tubing. 
+There shall be sufficient hydrants and hose reels on each floor. 
+Fire hydrants shall be provided in all approach lobbies to required 
+staircases or required staircase enclosures. For buildings not 
+having the required staircase, fire hydrants shall be provided to 
+the satisfaction of the Director of Fire Services. Hose reels shall 
+be provided to ensure that every part of the premises can be 
+reached by a length of not more than 30 m of hose reel tubing. 
+1 
+
+--- PAGE 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+-
+Item Paragraph/Section 
+3 
+EXTENT of 
+Fire hydrant/hose 
+reel 
+system 
+in 
+para. 4.3 & 4.4 
+4 
+5.21 A.6 (a) 
+5 
+5.23 (i) B.16 
+6 
+5.23 (i) B.24 
+7 
+5.23 (i) L.4 (a) 
+Original contents 
+There shall be sufficient hydrants and hose reels on each floor. 
+Fire hydrants shall be provided in all approach lobbies to 
+required staircases or required staircase enclosures. For 
+buildings not having the required staircase, fire hydrants shall 
+be provided to the satisfaction of the Director of Fire Services. 
+Hose reels shall be provided to ensure that every part of the 
+basement with the exception of strong rooms and safe deposit 
+vaults can be reached by a length of not more than 30 m of hose 
+reel tubing. 
+…should be the same as that of the staircase served or to the 
+same fire resisting period as the serviced compartment or the 
+containing compartment whichever is higher. 
+…or be totally enclosed by fire resisting construction to British 
+Standard 476: Part 20, to the same fire resisting period as the 
+serviced compartment or the containing compartment 
+whichever is the higher. 
+All systems shall be provided with remote on/off/override 
+control at the fire control panel. (see section “K. CONTROL 
+AND ACTUATION”) 
+Provided the main switchboard is of a type tested, cubicle form, 
+constructed to BS EN 60439 from not less than 2 mm panel steel 
+and is installed in a room having a fire resistance rating 
+(including self-closing doors) of not less than 2 hours and 
+containing no other equipment, no further protection will be 
+required for this switchboard… 
+Amendments 
+There shall be sufficient hydrants and hose reels on each floor. 
+Fire hydrants shall be provided in all approach lobbies to required 
+staircases or required staircase enclosures. For basement not 
+having the required staircase, fire hydrants shall be provided to 
+the satisfaction of the Director of Fire Services. Hose reels shall 
+be provided to ensure that every part of the basement with the 
+exception of strong rooms and safe deposit vaults can be reached 
+by a length of not more than 30 m of hose reel tubing. 
+…should be the same as that of the staircase served or to the 
+same fire resistance rating as the serviced compartment or the 
+containing compartment whichever is higher. 
+…or be totally enclosed by fire resisting construction to British 
+Standard 476: Part 20, to the same fire resistance rating as the 
+serviced compartment or the containing compartment whichever 
+is the higher. 
+All systems shall be provided with remote on/off override 
+control at the fire control panel. (see section “K. CONTROL 
+AND ACTUATION”) 
+Provided the main switchboard is of a type tested, cubicle form, 
+constructed to BS EN 61439 from not less than 2 mm panel steel 
+and is installed in a room having a fire resistance rating (including 
+self-closing doors) of not less than 2 hours and containing no 
+other equipment, no further protection will be required for this 
+switchboard… 
+2 
+
+--- PAGE 5 ---
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- --
+-
+-
+-
+1 
+Corrigendum to the Code of Practice for Inspection, Testing and Maintenance of Installations and Equipment 2022 
+Legend: 
+Parts of amendment 
+Item Paragraph/Section 
+2.20 (iii) 
+Original contents 
+All portable extinguishers shall be provided or stuck with a label 
+after maintenance as per the sample in APPENDIX 11. The 
+purpose of this maintenance label is to provide and update all 
+relevant information on the equipment after maintenance. 
+The label shall not be affixed over the original manufacturer’s 
+label on the equipment body, thus covering the name, model and 
+reference number of that equipment. 
+… 
+Registered fire service installation contractors are reminded that 
+only portable equipment approved by the Fire Services 
+Department … may be installed, and unless the equipment can 
+be readily identified… 
+Notes on Portable Equipment Maintenance Label 
+(Including fire extinguisher, fire blanket, sand bucket and fixed 
+type extinguisher) 
+… 
+2. Registration No. 
+The registration number of the Class 3 fire service installation 
+contractor responsible for the maintenance of the portable 
+equipment should be filled in. 
+… 
+Amendments 
+All portable hand-operated approved appliances shall be 
+provided or stuck with a label after maintenance as per the 
+sample in APPENDIX 11. The purpose of this maintenance label 
+is to provide and update all relevant information on the 
+appliances after maintenance. 
+The label shall not be affixed over the original manufacturer’s 
+label on the appliances’ body, thus covering the name, model and 
+reference number of that appliance. 
+… 
+Registered fire service installation contractors are reminded that 
+only appliances approved by the Fire Services Department … 
+may be installed, and unless the appliances can be readily 
+identified… 
+Notes on Maintenance Label of Fire Extinguisher, Fire Blanket, 
+Sand Bucket and Fixed Type Extinguisher 
+… 
+2. Registration No. 
+The registration number of the Class 3 fire service installation 
+contractor responsible for the maintenance of the appliance 
+should be filled in. 
+… 
+3 
+
+--- PAGE 6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+-
+--
+-
+I 
+-
+Item Paragraph/Section 
+Original contents 
+Amendments 
+4. Maintenance Date 
+This date means the date when the maintenance of the portable 
+equipment is completed. It should be the same date as shown on 
+the Certificate (F.S. 251). 
+5. 
+Next Maintenance 
+This date means 12 months later and should be counted from the 
+date of the last maintenance. If within 12 months period, the fire 
+extinguisher is required to have pressure test, then the date of 
+pressure test should be filled in. 
+… 
+Remarks: 
+…if the portable equipment is a new one,…In case the year of 
+manufacture of the portable equipment exceeds 12 months (i.e. 
+1 year) or the extinguisher requires assembly or refilling, then 
+the portable equipment should be inspected… 
+4. Maintenance Date 
+This date means the date when the maintenance of the appliance 
+is completed. It should be the same date as shown on the 
+Certificate (F.S. 251). 
+5. 
+Next Maintenance 
+This date means 12 months later and should be counted from the 
+date of the last maintenance. If within 12 months period, the 
+extinguisher is required to have pressure test, then the date of 
+pressure test should be filled in. 
+… 
+Remarks: 
+…if the appliance is a new one,…In case the year of manufacture 
+of the appliance exceeds 12 months (i.e. 1 year) or the 
+extinguisher requires assembly or refilling, then such appliance 
+should be inspected… 
+2 
+Appendix 6, 
+Section 2.3, Item 
+b.2 
+… than the pressurized staircase served or to the same fire 
+resisting period as the serviced compartment… 
+… than the pressurized staircase served or to the same fire 
+resistance rating as the serviced compartment… 
+3 
+Appendix 6, 
+Section 2.3, Item 
+d.4 
+… 
+-
+Mechanical air release (go to d.10 – d.12). 
+… 
+-
+Mechanical air release (go to d.10 – d.11). 
+4 
+Appendix 7, Item 
+4.2.2.4 
+Starting instruction for diesel /engine driven pump are 
+prominently displayed in the pump room enclosure. 
+Starting instruction for diesel /engine driven pump are 
+prominently displayed in the pump room/enclosure. 
+5 
+Appendix 8, Item 
+1 (i) 
+BS 7629-1 (Cat. Standard 120) 
+BS 7629-1 (Cat. Enhanced 120) 
+4 
+
+--- PAGE 7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+I 
+I 
+Item Paragraph/Section 
+Original contents 
+Amendments 
+6 
+Appendix 8, Item 
+BS 8491 (minimum fire survival time of 120 minutes) 
+BS 8491 (a duration of survival time of 120 minutes) 
+2-15 (c) 
+7 
+Appendix 10, 
+List of Approved Persons for examination, testing and List of Approved Persons for examination, testing and 
+Remarks 3 
+certification of gas cylinders to be referred to FSD webpage: 
+certification of gas cylinders to be referred to FSD webpage. 
+http://www.hkfsd.gov.hk/home/eng/source/approved_person_6 
+6 _67_DGO.pdf 
+8 
+Title of Appendix 
+Notes on Fire Extinguishers, Fire Blankets and Sand Buckets Notes on Fixed Automatically Operated Approved Appliances, 
+11 
+(Suitability and Maintenance) 
+Fire Extinguishers, Fire Blankets and Sand Buckets (Suitability 
+and Maintenance) 
+5 

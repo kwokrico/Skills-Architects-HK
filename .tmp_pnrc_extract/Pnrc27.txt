@@ -1,0 +1,293 @@
+Buildings Department Practice Notes for Registered Contractors 27
+Design and Construction of 
+Cantilevered Reinforced Concrete Structures 
+ 
+ 
+  The structural stability of
+ cantilevere d reinforced concrete structures in 
+particular those of pure slab type re lies on their proper design, construction and 
+maintenance.  Furthermore, the fact that weathering may lead to the early degradation of 
+material strength should be borne in mind when carrying out the design and 
+construction of cantilevered members exposed to weathering
+[1].  Common examples of 
+this type of structural elements are project ed structures located at the exterior of 
+buildings like canopies, balconies, projec ting windows, A/C hoods, A/C platforms, 
+flowerbeds etc.  Their collapse would have serious consequences.   
+ 
+2.  This Practice Note gives general guidance to Registered Contractors on 
+the safe design and construction of cantilevered reinforced concrete structures.  The 
+guidance notes shown in the appendices are al so important for Registered Contractors 
+who are required to observe, in particul ar, those requirements relating to site 
+supervision and submission of construction reports upon completion of the works. 
+Similar practice note has already been issued to Authorized Persons and Registered 
+Structural Engineers.   
+ ( AU Choi-kai ) 
+Building Authority 
+Ref. : BD GP/BORD/23 (III) 
+ 
+First issue  December 1994 
+Last revision  Novem
+ber 2005 (AD/NB2)  
+This revision September 2012 (AD/NB2 & ADNB 1) - Paras. 1 & 2 and Appendices A 
+& B revised and Appendix C 
+deleted 
+                                                 
+[1]  For the purpose of this practice note, cantilevered structures under permanent solid cover located at 
+not greater than one storey height and of at leas t the same plan area as such solid cover may be 
+considered as not exposed to weathering. 
+Appendix A 
+(PNRC 27) 
+Guidance Notes on Design and Construction of 
+Cantilevered Reinforced Concrete Structures 
+General Requirements 
+ 
+1. The design of cantilevered structures s hould satisfy the following requirements:- 
+(a) For cantilever of clear span more than 1000 mm, a beam-and-slab type of 
+arrangement should be used instead of pure slab cantilever where 
+practicable. 
+(b) The span to effective depth ratio of  cantilevered beams or slabs should 
+comply with clause 7.3.4.2 of the Code  of Practice for Structural Use of 
+Concrete 2004 (Second Edition) (the Concrete Code).  
+(c) Dead loads due to finishes, parapets  and waterproofing materials, and 
+imposed loads due to maintenance work and possible ponding resulting 
+from malfunctioning of the drainage system should be accurately 
+assessed and allowed for in the design. 
+(d) Cantilevered structures, especially those projecting over streets, should 
+be detailed in such a manner that they may be demolished or replaced 
+without affecting the safety and inte grity of the main structure of the 
+building. 
+(e) The extent of projection from the external wall and the clear space above 
+the level of the ground of cantilevered structures should comply with 
+Regulations 7 and 10 of the B(P)R and PNAP APP-19 as appropriate. 
+ 
+2. The construction of cantilevered structures should satisfy the following 
+requirements:- 
+(a) All cantilevered structures should be cast monolithically with and at the 
+same time as the directly supporti ng members.  Construction joints 
+should not be located along the external edge of the supporting members. 
+In case this is unavoidable, any alte rnative construction method must be 
+submitted for prior approval.  Such method should ensure that the 
+finished product would be able to attain a structur al strength no less than 
+that provided by monolithic constructi on, and that it would not allow the 
+ingress of water through the joint. 
+(b) Adequate bar spacers should be pr ovided to maintain the position and 
+alignment of the steel reinforcing bars. 
+(c) Placing and compacting of concrete should comply with clause 10.3.5 of 
+the Concrete Code. Every endeavour s hould also be made to avoid steel 
+reinforcing bars from being displaced or depressed. 
+ 1
+ 
+ 
+(d) Removal of formwork and falsework should comply with clause 10.3.8.2 
+of the Concrete Code. 
+ 
+3. 
+The AP/RSE/Registered Ge neral Building Contractor (RGBC) should provide 
+the appropriate level of supervision and inspection on the construction of 
+cantilevered structures so as to ensure  compliance with the approved plans.  
+Supervision requirements shall be in acco rdance with Table 9.1 of the Code of 
+Practice for Site Supervision 2009. 
+ 
+4. Means to prevent accumulation of wate r should be provided to cantilevered 
+structures exposed to weathering
+[1] and shown on the ge neral building plans 
+whereas the corresponding surface water dr ainage provisions should be shown 
+on the drainage plans for approval. In this connection the following are to be 
+observed:- 
+(a) Effective waterproofing should be provided. 
+(b) Water-proof membrane/tanking should be protected by 1:3 cement sand 
+mortar laid to a fall of not less than 1:75.  Wherever practicable, 
+adequate drainage should be provide d to drain the surface water away 
+from the cantilevered structure.  If for any reason, the design is to guide 
+the water to just cascade down from the edge of the cantilevered 
+structure, e.g. in the case of pr ojecting windows, the AP/RSE should 
+ensure that by so doing  it will not create any nuisance to anyone in 
+accordance with Regulation 4(b) of the B(P)R.  A continuous drip or 
+groove should always be provided at the bottom edge of the cantilevered 
+structure to keep the dripping water away.  All canopies, irrespective of 
+whether projecting over streets or not,  should be provided with adequate 
+surface water drainage to discharge into the surface water disposal 
+system of the building. 
+(c) Where the cantilevered structure is not accessible for 
+cleaning/maintenance, the maximum distance between the drainage 
+outlets, if provided, should be not more than 5 m. 
+(d) Every endeavour should be made to avoid penetration or embedment of 
+pipes in cantilevered structures, especially slab elements.  If 
+unavoidable, consideration must be  given to any lo cal reduction in 
+structural strength affected by the surface drainage system or embedded 
+service pipes and ducts. In this regard, AP/RSE are reminded to make 
+reference to PNAP APP-105 on the requirements and guidelines of 
+embedment of water-borne pipes insi de reinforced concrete beams and 
+slabs. 
+                                                 
+[1]  For the purpose of this practice note, cantilevere d structures under permanent solid cover located at 
+not greater than one storey height and of at leas t the same plan area as such solid cover may be 
+considered as not exposed to weathering. 
+ 2
+ 
+ 
+Cantilevered Beams 
+ 
+5. The structural design of cantilevered beams should satisfy the following 
+requirements:- 
+(a) The overall depth at support should be at least 300mm. 
+(b) Top and bottom steel reinforcing bars should be securely held in position 
+by stirrups with the top bars anchor ed in accordance with clause 9.4.3 of 
+the Concrete Code, and any top bar extended to resist support moments 
+in the adjacent span s hould also comply with the curtailment rules 
+specified in the Concrete Code.  Where support by cross beam cannot 
+be avoided, the supporting beam and the adjacent internal slabs should be 
+adequately designed and properly de tailed for any internal moment, 
+torsion, shear and axial force so induced.   
+(c) External cantilevered beams should be designed for exposure condition 2 
+or higher if appropriate in accordance with the Concrete Code. 
+ 
+Cantilevered Slabs 
+ 
+6. The structural design of cantileve red slabs should satisfy the following 
+requirements:- 
+(a) The minimum overall thickness should be-- 
+(i) 110 mm for span not greater than 500 mm; 
+(ii) 125 mm for span greater than 500 mm but not greater than 
+750 mm; 
+(iii) 150 mm for span greater than 750 mm. 
+(b) Any wall supporting the cantilever slab, except that for very small span 
+slabs like air-conditioner hoods, should be of sufficient thickness to 
+provide the necessary rigidity and to  allow the proper anchorage of the 
+main steel reinforcing bars of the cantil evered slabs.  This is in addition 
+to any other design consideration that is required for the wall itself. 
+(c) Cantilevered slabs should be reinforced with high yield steel bars in both 
+faces and in both directions.  Main steel reinforcing bars should be at 
+least 10mm diameter and spacing s hould not be greater than 150 mm, 
+and the steel area should not be less than 0.25% of the cross-sectional 
+area of the structural concrete. 
+(d) The main steel reinforcing bars of ca ntilevered slabs should be anchored 
+in accordance with clause 9.4.3 of th e Concrete Code, and any top bar 
+extended to resist support moments in the adjacent span should also 
+comply with the curtailment rules sp ecified in the Concrete Code.  For 
+cantilevered slabs with drop at the supporting end, top main steel 
+reinforcing bars of not greater than 16 mm in diameter should be used in 
+ 3
+ 
+ 
+order that an effective and proper anchorage into the supporting beams 
+and internal slab can be developed.  Details of steel reinforcing bars 
+should be drawn in a sufficiently la rge scale to indicate clearly the 
+connections. 
+(e) Consideration and specific deta ils should be provided for -- 
+(i) cantilevered slabs continuing around corners of buildings 
+due to increase in slab area an d a change in direction of the 
+main steel reinforcing bars; 
+(ii) the side edge of cantilevered slabs where there is an 
+additional load from return pa rapets running parallel to the 
+cantilever span direction. 
+ 
+7. The requirements set out in paragraph 6 above do not apply to in-fill slabs 
+enclosed by edge beams, or slabs s upported in such a way that they do not 
+behave similar to cantilevered slabs. 
+8. External cantilevered slabs should satisfy the following requirements:- 
+(a) The maximum crack width at the tension face should be limited to 0.1 
+mm when carrying out design check under the serviceability limit state or 
+the stress of deformed high yield stee l reinforcing bars used should not 
+exceed 100 N/mm2 when checking the flexural tension under the working 
+load condition. 
+(b) Concrete cover to steel reinforcin g bars should be designed for exposure 
+condition 2 or higher if appropriate in accordance with the Concrete 
+Code.  
+ 
+9. External cantilevered slabs with a span exceeding 750 mm exposed to 
+weathering
+[1] should satisfy the following additional requirements:- 
+(a) The AP/RSE, in conjunction with  the RGBC where appropriate, is 
+required to submit a construction report upon completion of the works.  
+A Form BA 14 confirming that the works have been carried out in 
+accordance with the approved plans and are structurally safe should also 
+be submitted; 
+(b) Concrete should be water-proof conc rete of characteristic compressive 
+strength not less than 35MPa at 28 days; 
+(c) All main steel reinforcing bars s hould be hot-dip galvanized to BS EN 
+ISO 1461; and 
+(d) Water-proof membrane/tanking should be provided and protected by 1:3 
+cement sand mortar of 0.65 maximum fr ee water/cement ratio or other 
+equivalent means. 
+ 
+ 4
+ 
+ 
+10. The construction report required under pa ragraph 9(a) above should include the 
+following: - 
+(a) an as-built plan showing -- 
+(i) 
+the location and dimensions of the members of the 
+cantilevered slab; 
+(ii)   the direction and gradient  of the fall, where applicable; 
+(iii) the location of the drainage outlets, where applicable; 
+(iv) the thickness of screeding and finishes; 
+(v) the details of the water-proof membrane/tanking, where 
+applicable; 
+(vi) the location and details of any construction joints; 
+(vii) the grade of concrete and steel reinforcing bars; 
+(viii) the diameter and spacing of  steel reinforcing bars in the 
+cantilevered slab; 
+(ix) the date on which the concrete was cast; and 
+(x) the concrete cover of the steel reinforcing bars at critical 
+positions, as measured by covermeter. 
+(b) record photographs of the cantilevered slab and its supporting members 
+showing -- 
+(i) the condition and arrangement of the in-position steel 
+reinforcing bars prior to concreting; and 
+(ii) the condition after concreting but before laying of the 
+finishes and waterproofing materials. 
+ 
+Maintenance and Repair 
+ 
+11. The structural integrity of cantileve red slab canopy may be impaired rapidly 
+should the prevailing adverse conditions persist such as improper use as 
+air-conditioner support, lack  of maintenance and repa ir, and mal-functioning of 
+drainage facilities. 
+ 
+12. Upon the completion of the construction of a cantilevered slab canopy, the AP 
+should coordinate with the RSE and RGBC to prepare documentation on the 
+inspection and maintenance of the can tilevered slab canopy, for regular 
+maintenance and repair to be arranged by the Incorporated Owners/management 
+company.  Routine inspection and main tenance works such as cleaning of 
+clogged drain pipes and drainage channe l, and inspection of waterproofing 
+system and finishes should be carried out regularly and par ticularly during the 
+rainy seasons. 
+ 
+ 
+(Rev.  09/2012) 
+ 5
+ 
+Appendix B
+(PNRC 27)
+CJ
+CLEAR
+SPAN
+WALL/ BEAM
+GALVANIZED
+STEEL REINFORCING BAR
+45°
+CLEAR
+SPAN
+BEAM
+CJ
+GALVANIZED STEEL
+REINFORCING BAR
+45°
+BEAM
+CLEAR
+SPAN
+GALVANIZED STEEL
+REINFORCING BAR
+CJ
+45°
+(i) CONTINUOUS SLAB
+(ii) DROP SLAB
+(iii) SLAB SUPPORTED AT BEAM TOP
+LEGEND:
+CJ - CONSTRUCTION JOINT
+RECOMMENDED LOCATION OF CONSTRUCTION
+JOINT FOR EXPOSED CANTILEVERED SLAB
+(Rev.09/2012)
+WATER-PROOF CONCRETE

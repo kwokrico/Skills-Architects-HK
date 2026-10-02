@@ -1,0 +1,7506 @@
+
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+                                                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Code of Practice for  
+Precast Concrete Construction   
+2016  
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                              
+ 
+ 
+ 
+ 
+Code of Practice  
+for  
+Precast Concrete Construction  
+2016  
+
+
+===== PAGE 3 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+FOREWORD 
+The Buildings Department established the Technical Committee on the Code of Practice for 
+Precast Concrete Construction (TC) in March 2012 for the purpose of collecting views and 
+feedbacks on the use of the Code of Practice for Precast Concrete Construction 2003 (the 
+2003 Code) from the building industry and with a view to keeping the Code of Practice in 
+pace with the advancement in design, technology and construction practice. 
+This Code, Code of Practice for Precast Concrete Construction 2016 (the 2016 Code) is 
+issued upon completion of the review by the TC, which has focused on four fronts: (a) the 
+advancement in design and technology; (b) the experience gained and the views and 
+feedbacks received on the use of the 2003 Code; (c) the commonly adopted local practice 
+on precast concrete construction; and (d) necessary updates consequent upon the 
+publication of the Code of Practice for Structural Use of Concrete 2013, the issue of 
+Practice Notes for Authorized Persons, Registered Structural Engineers and Registered 
+Geotechnical Engineers  APP-143 and the issue of Construction Standard CS1:2010 and 
+CS2:2012.  
+The contributions and efforts given by the invited members of the Technical Committee in 
+the preparation of the 2016 Code are greatly appreciated. 
+This Code of Practice will be reviewed regularly. The Buildings Department welcomes 
+suggestions for improving the Code. 
+First Issue 
+: 
+April 2016 
+i 
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTENTS 
+1 General..............................................................................................................................1  
+1.1 Scope ....................................................................................................................................... 1  
+1.2 Definitions ................................................................................................................................ 1  
+1.3 Symbols ................................................................................................................................... 2  
+2 Design ............................................................................................................................... 3  
+2.1 Scope ....................................................................................................................................... 3  
+2.1.1 
+General ................................................................................................................. 3  
+2.1.2 
+Standards and codes of practice ........................................................................... 3  
+2.2 Planning ................................................................................................................................... 3  
+2.2.1 
+Standardisation..................................................................................................... 3  
+2.2.2 
+Buildability............................................................................................................. 3  
+2.2.3 
+Voids and buried conduits ..................................................................................... 3  
+2.2.4 
+Layout plan ........................................................................................................... 3  
+2.2.5 
+Compatibility ......................................................................................................... 4  
+2.2.6 
+Demolition ............................................................................................................. 4  
+2.3 Stability .................................................................................................................................... 4  
+2.3.1 
+General ................................................................................................................. 4  
+2.3.2 
+Displacement ........................................................................................................ 4  
+2.3.3 
+Disproportionate collapse ...................................................................................... 4  
+2.4 Durability .................................................................................................................................. 5  
+2.4.1 
+General ................................................................................................................. 5  
+2.4.2 
+Shape of precast unit ............................................................................................ 5  
+2.4.3 
+Concrete cover...................................................................................................... 5  
+2.4.4 
+Protection and maintenance of joints and connections........................................... 5  
+2.4.5 
+Movement ............................................................................................................. 6  
+2.4.6 
+Thermal gradient................................................................................................... 6  
+2.4.7 
+Other effects ......................................................................................................... 6  
+2.5 Loadings................................................................................................................................... 6  
+2.5.1 
+General ................................................................................................................. 6  
+2.5.2 
+Demoulding forces ................................................................................................ 6  
+2.5.3 
+Handling and transportation .................................................................................. 7  
+2.6 Materials................................................................................................................................... 7  
+2.6.1 
+General ................................................................................................................. 7  
+2.6.2 
+Alkali-aggregate reaction ....................................................................................... 7  
+2.6.3 
+Chlorides in concrete............................................................................................. 8  
+2.7 Design considerations .............................................................................................................. 8  
+2.7.1 
+General ................................................................................................................. 8  
+2.7.2 
+Handling stresses.................................................................................................. 8  
+2.7.3 
+Early lifting of precast element............................................................................... 9  
+2.7.4 
+Temporary stages/erection sequence.................................................................... 9  
+2.7.5 
+Lifting inserts......................................................................................................... 9  
+2.7.6 
+Bracing design .................................................................................................... 10  
+2.7.7 
+Design for movement .......................................................................................... 10  
+2.7.8 
+Design of ties ...................................................................................................... 11  
+2.7.9 
+Design of bearings .............................................................................................. 14  
+2.8 Joints and connections ........................................................................................................... 18  
+2.8.1 
+Structural connections......................................................................................... 18  
+2.8.2 
+Joints .................................................................................................................. 20  
+2.9 Composite concrete construction ............................................................................................ 26  
+2.9.1 
+General ............................................................................................................... 26  
+2.10 Non-structural elements....................................................................................................... 28  
+ii 
+
+
+===== PAGE 5 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.11 Ductility................................................................................................................................ 28  
+2.11.1 
+Construction incorporating precast concrete........................................................ 28  
+2.11.2 
+Connections in equivalent monolithic systems..................................................... 28  
+3 Construction ................................................................................................................... 29  
+3.1 Production planning................................................................................................................ 29  
+3.2 Moulds ................................................................................................................................... 29  
+3.2.1 
+Materials ............................................................................................................. 29  
+3.2.2 
+Tolerances .......................................................................................................... 29  
+3.2.3 
+Recesses, sleeves and boxouts .......................................................................... 30  
+3.2.4 
+Mould release agents.......................................................................................... 30  
+3.3 Cast-in connections ................................................................................................................ 30  
+3.4 Lifting inserts .......................................................................................................................... 30  
+3.4.1 
+General ............................................................................................................... 30  
+3.4.2 
+Lifting position tolerances.................................................................................... 30  
+3.5 Surface finishes...................................................................................................................... 31  
+3.5.1 
+Types of finishes ................................................................................................. 31  
+3.5.2 
+Production........................................................................................................... 31  
+3.5.3 
+Tiled finishes....................................................................................................... 31  
+3.6 Prefabricated metal frames..................................................................................................... 31  
+3.7 Pre-concreting check.............................................................................................................. 31  
+3.8 Concrete placing..................................................................................................................... 32  
+3.9 Demoulding and lifting ............................................................................................................ 32  
+3.10 Curing ................................................................................................................................. 32  
+3.10.1 
+Normal curing...................................................................................................... 32  
+3.10.2 
+Steam curing....................................................................................................... 33  
+3.11 Handling .............................................................................................................................. 33  
+3.12 Post-concreting check.......................................................................................................... 33  
+3.12.1 
+General ............................................................................................................... 33  
+3.12.2 
+Surface finish ...................................................................................................... 33  
+3.13 Lifting equipment and accessories ....................................................................................... 34  
+3.14 Factory and site storage ...................................................................................................... 34  
+3.15 Transportation ..................................................................................................................... 35  
+3.15.1 
+Delivery............................................................................................................... 35  
+3.15.2 
+Loading and storage on transporters ................................................................... 35  
+3.16 Erection ............................................................................................................................... 35  
+3.16.1 
+Erection preparation............................................................................................ 35  
+3.16.2 
+Erection safety .................................................................................................... 35  
+3.16.3 
+Erection sequence .............................................................................................. 35  
+3.16.4 
+Missing or damaged lifting inserts........................................................................ 35  
+3.16.5 
+Rigging ............................................................................................................... 36  
+3.16.6 
+Temporary bracing and supporting structures...................................................... 36  
+3.16.7 
+Levelling shims ................................................................................................... 36  
+3.16.8 
+Propping ............................................................................................................. 36  
+3.16.9 
+Cleansing to semi-precast slab ............................................................................ 37  
+3.17 Tolerances........................................................................................................................... 37  
+3.17.1 
+Production tolerance for precast concrete components........................................ 37  
+3.17.2 
+Erection tolerance for precast concrete components............................................ 38  
+3.17.3 
+Volumetric precast concrete components ............................................................ 39  
+iii 
+
+
+===== PAGE 6 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Quality Control ............................................................................................................... 41  
+4.1 Factory ................................................................................................................................... 41  
+4.1.1 
+General ............................................................................................................... 41  
+4.1.2 
+Testing standards................................................................................................ 41  
+4.2 Site......................................................................................................................................... 42  
+4.3 Special testing........................................................................................................................ 42  
+4.3.1 
+Watertightness testing of external precast façade panels..................................... 42  
+4.3.2 
+Load testing ........................................................................................................ 43  
+4.3.3 
+Tiled finishes....................................................................................................... 43  
+Appendix A: Connection Details 
+Appendix B: Precast Concrete Façade Typical Details 
+Appendix C: Lifting Devices Typical Details 
+iv 
+
+
+===== PAGE 7 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+LIST OF TABLES  
+Table 2.1  – Recommended equivalent load factors to account for demoulding ............................................ 7  
+Table 2.2  – Recommended equivalent load factors to account for dynamic forces arising during  
+handling, transportation and erection........................................................................................ 7  
+Table 2.3  –  Limits of chloride content of concrete........................................................................................ 8  
+Table 2.4  – Recommended factors of safety for lifting inserts and bracing ................................................... 9  
+Table 2.5  –  Allowances for  effects of spalling at supports ......................................................................... 16  
+Table 2.6  –  Allowances for effects of spalling at supported members......................................................... 17  
+Table 2.7  – Values of tan f for concrete connections................................................................................ 20  
+Table 2.8  –  Design ultimate horizontal shear stresses at interface.............................................................. 27  
+Table 3.1 – Recommended tolerances for lifting devices ........................................................................... 30  
+Table 3.2  – Recommended minimum concrete strengths for lifting and handling........................................ 32  
+v 
+
+
+===== PAGE 8 =====
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3  
+4  
+5
+6  
+7
+8  
+LIST OF FIGURES 
+Figure 2.
+ – Types of tie in structural frame............................................................................................... 11  
+Figure 2.
+ –  Continuity of ties: bars in precast member lapped with bar in insitu concrete.......................... 13  
+Figure 2.
+ – Continuity of ties: anchorage by enclosing links ..................................................................... 14  
+Figure 2.
+ – Continuity of ties: bars lapped within insitu concrete .............................................................. 14  
+Figure 2.
+ – Schematic arrangement of allowance for bearing................................................................... 16  
+Figure 2.
+ – Back-up materials and bond breakers in movement joints...................................................... 21  
+Figure 2.
+ – Typical examples of gaskets in joints..................................................................................... 23  
+Figure 2.
+ – Gasket junctions: Continuous grid or ladder gasket................................................................ 23  
+vi 
+
+
+===== PAGE 9 =====
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+1 
+GENERAL 
+1.1 
+SCOPE 
+This Code of Practice deals with the design, construction and quality control of structural and non­
+structural precast concrete elements. The design method used in this code is the Limit State Design 
+as given in the Code of Practice for Structural Use of Concrete. Other alternative design 
+approaches may also be used provided sufficient justifying calculations are submitted. For bridges 
+and associated structures, reference should also be made to the Structures Design Manual for 
+Highways and Railways issued by the Highways Department. All design should be carried out 
+under the supervision of a registered structural engineer or authorized person, with the execution of 
+the works carried out under proper supervision. The requirements outlined in this code apply to both 
+structural and non-structural members. 
+1.2 
+DEFINITIONS 
+For the purpose of this Code of Practice, the following definitions apply: 
+Back-up material  
+Material inserted in a joint that controls the depth and back profile 
+of the applied sealant. 
+Bearing length  
+The length of support, supported member or intermediate bedding 
+material (whichever is the least) measured along the line of 
+support  (see Figure 2.5). 
+Bearing width  
+The overlap of support and supported member measured at right 
+angles to the line of support (see Figure 2.5). 
+Bedded bearing  
+A bearing with contact surfaces having an intermediate bedding of 
+cementitious material. 
+Bond breaker  
+Film or thin strip of material applied to prevent sealant adhesion to 
+the back of a joint. 
+Dry bearing  
+A bearing with no intermediate bedding material. 
+Elastic sealant  
+Sealant which exhibits predominantly elastic behaviour, i.e. 
+stresses induced in the sealant as a result of joint movement are 
+almost proportional to the strain. 
+Elastoplastic sealant  
+Sealant which has predominantly elastic properties but exhibits 
+some plastic properties when deformed over long periods. 
+Equivalent monolithic system  A precast concrete structural system should have strength and 
+ductility capacity equivalent to that provided by a comparable 
+monolithic reinforced concrete structure. 
+Gasket  
+Flexible, generally elastic, preformed material that forms a seal 
+when compressed. 
+Isolated member  
+A supported member, for which, in the event of failure, no 
+secondary means of load transfer is available. 
+Joint filler  
+Compressible, non-adhesive material used to fill movement joints 
+during their construction. 
+Net bearing width  
+The bearing width after allowance for ineffective bearing and 
+constructional inaccuracies (see Figure 2.5). 
+1  
+
+
+===== PAGE 10 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-isolated member  
+A supported member which, in the event of loss of a support, 
+would be capable of transferring its load to adjacent members. 
+Plastic sealant  
+Sealant which retains predominantly plastic properties, i.e. the 
+stresses induced in the sealant as a result of joint movement are 
+rapidly relieved. 
+Plastoelastic sealant  
+Sealant which has predominantly plastic properties with some 
+elastic recovery when deformed for short periods. 
+Seal  
+Notionally impenetrable physical barrier in contact with the 
+components forming the joint. 
+Sealant  
+Material, applied in an unformed state to a joint, which seals it by 
+adhering to appropriate surfaces within the joint. 
+Sealing strip  
+Preformed material, which may have adhesive properties, that 
+forms a seal when compressed between adjacent joint surfaces. 
+Simple bearing  
+A supported member bearing directly on a support, discounting 
+the effect of projecting steel or added concrete. 
+1.3 
+SYMBOLS 
+For the purposes of this Code of Practice, the following symbols apply: 
+Gk 
+characteristic dead load 
+Qk 
+characteristic imposed load 
+fcu 
+characteristic strength of concrete 
+fy 
+characteristic strength of reinforcement 
+Other symbols are defined in the text where they occur. 
+2  
+
+
+===== PAGE 11 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+DESIGN 
+2.1 
+SCOPE 
+2.1.1 
+General 
+The considerations for design and detailing of structural and non-structural precast elements 
+including joints and connections for buildings and building works are given in this section. 
+2.1.2 
+Standards and codes of practice 
+Precast concrete elements should be designed and constructed in compliance with the Building 
+(Construction) Regulations and other relevant codes of practice. 
+The design method specified in this code of practice for the design of precast concrete elements is 
+the Limit State Design method. Alternative design approaches may be used provided that sufficient 
+justifications are given.  Unless otherwise specified, the design considerations and detailing 
+requirements recommended in the Code of Practice for Structural Use of Concrete should be 
+followed. 
+2.2 
+PLANNING 
+2.2.1 
+Standardisation 
+Buildings utilising precast concrete construction should be planned wherever possible to utilize 
+standardised precast concrete elements. 
+Most buildings will be unique and site specific.  At the conceptual design stage, a basic layout plan 
+should be developed which achieves a balance between architectural/aesthetic requirements and a 
+high degree of standardisation. Therefore, close collaboration amongst different design parties is 
+essential during conceptual design to achieve the optimum standardisation. 
+2.2.2 
+Buildability 
+Overall planning and detailed design should aim to achieve functionality with ease of construction. 
+During conceptual design, consideration should be given to the following: 
+• ease/ means of transportation and any restrictions on vehicle size; 
+• access to and around the site; 
+• ease of erection; 
+• any overhead obstructions or power supplies; 
+• size and capacity of crane available to undertake erection; 
+• propping and/or bracing requirements; 
+• joint widths between adjacent precast elements should be sufficient to allow safe 
+alignment during erection and to accommodate building movement and construction 
+tolerances; 
+• jointing method; 
+• structural action; and 
+• cost of construction. 
+In addition, attention should be given to any special considerations affecting large sized panels 
+particularly with regards to fabrication, de-moulding and transportation. 
+2.2.3 
+Voids and buried conduits 
+Where practical all voids and service openings should be preformed. Cast in/buried conduits should 
+be placed within the reinforcement layers of the pre-cast unit. 
+2.2.4 
+Layout plan 
+Structural layout plans should be a complete and comprehensive set of drawings showing plans, 
+sections, elevations and connection details of the different types of precast components used. 
+3  
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.5 
+Compatibility 
+Whenever there are divided responsibilities for design and details in precast construction, detailed 
+checks to ensure compatibility should be made by a designated party. 
+2.2.6 
+Demolition 
+Consideration should be given at planning stage to future demolition of the structure and any 
+special requirements that are needed particularly with regards to prestressed structures. 
+2.3 
+STABILITY 
+2.3.1 
+General 
+The overall stability of the complete structure must be checked. 
+The temporary stability of the structure as well as that of the individual components during all 
+stages of construction should be considered. 
+A structure comprising precast elements must possess adequate stability to resist wind load and 
+other lateral loads.  Cross walls or sway frames should be so arranged, as far as practicable, so as 
+to provide lateral stability. 
+Many precast concrete structures are designed as pin jointed rather than with moment continuity as 
+is the case with insitu concrete frames. The absence of the rigid frame means that, in the case of 
+buildings, transverse stability is generally provided by shear walls, with floors transferring load by 
+acting as horizontal plates.  It is therefore essential to provide adequate ties between elements. 
+If wind load does not govern, stability should be checked for a minimum notional horizontal force 
+acting at each floor level equals to 1.5% of the characteristic dead load between mid-heights of the 
+storey under and above or the roof surface, as appropriate. 
+Consideration should be given to lateral stability during all stages of construction and erection 
+where the behaviour of the precast elements may differ from the permanent condition. Adequate 
+propping and bracing should be provided at all stages of construction to ensure stability is 
+maintained at all times.  A viable scheme showing how temporary stability is provided at each 
+construction stage should be produced. The temporary works scheme should provide sufficient 
+details including propping layouts for all stages of construction including the sequencing and timing 
+of the dismantling of temporary works. 
+Particular attention should be given to stability and bracing requirements on high risk structures 
+such as long span beams and high rise buildings. 
+2.3.2 
+Displacement 
+2.3.2.1 
+General 
+Structural members should possess adequate stiffness to prevent such deflection or deformation as 
+might impair the strength or efficiency of the structure, or produce cracks in finishes or in partitions. 
+The structure as a whole should possess adequate stiffness such that the maximum lateral 
+deflection due solely to wind forces does not exceed 1/500 of the building height. In determining 
+the total lateral deflection, an allowance should be included for the cumulative effects of 
+deformation of connections (see clause 2.3.2.2). 
+2.3.2.2 
+Connection deformation 
+In determining the overall lateral displacement allowance must be made for slippage and 
+deformation of connections in all structural elements.  The cumulative value of deformation of 
+connections at each level should be added to the deflection calculated from the structural analysis 
+and the total value should comply with the limitation specified in clause 2.3.2.1. 
+2.3.3 
+Disproportionate collapse 
+Precast building structures should also be checked for disproportionate collapse as a result of 
+progressive failure or the like. 
+4  
+
+
+===== PAGE 13 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+2.4 
+DURABILITY 
+2.4.1 
+General 
+It is important to consider the required design life and durability of precast elements.  For this 
+purpose, the following factors are to be considered: 
+• shape and size of the precast unit; 
+• concrete constituents; 
+• concrete cover; 
+• the environmental exposure; 
+• protection against fire; 
+• protection and maintenance; 
+• production; 
+• transportation, storage and installation; and 
+• design of joint details. 
+In addition to the requirements given above, the recommendations specified in the Code of Practice 
+for Structural Use of Concrete and the Building (Construction) Regulations should be followed. 
+2.4.2 
+Shape of precast unit 
+The precast unit should be designed and detailed to have good drainage such that no standing 
+pools or excessive trapped moisture would occur. 
+Sharp corners or sudden changes in section cause stress concentrations that may lead to cracking 
+or spalling of concrete and therefore should be avoided. Where sharp corners or sudden changes 
+in section cannot be avoided because of practical reasons, stress concentrations should be 
+checked and strengthening be provided as necessary. 
+Buckling and instability should be avoided during lifting and erection of long slender precast units. 
+Lifting inserts should be located to ensure that compression flange buckling would not occur, 
+particularly during manoeuvring of precast units. 
+2.4.3 
+Concrete cover 
+Cover for precast elements should be no less than those specified for reinforced concrete 
+structures. 
+In respect of concrete cover requirements for protection against fire, the Code of Practice for Fire 
+Safety in Buildings should be followed, whereas for protection against corrosion, the requirements 
+under the Building (Construction) Regulations should be adopted. 
+For bridges and associated structures, reference should also be made to the requirements specified 
+in the Highways Department’s Structures Design Manual for Highways and Railways, and the most 
+onerous requirements should be used. 
+The cover to all brackets and fixings etc. should comply with the minimum cover requirements 
+specified for reinforcement. 
+The fire resistance of joints fillers etc. should comply with the fire resistance requirements of the 
+precast members. 
+2.4.4 
+Protection and maintenance of joints and connections 
+2.4.4.1 
+General 
+To achieve durability, connections should be properly filled with suitable material to prevent 
+corrosion, cracking or spalling of concrete. 
+2.4.4.2 
+Protection of steel 
+Steel, except those for temporary use such as lifting anchor, used at connections should be 
+protected with an adequate thickness of concrete, mortar or grout. The effectiveness of bonding of 
+concrete or grout to steel surfaces must be considered. 
+5  
+
+
+===== PAGE 14 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4.4.3 
+Protection of fixings 
+If sufficient concrete cover cannot be provided to protect the fixings at connections, corrosion-
+resisting materials such as galvanised mild steel or stainless steel shall be used. 
+2.4.4.4 
+Maintenance accessibility 
+The importance of the connection and its readiness for inspection usually dictate the type of 
+protection required.  Connections that are not accessible for inspection should be properly 
+protected from corrosion. 
+2.4.5 
+Movement 
+To avoid concrete spalling and cracking, allowance should be made for movement (see clause 
+2.7.7). 
+2.4.6 
+Thermal gradient 
+Reinforcing steel preventing cracking of concrete should be provided in both faces of panels that 
+are subjected to substantial thermal gradients. 
+2.4.7 
+Other effects 
+Indirect effects resulted from loading changes, temperature differentials, creep, shrinkage, etc can 
+affect the behaviour of structures. 
+Apart from compliance with general requirements for durability, cracking and deformation, strength 
+and stability, the following may have to be considered: 
+• limiting the cracking and deformation arising from early-thermal movement, creep, 
+shrinkage, etc; or 
+• minimising restraints on structural components by providing bearings or movement joints, 
+or if restraints are inevitable, the design should take into consideration any significant 
+effects that may arise. 
+2.5 
+LOADINGS 
+2.5.1 
+General 
+The appropriate loading requirements as specified in the Building (Construction) Regulations and 
+the Code of Practice for Dead and Imposed Loads should be complied with. 
+Design considerations should also be given to: 
+• construction loads.  A minimum load of 1.5 kN/m² should be used.  However, due 
+consideration should be given to any special requirements e.g. for plant loads or storage 
+loads and the load increased accordingly; 
+• notional horizontal load. The lateral load should be taken as not less than 1.5% of the 
+characteristic dead load (refer also to clause 2.3.1); and 
+• accidental loads such as earth movement, impact of construction vehicles. 
+2.5.2 
+Demoulding forces 
+An allowance should be made for the forces on the element due to suction or adhesion between the 
+precast element and the mould when precast elements are lifted from a casting bed. These are 
+accounted for by applying an equivalent load factor to the member self weight and treating it as an 
+equivalent static force to evaluate the stresses in the precast element against the commensurate 
+early strength attained. Table 2.1 gives recommended values of equivalent load factor for 
+demoulding forces for different product types and finishes. 
+6  
+
+
+===== PAGE 15 =====
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.1 –  Recommended equivalent load factors to account for demoulding 
+Product type 
+Finish 
+Exposed aggregate 
+with retarder 
+Smooth mould 
+(form oil only) 
+Flat with removable side forms. No formed 
+rebates or reveals 
+1.2 
+1.3 
+Flat with removable side forms. Formed 
+rebates or reveals 
+1.3 
+1.4 
+Fluted with proper draft 
+1.4 
+1.6 
+Sculptured 
+1.5 
+1.7 
+Notes: 
+1. These factors are to be applied to the flexural design of precast elements only. For lifting inserts, refer to Table 2.4 
+2. The above values are recommended values only. Guidance should also be sought from the precast manufacturer to 
+verify their suitability. 
+3. The associated imposed loads or wind loads, if any, are to be assessed and considered under the appropriate load 
+combination. 
+2.5.3 
+Handling and transportation 
+An allowance should be made for dynamic loads and impact forces arising during handling, 
+transportation and erection. Similar to demoulding force consideration, Table 2.2 gives 
+recommended values for equivalent load factor to be applied to the self weight of members to allow 
+for these forces. 
+Table 2.2 –  Recommended equivalent load factors to account for dynamic forces 
+arising during handling, transportation and erection 
+Stage 
+Load factor 
+Yard handling 
+1.2 
+Transportation 
+1.5 
+Erection 
+1.2 
+Notes: 
+1. These factors are to be applied to the flexural design of precast elements only. For lifting inserts, refer to Table 2.4 
+2. The above values are recommended values only. Under certain conditions higher factors may apply i.e. certain 
+unfavourable road conditions. 
+3. The associated imposed loads or wind loads, if any, are to be assessed and considered with the appropriate load 
+combination. 
+2.6 
+MATERIALS 
+2.6.1 
+General 
+For the requirements on the use of materials, the Building (Construction) Regulations should be 
+followed.  The material properties used for design should be obtained from the Code of Practice for 
+Structural Use of Concrete. 
+2.6.2 
+Alkali-aggregate reaction 
+2.6.2.1 
+Alkali-silica reaction 
+Aggregates containing silica minerals are susceptible to attack by alkalis (Na2O and K2O) from the 
+cement or other sources.  Alkali-silica reaction causes cracking and reduces the strength of 
+concrete. 
+Effective means of reducing the risk of alkali aggregate reaction include: 
+• control on the amount of cement used in the concrete mix; 
+• use of a low alkali cement; 
+• use of an appropriate cement replacement such as pulverised fuel ash (pfa); and 
+• the reactive alkali content of concrete expressed as the equivalent sodium oxide per 
+cubic metre should not exceed 3.0 kg. 
+7  
+
+
+===== PAGE 16 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The concrete supplier should submit to the authorized person or registered structural engineer a 
+mix design and Hong Kong Laboratory Accreditation Scheme (HOKLAS) endorsed test certificates 
+giving calculations and test results demonstrating that the mix complies with the above limitation on 
+reactive alkali content. 
+2.6.2.2 
+Alkali-carbonate reaction 
+Some carbonate aggregates may be susceptible to alkali-carbonate reaction, which is similar to 
+alkali-silica reaction in its effects. If carbonate aggregates are to be used, specialist advice should 
+be obtained. 
+2.6.3 
+Chlorides in concrete 
+Reinforcing steel is susceptible to corrosion with the presence of chloride in concrete. 
+The total chloride content of the concrete mix arising from the aggregate, admixtures and any other 
+source should not exceed the limits given in Table 2.3. 
+The total chloride content should be calculated from the mix proportions and the measured chloride 
+contents of each mix constituent. 
+Table 2.3 –  Limits of chloride content of concrete 
+Type or use of concrete 
+Maximum total chloride content expressed as a 
+percentage of chloride ion by mass of cement * 
+(%) 
+Prestressed concrete 
+Steam-cured concrete 
+0.10 
+Concrete made with sulphate 
+resistant cement 
+0.20 
+Concrete with embedded metal and 
+made with Ordinary or Rapid 
+Hardening Portland cement 
+0.35 
+* inclusive of pulverised fuel ash or ground granulated blast furnace slag when used 
+2.7 
+DESIGN CONSIDERATIONS 
+2.7.1 
+General 
+The recommended methods for design and detailing of reinforced concrete and prestressed 
+concrete given in the Code of Practice for Structural Use of Concrete also apply to precast concrete 
+elements. In addition, the following should also be considered: 
+• handling stresses; 
+• early lifting of precast element; 
+• temporary stages / erection sequence; 
+• lifting inserts; 
+• bracing design; 
+• design for movement; 
+• design of ties; and 
+• design of bearings. 
+2.7.2 
+Handling stresses 
+Precast units should not be inflicted with any permanent damage arising from their handling, 
+storage, transportation and erection. Consideration should be given during design to: 
+• loads on erected elements at construction stage (refer to clause 2.5.1); and 
+• demoulding, storage, transportation and erection of precast units on site (refer to clauses 
+2.5.2 and 2.5.3). 
+8  
+
+
+===== PAGE 17 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+2.7.3 
+Early lifting of precast element 
+Where precast elements are lifted and handled prior to gaining full strength the elements together 
+with any lifting inserts should be designed accordingly. Recommended minimum concrete strengths 
+for lifting and handling of precast elements are given in Table 3.2.  Precast elements should be 
+designed, using these lower strengths, to span between lifting points without excessive cracking or 
+deflection. 
+For prestressed concrete, consideration should also be given to stresses resulting from transfer of 
+prestressing forces. 
+2.7.4 
+Temporary stages/erection sequence 
+The critical loading for precast elements is often not the permanent condition but can occur during 
+the construction phase and, hence, the temporary condition may govern the design of elements. 
+Consideration should be given to the loading imposed on precast elements during each phase of 
+construction.  Examples of such cases are as follows: 
+• precast sections of composite elements which are required to support self weight plus 
+construction load prior to casting of an insitu topping; 
+• lower precast floor slabs or precast stair flights which support propping to upper levels 
+during installation; and 
+• bearing or halving joints which support higher temporary construction loads because of 
+back propping to upper levels. 
+The design should also take into consideration that the structural action and framing might be 
+different during the temporary stages resulting in higher stresses in individual members. 
+2.7.5 
+Lifting inserts 
+2.7.5.1 
+General 
+When determining the number and location of lifting inserts, the following should be considered: 
+• lifting insert capacity (safe working load); 
+• total weight of the element; 
+• strength of concrete at age of lifting (see clause 2.7.3); 
+• shape of the unit; 
+• location of the inserts so that the failure of any one insert does not cause failure of the 
+entire lifting system thereby ensuring the element can still be safely supported; 
+• position of any cut-outs and/or openings; and 
+• rigging arrangement. 
+All lifting inserts should be purposely designed proprietary products. Reinforcing bars may only be 
+used as lifting inserts if specifically designed and installed for this purpose. 
+Table 2.4 gives recommended factors of safety at ultimate limit state for designing of lifting inserts. 
+Typically, lifting inserts should be designed with a factor of safety of 4. Where, they are to be used 
+for multiple lifts such as manhole covers, a factor of safety of 5 should be used. These factors are at 
+ultimate limit state. 
+Lifting inserts should be tested or evidence of testing of inserts to the ultimate load should be 
+provided. 
+Table 2.4 –  Recommended factors of safety for lifting inserts and bracing 
+Item 
+Recommended factor of safety 
+Bracing members 
+2 
+Bracing connections 
+3 
+Bracing inserts cast into precast members 
+3 
+Lifting inserts, normal circumstances 
+4 
+Lifting inserts, multiple usage 
+5 
+9  
+
+
+===== PAGE 18 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7.5.2 
+Anchorage 
+All lifting inserts require adequate embedment or anchorage to function effectively.  Factors 
+affecting anchorage include the following: 
+• proximity to element edges, openings, rebates or arises; 
+• proximity to other concurrently loaded lifting devices; 
+• concrete strength at lifting; 
+• concrete thickness; 
+• depth of embedment; 
+• presence of cracking; 
+• proximity of reinforcement or pre-stressing tendons; and 
+• tensile stresses in the concrete around the insert. 
+Guidance should be sought from the manufacturer when determining the safe working load of the 
+inserts taking into consideration the above factors. 
+2.7.5.3 
+Additional reinforcement 
+Where additional reinforcement is required in the vicinity of the insert to generate the full load 
+capacity of the insert, it should be detailed in accordance with the Code of Practice for Structural 
+Use of Concrete and the manufacturer’s recommendations. 
+2.7.6 
+Bracing design 
+Bracing should be designed for both construction and wind loading. The construction load should 
+be a minimum value of 1.5 kN/m² but should be increased if considered appropriate. 
+Wind loads should be calculated in accordance with the Code of Practice on Wind Effects in Hong 
+Kong. 
+Recommended load factors for design of bracing and connections are given in Table 2.4. 
+2.7.7 
+Design for movement 
+Provision for movements is of great importance in precast construction. The type, number and 
+spacing of joints should be determined at an early stage in the design and will be dependent upon 
+the cumulative movement expected. In determining the width of the joint, allowance should also be 
+made for production and erection tolerances (refer to clause 3.17). Causes of movements in 
+structures include the following: 
+• creep deformations; 
+• early thermal shrinkage; 
+• long term shrinkage; 
+• differential settlement; 
+• thermal movement due to seasonal changes of temperature; and 
+• thermal movement due to temperature difference between internal and external 
+environments. 
+When determining the range of movement for a particular joint, it should be borne in mind that not 
+all movements are coexistent and the timescale over which different types of movement will occur 
+should be taken into consideration.  Also, due regard should be given to ambient temperature and 
+age of precast elements and stage of construction at the time of formation of the joint. 
+The designer should also take into account the effects of eccentric moments caused by 
+eccentricities from production and erection tolerances and cumulative moments at joints. 
+When precast units are incorporated into a structural system, the forces and deformations occurring 
+in and adjacent to connections should be included in the design. Tolerances for precast units and 
+interfacing members should be specified. Design of precast units and connections joints should 
+include the effects of these tolerances. 
+10  
+
+
+===== PAGE 19 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+2.7.8 
+Design of ties 
+2.7.8.1 
+General 
+To allow for damage or prevent progressive failure due to accidental loads which may result in the 
+failure of a load bearing element, horizontal and vertical ties (or their equivalent) must be provided. 
+Such ties provided should be continuous, and may be within the insitu concrete topping, or precast 
+units, or partly within both the precast and insitu concrete.  The various types of ties are to be 
+designed to resist the minimum tensile forces as defined in clauses 2.7.8.4 to 2.7.8.8. 
+In the design of the ties, forces other than those given in clauses 2.7.8.4 to 2.7.8.8 may be ignored. 
+2.7.8.2 
+Provision of ties 
+Tie reinforcement should be designed to resist forces mentioned in clauses 2.7.8.4 to 2.7.8.8 
+whereas reinforcement provided for other purposes in columns, walls, beams and floors may be 
+regarded as providing part of or the whole of these ties. A material partial safety factor of 1 can be 
+used when determining the area of reinforcement required. 
+2.7.8.3 
+Types of ties 
+The types of ties to be provided for stability and interaction between precast units are as follows: 
+• internal ties; 
+• peripheral ties; 
+• horizontal ties to column and walls; 
+• corner column ties; and 
+• vertical ties to columns and walls.  
+Figure 2.1 shows a typical example of ties in building structures.  
+Figure 2.1 –  Types of tie in structural frame 
+11  
+
+
+===== PAGE 20 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+2.7.8.4
+2.7.8.5
+2.7.8.6 
+2.7.8.7 
+2.7.8.8 
+ 
+Internal ties 
+(a) 
+ Distribution 
+At each floor and roof, internal ties should be provided in two perpendicular directions.  They 
+should be continuous and except for horizontal ties to walls or columns they should be 
+anchored to the peripheral ties at each end.  They may be distributed evenly in the slabs or 
+grouped in walls or at other suitable locations.  Their spacing should generally be not greater 
+than 1.5 l  (l   equals the span length in the directions of the ties (in m) between the centres 
+c
+c
+of the columns, frames or walls whichever greater).  In walls, they should be within 0.5m of 
+the top and bottom of floor slabs. 
+(b) 
+Strength 
+Ties should be designed to resist, in each direction, a tensile force, T (in kN/m), equal to the 
+greater of: 
+G  Q
+l
+k 
+k
+c 
+; or 
+T  
+
+ F 
+7.5 
+5 
+T =   1.0F 
+where: 
+Gk is the average characteristic dead floor load (in kN/m²); 
+Qk is the average characteristic imposed floor load (in kN/m²) 
+l
+is as defined in 2.7.8.4 (a) 
+c 
+F is defined as the lesser of (20 + 4n) or 60 where n is the number of storeys. 
+For structures with single direction cross or spine walls, the length l for calculating the tie 
+c 
+force in the direction of the wall should be the lesser of the actual length of the wall or the 
+collapsed length in case of an accident. 
+The collapsed length should be the distance 
+between adjacent lateral supports or between a lateral support and a free edge, of the wall 
+under consideration. 
+ 
+Peripheral ties 
+Peripheral ties should be provided at each floor and roof level for resisting a tension of 1.0 F (in kN 
+per metre width).  The peripheral ties should be placed within 1.2 m of the edge of the building or 
+within the peripheral wall. 
+Horizontal ties to columns and walls 
+Every metre length of external bearing wall, unless the peripheral tie is located within that wall, 
+should be anchored or tied horizontally into the structure at each floor and roof level.  Every such tie 
+should be able to resist a tension (in kN) equals to the greater of: 
+ h 
+• the lesser of 2.0 F or 
+ F where h (in m) is the clear storey height; or  
+ 2.5   
+• 3% of the total design vertical load of the column or wall at that level. 
+Where the peripheral tie is placed within the wall or column, only horizontal ties or anchors as 
+required in clause 2.7.8.4 need to be provided. 
+Corner column ties 
+Corner columns should be tied into the structure at each floor level in orthogonal directions as far as 
+practicable. The ties should each be able to resist a force as calculated in accordance with clause 
+2.7.8.6. 
+Vertical ties to columns and walls 
+Each bearing wall or column should be tied continuously at all levels. The tie should be able to 
+resist a tensile force equal to the maximum design dead and imposed load at the column or wall 
+from any one storey. 
+12  
+
+
+===== PAGE 21 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+2.7.8.9 
+Tie anchorage 
+A tie crossing another tie at right angles may be considered anchored if the bars extend: 
+• 12 times the bar diameter or an equivalent anchorage beyond the other tie; or 
+• an effective anchorage length, calculated from the tension force, beyond the centre-line 
+of the other tie. 
+At abrupt changes in construction or at re-entrant corners, it is necessary to ensure that the ties are 
+sufficiently anchored or to be made effective by other means. 
+2.7.8.10 Continuity of ties 
+A continuous tie must satisfy clause 2.8.1.3. The minimum thickness of insitu concrete section 
+where tie bars are provided should be at least the total dimension of the bar diameter (or two 
+diameters at laps) and twice the maximum aggregate size plus 10 mm. 
+To provide continuity the tie should also satisfy one of the following: 
+• a bar in a precast concrete unit lapped with a bar encased in insitu concrete bounded on 
+two opposite sides by rough faces of the same precast unit (see Figure 2.2); 
+• a bar in a precast concrete unit lapped with a bar encased in the topping of insitu 
+concrete tied to the precast unit by links or stirrups.  The tensile resistance of such links 
+and stirrups should not be less than the designed tension in the tie (see Figure 2.3); 
+• bars lapped within insitu topping concrete with projecting links or stirrups from the 
+supporting precast units, such as beams or slabs (see Figure 2.4); or 
+• bars extended from the precast units connected by a method as given in clause 2.8.1.3. 
+Figure 2.2 –  Continuity of ties: bars in precast member lapped with bar in insitu concrete 
+13  
+
+
+===== PAGE 22 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.3 –  Continuity of ties: anchorage by enclosing links 
+Figure 2.4 –  Continuity of ties: bars lapped within insitu concrete 
+2.7.8.11 Anchorage in structures 
+All precast floor and precast roof units should be effectively anchored if these units are not utilised 
+to provide the ties in accordance with clauses 2.7.8.1 to 2.7.8.8.  The anchorage should be capable 
+of supporting the dead weight of the precast unit to that part of the structure which contains the ties. 
+2.7.8.12 Eccentricity 
+Ties connecting precast floor or roof units should be so designed and placed as to minimise 
+eccentricity. 
+2.7.8.13 Anchorage at supports 
+In case reinforcing bars are used to provide the structural integrity of slab ends supported on 
+corbels or nibs, great care must be taken to ensure it is adequately lapped and anchored (see 
+clauses 2.7.8.9 and 2.7.8.10). Allowance should also be made for constructional inaccuracies (see 
+clause 2.7.9.9). 
+2.7.9 
+Design of bearings 
+2.7.9.1 
+General 
+The integrity of a bearing is preserved by three essential measures: 
+• an overlap of reinforcement in reinforced bearings; 
+• a restraint preventing loss of bearing due to movement; and 
+• an allowance for the cumulative effects resulting from production and erection tolerances 
+(see clause 3.17). 
+2.7.9.2 
+Net bearing width of non-isolated members 
+The net bearing width for a member should be taken as: 
+ultimate support reaction 
+Net bearing width = 
+effective bearing length x ultimate bearing stress 
+or 40 mm, whichever is greater. 
+14  
+
+
+===== PAGE 23 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(See clause 2.7.9.3 for determination of the effective bearing length and clause 2.7.9.4 for the 
+design ultimate bearing stress.) 
+The net bearing width should be increased to cater for any free movement permitted or rotation of 
+the bearing about the support. 
+2.7.9.3 
+Effective bearing length 
+The effective bearing length of a member is the lesser of: 
+• bearing length;  
+• one-half of bearing length plus 100 mm; or  
+• 600 mm. 
+2.7.9.4 
+Design ultimate bearing stress 
+The design ultimate bearing stress is based on the weaker of the two bearing surfaces and is 
+calculated as follows: 
+• 0.4fcu for dry bearing on the concrete; 
+• 0.6fcu for bedded bearing on concrete; or 
+• 0.8fcu for contact face of a steel bearing plate cast into a member or support, with each 
+dimension not exceeding 40% of the corresponding concrete dimension. 
+An intermediate value of bearing stress between dry and bedded bearings may be used for flexible 
+bedding. 
+2.7.9.5 
+Net bearing width of isolated members 
+The net bearing width for isolated members should be that of non-isolated members plus 20 mm. 
+2.7.9.6 
+Detailing for simple bearing 
+Over and above the net bearing width calculated in accordance with 2.7.9.2, allowances for spalling 
+and constructional inaccuracies should be made in the nominal width selected (see Figure 2.5). The 
+effects of accidental displacement of a supported member during erection should also be 
+considered. The minimum anchorage lengths of reinforcement required by the Code of Practice for 
+Structural Use of Concrete should be provided. 
+15  
+
+
+===== PAGE 24 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.5  –  Schematic arrangement of allowance for bearing 
+2.7.9.7 
+Allowances for spalling at supports 
+Recommendations for the allowances of ineffective portion of bearing area are given in Tables 2.5 
+and 2.6. When determining the outer edge of a support or the end of a supported member, 
+chamfers occurring within the areas subjected to spalling may be discounted. 
+Table 2.5 –  Allowances for  effects of spalling at supports 
+Material of support 
+Distance assumed ineffective (mm) 
+(measured from outer edge of support) 
+Steel 
+0 
+Concrete grade 30 or above, plain or reinforced 
+(in general) 
+15 
+Concrete less than grade 30, plain or reinforced 
+(in general) 
+25 
+Reinforced concrete with outer edge less than 
+300mm deep where vertical loop is not greater 
+than 12mm diameter 
+Nominal end cover to reinforcement on outer 
+face of support 
+Reinforced concrete with outer edge less than 
+300mm deep where vertical loop is 16mm 
+diameter or above 
+Nominal cover plus inner radius of bend of 
+bars 
+When particular constituent materials are used in concrete, adjustment to the distances assumed should be made. 
+16  
+
+
+===== PAGE 25 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.6  –  Allowances for effects of spalling at supported members 
+Reinforcement at bearing of
+supported member 
+Distance assumed ineffective (mm)
+(measured from end of supported member) 
+Straight bar, horizontal loops or vertical loops of 
+12 mm diameter or less 
+The greater of 10 mm or nominal end cover 
+Tendons or straight bars exposed at end of 
+member 
+0 
+Vertical loops of 16 mm diameter or above 
+Nominal end cover plus inner radius of bend 
+of bars 
+2.7.9.8 
+Steel shims 
+Steel shims should not be used at areas that are susceptible to spalling.  It is essential that steel 
+shims should be removed after grouting. When joint details are prepared, it should be demonstrated 
+that all shims can be easily removed. Where steel shims cannot be removed, the effect of load 
+transfer via the shims should be designed for. 
+2.7.9.9 
+Allowance for construction inaccuracies 
+The cumulative effect of construction inaccuracies and manufacturing tolerances should be allowed 
+for. Recommendations for tolerances are given in clause 3.17 for production and erection 
+respectively. 
+The provision of clearances is recognised by the designer and the fabricator of the need for 
+interface tolerances.  Clearance should provide a buffer area where combined erection and 
+production variations can be absorbed, and the actual clearance provided should reflect all the 
+specified tolerances. The minimum combined total tolerance allowed should be at least equal to the 
+square root of the sum of the individual tolerances squared. 
+2.7.9.10 Bearings transmitting compressive forces 
+Where a bearing is required to transmit vertical load from a wall which extends over the end of a 
+supported member, a bedded bearing should be used. 
+2.7.9.11 Other forces at bearings 
+(a)  
+Horizontal forces at bearing 
+The horizontal forces at bearings may be induced by creep, shrinkage, temperature effects, 
+misalignment, lack of plumb or other causes. When these forces are significant, the structural 
+capacity of the supporting member may be impaired. Allowances should be made by the 
+provision of: 
+• 	
+sliding bearings which allow longitudinal and lateral movement; 
+• 	
+additional lateral reinforcement at the top of the supporting member; or 
+• 	
+continuity reinforcement which ties the ends of the supported members 
+together. 
+(b)  
+Rotation at bearing 
+Suitable bearings should be used to accommodate the rotations at end supports in particular 
+for flexural members.  Allowances should be made for any consequential increases in 
+bending moments or bearing stresses due to rotations. 
+2.7.9.12 Concrete corbel 
+The design and reinforcement detailing of corbels should be in accordance with the Code of 
+Practice for Structural Use of Concrete. 
+17  
+
+
+===== PAGE 26 =====
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2.8 
+JOINTS AND CONNECTIONS 
+2.8.1 
+Structural connections 
+2.8.1.1 
+General 
+The overall stability of a building and the temporary stability of individual members during 
+construction should be checked.  The recommendations of clause 2.3 should be followed. Handling 
+and construction stresses should be considered.  Creep effects for prestressed members should 
+also be considered.  If connection failure could result in a catastrophic failure of the structure, these 
+connections should be avoided and the registered structural engineer should use a detail 
+appropriate to the circumstance. 
+Requirements for anchorage and continuity of ties at connections are given in clauses 2.7.8.9 and 
+2.7.8.10. Account should be taken of the effects on connections of movements and whether or not 
+these need to be specifically catered for. 
+The recommendations for design of joints are given in clause 2.8.2. 
+A free flowing, self-compacting and non-shrink grout should be used at the interface with the 
+precast elements to minimise the risk of cracking and to ensure good compaction at the connection. 
+For some precast elements such as semi-precast balconies or lost forms, the preparation and 
+specification of the construction joints should be carefully monitored and specified to ensure that the 
+design is adequate and the intent and details are reflected in the construction details. 
+The fire resistance and durability requirements for connection. should be at least similar to the 
+members being connected. 
+2.8.1.2 
+Design 
+The design of connections should follow those design methods and considerations for reinforced 
+concrete, prestressed concrete and structural steel. Otherwise, the connection design should be 
+based on tests. 
+2.8.1.3 
+Detailing of reinforcement 
+(a) 
+General 
+The design of connections should take into account those assumptions made in the analysis 
+of the overall structure as well as those elements at critical sections. 
+(b)  
+Lapping of bars 
+Where bars passing through the connection are lapped to provide continuity of reinforcement, 
+the recommendations of the Code of Practice for Structural Use of Concrete and clause 
+2.7.8.10 of this code apply. 
+(c)  
+Reinforcement grouted into aperture 
+An adequate capacity should be provided for grouted reinforcing bars to prevent pullout. 
+(d) 
+Reinforcement loops 
+Where dowel bars pass through overlapping loops of reinforcement, which project from each 
+supported member, to provide continuity over a support the bearing stress of the loops should 
+be in accordance with the Code of Practice for Structural Use of Concrete. 
+(e) 
+Couplers 
+Reinforcement may be connected by couplers. The concrete cover to the couplers should not 
+be less than that specified for reinforcement. 
+A locking device should be used for threaded coupler connections where there is a risk of the 
+threaded connection working loose, e.g. during vibration of insitu concrete.  Reference should 
+be made to the relevant Standards and the manufacturers’ technical specifications for 
+guidance and acceptance criteria for the usage and testing of couplers. 
+(f)  
+Welding of bars 
+When bars are connected by welding, the connection should be designed to accommodate 
+the forces applied.  Reference should be made to the relevant Standards and the 
+manufacturers’ technical specifications for guidance and acceptance criteria for the work and 
+testing of welding bars. 
+18  
+
+
+===== PAGE 27 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(g) 
+ Sleeving 
+Either of the following types of sleeve may be used for jointing, provided the strength and 
+deformation of the connection have been determined by test: 
+• 	
+grouted, resin-filled or swaged sleeve capable of transmitting both tensile and 
+compressive forces; or 
+• 	
+sleeves that mechanically align the square-sawn ends of two bars to allow the 
+transmission of compressive forces only. 
+The maximum bar size used for the sleeved connection should be carefully considered taking 
+into account the necessary force transmission and anti-bursting considerations as well as 
+practical considerations to avoid congestion with other reinforcement bars in the precast 
+elements.  The design, manufacture and method of assembly of the sleeved joint should 
+ensure the accurate alignment of the ends of the two bars into the sleeve. The sleeve should 
+be provided with concrete cover not less than that specified for normal reinforcing bars. 
+2.8.1.4 
+Connections in compression 
+The connection should be designed to resist the forces and moments derived from the analysis of 
+the structure.  In normal circumstances, the area of concrete to be utilised for calculating the 
+strength of the connection in a wall or column should be the greater of: 
+• 75% of the area of contact between the wall or column and connection; or 
+• the area of the insitu concrete excluding the part of any intruding slab or beam units 
+However those parts of the floor slab or beam units that are solid over the bearing may 
+be included in calculating the strength and such units should be properly bedded on 
+concrete or mortar of adequate quality. This area should not be taken as greater than 
+90% of the wall or column area. 
+2.8.1.5 
+Connections in shear 
+A shear connection may be assumed effective if the connection is grouted with a suitable concrete 
+or mortar mix of adequate strength and one of the following conditions is satisfied: 
+(a)  
+Units transmitting in-plane shear 
+The units should be restrained from moving apart.  Provided the design ultimate shear stress 
+in the connection does not exceed 0.23 N/mm², reinforcement need not be provided in or 
+across the connection, and the sides of the units forming the connection may have a normal 
+finish.  Smooth moulded finishes should be roughened. 
+(b)  
+Joints under compression Shear stress less than 0.45 N/mm² 
+Provided the design ultimate shear stress does not exceed 0.45 N/mm² and the sides or ends 
+of the panels or units forming the connection have a rough as-cast finish, reinforcement will 
+not be required. 
+(c)  
+Shear stress less than 1.3 N/mm² 
+Where the shear stress due to ultimate loads, calculated on the minimum root area of a 
+castellated connection, is less than 1.3 N/mm², separation of the units normal to the 
+connection should be prevented under all loading conditions by either steel ties across the 
+ends of the connection or by the compressive force normal to the connection. The projecting 
+keys of a castellated connection are usually tapered to ease the removal of formwork. 
+However, the taper should not be excessive in order to limit any movements in the connection. 
+(d)  
+Shear reinforcement provided  
+The entire shear force V due to design ultimate loads should not exceed:  
+V = 0.6 Fb tan f 
+where; 
+Fb is 0.87fyAs; or the anchorage value of the reinforcement, whichever is the lesser, 
+As is the minimum area of reinforcement, 
+f is the angle of internal friction between the faces of the connection 
+Note: tan f can vary between 0.7 and 1.7 and is best determined by tests. However, for 
+concrete-to-concrete connections, the values used may be taken from Table 2.7. 
+19  
+
+
+===== PAGE 28 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.7 – Values of tan f for concrete connections 
+Type of surface 
+tan f 
+Smooth interface, as in untreated concrete 
+0.7 
+Roughened or castellated connection without continuous insitu strips 
+across the ends of connection 
+1.4 
+Roughened or castellated connection with continuous insitu strips 
+across the ends of connection 
+1.7 
+2.8.1.6 
+Examples of connections 
+Examples of typical connections are shown in Appendix A. These connections are for illustrative 
+purposes only. In all instances, the design should demonstrate that the connections are able to 
+resist the applied structural actions. Where appropriate, the suitability of the connection to act as a 
+pinned or moment connection is highlighted. 
+2.8.2 
+Joints 
+2.8.2.1 
+Scope 
+This section deals with the detailing of joints between external precast panels ensuring that the 
+joints are watertight against the wind and rain. Guidance is given on the design of joints and 
+examples of typical joints are illustrated. 
+The performance of a specific joint is critically influenced by the exposure conditions, the joint 
+movements and the properties of the jointing materials used.  The typical details given in this code 
+are provided for general guidance.  For optimum performance and maximum life, specific advice 
+should always be sought from the manufacturers of the materials used. 
+2.8.2.2 
+Sealants for joints 
+(a) 
+General 
+In choosing the appropriate type of sealant for the joints, consideration should be made in 
+respect of the movements between the components to be joined, the bond that is achievable 
+between the components and the sealant, and the nature of the sealing material itself. 
+Sealants are classified as elastic, elastoplastic, plastoelastic or plastic according to their 
+response to movement. 
+(b) 
+ Joint width 
+Joint widths should be sized to accommodate construction tolerances, and the 
+accommodation of movements without overstressing the jointing material.  Irrespective of 
+movement, a joint width of 5 mm is the minimum practicable for sealant application. 
+(c) 
+Joint preparation 
+Satisfactory performance is critically dependent on the satisfactory adhesion of the sealant to 
+the joint surfaces.  Primers may be recommended by the manufacturer for some materials. 
+Formwork oils, curing compounds, silicone waterproofing admixtures and surface coating 
+materials may reduce bond and require special precautions. 
+Water jetting, sand blasting, wire brushing or the use of retarder may be required to prepare 
+the concrete joint surfaces in certain instances. 
+Consideration should be given to the use of chamfers to reduce edge damage. 
+2.8.2.3 
+Back up material and bond breaker 
+To ensure good adhesion, a firm backing should be provided for the application of sealants. The 
+required shape and proportions of the sealant are achieved by the correct installation of the back up 
+material. 
+Sealants in movement joints should not adhere to the backing material to avoid any unnecessary 
+restraint. 
+To ensure that the sealant and back up materials, bond breakers and joints fillers are compatible 
+and appropriate for the proposed end use, advice from the manufacturer should be obtained as 
+necessary. 
+20  
+
+
+===== PAGE 29 =====
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+The sealant backing may be provided by a closed cell foam back up material alone (see figure 
+2.6a), a thin self-adhesive bond breaker tape (see figure 2.6b) or a joint filler separated from the 
+sealant by a thin self-adhesive bond breaking tape (see figure 2.6c). 
+2.6(a) 
+2.6(b) 
+2.6(c) 
+Figure2.6 –  Back-up materials and bond breakers in movement joints 
+21  
+
+
+===== PAGE 30 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a)  
+Minimum joint gap widths 
+The minimum joint gap width should be derived to accommodate the construction and 
+manufacturing tolerances, the range of movements anticipated, the required dimensions of 
+the sealant to accommodate those movements, and the desired appearance. 
+A minimum joint width of 12 mm between panels is a common practice.  However, for 
+structural movement joints, a joint width of 50 mm or more may be required.  Joints of such 
+width require special sealant properties to avoid slump. 
+For elastic sealants, the minimum thickness should be 5 mm, the ratio of width to thickness 
+should never exceed 1:1 and for optimum performance 2:1. 
+(b) 
+Sealant application 
+High moisture content may be detrimental to the adhesion of the sealant.  Sealing should not 
+be undertaken if there is free water present on the surface of the concrete. 
+(c) 
+Types of movement 
+(i) 
+General 
+The magnitude of the movement, and also the mode, frequency and rate of movement 
+affect the performance of a sealed joint. 
+(ii) 
+Choice of sealant 
+There are many factors affecting the choice of sealant suitable for the different types of 
+movement.  However, as a general rule, joints which have to accommodate frequent 
+and rapid movement need an elastic sealant, while joints in massive components, with 
+high thermal inertia resulting in much slower movement, may be satisfactorily sealed 
+with an elastoplastic, plastoelastic or a plastic sealant. 
+(iii)  
+Types and causes of failure of sealants 
+The different ways in which sealants can fail as a consequence of different factors 
+including climatic conditions, environmental factors, substrate incompatibility, abrasion 
+and traffic loading need to be considered when selecting a sealant. 
+2.8.2.4 
+Gaskets 
+(a) 
+General 
+Gaskets are used to provide a barrier against wind and rain. They are required to be under 
+compression at all times for proper functioning. 
+(b) 
+ Materials 
+Gaskets made of natural rubber compounds have to be protected from the weather by a 
+synthetic rubber skin. For special properties, such as resistance to oils, synthetic rubbers and 
+plastic materials have to be specifically formulated for the intended use. Gaskets can be 
+various profiles of solid or hollow section formed from cellular or non-cellular material or 
+combinations of these sections or materials.  Variations in the mechanical properties of 
+cellular gaskets are achieved by variations in density, material hardness and cell size and 
+whether or not cells are interconnecting. 
+Cellular materials have a relatively shorter service life in general unless they are protected 
+from UV degradation by an outer skin of non-cellular material. 
+Cellular material is available in sheets with or without adhesive and backing paper, and can 
+be cut to provide simple relatively inexpensive gaskets. 
+Open cell materials are available impregnated with waxes or bituminous compounds, and 
+may also be adhesive coated. 
+(c) 
+ Design 
+(i) 
+General 
+The selection of components and their edge profiles, the method and sequence of 
+installation and the type of gasket are inter-related. It is always advisable to consult 
+manufacturers at an early stage in the joint design. When designing gasket sealed 
+joints, the recommendations of clause 2.8.2.4(c) (ii to vii) should be considered. 
+22  
+
+
+===== PAGE 31 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii)  
+Primary and secondary seals 
+Gasket joints should be designed to provide primary and secondary points of gasket 
+contact having an air space between them (see figure 2.7(b) and 2.7(c)). 
+Figure 2.7 –  Typical examples of gaskets in joints 
+(iii)  
+Continuity at junctions between horizontal and vertical gaskets 
+For gaskets to be effective, continuity of seal should be provided at the junctions 
+between the horizontal and vertical gaskets. 
+These complex junctions are best 
+produced as factory made joints incorporated as part of a gasket grid, so that site 
+jointing is limited to simple butt joints (see figure 2.8). 
+Figure 2.8 – Gasket junctions: Continuous grid or ladder gasket 
+23  
+
+
+===== PAGE 32 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Gaskets connected by butt joints should only be used where good protection and 
+effective continuity are provided at the joint. Where continuity cannot be achieved, 
+especially at junctions in vertical joints, it is necessary that effective drainage, weather 
+protection and adequate gasket overlaps are provided. 
+(iv) 
+Movement joints 
+When used in movement joints, gaskets should be deformed sufficiently to maintain 
+compression over the entire movement range, yet not be so highly compressed as to 
+incur significant compression set.  For example, a cellular neoprene gasket should not 
+be compressed in service more than 50% of its uncompressed thickness. 
+Gasket seals in movement joints can be fully effective from the completion of the 
+installation. 
+(v) 
+ Installation 
+Care is needed in handling gaskets to avoid deformation or damage.  Although the 
+preparation of surfaces is not as critical as for sealants, it is essential that all surfaces 
+should be clean, sound and free from gross imperfections. To ease the insertion of 
+gaskets into a joint, lubricants recommended by the manufacturer may be used. Where 
+possible, gaskets should not be stretched during installation.  However, if this is 
+unavoidable, sufficient time should be given for the gaskets to recover before trimming 
+(vi) 
+Force 
+The force necessary to compress a length of gasket in a joint can be considerable, 
+particularly when the joint is assembled in the sequence component/gasket/ component. 
+As a result, gaskets when correctly installed may exert force, such force should be 
+taken into account in the course of design. 
+(vii) 
+Durability 
+The useful life of gasket materials has to be considered at the design stage. 
+In 
+movement and other important joints, gasket life may be less than the building life. The 
+conditions of use, qualities of materials etc. determine the actual life of the gasket.  It 
+may be necessary to specify that seals may need major attention or replacement during 
+the life of the structure. 
+2.8.2.5 
+Sealing strips 
+(a) 
+General 
+Preformed sealing strips are available in a range of sizes and sections. There are two basic 
+types: 
+• 	
+mastic strips; and 
+• 	
+impregnated or coated cellular strips. 
+(b) 
+Mastic strips 
+These are normally installed during the assembly of components.  They require an initial 
+compression to ensure proper adhesion to the components forming the joint. As a degree of 
+compression is also required during in service, mastic strips are unsuitable for joints which 
+open beyond their assembled size. 
+(c)  
+Impregnated or coated cellular strips 
+These may be supplied in a pre-compressed form, and one face may be adhesive coated. 
+When pre-compressed, they can readily be installed within the joint gaps, but should be of a 
+suitable size to be maintained under the degree of compression specified by the manufacturer 
+throughout the range of joint movements. The degree of compression may be varied 
+according to the level of sealing performance required. 
+To ensure uniformity of compression and stability of the seal, it is important that the joint 
+faces are parallel. Seal stability is also influenced by the installed depth to width ratio of the 
+seal, which should not exceed 1:1 in service.  At installation a ratio of 2:1 should be achieved. 
+Sufficient joint depth must be provided to accommodate the seal with these depth to width 
+ratios. 
+24  
+
+
+===== PAGE 33 =====
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For external applications, sealing strips should have adequate exposure resistance for the 
+proposed service conditions. 
+2.8.2.6 
+Joint fillers 
+(a) 
+General 
+Fillers for movement joints should be carefully selected to suit their intended use.  To ensure 
+that the sealant and filler are compatible, advice from the manufacturer should be sought. 
+Expanded polystyrene is not a suitable material for a joint filler. 
+(b) 
+Functions  
+Joint fillers have the following functions:  
+• 	
+form part of the initial joint; 
+• 	
+during construction provide a barrier to dirt or debris, which could prevent joint 
+closure; 
+• 	
+control the depth of sealant in the joint; and 
+• 	
+support the sealant. 
+(c) 
+ Properties  
+Joint fillers require the following properties:  
+• 	
+should be compressible; 
+• 	
+should not be extruded from the joint; 
+• 	
+should have resilience; 
+• 	
+should be non staining; 
+• 	
+should not contain cellulose to prevent termite investation; 
+• 	
+should have resistance to damage in handling; and 
+• 	
+should not present a fire hazard. 
+2.8.2.7 
+Overlapping of precast façade  
+The resistance to water penetration between the upper and lower panel of precast façade is 
+commonly provided by an upstand profile. A minimum overlap of 75mm between the upper and 
+lower panel is recommended 
+2.8.2.8 
+Testing 
+Precast panels often include cast in window frames, and the window assemblies are commonly 
+subjected to tests for the infiltration of air and water. To test the potential joint performance, 
+consideration may be given to incorporating panel to panel joints in the window test assembly. 
+The most effective test, as it encompasses site workmanship, and also can encompass a large 
+number of joints, is inspection of the completed panel joints for damp or leakage after heavy rain at 
+site. 
+In the absence of heavy rain, specific joints can be tested by spraying them with water. The hose 
+should deliver water as a spray, not a solid jet, and the water should be directed horizontally, not 
+upward (see clause 4.3.1 for water-tightness testing of façade panels). 
+2.8.2.9 
+Maintenance 
+The design of joints should allow for inspection, repair and, if necessary, replacement of 
+deteriorated jointing products during maintenance.  All joints should be designed in a manner that 
+should be accessible for inspection and repair without major disruption to the building occupants. 
+However, for practical reasons, the temporary removal of some interior decoration might be 
+necessary. 
+Building maintenance manuals should be provided to include the following: 
+• an inspection schedule; 
+• an expected replacement schedule for jointing products; 
+• an identification of joints where lack of maintenance would lead to significant 
+consequential damage; 
+25  
+
+
+===== PAGE 34 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• guidance on how to maintain joints; and 
+• means to identify products or types of jointing products used. 
+2.9 
+COMPOSITE CONCRETE CONSTRUCTION 
+2.9.1 
+General 
+Where reinforced or prestressed precast concrete units are connected with insitu concrete to resist 
+flexure, provision for horizontal shear transfer at the contact surface should be made. Sufficient 
+bond at the interface of the precast element and the insitu concrete should also be provided. 
+Testing should be conducted if necessary. 
+2.9.1.1 
+Analysis and design 
+The analysis and design of composite concrete structures and members should be in accordance 
+with the Code of Practice for  Structural Use of Concrete. 
+2.9.1.2 
+Construction methods 
+The construction methods used should be compatible with the design of component parts as well as 
+the composite sections. Where props are used, stresses and deflections should be checked to be 
+within allowable limits. 
+2.9.1.3 
+Relative stiffness 
+The relative stiffness of members should be determined from the concrete gross or transformed 
+section. If the concrete strengths of the two components of a composite member differ by more than 
+10 N/mm² a transformed section making allowance for such difference should be used. Otherwise, 
+the concrete gross section should be used. 
+2.9.1.4 
+Precast pre-tensioned units designed as continuous members 
+When the designed continuity is made by reinforced concrete cast insitu over the supports, the 
+compressive stresses due to prestress in the ends of the units may be ignored over the 
+transmission length for the tendons. 
+2.9.1.5 
+Differential shrinkage 
+(a) 
+General 
+Differential shrinkage may lead to increased stresses in the composite section where there is 
+an appreciable difference between the age and quality of the concrete in the individual 
+components and these stresses should be checked.  The effects are likely to be more severe 
+when the precast component is reinforced concrete or prestressed concrete with an 
+approximately triangular distribution of stress due to prestress.  The tensile stresses induced 
+by differential shrinkage should also be considered at design stage. 
+(b) 
+Tensile stresses 
+The differential shrinkage coefficient (the difference in total free strain between the two 
+components of the composite member) needs to be established to calculate the resultant 
+tensile stresses. The various factors affecting the coefficient have to be considered and taken 
+in to account. 
+(c)  
+Approximate value of differential shrinkage coefficient 
+In the absence of exact data, when designing precast T-beams with an insitu concrete flange, 
+a value of 100x10-6 may be assumed for the differential shrinkage coefficient within buildings 
+in a normal environment. 
+2.9.1.6 
+Horizontal shear force due to ultimate loads 
+The horizontal shear force due to ultimate load at the interface of the precast and insitu components 
+is either: 
+• 	
+the total compression (or tension) calculated from the ultimate bending moment if the 
+interface is in the tension zone; or 
+• 	
+the compression from that part of the compression zone above the interface, calculated 
+from the ultimate bending moment if the interface is in the compression zone. 
+26  
+
+
+===== PAGE 35 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.9.1.7 
+Average horizontal design shear stress 
+The average horizontal design shear stress is the stress obtained by dividing the design horizontal 
+shear force by the area obtained by multiplying the contact width by the beam length between the 
+point of maximum positive or negative design moment and the point of zero moment. 
+The average horizontal design shear stress should then be distributed in proportion to the vertical 
+design shear force diagram to give the design ultimate horizontal shear stress at any point along 
+the length of the member. The design shear stress vh should be less than the appropriate value in 
+Table 2.8. 
+Table 2.8  – Design ultimate horizontal shear stresses at interface 
+Precast unit 
+Surface condition 
+Insitu concrete grade 
+25 
+(N/mm²) 
+30 
+(N/mm²) 
+40 and 
+over 
+(N/mm²) 
+No links 
+as-cast or as-extruded 
+0.4 
+0.55 
+0.65 
+brushed, screeded or rough-tamped 
+0.6 
+0.65 
+0.75 
+washed to remove laitance or treated with 
+retarder and cleaned 
+0.7 
+0.75 
+0.80 
+Nominal links 
+projecting into 
+insitu concrete 
+as-cast or as-extruded 
+1.2 
+1.8 
+2.0 
+brushed, screeded or rough-tamped 
+1.8 
+2.0 
+2.2 
+washed to remove laitance or treated with 
+retarder and cleaned 
+2.1 
+2.2 
+2.5 
+Notes: 
+1. 
+The description `as-cast’ covers those cases where the concrete is placed and vibrated leaving a rough finish.  The 
+surface is rougher than would be required for finishes to be applied directly without a further finishing screed but not as 
+rough as would be obtained if tamping, brushing or other artificial roughening had taken place 
+2. 
+The description `as-extruded’ covers those cases in which an open-textured surface is produced direct from an 
+extruding machine 
+3. 
+The description `brushed, screeded or rough-tamped’ covers cases where some form of deliberate surface roughening 
+has taken place but not to the extent of exposing the aggregate 
+4. 
+For structural assessment purposes, it may be assumed that the appropriate value of m included in the table is 1.5 
+2.9.1.8 
+Nominal links 
+Nominal links with a gross sectional area of at least 0.15% of the contact area should be provided. 
+Spacing should not be excessive.  The spacing of links in T-beam ribs with composite flanges 
+should not exceed the greater of four times the minimum thickness of the insitu concrete or 600 mm. 
+Links should be adequately anchored on both sides of the interface. 
+2.9.1.9 
+Links in excess of nominal 
+If the horizontal shear stress obtained in accordance with clause 2.9.1.7 exceeds the value given in 
+Table 2.8, all the horizontal shear force should be designed to be taken by the reinforcement 
+anchored either side of the interface. 
+The area of steel required Ah (mm²/m) should be calculated from the following equation. 
+1000 b vh
+Ah = 
+0.87 fy 
+where: 
+b is the breadth of the section in mm, and 
+vh is the design shear stress in N/mm2 as defined in clause 2.9.1.7 
+2.9.1.10 Vertical shear 
+(a) 
+General 
+For composite members resisting vertical shear due to design ultimate loads, the design 
+should be in accordance with the Code of Practice for Structural Use of Concrete 
+(b) 
+Insitu concrete with precast prestressed units 
+27  
+
+
+===== PAGE 36 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+When the composite concrete section is used in the design of such units, the design principal 
+tensile stress should not exceed 0.24fcu anywhere in the prestressed units.  The stress 
+should be calculated by making due allowance for the construction sequence and by taking 
+0.8 times the compressive stress due to prestress at the section considered. 
+2.9.1.11 Structural topping 
+(a) 
+ Thickness 
+The minimum recommended thickness is 40 mm nominal with a local minimum of 25 mm. 
+(b) 
+ Workmanship 
+Workmanship is important to achieve a good shear connection.  Generally, the topping should 
+be well vibrated onto a surface that has been dampened but is free from standing water. 
+Where electrical conduits and the like are to be included within the structure, the minimum 
+thickness of topping should be increased accordingly. 
+Under no circumstances should structural topping be used to adjust level differences as a result of 
+erection tolerances thereby resulting in local areas where the thickness is less than the minimum 
+specified above. 
+2.10 
+NON-STRUCTURAL ELEMENTS 
+Non-structural precast elements, for example façade panels or non-loadbearing partitions, whilst 
+not forming part of the structural framing system of a structure will nonetheless be subjected to 
+selfweight and wind loading. The elements and their connections should therefore be designed in a 
+similar manner to structural precast elements and in accordance with the relevant sections of 
+clauses 2.1 to 2.9.  Refer to Appendix B for the typical installation details for precast concrete 
+façade panels. 
+2.11 
+DUCTILITY 
+2.11.1 
+Construction incorporating precast concrete 
+When moment resisting frames and structural walls involve precast concrete elements, “equivalent 
+monolithic” systems should be adopted. 
+2.11.2 
+Connections in equivalent monolithic systems 
+Strong connections are to be applied to precast concrete elements of equivalent monolithic systems 
+in moment resisting frames and structural walls, strong connections are designed to provide a 
+certain degree of ability to deform beyond elastic limit without excessive strength or stiffness 
+degradation and to ensure that flexural yielding occurs away from the connection region. The 
+design should accommodate possible yield penetration into the connection region as in cast-in­
+place construction and to follow the principle adopted in the Code of Practice for Structural Use of 
+Concrete on detailing for ductility. 
+28  
+
+
+===== PAGE 37 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+CONSTRUCTION 
+3.1 
+PRODUCTION PLANNING 
+Detailed planning at the pre-production stage is essential to ensure a safe and successful 
+manufacturing, supply and erection process for a precast concrete system. The manufacturing 
+programme and resources must be synchronised so that the delivery rate matches the project 
+construction requirements and available site storage.  Any special transport requirements or site 
+access limitations that may require deliveries outside normal working hours should be identified at 
+this stage. 
+A lead in time for the fabrication of precasting moulds, trial elements and connections details should 
+be allowed for.  Up to six months may not be an unusual period. 
+Production shop drawings, usually prepared by the precasting manufacturer, should include all 
+necessary information for the following items: 
+• member shapes (elevations and sections) and dimensions; 
+• sections and details to indicate quantities and position of reinforcement, anchors, inserts, 
+etc.; 
+• joint and connection details; 
+• production tolerances; 
+• handling devices including specifically fabricated lifting beams/frames and strongbacks; 
+• finishes; 
+• bearing seats; 
+• methods for storage, lifting and transportation; and 
+• unique identification, location and orientation information which is to be marked on the 
+units. 
+3.2 
+MOULDS 
+3.2.1 
+Materials 
+Several factors should be considered when choosing the material for constructing precast moulds 
+such as: repetitive use of the mould, economics, required surface finish type and quality and the 
+shape complexity of the precast unit.  Environmental aspects should also be considered when 
+selecting a suitable mould material. 
+The moulds should have adequate stiffness to maintain specified tolerances conforming to shape, 
+lines and dimensions as shown in the specification. 
+Due to the complexity of tailor-made steel moulds for precast concrete façade panels, it is normally 
+considered economical to produce a single steel mould for the construction of 200 or more panels. 
+However, other considerations mentioned above may govern the selection of steel for the use as a 
+mould material. 
+The design of steel mould is critical because failure of which may lead to delay in programme and 
+also wastage of precast products if it could not achieve the required workmanship and tolerances. 
+Material quality and thicknesses, three-dimensional restraints, demoulding mechanisms, 
+temperature effects are important considerations in designing good moulds. 
+3.2.2 
+Tolerances 
+Precast concrete units can be manufactured to comparatively close tolerances, although it should 
+be appreciated that, as with insitu concrete, some dimensional variations are inevitable. 
+Manufacturing tolerances should be specified for overall dimensions, thickness, bow, twist, flatness, 
+squareness, size and location of openings and cast-in items. The mould tolerances should be 
+compatible with the construction and erection tolerances specified in the specification in order to 
+achieve an acceptable completed precast product. . 
+Repetitive operations such as casting, concrete vibration, mould stripping and re-erection should 
+not affect the mould dimensions beyond permissible tolerances. Regular surveys of the moulds 
+should be made to ensure that they are still within acceptable limits. 
+29  
+
+
+===== PAGE 38 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+As good practice, it is recommended that full re-checking of moulds for dimensional tolerance 
+compliance be carried out after approximately 100 castings. More frequent checking may be 
+advisable. 
+3.2.3 
+Recesses, sleeves and boxouts 
+These should be formed from suitable material. The shape, size and location should be identified 
+on the precast unit shop drawings. 
+3.2.4 
+Mould release agents 
+Both suction and friction can be reduced by the use of high quality mould releasing agents. These 
+releasing agents should be of a suitable type that will assist in demoulding of the precast unit 
+without causing discolouration, adversely affecting the appearance of the surface finish or reducing 
+the adhesion of subsequent finishes such as tiling. Their application and timing control should 
+adhere strictly to the manufacturer’s recommendations. 
+3.3 
+CAST-IN CONNECTIONS 
+Where bars are provided with threaded ends for bolting or sleeve connection, a high degree of 
+accuracy in their location is required. Templates should be used to fix threaded bars, bolts, inserts, 
+sleeves and base plates during the production of precast units and cast insitu elements. 
+For complicated connections or connection systems which require very tight construction tolerances, 
+mock-up elements should be prepared to ensure any construction difficulties are identified and 
+solved prior to the commencement of mass production of precast units. 
+3.4 
+LIFTING INSERTS 
+3.4.1 
+General 
+Proprietary lifting inserts should comply with the design requirements of clause 2.7.5. Reinforcing 
+bars should only be used as lifting eyes when they have been designed to act in that manner. The 
+type of lifting eyes or inserts to be used on a particular project should be agreed between the 
+manufacturer and the contractor/erector. 
+Lifting inserts should be firmly fixed to the mould in a manner that prevents them moving out of 
+position during concrete placement. Puddling in facelift anchors after pouring of the concrete, while 
+it is still in a plastic state, is a common and accepted technique.  Anchors must be cast in at the 
+correct height to accommodate the lifting clutch, hook or shackle that will be used to handle and 
+erect the precast element. 
+Recess formers should be well maintained and must be compatible with the type of insert that is to 
+be used. 
+Appendix C shows some good practices on lifting hooks and lifting beams for reference. 
+3.4.2 
+Lifting position tolerances 
+Recommended tolerances on the location of lifting devices for typical precast elements are given in 
+table 3.1 below: 
+Table 3.1  – Recommended tolerances for lifting devices 
+Type of unit 
+Location on the unit 
+Tolerance 
+Pile 
+150 mm 
+Floor slab 
+150 mm 
+Beam 
+Along the length 
+Across the width 
+300 mm 
+25 mm 
+Column 
+Along the length 
+On the end 
+300 mm 
+25 mm 
+Wall or façade panel 
+In the face in any direction 
+On the edge across the thickness 
+On the edge longitudinally 
+25 mm 
+5 mm 
+25 mm 
+30  
+
+
+===== PAGE 39 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+3.5 
+SURFACE FINISHES 
+3.5.1 
+Types of finishes 
+Various types of finishes can be produced.  The more common types are plain (off form) finishes, 
+patterned finishes, tiled finishes and surface finishes treated by tooling, sand blasting or acid 
+etching. 
+Prior to the commencement of mass production of precast units, trial units should be prepared so 
+that the surface finish quality can be inspected, agreed and approved by all parties concerned. 
+Often, several adjustments and improvements are necessary before the desired product finish is 
+achieved. 
+3.5.2 
+Production 
+The quality of a concrete surface finish that can be achieved, is dependent on the properties and 
+constituents of the concrete mix, the type of form material and releasing agent; the placing and 
+compaction of the concrete; and the measures taken to cure the concrete. 
+3.5.3 
+Tiled finishes 
+Precast panels may have tiling added after casting, or frequently, where panels are cast flat, the 
+tiling can be placed in the mould before the concrete is poured. Where tiling is added after the 
+panels are cast, a thin bed tile adhesive is commonly used to attach the tiling. Any adhesive should 
+be applied strictly in accordance with the manufacturer's instructions. 
+Mould releasing agents, curing compounds and the like can significantly reduce the adhesive bond 
+between the tiles and the concrete, therefore care should be taken to ensure that these substances 
+are removed from the concrete surface before the application of any adhesives. 
+Waterproofing agents are also known to reduce tile/concrete adhesion, and if these are present in 
+the concrete, specialist advice must be sought. 
+Where tiling is placed directly in the mould, to preserve the joint appearance it is sometimes 
+necessary to initially grout up the joints, and often a layer of adhesive is then applied to the back of 
+the tiles before pouring the concrete. It is however, essential that the concrete is placed before the 
+adhesive set commences thereby reducing the bond. This period is referred to as open time and is 
+particularly critical when reinforcement has to be placed in the mould after adhesive application and 
+prior to concrete placement. 
+3.6 
+PREFABRICATED METAL FRAMES 
+Prefabricated frames such as windows that are to be incorporated into the precast units should be 
+manufactured in accordance with the appropriate standards. 
+As the frame surfaces may be damaged by fresh concrete, adequate protection should be provided. 
+Where frames are to be cast in fresh concrete, the surface in direct contact with the concrete may 
+have a protective coating if recommended by the supplier. 
+Prefabricated frames should be manufactured with suitable lugs on the face that is to be in contact 
+with concrete to ensure proper bonding to the precast unit. Frames should be secured in such a 
+way that they cannot move or deform in the mould during concrete placement. 
+3.7 
+PRE-CONCRETING CHECK 
+The following items should be checked prior to concreting: 
+• overall dimensions; 
+• squareness of corners and of edges; 
+• condition of side and base of mould; 
+• location of cast-in items including starter bars, dowels and lifting inserts etc, and support; 
+• location of reinforcement and support; 
+• concrete cover to reinforcement; 
+• boxouts for openings; 
+• provision for finishes; 
+31  
+
+
+===== PAGE 40 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• identification and marking; 
+• windows. 
+3.8 
+CONCRETE PLACING 
+Placing and compacting of fresh concrete should be carried out under proper supervision. 
+Compaction should be thorough and care should be taken to avoid displacing reinforcement, 
+tendon ducts and anchorages and cast-in items, and to avoid damage to the faces of the mould. 
+3.9 
+DEMOULDING AND LIFTING 
+Precast concrete elements should only be demoulded once the concrete has achieved sufficient 
+strength to withstand the stresses due to the demoulding process and initial handling.  Strength 
+may be assessed by tests on cubes cured, as far as possible, under the same conditions as the 
+concrete in the element being considered. 
+The minimum concrete strength at which precast elements can be lifted from the mould will be 
+determined by the magnitude of the greater of the concrete stresses at the lifting points, the 
+stresses caused by the transfer of prestressing forces or the stresses from handling. 
+For vertically cast panels, or elements cast on tilting moulds the flexural stresses may not always 
+determine minimum concrete strengths required.  In these situations the minimum strength of the 
+concrete at initial lift may be governed by the required capacity of the lifting inserts. 
+The capacity of lifting inserts may be less than their rated capacity due to short embedment lengths, 
+insufficient edge distances and/or low concrete strengths at the time of lifting. Higher strengths than 
+those recommended in the table below may therefore be required to develop the capacity of some 
+lifting inserts or for safe handling of the elements. 
+Table 3.2 –  Recommended minimum concrete strengths for lifting and handling 
+Application 
+Minimum concrete strength 
+None specified, fine controlled crane, non-prestressed 
+10 N/mm2 * 
+Lifting which involves significant impact or high acceleration 
+15 N/mm2 * 
+All units where concrete strength for lifting is specified in the 
+specification 
+as specified 
+Concentrically prestressed elements (piles, wall panels or 
+thin floor slabs) 
+20 N/mm2 
+Eccentrically prestressed elements (tees, deep flooring units) 
+25 N/mm2 
+Bridge beams and similar highly stressed prestressed 
+elements 
+30 N/mm2 or as specified 
+*Dependent on anchor length or as recommended by insert manufacturer 
+With prestressed elements special care should be taken to ensure lifting devices are anchored in 
+compression zones, unless covered by specific design. 
+Initial lifting should be made cautiously and gradually to overcome suction and friction without 
+inducing sudden impact forces. 
+3.10 
+CURING 
+3.10.1 
+Normal curing 
+The method and duration of curing should be such that the concrete will have satisfactory durability 
+and strength, and that the precast unit will not distort and will not cause undue cracking due to 
+shrinkage.  Suitable methods of curing include: 
+• delaying mould removal; 
+32  
+
+
+===== PAGE 41 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+• covering the concrete surface with an impermeable sheet of material, such as 
+polyethylene. The sheet should be well sealed and fastened; 
+• spraying the concrete surface with an efficient curing membrane; 
+• covering the concrete surface with a continuously damp absorbent material; or 
+• continuous or frequent applications of water to the surface, avoiding alternate wetting 
+and drying or application of cold water to warm concrete surfaces. 
+ Surfaces should normally be cured for a period of not less than 4 days.  
+3.10.2 
+Steam curing 
+Once the placement of concrete is complete, the concrete must be left for 4 hours without additional 
+heating. With steam curing, the concrete temperature can then be raised at a maximum rate of 
+10°C per half hour. The concrete temperature should at no time exceed 70 °C and the rate of 
+subsequent cooling should not exceed the rate of heating. 
+Steam curing should be under a suitable enclosure such that the live steam can be retained. 
+Steam jets should be positioned to allow free circulation of the steam around the surfaces of the 
+members, and to avoid discharge directly onto the concrete or the test cubes. 
+3.11 
+HANDLING 
+The handling process encompasses the demoulding of the precast units, their loading and 
+transportation to storage areas, offloading and storage, transfer to site and site erection. 
+To avoid excessive stresses and possible damage, all precast units should be handled in the 
+manner as envisaged in their design by means of approved devices, identified in the production and 
+erection drawings. 
+The techniques for handling precast units should aim for successful fabrication, delivery and 
+installation without causing structural damage, detrimental cracking, architectural impairment or 
+permanent distortion. 
+3.12 
+POST-CONCRETING CHECK 
+3.12.1 
+General 
+The size and shape of the precast units should be checked for compliance with the specification 
+and that they are within specified tolerance limits. Other items should also be checked to ensure the 
+units are acceptable for project use.  They include checking that: 
+• connectors, sleeves, recesses and other features are in their correct location and were 
+not misaligned or dislodged during concreting; 
+• construction joints have been formed as designed; 
+• reinforcement protruding from the element is the correct diameter and length and in the 
+correct location; 
+• surfaces are free from cracks, hollow spot and unevenness, and exhibit no signs of grout 
+loss, major chipping or misalignment of joints; 
+• earthing lugs when required provide full electrical continuity; and 
+• identification and marking is correctly attached. 
+It may be desirable to instigate 2 stages in the checking works: 
+• stage 1 immediately after demoulding to identify the repairable and non-repairable 
+damages.  The non-repairable elements are to be discarded. 
+• stage 2 post-repairs and post-finishing when the precast units are ready for dispatch. 
+3.12.2 
+Surface finish 
+3.12.2.1 Inspection 
+The surface of precast units should be inspected for defects and for the conformity with the 
+specifications. The making good of surface defects may be permitted, subject to the approval of the 
+33  
+
+
+===== PAGE 42 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+registered structural engineer, but the standard of acceptance should be appropriate to the type and 
+quality of the finish specified. 
+3.12.2.2 Cracks 
+Precast units that have been adequately designed for the stresses due to serviceability effects and 
+handling are generally free from cracks when correctly demoulded, transported and handled. 
+However, sometimes cracks may occur as a result of difficulties in demoulding, rough handling, 
+concrete shrinkage and improper concrete mix. 
+3.12.2.3 Repairs 
+Any defects found in a precast unit should be checked to ensure that the unit is still aesthetically 
+and structurally acceptable for use after an appropriate repair is made. 
+The type of repair material and method depends on the pattern, extent of the defect and type of 
+surface finish and should be agreed by all parties involved and approved by the registered 
+structural engineer. The repair materials and method should be effective and acceptable in terms 
+of achieving the required concrete strength and structural integrity as well as producing a texture 
+and colour similar in appearance to the surrounding surface. 
+3.13 
+LIFTING EQUIPMENT AND ACCESSORIES 
+Lifting equipment such as mobile crane, gantry crane, forklift etc. must be carefully selected to 
+ensure that lifting of precast units is carried out within the rated capacity of the equipment. The 
+support for the lifting equipment must be checked to ensure that adequate supporting capacity is 
+provided. 
+Lifting accessories may comprise combinations of lifting beams or frames, slings or cables, hooks 
+or shackles.  The selection of each of these components should be predetermined to take account 
+of the forces exerted on them due to all aspects of the lifting operations. A person suitably qualified 
+in accordance with the relevant regulations must regularly inspect all lifting equipment prior to and 
+after use.  Results of such inspections must be properly recorded and be available for subsequent 
+inspection by the  registered structural engineer upon request. 
+Some precast elements such as prestressed hollow-core floor slabs must be handled by means of 
+lifting clamps, strops or slings as they may have no lifting inserts.  Lifting equipment of this type may 
+wear rapidly and therefore should be regularly inspected.  The location of lifting points should be 
+clearly indicated on the drawings. 
+3.14 
+FACTORY AND SITE STORAGE 
+Storage areas must be large enough so that the precast units can be stored safely, with adequate 
+room for lifting equipment and transporting vehicles to manoeuvre. The ground of the storage area 
+must be hard, level, clean and well drained to permit organised storage. 
+Precast elements can be damaged by incorrect stacking and storage. Where the locations of 
+support points for a precast unit are critical the locations for the supports (dunnage) should be 
+noted on the shop drawings. 
+Supports must be arranged to avoid twisting or distorting of the precast elements and must be 
+adequate to transfer the weight of the stacked units to the ground without excessive settlement. 
+The stored and stacked units should be protected to prevent accidental damage and discolouration 
+and the support material should be non-staining.  Lifting points should also be well protected and 
+kept accessible while the units are in storage. 
+Precast units must be stored safely with adequate supports such that it would not endanger any 
+workers moving in the vicinity. 
+34  
+
+
+===== PAGE 43 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.15 
+TRANSPORTATION 
+3.15.1 
+Delivery 
+Commonly precasting factories lie outside the Hong Kong SAR, in Guangdong province China, and 
+in order to get the products to the construction site it is necessary for road and/or water 
+transportation. 
+For transportation within China regional authority transportation requirements will need to be met 
+and permits, where applicable, obtained. Within the Hong Kong SAR, transportation must comply 
+with the appropriate regulations. 
+The precast units should have gained sufficient strength before being loaded for transportation. 
+3.15.2 
+Loading and storage on transporters 
+Precast units must be loaded carefully on to delivery vehicles to prevent damage.  To protect the 
+edges throughout their journey, proper devices should be used to support, secure and wedge the 
+precast units.  The units should be adequately secured and supported to prevent them from 
+overturning, shifting or being damaged during transportation.  Adequate non-staining cushioning 
+should be provided between the unit and any securing chains, cables or ropes to prevent localised 
+damage. 
+Precautions should also be taken to ensure that no undesirable stresses will be transmitted to the 
+precast unit due to any flexing of truck or barge deck. 
+3.16 
+ERECTION 
+3.16.1 
+Erection preparation 
+Consideration should be given to the following items to ensure safe and efficient installation of the 
+precast elements in accordance with the design intent: 
+• erection sequence; 
+• assembly and erection method; 
+• erection tolerances; 
+• rigging requirements; 
+• concrete strength or age requirements; 
+• permanent structural connection and joint details; and 
+• propping and temporary support details. 
+If the sequence of erection is critical to the structural stability of the structure, or for access to 
+connections at certain locations, it should be noted on the drawings.  The erection drawings, which 
+should include all relevant information, should be prepared prior to the commencement of any 
+erection. 
+3.16.2 
+Erection safety 
+Safety during the handling and erection of precast concrete elements is of paramount importance 
+and compliance with the relevant current regulations is required. 
+All equipment used for the handling and erection of a precast element must be maintained to a high 
+standard, load tested as necessary, and be suited to the intended use. 
+Consideration should also be given to the site environment particularly with regards to built up 
+areas and implications this may have on erection safety. 
+3.16.3 
+Erection sequence 
+Precast elements should be erected in accordance with a pre-planned sequence as detailed in the 
+erection drawings. This sequence of erection should be such that the multiple handling of elements 
+is minimised. A trial erection operation should be considered to identify any unforeseen erection 
+difficulties. 
+3.16.4 
+Missing or damaged lifting inserts 
+If missing, faulty or incorrectly located lifting inserts are identified, the designer should be contacted 
+immediately to assess the problem and decide on an alternative lifting system. 
+35  
+
+
+===== PAGE 44 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+It should be verified, where permanent fixings or connections are temporarily used during 
+construction, that the fixings are suitable for the temporary use and their long-term performance will 
+not be compromised. 
+3.16.5 
+Rigging 
+A rigging system for handling and erecting precast elements requires careful and thorough pre­
+planning.  Special care must be taken with rigging arrangements where unequal lifting loading has 
+been incorporated in the panel design. 
+It may be necessary to check the centre of gravity during lifting, in order to ensure a stable and 
+balance manner to facilitate installation operation. 
+The loadings at different lifting points may be different. It is common to use chain slings for lifting. 
+Careful design the required length of the chain slings for different lifting points to ensure proper 
+tightening and no slack during lifting operation. 
+Refer to Appendix C for details of lifting hook for semi-precast slab and typical lifting beam for 
+precast façade. 
+3.16.6 
+Temporary bracing and supporting structures 
+Precast concrete elements must be adequately braced and supported during all phases of erection 
+to ensure proper alignment and structural integrity until permanent structural connections have 
+been completed. 
+The design of temporary bracing and supporting structures should comply with clause 2.7.6. The 
+installation and erection is to be in accordance with the approved drawings and checked by a 
+competent person as set out in the project’s Site Safety Supervision Plan. 
+Wherever possible bracing should be fixed to the element before lifting. When it is necessary to 
+attach the braces after the element has been positioned, the element should not be detached from 
+the crane until the braces have been installed. 
+Bracing bolts should be checked at regular intervals to ensure that they are secure and undamaged. 
+3.16.7 
+Levelling shims 
+Levelling shims should be formed from a suitably durable material and should have adequate 
+strength to carry the full imposed loads.  Direct concrete to concrete, or concrete to steel bearing 
+should be avoided. 
+Levelling shims carry the full construction load of the precast element and must provide adequate 
+support to prevent movement until the element is incorporated in the main structure. Levelling 
+shims must therefore be used on a solid foundation. It is recommended that levelling shims are not 
+placed on thin layers of site concrete. 
+Shimming should not exceed a height of 30 mm unless steps are taken to ensure stability of the 
+temporary support. 
+Where possible, shims for levelling precast elements should be located at least 300 mm from the 
+ends of the element. This is relevant where edge break-out can occur if shims are placed close to 
+bottom corners, such as for thin wall panels. 
+If steel shims are used they must be removed before the final grouting up of the joint. 
+3.16.8 
+Propping 
+All temporary propping requirements must be shown on the erection drawings. The design of 
+temporary propping systems should be in accordance with clause 2.7.4. Consideration should be 
+given to the following: 
+• propping that supports beams should accommodate possible changes to the distribution 
+of loads during the construction process; 
+• the seating of precast beams may not be adequate to transfer high loads during 
+construction and precast beams will normally require full propping at each end; 
+• if the structural design requires beams to be supported without the use of mid-span 
+props (to reduce the end support dead load bending moments) this requirement must be 
+clearly noted on both the contract drawings and the precast layout drawings; 
+36  
+
+
+===== PAGE 45 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• where beams have floor systems placed on them prior to the beams being fully built into 
+the structure, the beams may not be evenly loaded by the floor units during construction. 
+Long span floor units placed on one side only of a beam may cause the beam to roll on 
+the props.  In such circumstances each edge of the beam may require separate 
+temporary propping; 
+• all temporary propping should be in place, adjusted to the correct levels allowing for any 
+required cambers, and fully braced prior to commencement of erection of any precast 
+beams, unless specific provision has been made to do otherwise; 
+• temporary propping should provide full support for all construction loads including the full 
+self weight of the completed floor system and possible local concentrations of load 
+during construction, unless specifically noted otherwise; 
+• required duration of propping time and sequence of de-propping; 
+• all temporary propping should be in place, adjusted to the correct levels allowing for any 
+required cambers, and fully braced prior to commencement of erection of any floor units, 
+unless specifically noted otherwise; and 
+• props should be vertical and braced to prevent side-sway of the whole assembly and the 
+buckling of individual props. 
+3.16.9 
+Cleansing to semi-precast slab 
+Cleansing and crack inspection before placing insitu concrete topping include:­
+(1)  
+Remove all laitance, loose materials, dirt and grease from the top surface of the precast slab 
+by using water jet with a minimum pressure of 10,000kPa (100bar) for cleansing; 
+(2)  
+After water-jet cleansing, check for cracks at the underside of the semi-precast slab; 
+(3)  
+Repair any through cracks identified before placing insitu concrete topping to the semi­
+precast slabs. 
+3.17 
+TOLERANCES 
+The tolerances which can be achieved in practice depend on a number of factors including: 
+(1) unit shape, particularly the effect on the stiffness of the mould; 
+(2) mould materials and the method of mould assembly; 
+(3) number of castings from each mould; 
+(4) position and shape of any projections; and 
+(5) method of installation. 
+Production and erection tolerances are given below as a general guide to the accuracy that can be 
+achieved by normal production methods.  In any case, the final construction tolerance of precast 
+concrete construction should not more than the construction tolerances stated in the Code of 
+Practice for Structural Use of Concrete (i.e. Construction Tolerance ≥ Production Tolerance + 
+Erection Tolerance) 
+3.17.1 
+ Production tolerance for precast concrete components 
+3.17.1.1   All elements (unless otherwise specified) 
+1.  
+Length up to 2000 mm: ……………………………………………………………….………±6 mm 
+2.  
+Width or height up to 250 mm: ……………………………………………………..……… ±4 mm 
+3.  
+Thickness or depth up to 500 mm: …………………………………….………….…………±6 mm 
+3.17.1.2   Façade and wall units 
+(a) Deviations from Design Dimensions 
+Manufacture the facade and precast concrete wall units within the dimensional tolerances set out 
+below: 
+37  
+
+
+===== PAGE 46 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  
+Length and height: 
+a. 
+Up to 2 m:  …………………………………………………………..……………… ±3 mm 
+b. 
+2 m to 3 m: ……………………………………………….…………….…………… ±6 mm 
+c. 
+3 m to 4.5 m: ……………………………………………………………..………… ±9 mm 
+d. 
+4.5 m to 6 m or more: …………………………………………….…… +10 mm : -12 mm 
+2. 
+Thickness: 
+a. 
+Up to 500 mm:  …………………………………………………………… +6 mm : -3 mm 
+b. 
+500 mm to 750 mm:  ………………………………………………………+8 mm : -5 mm 
+3.  
+Straightness or bow (deviation from intended line): 
+a. 
+Up to 3 m:  ………………………………………………….………………………… 6 mm 
+b. 
+3 m to 6 m:  …………………………………………………………………………… 9 mm 
+c. 
+6 m to 12 m:  …………………………………………….……………………………12 mm 
+(b) Squareness 
+When assessing the squareness of a corner: 
+1.  
+Take the longer of the two adjacent sides being checked as the base-line; 
+2.  
+Ensure that the shorter side does not vary in its distance from a perpendicular so that the 
+difference between the greatest and shortest dimensions exceeds: 
+Length of shorter side: 
+a. 
+Up to and including 1000 mm:  ………………………………………….................. 3 mm  
+b. 
+Over 1000 mm to 2000 mm: …………………………………………………………. 5 mm 
+c. 
+Over 2000 mm: ……………………………………….............................................. 6 mm  
+(c) Twist 
+Ensure that no corner is more than the dimension stated from the plane containing the other three 
+corners: 
+1.  
+Up to and including 3m: ………………………………………………................................. 6 mm  
+2.  
+Over 3m to 6m: ………………………………………..……............................................... 9 mm  
+3.  
+Over 6m to 12m: …………………….............................................................................. 12 mm  
+(d) Position of Cast-in Window Frames 
+Permissible deviation from design dimensions on plan: …………………………….. ................±6 mm  
+3.17.2 
+ Erection tolerance for precast concrete components 
+3.17.2.1   All elements (unless otherwise specified) 
+After erection of the precast component, the construction tolerance shall well within the 
+construction tolerances stipulated in Code of Practice for Structural Use of Concrete. 
+3.17.2.2   Precast façade and precast wall units 
+Install the facade and precast concrete wall units within the erection tolerances set out below: 
+1.  
+Position on plan: In x and y directions: ……………………………………........................ ±5 mm  
+2.  
+Verticality:  per element: ………………………………………........................................... ±6 mm  
+3.  
+Width of joint:  On a nominal joint of 20 mm: ………………………………………............ ±5 mm  
+a.  In addition, respect the prescribed dimensions for height, width and length, of the 
+completed building to within 0.1%; 
+38  
+
+
+===== PAGE 47 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.  Respect the theoretical line, both horizontal and vertical, with the same tolerance of 0.1%, 
+for each storey when seen from the front.  Deviations in profile must not exceed ±10 mm. 
+3.17.2.3   Stairs (flight from landing to landing) 
+(a) Position on Plan 
+Permissible deviation on plan of any point in relation to the nearest reference point at the same 
+level, the distance between the points being not more than 15m: …………………..................±10mm 
+(b) Length 
+Length on plan of clear span (excluding landings) ………………………….............................±12 mm 
+(c) Width of Flight  ……………………………............................................................................. ±6 mm  
+(d) Height 
+Vertical height measured between either top surfaces or soffit surfaces 
+of any flight of stairs:  …………………………… .................................................................... ±10 mm 
+(e) Waist Thickness 
+Thickness of waist measured at right angles to the slope of the flight: ...................... +6 mm: -3 mm 
+(f) Rise 
+Difference in the rise of two consecutive steps: ……………….............................................. ±5 mm 
+(g) Going 
+Difference in width of tread of two consecutive steps: ……………………………..................... ±8 mm 
+(h) Tread Level  
+Difference in level of tread:  
+1. 
+Across the going: ……………………………………………............................................ ±4 mm  
+2. 
+Across width of stair: ………………………………………………………………………... ±5 mm 
+3.17.3 
+ Volumetric precast concrete components 
+3.17.3.1  Position on Plan 
+Permissible deviation on plan of any point measured from the nearest building grid 
+line: …………………………………………………………….…………………………………….. ±15 mm 
+3.17.3.2  Length and Width 
+a. 
+≤15 m: …………………………………………………………….....…...……….... ±25 mm 
+b. 
+>15 m ≤30 m:…………………………………………………..……………………………. ±25 mm 
+c. 
+Each subsequent 30 m: ………………………………………………………..……….……±20 mm 
+Note: Measure dimensions at lowest floor level or, if not practicable, as otherwise specified or 
+agreed. 
+39  
+
+
+===== PAGE 48 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.17.3.3  Height 
+To structural roof level with reference to the Transferred Bench Mark (TBM): 
+a. 
+b. 
+≤30 m:  ………………………………………………………………………..…..…………. ±40 mm 
+Each subsequent 30 m: ……………………………………………….…………………... ±15 mm 
+3.17.3.4  Verticality of Wall and Columns 
+a. 
+b. 
+c.
+d. 
+Plumbness in height ≤500 mm:………………………………………………..…………... ±10 mm 
+Ditto >500 mm ≤3000 mm: ..................................................................………….…..…±15 mm 
+ 
+Ditto >3000 mm ≤30 m: ....................................................................……………….…. ±20 mm 
+>30 m:  …………….……………………..... Pro-rata on ±20 mm per 30 m to the nearest 5 mm 
+Note: When separated by another plane or member use the thickness of the plane or member for 
+checking verticality. 
+3.17.3.5   Surface Profile of Walls and Slab Soffits 
+Permissible deviation from mean of surface profile across the whole element (from extremities): 
+a. 
+Surface profile ≤3000 mm:........................................................................…….………. ±10 mm  
+b. 
+Ditto >3000 mm ≤15 m:........................................................................…….…….……. ±15 mm  
+c. 
+Ditto >15 m: .......................................................................………………….……......... ±20 mm 
+Note: Measure deviations in two directions. 
+3.17.3.6   Twist 
+The distance of any one corner from the plane containing the other three corners, i.e., a variation 
+from the target plane: 
+a. 
+For diagonal ≤15 m: ………………………………………………………..……....……….. 20 mm 
+b. 
+For each further 10 m of diagonal: ………………………………………………………… 10 mm 
+3.17.3.7   Squareness of Corners 
+Where the longer of two adjacent sides is taken as the base line and the permissible deviation of 
+the shorter side, from a perpendicular to the base line, is related to the length of the shorter side: 
+a. 
+Short side ≤3000 mm: ………………………………………………………………………±20 mm 
+b. 
+Short side for every additional 2500 mm (to nearest 5 mm): ………………………20 mm x L/3 
+3.17.3.8   Level 
+Permissible deviation from designed level with reference to the nearest Transferred Bench Mark 
+(TBM) of the upper or lower surface, as may be specified of any slab or other element or 
+component: 
+a. 
+Length ≤8 m:……………………………………………….……………………….……….. ±10 mm 
+b. 
+Length >8 m ≤15 m: ………………………………………………..……………….……... ±15 mm 
+c. 
+Length >15 m ≤30 m:……………………………………………………………….………. ±20 mm 
+40  
+
+
+===== PAGE 49 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+4
+  QUALITY CONTROL 
+4.1 
+FACTORY 
+4.1.1 
+General 
+A factory selected for the casting of units must ensure that the precast units are manufactured 
+under a Quality Assurance Scheme certified under ISO 9001 covering the following items: 
+• 	
+quality control tests of materials, including proprietary products such as lifting anchors 
+for handling precast concrete components;; 
+• 	
+calibration of laboratory equipment for quality control tests; 
+• 	
+production process; 
+• 	
+efficiency and proper operation of equipment at the casting yard; 
+• 	
+sampling/testing procedures and requirements; 
+• 	
+frequency and extent of inspection by in-house staff and independent parties; and 
+• 	
+frequency and extent of audit by in-house staff and independent parties. 
+The factory and contractor are responsible for maintaining the quality of the manufacturing process 
+for the precast units. The precast concrete elements should be manufactured by a factory with ISO 
+9001 quality assurance certification. The contractor should provide continuous supervision of the 
+precast concrete production works in the factory, as well as qualified supervision for the fabrication, 
+erection and examination of precast concrete elements. 
+The authorised person/registered structural engineer must satisfy himself that the precast concrete 
+units have been constructed in accordance with the approved drawings and specification. The 
+registered structural engineer and his team of supervisory personnel should provide qualified 
+supervision for the fabrication, erection and examination of precast concrete elements. Should more 
+stringent control be considered necessary, the authorized person/registered structural engineer 
+may step up the supervisory and testing requirements. 
+Rigorous quality control procedures must be maintained at the precasting factory at all times to 
+ensure that the precast elements are constructed in accordance with the Building (Construction) 
+Regulations and specification. 
+Upon leaving the precasting factory all precast units or batch of units must carry documentation 
+certified by the factory stating that the units have been manufactured under a certified Quality 
+Assurance Scheme and in accordance with the specification. 
+Precast units produced and handled by a quality assured factory shall be fully traceable. Serial 
+number, casting date, concrete grade, reinforcement details, final locations and delivery order/ 
+invoice should be documented. The date of manufacture together with the serial number shall be 
+marked on each precast unit. Manufacturer may install radio frequency identification (RFID) tags to 
+the respective precast unit to record the manufacturing process, the logistics in delivery and the 
+installation details of the precast unit, etc. 
+Clauses 3.2 and 3.9 provide guidelines in respect of quality control on moulds, demoulding and 
+lifting respectively. Reference shall be made to clauses 3.11 and 3.14 for quality control on 
+handling and/or storage of cast units. 
+4.1.2 
+Testing standards 
+4.1.2.1 
+Concrete 
+Sampling and testing of concrete should comply with the Building (Construction) Regulations and 
+as required by the specification in accordance with Construction Standard CS1 or similar approved. 
+The testing is to be undertaken by a laboratory accredited under the Hong Kong Laboratory 
+Accreditation Scheme (HOKLAS) or other laboratory accreditation bodies which have reached 
+mutual recognition agreements/arrangements with the HOKLAS. 
+4.1.2.2 Reinforcement 
+Sampling and testing of reinforcement should comply with the Building (Construction) Regulations 
+and in accordance with Construction Standard CS2 or similar approved. The testing is to be 
+undertaken by a laboratory accredited under HOKLAS or other laboratory accreditation bodies 
+which have reached mutual recognition agreements/arrangements with the HOKLAS. 
+41  
+
+
+===== PAGE 50 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.2.3 Structural Grouting 
+All grout should be prepared, applied in accordance with the manufacturer’s specification and 
+requirements and tested in accordance with Construction Standard CS1 by a laboratory accredited 
+under HOKLAS or other laboratory accreditation bodies which have reached mutual recognition 
+agreements/arrangements with the HOKLAS. The strength of 100 mm cubes of grout must not be 
+less than the grade strength of the adjoining concrete. 
+4.2 
+SITE 
+Receiving ,lifting, storage and erection at the construction site should be undertaken in accordance 
+with an accredited site Quality Assurance Scheme. 
+The following items should form part of the site checking for acceptance of the precast elements: 
+• 	
+Structural integrity 
+Although quality control checks are carried out for the precast units at the factory, there is a 
+possibility of damage during handling and transportation. As the precast units are received on 
+site they should be visually inspected for any signs of structural defect. 
+• 	
+Dimensional tolerance 
+Dimensional tolerances of the precast units as received on site should comply with the 
+specification. See clause 3.17  for guidance on production tolerances. 
+Changes to the dimensions and shapes of units should be identified and assessed with regard 
+to the overall tolerance; and 
+• 	
+Surface finish 
+The surface finishes of precast units when received on site should be checked for compliance 
+with the requirements of the specification. 
+4.3 
+SPECIAL TESTING 
+4.3.1 
+Watertightness testing of external precast façade panels 
+4.3.1.1 
+General 
+For facade units not connected monolithically to in-situ concrete, it is required to demonstrate that 
+the joints are adequate to resist water penetration. Water penetration test on a full scale mock-up 
+panel including joint could be undertaken. The recommended testing procedure is outlined in 
+clauses 4.3.1.2 to 4.3.1.5. 
+4.3.1.2 Test procedures 
+Mock-up panels to be tested for watertightness should be subjected to both static and cyclic 
+pressure in accordance with relevant international standards [e.g., ASTM E331-00 (2009) and 
+ASTM E547-00(2009) respectively]. 
+These testing procedures are to be modified for local 
+conditions as follow: 
+• 	
+differential test pressure shall be 20% of the maximum inward design wind load but 
+not less than 0.77 kPa; and 
+• 	
+the test shall be performed with water flow rate of 3.4 litres/min/m² for 15 minutes. 
+4.3.1.3 Sampling for water penetration test 
+Full scale watertightness testing on precast façade panels and joints should be carried out at the 
+rate of 0.5% for each type of joint and combination of panels or one for each type of joint and 
+precast unit, whichever is the greater. 
+4.3.1.4 Failure criterion 
+The façade units or joints are deemed to have failed if signs of water seepage through the joints or 
+through the façade unit, including signs of damp patches, are observed during the test or within the 
+subsequent 2 hours after the test. 
+42  
+
+
+===== PAGE 51 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3.1.5 Remedial action 
+Upon failure of a water penetration test on a precast façade system the cause of failure should be 
+identified and the system revised and re-tested until a satisfactory test result is achieved. 
+For any one facade unit fails the watertightness test, additional tests shall be required with sampling 
+rate determined by the registered structural engineer 
+4.3.2 
+Load testing 
+When supervision indicates poor workmanship or where there are visible defects particularly at 
+critical sections, tests to determine the structural integrity, concrete strength and quality of materials 
+may be carried out to determine the acceptability of the product or the batch of products. The 
+testing method should be specific and capable of collecting relevant information to verify the 
+acceptability of the product. 
+In certain cases, it may be necessary to devise specific tests to demonstrate the structural integrity 
+of the precast unit. In this circumstance, such testing method should be relevant and agreed with 
+the registered structural engineer prior to conducting the test. 
+4.3.3 
+Tiled finishes 
+Performance testing should be carried out on a number of trial panels at the precasting yard, to 
+demonstrate the method and materials used for fixing the tiles will be satisfactory in service. 
+There should be no hollow sounding areas behind the tiles when the surface is tapped with a light 
+hammer or coin. 
+Pull off tests may be required on selected areas of tiling. 
+A cover meter survey of reinforcement beneath the tiled finish should be made to ensure adequate 
+cover to reinforcement has been provided. 
+The number of trial panels, the number and nature of tests, and the acceptance values should be 
+specified and agreed before manufacture. 
+Acceptance testing on production panels should be carried out at an appropriate time, to avoid the 
+erection of panels with unacceptable finishes. Any of the recommended testing may be employed, 
+but it should be noted that pull off testing is destructive, and the tested area cannot easily be 
+repaired to the original appearance. 
+43  
+
+
+===== PAGE 52 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference: 
+This Code of Practice incorporates provisions specified in the following documents. These documents are 
+referred to at the appropriate parts of the text. For dated references, if any, subsequent amendments or 
+revisions do not apply. For undated references, the latest edition of the publication applies. 
+Hong Kong Building (Construction) Regulations 
+Code of Practice for Structural Use of Concrete 2013 
+Code of Practice for Fire Safety in Building 2011 
+Structures Design Manual for Highways and Railways 
+Code of Practice on Wind Effects in Hong Kong 2004 
+Code of Practice for Dead and Imposed Loads 2011. 
+44  
+
+
+===== PAGE 53 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 54 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 55 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 56 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 57 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 58 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 59 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 60 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 61 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 62 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 63 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 64 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 65 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 66 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 67 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 68 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 69 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 70 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 71 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 72 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 73 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 74 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 75 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 76 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 77 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 78 =====
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 79 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 80 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 81 =====
+ 
+ 
+ 
+ 
+
+
+===== PAGE 82 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 83 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 84 =====
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 85 =====
+ 
+ 
+ 
+ 
+ 

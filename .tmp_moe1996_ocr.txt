@@ -1,0 +1,1295 @@
+
+
+===== PAGE 1 / 65 =====
+CODE OF PRACTICE
+FOR
+THE PROVISION OF MEANS OF ESCAPE
+IN CASE OF FIRE
+1996
+BUILDING AUTHORITY
+HONG KONG
+
+===== PAGE 2 / 65 =====
+FOREWORD
+Fire safety in a building is determined by a number of factors one of which is
+the provision of adequate means of escape in case of fire. Requirements for means of escape
+for buildings are laid down in section 41(1) of the Building (Planning) Regulations. This
+Code of Practice provides guidance on compliance with these requirements_
+This Code will be reviewed regularly. Suggestions for   improving it are
+welcome.
+Building Authority
+First issue
+December 1959
+This revision
+June 1996
+
+===== PAGE 3 / 65 =====
+C 0 NTENTS
+Paragraph
+Part [ GENERAL PROVISIONS
+Use of the Code
+2
+Objectives
+3.
+Two Approaches to Fire Safety
+Interpretations
+3
+5
+Application
+6
+Part MI GENERAL PROVISIONS OF MEANS OF ESCAPE
+6_
+Special Hazard Occupancy
+Assessment of Accommodation
+General Requirements of Exit Routes
+9
+9
+Buildings with Single Staircase
+11
+10_
+Exits from Rooms
+12
+M_
+Exits from Storeys
+13
+12_
+Exits at Ground Storey
+15
+Page
+
+===== PAGE 4 / 65 =====
+13_
+Access t0 Staircase(s) within Building
+15
+14
+Direct Distance and Travel Distance
+17
+15_
+Discharge Value and Width of Staircase
+21
+16_
+Doors in Relation [0 Exits
+25
+17
+Construction of Staircases
+27
+18
+Ramps
+28
+19
+Lift Lobbies
+28
+20_
+Basements
+28
+2 [.
+Refuge Floors
+29
+Part III PROVISIONS OF MEANS OF ESCAPE IN PLACES OF PUBLIC ENTERTAINMENT
+22
+Site
+33
+23
+Cinemas in Multi-storey Non-domestic or Composite Buildings
+34
+24_
+Exit, Notices , etc
+35
+25
+Entrance and Exit Routes
+36
+26_
+Staircases
+37
+27.
+Barriers
+38
+28.
+Chains and Padlocks
+38
+
+===== PAGE 5 / 65 =====
+29_
+Gangways and Seatways
+39
+30.
+Non-slippery Surfaces
+39
+31
+Edges of Steps
+39
+32
+Exit from Stages
+39
+33_
+Lighting
+40
+34
+Temporary Buildings
+40
+COMMENTARIES
+42
+DIAGRAMS 1-7
+
+===== PAGE 6 / 65 =====
+Part [ GENERAL PROVISIONS
+Use of the Code
+1.
+Authorised persons. registered structural engineers and any person responsible for the design of buildings may find this Code useful in establishing the requirements Of the Building Authority for adequate means of escape in case of fire
+1.2
+This Code gives guidance on how the Building  Authority' $ requirements may be complied with_
+2 .
+Objectives
+2 .
+The objective of this Code is to announce provisions for the protection of buildings from the effects of fire by providing adequate means of escape in the event of fire and other emergencies.
+2.2
+There are other fire safety objectives preventing the outbreak of fire, inhibiting the spread of fire. abating fire hazards, fire suppression, preventing loss of property and assisting in firefighting and rescue. Provisions for some of these can be found in the Buildings Ordinance and other Codes of Practice issued by the Building Authority.
+3_
+Two Approaches to Fire Safety
+3.[
+Prescriptive Provisions Compliance with the prescriptive provisions in this Code may be regarded as reliable way to satisfy the Building Authority' s   requirements_ Departure from these provisions will necessitate an alternative apprcach t0 be adopted and proved, in individual cases, t0 the satisfaction of the Building Authority a5 t0 compliance with requirements_
+
+===== PAGE 7 / 65 =====
+2
+3.2
+Alternative Approach The Building Authority recognizes that fire safely may be approached in a number of ways the best of which is not necessarily prescriptive. This is particularly pertinent t0 buildings of special hazards which, because of their size , height, use , design, construction Or location, may necessitate special consideration   and   specific   standards. In this   Code, the  points to note for an alternative approach are set out_
+3.3
+For the assessment of the need of a building for fire protection. the Building Authority accepts the following as relevant factors
+the anticipated risk of a fire occurring in a building;
+the anticipated severity of a fire;
+the ability of the structure of a building t0 resist the effect of fire and t0 minimize the spread of fire and smoke; and
+the consequential and possible danger t0 the people in and around building_
+3.4
+Where an alternative approach is adopted the Building   Authority  will assess   its acceptability by reference to a set of criteria. This includes the means of escape. the means of access_ the fire service installations, the fire resisting construction the size_ the height; the use_ the location and the management of a building. An acceptable alternative approach should take into consideration these criteria and at the same time should apply scientific and engineering principles to the protection of people and property   from   fire . Such an approach , which is also called a   fire  engineering approach may be the only viable means to satisfactory standard of fire safety in some large and complex buildings.
+3.5
+variety of measures may be taken to achieve fire safety in building: These measures may provide for Or enhance the following
+the means t0 prevent fire;
+early fire warning by an automatic detection and warning system;
+the standard of the provision of means of escape;
+
+===== PAGE 8 / 65 =====
+3-
+the facilities for smoke control:
+the control of the rate of spread of fire;
+the resistance of the effects of a fire;
+the capacity for fire containment;
+fire separation between buildings O parts of buildings:
+the standard of active measures for fire extinguishment o control:
+the facilities to assist in fire-fighting and rescue;
+the effectiveness of property management to minimize the outbreak of fire;
+the availability of personnel trained in fire protection; and
+the availability of any arrangement that could ensure the continued maintenance of fire protection systems_
+3.6
+Quantitative techniques may be used to evaiuate risks and hazards_ Some factors listed above may be given numerical values in certain   circumstances_ When quantitative methods are used , any assumptions made should be substantiared. where possible, by documents from competent authorities.
+Interpretations
+'balcony approach" means balcony which is used as an external approach t0 common staircase and which serves [WO Or more occupancies_
+basement means any Storey of a building which is below the lower or lowest ground storey and from which any required exit route is in an upward direction.
+
+===== PAGE 9 / 65 =====
+capacity" in relation t0 a room or storey of a building means that number of persons which the room or storey of a building is, for the purpose of this Code of Practice , t0 be taken as capable of holding: Provided that where there is o any storey the entrance to maisonette , that storey shall, for the purpose of this definition, be deemed t0 include all floors of the maisonette .
+direct distance means the distance measured in straight lines along the notional path from any part of a room to the centre of an exit door of the room_
+discharge value means the number of   persons that a staircase of a given width may be assumed to be capable of discharging from given number of storeys
+exit door means a door from a storey, flat, or rcom, which gives access from such storey, flat Or room 0n t0 an exit route_
+exit route means a route by which persons in any storey of a building may reach place of safety outside the building and may include rooms, door-ways, corridors, staircases, areas for refuge in refuge floors or other means of passage not being revolving door , lift or escalator
+'factory is as defined in the Factories and Industrial Undertakings Ordinance_
+flat" means a separate and self-contained dwelling, forming part of a building from some other part of which it is divided horizontally , and includes a maisonette and tenement floor_
+'ground storey means the storey in which is situated an entrance from a street to the building and, where building fronts or abuts on more than one street and due to difference in street levels there are two or more entrances serving different streets and situated in different storeys, means each such storey_
+'industrial undertaking' is as defined in the Factories and Industrial Undertakings Ordinance .
+
+===== PAGE 10 / 65 =====
+5-
+'maisonette means a flat not being 2 tenement floor ana having more tan One bul not more than three storeys.
+notifiable workplace is as defined in the Factories   and Industrial   Undertakings Ordinance.
+'place of public entertainment" means any building or that part of a building constructed or adapted t0 be used for any public entertainment and includes the place itself and any means of ingress or egress for the purpose of and in connexion with such place, and in cases in which such place consists of part Or parts only of a building includes also any Other part O parts of such building used or intended to be used for the purpose of and in connexion with such place . Public entertainment in this context IS as defined !n the Places of Public Entertainment Ordinance.
+protected lobby means the intercepted approach . t0 a staircase Or an exit route which aCts as a fire and smoke check between a Storey and the staircase Or the exit route , and enclosed throughout by walls and doors in accordance with the Code of Practice for Fire Resisting Construction:
+'refuge floor " means protected floor that serves aS a refuge for the occupants of the building t0 assemble in case of fire.
+travel distance means the horizontal distance measured on the floor along the centre line of the exit route between the centre of an exit door from a room and
+(a) the centre of   the fire-res sisting door t0 the enclosure of any one staircase;
+(b) if there is no such door the first stair tread of' the staircase: Or
+(c) if the exit route leads directly [0 a street Or t0 an Open area at ground level  complying with paragraph 8.2 , any ore of the points of discharge t0 the street or open area_
+
+===== PAGE 11 / 65 =====
+usable floor area means the aggregate of the areas of the floor or floors in a storey Or building excluding , unless otherwise specified, any staircases , public circulation space , lift landings , lavatories, water-closets , kitchens in self-contained flats . and any space occupied by machinery for any lift_ air-conditioning system r similar service provided for the building.
+5
+Application
+5.1
+The provisions in this Code apply to all buildings with the exception of domestic buildings
+(a) having not more than three main domestic storeys:
+(b) the level of the highest floor of which is not more than 13 m above the ground level; and
+(c) used or intended to be used for occupation by & single family_
+5.2
+Where any Ordinance or any Regulations made under any Ordinance includes any provision relating to means of escape in case of fire, nothing in this Code of Practice shall be deemed to overrule such provision. In this connexion attention is drawn to the following Ordinances and the Regulations made thereunder
+(a) Bedspace Apartments Ordinance , Cap. 447;
+(b) Child Care Centres Ordinance , Cap. 243:
+(c) Education Ordinance_ Cap. 279-
+(d) Factories and Industrial Undertakings Ordinance , Cap. 59
+(e) Hotel and Guesthouse Accommodation Ordinance , Cap: 349;
+Residential Care Homes (Elderly Persons) Ordinance, Cap. 459;
+
+===== PAGE 12 / 65 =====
+5.3
+For situations not covered in this Code_ the means of escape will be determined by the Building Authority according to the circumstances of individual cases.
+PART II
+GENERAL PROVISIONS OF MEANS OF ESCAPE
+6_
+Special Hazard Occupancy
+6.1
+In a building where an area of special hazard occupancy is directly associated with an occupancy of normal hazard (for example store rooms for combustible materiai in a hotel: kitchen attached t0 a restaurant: a boiler room in a horel) any opening from such area of special hazard into any exit route should be provided with protected lobby. The means of escape from an area of normal hazard should not pass through any area of special hazard.
+6.2
+For the purpose of this paragraph, the hazard of occupancy should be the relative danger of the start and spread of fire. the relative danger of smoke or gases generated and the relative danger of explosion or other occurrence which may endanger the lives and safery of the occupants _
+[Note (a) The requirements for fire   resisting  construction in areas   of  special  hazard occupancy are contained in the Code of Practice for Fire Resisting Construction_
+(6) A kitchen attached t0 a restaurant is an 'industrial undertaking as defined in the Factories and Industrial Undertakings Ordinance. ]
+Assessment of Accommodation
+As guide to assessing the requirements for means of escape, or the capacity or population of various portions of a building, or the number of persons and population density within building, the following Table and notes should be the basis of caiculation.
+
+===== PAGE 13 / 65 =====
+Table
+Intended use of storey
+Factor representing usable floor area in n? per person
+(a) Assembly halls. auditoria and stadia without seating Or with movable seating (b) Areas accessible t0 the public in viewing galleries, banking halls hetting centres and places wlere public service CUUlliers are provided (c) Dance halls (calculated On dancing area) , disco and reception area for restauramt
+0.5
+0.5
+0.75
+(d) Restaurants(calculated On dining area} _ ~dining area_ lounges_ conuittee C(IS _ conference TOOMS. mzeting rOOS_ COn) F() )IS _ function rOom and waiting FOOHS (c) Kitchens attached t0 restaurants
+4.5
+Muscums. exhibition halls. trademarts and display areas Supermarkets, showrooms, jewellery and goldsmith shops; pawIl shops and molley changers . Shoppig arcades, department stores and shopping areas basenient, GIF. I/F & 2/F 3/F & above
+2
+Offices
+Tencnent houses_ barracks . doritories, and self-contained flats conprising & sitigle roon Or naving the maill living area subdivided by F()( DIIIS Self-comtained flats with corridor or balcony access having five (r MOIC flats On each fioor served by each staircase (I) Flats MOt covered by () or (k) (I) Flatted factories
+4.5
+(H) Warchouses, godowns and storage arcas 30 (o) ClassTos of school not covered by Education Ordinancc and (ther lecturc OOns_ Jibrary_and_study IOOMS Notes For definition of 'usable floor area sce paragraph 4_ For uses inl category (g) & (h), thc usable flcxr areas shall include the publie circulation space as it uormally fOrms part ot the premises, exccpi for shopping arcades where a notional arcade width of 2.Sm1 and 3.On1 for single-loaded atd double-Ioaded shopping malls respectively will be used_ (1) Hosputals, hotels _ hostels, places Of public entertainment etc_ will be assessed by the Building Authority (II tlie hasis of detailed layout plans (iii) Tllc worst scenario will be adopted in order [0 calculate the maximum capacity Of carpark but inl JO case less than carparking spaces per person_ The travel distance in carpark should be neasured along thie aisle based (I the assumiption that the carpark is full. (iv)   Single uscr specialized industrial workplace will be determined by the Commissioner for Labxur according tle specialized trade process proposed_ (v) For anY use not specified in this table, the Building Authority should determine the factor t be used. (vi) Thc Building Authority recognizes actual counting as reliable way to establish the population of a building:
+
+===== PAGE 14 / 65 =====
+8 General Requirements of Exit Routes
+8 .
+Every building t0 which this Code applies should be so constructed  thar there are available from each storey of the building such exits and exit routes as will comply with the requirements set out in this Code_
+8.2 Every exit route should lead directly t0 a stree[ or [0 an open area al ground level having unobstructed access. not less in width than the total required width of exit routes discharging into such an area, t0 a Street. Such access t0 a street should not be closed WIth  doors Or gates  unless such  doors or  gates are capable of 'being readily opened from inside without the use of key(s) and in the direction of exit:
+8.3 If an exit staircase leads t0 an open area at any upper floor levels of the building such as the podium level_ instead of leading directly t0 & street or [0 an open area complying with paragraph 8.2 , the staircase should lead t0 an exit route at such floor level which
+(a) should be adequately defined by permanent features eg handrail_ railing:
+(b) should lead [0 place of ultimate safety, i.e. a Streel Or an open area complying with paragraph 8.2; and
+(c) should be designed and constructed as if it is part of the exit staircase complying with the requirements  in this Code and those In the Code of Practice for Fire Resisting Construction.
+For the purpose of complying with the requirements in the Code of Practice of Fire Resisting Construction . the roof of the exit route should be regarded as an external wall and the slab of the open area should be regarded as a floor
+8.4 Every part Of an exit route should be provided with artificial lighting providing horizontal  illuminance at floor  level of not less than 30 lux and backed up by an emergency lighting system providing horizontal iliuminance at floor ievei of nOr iess than 2 lux_ The design of the emergency lighting system should comply with the Code of Practice for Minimum Fire Service Installations and Equipment
+8.5 Exit routes from building should not discharge into & private lane unless the lane is properly paved and free from any permanent obstruction and the Building Authority is satisfied with the integrity of the lane as a means Of escape.
+
+===== PAGE 15 / 65 =====
+10-
+8.6 If the final point of discharge of the exit routes at ground level are s0 sited that they adjoin each other or any other accommodation the walls enclosing such exit routes should be returned along the frontage of the final discharge Or project from the frontage for a distance of not less than 450 mm, provided that any return should not reduce the effective width of the exit route_
+8.7 Every part of an exit route should have a clear height of not less   than 2000 mm provided that sprinkler heads may be installed along the side wall of the exit route and every such sprinkler head should not project
+(a) more than 9 mm from such side wall; and
+(b) SO a5 t0 reduce the clear height of the exit route by more than 10S mm,
+8.8 At the final point of discharge of an exit route at ground level where there is a drop in level, any door or gate, if installed, should be set back from the line of drop in level for distance of not less than the width of the exit route. If the drop in level consists of single step, it should be so marked that the step is clearly visible_
+
+===== PAGE 16 / 65 =====
+9_
+Buildings with Single Staircase
+9.| Single staircases may be permitted in buildings not exceeding 6 storeys in height and the ievel of the floor of the uppermost storey is not more than 17 m above the level of the ground at the point of discharge of the staircase_
+9.2 No building will be permitted to have single staircase unless such building complies wIth the following conditions
+(a) no room or storey of the building may be used  for any occupancy other   than domestic or offices_ except that the ground storey may be used for the purposes of shop or  carparking space   provided that the  requirements   for  staircase enclosures in the Code of Practice for Fire Resisting Construction are complied with;
+(b) adequate access should be provided at ground level t0 enable rescue ladder/appliance to reach at least one window of every separate occupancy on each floor above the ground storey. Such access shall be at least: -
+i) 3m wide in the case of a building in which the level of the highest floor is nOt more than 10 m above ground level: and
+(ii) 4.Sm wide in the case of a building in which the level of the highest floor is more than 10 m above ground level
+(c) in the case of building in which the level of the highest floor is not more than 13m above ground level the usable floor area of any storey above the ground floor should nor exceed 250 m?:
+(d) in the case of a building in which the level of the highest floor is more than 13 m above ground level the usable {loor area of any storey above the ground floor should not exceed 150 m2; and
+
+===== PAGE 17 / 65 =====
+12-
+(e) in the case of a building in which the level of the highest floor is more than 13 m above ground level: -
+access t0 the staircase at each Storey should be through protected lobby_ Such lobby should be designed as a common area and an integral part f the staircase SO that it could not be readily incorporated as part of any adjacent unit(s) of accommodation:
+ii) the staircase should be continued t0 the roof:
+(iii) there should be available 0n the roof an area of flat surface for refuge of not less than 0.5 m? per person based on the total population of the building above ground storey determined according to  Table 1. Such flat roof should be accessible directly from the staircase, clear  of any obstruction. and is   SO positioned that it is readily accessible for rescue purposes; and
+(iv) the roof should comply with the requirements in the Code of Practice for Fire Resisting Construction_
+10_
+Exits from Rooms
+10_
+There should be available from every room of a capacity exceeding 3 persons not  less   than the number of exit doors  shown in Table 2 according to the capacity of the room_ The width of each exit door and the total width of all the exit doors shall be nOt less than the width shown in Table 2 according t0 the capacity and the number of exit doors provided.
+10.2
+Every exit door So provided should give access to an exit route which complies with paragraph 8 and which is independent of any Other exi: route to which access may be directly  obtained from that   room. Provided   that where the capacity does not exceed 200 persons the exit doors may give access to a single corridor or balcony approach from which it is possible t0 escape in more than one direction:
+10.3
+Where two or more exit doors (required by Table 2) vary in width, any width of an exit door in such group in excess of 50 % above the width of the narrowest exit door in such group  should not be  included in the   calculation   for the minimum total width of exit doors as required in column 3 of Table 2.
+
+===== PAGE 18 / 65 =====
+13-
+I1_
+Exits from Storeys
+11
+Every building. except those buildings permitred under paragraph 6 to have single staircase , should be so consiructed  thar there are availabie from each storey not less than 2 exit routes Or such greater number as may be required by Table 2_ The width of each exit route and the totai width of all the exit routes should be not less than the width shown in Table 2 according t0 the capacity and the number of exit route provided_ Provided that
+(a) this requirement should apply to oly one of the storeys of a maisonette.
+(b) where rwo or more exit routes (required by Tabie 2 t0 serve a storey) vary in width, any width of an exit route In such group in excess of 50 % above the width of the narrowest exit route in such group should not be included in the calculation for the minimum tOtal width of exit routes as required by column 4 of Table 2
+11.2
+Where twoOr more  exit staircases are required, people using one  staircase should be able to gain access to at least one of the other staircases at any time without having t0 pass through other person's private premises. Such access should be provided either at each floor or_ where refuge floors are provided, at the refuge floor(s) and the roof. The requirements in this paragraph do not apply t0 domestic building o composite building not exceeding 15 storeys in height above the lowest ground storey.
+
+===== PAGE 19 / 65 =====
+14-
+Table 2
+Table showing minimum number of exit doors from a rOOm, or exit routes from storey, and required minimum width thereof
+Min No. of exit doors (fron room) or exit roues (from storey}
+Capacity of IOOII (r storey
+Min. Total Width of
+Min. Width of each
+exit doors
+exit routes
+exit door
+exit rOute
+30
+750 nm
+1050 nim}
+31
+200
+1750 min)
+2100 mim)
+850 nini
+[0Su IIII)
+201
+300
+2500 QMII
+2500 nMIL
+10S0 nini
+[0Su m)
+301
+S00
+3000 nin
+3000 IIUII
+1050 nix
+1050 mn
+50i
+750
+4500 I)
+4500 mm
+1200 nmi
+1200 nII
+751
+1OOO
+60QO [III}
+6000 IMIA
+1200 MIUII
+1200 mI;
+i00i
+1250
+7500 Mn
+7500 nu
+1350 In)
+1350 m
+1251
+1500
+9000 IAII]
+9000 MI
+1350 III
+1350 m
+(T such greater number aS the Building Authority may require
+he calculated at tlie rate (f 30Un per 50 persons
+1500 HIIL
+1500 HI
+"vC; I500
+Notes
+In the case of Places of Public Entertaitent attention is drawn () Part [I of this Code , thle requiretens of wlich mUSL he followed_
+(Ti) Tle width of an exit dor should he thc lcast clcar width measured hetween the vertical memihers o thc dovor fralllc
+Tlie width ( a Staincasc_ Stair ianding , passage ( corridor comprising an exit TOUIC shuld ne Mlcasured hetweell the finished surfaces of the walls of thie inner sides of any balustrade 4Id   should not   hc dccrcascd by tlle introducticn (f any projccti(s (thcr than   handrails the   projection ot which should qt exceed 9 [III _
+(iv) The Table shows the minimun requirement (H the assumpticn that dcs can be readily and frcely Opelled hy (cupants in case of fire IIc) lock
+In ease of shopping arcades, department stores and shopping areas at hasement GIF MF & 2/F over S00 persons, Iinimum IO. Of exit doors (fron) ron) or exit routes (from storey) may he lesser than that 4S Sho)WII ()I) Tahle 2 subject t the compliance of minimum totai width of exit dors/routes as shown ( Tahlc 2_
+
+===== PAGE 20 / 65 =====
+-15-
+12 . Exits at Ground Storey
+12.1
+The enclosing walls of every staircase should be so continued at ground storey as to separate from the remainder of the building any passage or corridor leading from the staircase to any ground storey exit door to which the staircase gives access: provided that
+(a) in the case of building served by [WO or more  staircases a cloakroom_ lavatory.  water-closet; caretaker' s office. fire control rOOM or   caretaker counter may open off such passage-way: and
+(b) in the case of a building served by three or more staircases one in every three such staircases may discharge through fire resisting doors t0 a hall or shopping arcade and that part of the hall or shopping arcade which forms the actual exit route should comply with the requirements of paragraphs 8.2 and 8.4 .
+12.2 Where an exit route from a ground storey forms also the exit route from a staircase_ the width of such exit route should be not less than the sum of
+(a) half the width required for the exit from the ground storey; and
+(bi the width required for the staircase from the upper storeys: and
+(C) the width required for the staircase_ if any , from the basements_
+13_
+Access to Staircase(s) within Building
+13
+Every staircase should be separated from the remainder of the building in accordance with the requirements of the Code of Practice for Fire Resisting Construction.
+(see diagram 1)
+13.2 In the case of a building with a single staircase attention is drawn to the requirements in paragraph 9
+
+===== PAGE 21 / 65 =====
+16 -
+13.3 In the case of building with two or more staircases, the access t0 the staircases should be so arranged that:-
+(a) each staircase is approached from different direction provided that deadends will be permitted in accordance with paragraph 14.3(b);
+(b) the door of one staircase, or the nearest point in the perimeter of the landing t0 the staircase where there is no door . should not be nearer than 6m from the door or a similar point of any other staircase measured in a straight line along the wall.
+13.4 The means of escape from any part of a building should be so arranged that it is not necessary t0 pass thrcugh one staircase enclosure or the landing of one staircase. as the case may be_ in order to reach an alternative staircase .
+135
+Where internal access is provided,
+(a) no door opening on [0 an internal common corridor should at any part of its swing reduce the minimum required width of such corridor;
+(b; protected lobby should be provided to each and every staircase   unless the staircase is
+a staircase of which at least 50 % of its perimeter , measured on plan, is open . from the top of the balustrade Or parapet tO the underside of the flight   of the staircase immediately above, to the external air; Or
+ii) a staircase in a single staircase building in which the level of the  highest fioor iS nOt more than 13 m above ground level_
+(iii) a staircase in a building which is provided with two or more stairs and the level of the highest floor is not more than 20 m above ground level.
+Such lobby shall be designed as a common area and an integral part   of the   staircase so  that it   could not be readily   incorporated as part of any adjacent   unit(s) of accommodation_
+
+===== PAGE 22 / 65 =====
+-17 -
+13.6 Where balcony approach is provided,
+(a) balcony approach should be protected in accordance with the requirements of the Code of Practice for Fire Resisting Construction:
+(b) the landing of any staircase should nOt form part of the balcony approach:
+(C) no door opening on [0 the balcony approach should a[ any part 01 its swing reduce the minimum required width of the balcony approach; and
+(d) every window opening 0 to the balcony approach should be so arranged thar it snould not be possible to fix any such window in an open position in such manner as will reduce the minimum required width of te balcony. The sill of such window should be not less than 1000 mm above the balcony level_ Provided that nothing in this paragraph should prevent a window from opening through 180 degrees and being fixed open in such position, or the use of fanlights at a height of not less than 2000 mm above the balcony level.
+14. Direct Distance and Travel Distance
+14.1
+The direct distance within a room which is provided with an alternative exit door ieading to an alternative staircase or an alternative point of discharge to a street or to an open area at ground level complying with paragraph &.2, as the case may be_ should not exceed [ 8m except in exhibition hall, concert hall, transport terminal and similar   buildings. Where   such  aiternative exit door is not provided, the direct distance should nOt exceed [Sm_
+(see diagrams 2, 3 and 4)
+14.2 In a storey of a single-staircase building; the travel distance and the sum of the direct distance and travel distance should not exceed the limitations stipulated in Table 3.
+
+===== PAGE 23 / 65 =====
+-18-
+Table 3
+Limitation On Direct Distance and Travel Distance for Single-staircase Buildings
+Maximum sum of the direct distance and travel distance
+Type of exit route*
+Maximum travel distance
+A
+18 m
+24 m
+(B)
+12 m
+24 m
+(C)
+18 m
+18 m
+#Notes (A) exit route along balcony approach or internal corridor with ventilation and complying with the requirements of the Code of Practice for Fire Resisting Construction.
+B) exit route along   internal corridor  without   ventilation and complying with the requirements of the Code of Practice for Fire Resisting Construction.
+storey partitioned into rooms but exit route is not along balcony approach or internal corridor which complies with the requirements of the Code of Practice for Fire Resisting Construction_
+14.3 In a storey which is served by [WO Or more staircases Or points of discharge t0 a street or [O an open area at ground level complying with paragraph 8.2 , as the case may be_
+(a) the travel distance and the sum of the direct distance and travel distance should not exceed the limitations stipulated in Table
+
+===== PAGE 24 / 65 =====
+-19-
+Table 4
+Limitation on Direct Distance and Travel Distance for Buildings with Two or More Staircases
+Use ot thc prenses (r part of the premises
+Type of exit route"
+Maximum [ravel distaticc
+Maximun SUI Of the direct dis[ale #IId (ravel distalce
+(1) offices. schools and shops
+'A)
+36 m
+45 
+{B}
+24 m
+36 mi
+(C)
+30 m
+30 m
+(ii) all other
+(A)
+30 m
+36 I1:
+cascS
+B)
+24 mI
+36 m
+(C)
+30 m
+30 m
+*Notes
+(A) exit route along baicony approach or internal corridor with ventilation and complying WIth the requirements of the Code ot Practice for Fire Resisting Construction
+(B) exit route along internal corridor without ventilation and complying with the requirements of the Code of Practice for Fire Resisting Construction
+(C) storey partitioned into rooms but exit route is nOt along balcony approach or internal corridor which complies with the requirements of the Code of Practice for Fire Resisting Construction.
+(b) where the direction of travel from an exit door of a room (0 a Staircase Or & poit of discharge t0 & street or t0 an open area at ground level complying with paragraph &.2 . aS the case may be, is possible in one direction only (i.e. deadend) , the sum of the direct distance and travel distance should not exceed [8m.
+
+===== PAGE 25 / 65 =====
+~20-
+(c) the horizontal distance along the corridor measured on the floor along the centre line of the exit route between a Staircase Or point of discharge and any one of the Other staircases or points of discharge. as the case may be. should not exceed 48m. In the case of staircases_ the distance should be measured between
+(i) the centre of the fire resistirg doors to the enclosures of the staircases;
+(ii) if there is no such door the landings of the staircases; or
+(iii) in the case of an Open pod= ium floor . the points as described In (i) or (ii) above . or the first staircase treads nearest t0 the podium.
+14.4 If the storey is not partitioned into rooms Or the internal layout of partitions_ fittings _ etc. is not known when plans are submitted (i.e. open plan layout) , the direct distance should not exceed 30m for all cases where secondary exit door is provided and should not exceed [8m if a secondary exit door is not provided.
+(see diagram 5)
+14.5 An inner room, i.e. a room from which the only exit route is through another room_ should not be acceptable unless the following conditions are satisfied
+(a) the capacity of the inner room does not exceed 30;
+(b) the exit route from the inner room does not pass through more than one Other room;
+(c) the escape distance from any point in the inner room t0 the exit of the room giving access t0 the inner room does not exceed the direct distance stipulated in paragraph 14.1 above:
+(d) the room giving access to the inner room is not an area of special hazard and is under the control of the same occupant; and
+(e) a vision panel, except in the case of a toilet, is located in the door or walls of the inner room
+
+===== PAGE 26 / 65 =====
+~2-
+14.6 In any room where [WO or more exit doors are required [0 be provided under Table 2 _ the line of the direct distance from any point in the room [0 one Of the exit doors should form an angle of not less than 308 with the line of the direct distance from the same point to any of the other exit doors_
+14.7
+For the purposes of paragraphs 14.[ and 14.4 secondary exit door is not considered t0 be provided unless the line of the direct distance   from any point in the room t0 one of the exit doors forms an angle of not less than 309 with the line of the direct distance from the same point t0 the Other exit door_
+14.8 For the purposes of paragraphs 14.2 and 14.3. an internal corridor with ventilation should be one which is
+(a) cross  ventilated by permanent openings which may be fitted with ventilator(s) provided that such ventilator(s) should be triggered t0 open by automatic smoke detector located in the space to be ventilated and fitted with a manual override The openings should have a tOtal free area of at least 6.25 % of the fioor area of the corridor to be ventilated and each opening should have a free area Of at ieast 1.5 m; or
+(b) provided with a static or dynamic smoke extraction system t0 the satisfaction of the Director of Fire Services
+15_
+Discharge Value and Width of Staircase
+15.1
+The staircases serving the storeys of a building above the ground storey should have total discharge value of not less than the total capacity of those storeys assessed in accordance with paragraph
+15.2 The staircases serving the basements of a building should have a total discharge value of not less than the total capacity of those basements assessed in accordance with paragraph
+15.3 The discharge value of a staircase in non-sprinklered building should be assessed from Table according to the width of the staircase and the number of storeys it serves.
+
+===== PAGE 27 / 65 =====
+22-
+Table 5
+Discharge Value of a Staircase in a Non-sprinklered Building
+Width of   Staircase
+No. of Storey seved
+10SO.) but under 12OOn)m
+!2OOnn but ulder 13S0num
+13SOrm bul under 1SOOmnt
+SOOmn) bul under [ 6OO.n)
+[6OOnm but under 170Onin)
+1700min) but under 18OOmn}
+8OOnu dut under 190Omin)
+210
+240
+270
+300
+320
+340
+360
+242
+278
+315
+351
+377
+402
+428
+274
+316
+360
+402
+434
+464
+496
+306
+354
+405
+453
+491
+526
+564
+338
+392
+450
+504
+548
+588
+632
+370
+430
+495
+555
+605
+650
+700
+402
+468
+540
+606
+662
+712
+768
+434
+506
+585
+657
+719
+774
+836
+466
+544
+630
+708
+776
+836
+904
+10
+498
+582
+675
+759
+833
+898
+972
+Each additional storey add
+32
+38
+45
+51
+57
+68
+Note Tlie discharge value of a  staircase having width MOTc than 1900 [IMI may be obtained by using linear projection fron) the table_
+
+===== PAGE 28 / 65 =====
+223
+15.4 The discharge value of a staircase in a sprinklered building should be assessed from Table according to the width of the staircase and the number of storeys it serves.
+Table 6
+Discharge Value of a Staircase in a Sprinklered Building
+Width of Staircase
+No. of Storey Served
+[0SOmm but under 1200mn)
+20Omumn but under 1350mnm
+135Omm but under 50Omim
+LSOOr but under 1600nn)
+160Omn) but under 170Onini
+[700mn bur under 1 8OOnin)
+18OOnu bul under 1900mn
+420
+480
+540
+600
+640
+680
+720
+452
+518
+585
+651
+697
+742
+788
+484
+556
+630
+702
+754
+804
+856
+516
+594
+675
+753
+811
+866
+924
+548
+632
+720
+804
+868
+928
+992
+580
+670
+765
+855
+925
+990
+1060
+612
+708
+810
+906
+982
+1052
+1128
+644
+746
+855
+957
+1039
+14
+196
+676
+784
+900
+1008
+1096
+1176
+1264
+10
+708
+822
+945
+1059
+1153
+1238
+1332
+Each additional storey add
+32
+38
+45
+51
+57
+68
+Note
+The discharge value of a staircase naving width more than [900 IUI may be Ohtained by ~using linear projection from the table.
+
+===== PAGE 29 / 65 =====
+-24-
+15.5 The discharge value of a staircase where the direction of exit is upwards should be that assessed from Table 5 for non-sprinklered building or Table 6 for sprinklered building as the case may be. and multiplied by a reduction factor of 0.8.
+15.6 The discharge value of a scissors staircase without any intermediate landing between 2 consecutive floors should be that assessed from Table 5 for non-sprinklered building Or Table 6 for sprinklered building as the case may be, and multiplied by & reduction factor of 0.7
+15.7 For the purpose of this paragraph , sprinklered buildings are those where the whole building is protected by sprinklers. Where part of a building is protected by sprinklers and other part is not and the staircases serving these different parts are nOt separated the discharge value of such staircases should be assessed from Table 5.
+15.8 The total width of staircases serving a building having a total capacity of not less than 10.000 persons for sport arenas, stadia . convention centres, passenger terminals or similar uses should be 1.2 times the total width of exit routes required by Table 2 according t0 the capacity of the area concerned, Where part of the exits lead directly to place of ultimate safety which means a street or the open area referred t0 in paragraph 8.2 and part of the exits lead t0 staircases_ the total width of the staircases should be [.2 times the width of the exit routes calculated by deducting the total width of exits leading directly to the place of ultimate safety from the total width of exit routes required by Table 2 according to the capacity of the area concerned:
+15.9 building having a total capacity of not iess than 10.000 persons may necessitate special consideration Fire engineering approach may be the only viable means [0 a satisfactory standard of a fire safety.
+
+===== PAGE 30 / 65 =====
+225-
+16
+Doors in Relation to Exits
+16.1 Every door across an exit, Or into an exit route from a room or storey the capacity of which exceeds 30, should
+(a) open in the direction of exit;
+(b) if constructed t0 open both ways, have transparent upper view panel_
+16.2 If it is necessary t0 secure an exit door against entry from outside, the locking device shall be of the type which is capable of being readily opened from thz inside wvithout the use of key. locking device which is electrically operated is acceptable provided ;hat such lock is capable of auromatic release upon actuation of a smoke detection system or the operation of an alarm system or a central manual override _ installed t0 the satisfaction of the Director of Fire Services. Upon power failure the electrical locking device shall also be released automatically . In the case of a door [0 a staircase Or & protected lobby of the staircase, the security mechanism should not affect compliance with the requirements in paragraph 11.2.
+!6.3 Every Goor opening 0n t0 landing berween flights of a staircase shouid nor at any point of its swing, reduce the effective radius of the   ianding to less than the width of the staircase_
+16.4 Exit door from a room Or storey having capacity in excess of 3 persons should nOr be less than 7S0mm in width. In the case of a double leaf door  no leaf of such door should be less in width than 600 mm and_ where the meeting stiles are rebated, checking device t0 control the closing order of the doors should be installed. Such checking device should ensure that both ieaves of doOr are closed in the correct order and position.
+16.5
+Every door giving access [0 & protected lobby from a staircase enclosure or from storey should be provided with transparent upper view   panel of the requisite fire resistance_
+
+===== PAGE 31 / 65 =====
+-26-
+16.6 In the case of factories and industrial undertakings that are required to be notified t0 the Commissioner for Labour _ i.e. notifiable workplaces_
+(a) every exit door ieading out of a notifiable workplace. and the doors of every room In a notifiable workplace in which 10 persons or more are employed_ should be constructed SO as t0 open outwards;
+(b) every exit door leading out of a notifiable workplace should be fitted with an effective self-closing device.
+16_
+Every door I0 a staircase Or a protected lobby of the staircase should comply with the following requirements=
+(a) the self-closing mechanism should not be capable of allowing a check   action to hold the door open and
+(b)  appropriate notices should be fixed to both   sides of the doors to remind building users that the doors should normally be kept closed ,
+16.8 Every door across an exit or into an exit route from a room, except door t0 staircase Or protected lobby of the staircase, if required to be self-closing, may be held open in normal times provided that the hold-open device can be released to allow the door to become self-closing again manually and automatically upon actuation of a smoke detection system Or the operation of an alarm system designed, installed to the satisfaction of the Director of Fire Services_
+
+===== PAGE 32 / 65 =====
+"27 -
+17 Construction of Staircases
+17.1 Every staircase t0 which this Code applies should be constructed in accordance with the requirements of the Code of Practice for Fire Resisting Construction_
+17.2 Staircases should be arranged in straight flights without winders , each flight should consist of not more than 16 risers nor less than 2 risers. Treads should be not less than 225 mm wide. measured clear of nosings and the risers should be not more than 175 mm high. Provided thar
+(a) in schools treads should be not less than 250 mm wide and the risers should be not more than 150 mm nor less than 75 mm high; and
+(6) in places of public entertainment treads should be not less than 280 mm wide and not more than 150 mm high.
+17.3 Landings should be provided at the top and bottom of each flight not less in width and length than the staircase  width _ and no exit door  should at any part of its swing reduce the effective width or effective radius of such landing a5 the case may be_
+17.4 Every staircase should have a clear width of not less than that required by paragraph H.4 and a clear height of not less than 2000 mm_
+17.5 No staircase should exceed 1800 mm in width unless it is divided by central handrail into separate sections. each of which should be nOt iess than 1050 mm in width_
+17.6 There should be provided a handrail on each side of the staircase. Every such handrail should
+(a) be at height not less than 850 mm nor more than 1100 mm;
+(b) not project SO as t0 reduce the clear width of the stair by more than 90 mm for each handrail; and
+(c) be continuous throughout each flight, but need not be carried round landing or half landing except in the case of a place of public entertainment.
+
+===== PAGE 33 / 65 =====
+28
+18.
+Ramps
+The gradient of every ramp forming part of 2n exit route should not at any part be steeper than 1:12_
+19.
+Lift Lobbies
+Every lift lobby should have access_ without any obstruction and lockable door, t0 an exit route. Such access should be available at all times t0 any person who may come out from lift car t0 the lift lobby. The provision of a direct intercom link connecting a lift lobby with the management office of the building will be accepted as an adequate alternative if the building IS provided with good management:
+20 .
+Basements
+20_
+Every basement should have not less than 2 exits excepting a basement
+(a) the floor of which is not more than 3000 mm below the level of the   ground [0 which the exit serving such basement  gives access;
+(b) the area of which does not exceed 150 m? and
+(c) which is used solely for a lavatory Or plantroom.
+20.2
+No staircase serving the storeys of building above the ground storey should be continued direct t0 a basement_
+20.3
+Sufficient   directional and exit signs, in English   and  Chinese, to indicate the direction of exit should be displayed in each staircase serving the basement(s). Such signs should be illuminated by light on two systems as the lighting referred t0 in paragraph 8.4 and be
+(a) in rectangular shape and should be in either one of the following forms
+#EXITK
+or
+#EXTTK
+
+===== PAGE 34 / 65 =====
+-29-
+All words and characters should be in block letters not less than 50 mm high_ The wording should be in white and the background in green cr the wording in green with the background in white or black
+(b) not easily defaced or damaged; and
+(c) displayed on the central part of the side wall of each flight of the staircase(s) at height of 1500 mm from and parallel t0 the nosing line of the flight:
+20.4
+In the case of basement, except a basement used solely as lavatory_ which is below the lowest ground storey and from which all the required exit routes discharge in an upward   direction_ at  least one exit   from  such basement   should discharge independently of any other exit into a stree[ or area having access to a street in accordance with the requirements of paragraph 8.2_
+21_
+Refuge Floors
+21.1
+Subject to   paragraph 21.5, refuge floors   should be   provided in all buildings exceeding 25 storeys in height above the lowest ground storey, at not more than 20 storeys and 25 storeys respectively for industrial and non-industrial buildings from any other refuge floOr, Or above the street O the open area referred t0 in paragraph 8.2_ For the purpose of this paragraph the number of storeys may exclude storeys which contain solely mechanical plants 
+21.2
+Every refuge floor. except that provided under paragraphs 21.3 and 21.5. should comply with the following requirements
+(a) there is no occupied accommodation or accessible mechanical   plant room except  fire services water  tanks and associated fire   service   installation plant room at the same level as the refuge floor;
+(b) the net area for refuge should be not less than 50 % of the total gross floor area of the refuge floor and should have a clear neight of not less than 2300 mm;
+
+===== PAGE 35 / 65 =====
+30-
+(c) the minimum dimension of the area for refuge should be at least 50% greater than the width of the widest staircase passing through the refuge floor;
+the area for refuge should be separated from the remainder of the building in accordance with the requirements in the Code of Practice for Fire Resisting Construction;
+(e) the area for refuge should be open-sided above safe parapet height on at least two opposite sides t0 provide adequate cross ventilation: the open sides should comply with the   requirements in the Code  of Practice for Fire  Resisting Construction;
+any staircase passing through a refuge floor should be discontinued at such level so that the exit route is diverted tO pass over part of the refuge area before it is continued t0 exit downwards;
+g) every parr Of the area for refuge shouid be provided with artificial lighting providing a horizontal illuminance at floor Ievel of not less than 30 iux and backed up by an emergency lighting system providing horizontal illuminance at floor level of not less than 2 lux. The design of the emergency lighting system should comply with the Code of Practice for Minimum Fire Service installations and Equipment;
+(h) refuge floor   should be   provided with such fire services installation   and equipment as may be required by the Director of Fire Services; and
+refuge floor should be served by fireman's lift. The lift doors should not open onto the refuge floor in normal operation and should be locked at all times until automatically released on actuation of the fireman $ switch_
+(see diagram 6)
+
+===== PAGE 36 / 65 =====
+34-
+21.3
+The main roof of a building may be regarded as a refuge floor for the purpose of paragraphs 2. ! and 21.5 provided that
+{a} it should be f flat surface and should comply with the requirements in the Code of Practice for Fire Resisting Construction;
+(b) the net area for refuge should be not less than 50 % of the gross floor area Of a typical tloor below the main roof;
+(c} any staircase serving the floors immediately below the main roof should be continued t0 give access [0 the main roof without any obstruction at all times:
+(d) the minimum dimension of the area for refuge snould be at least 50 % greater than the width of the widest staircase serving the roof; and
+{e) every part of the area for refuge should be provided with artificial  lighting providing a horizontal illuminance at floor level of nor iess than 30 lux and backed up by an emergency lighting system providing a horizontal illuminance at floor level of not less than 2 lux_ The design of the emergency lighting system should comply with the Code of Practice for Minimum Fire Service installations and Equipment:
+(see diagram 7}
+21.4
+At each refuge floor , notices and signs should be provided in the following manners
+sign indicating the staircase number and sign indicating the entrance t0 the refuge floor should be displayed inside each staircase at & position immediately before enter ring the refuge floor at a height of !SOOmm above the landing or the step immediately below the staircase number;
+b) a notice in rectangular shape and in the following form should be displayed at position immediately after entering the refuge floor from each staircase at neight or [S0Omm above the floor level;
+
+===== PAGE 37 / 65 =====
+32-
+REEUGE ELOOR # 'k R
+For Temporary Rest During Emergency Escape
+%2% 4 IH # # AH % F H
+EXITS TO STREET LEVEL
+<_ 4 m1#A
+33->
+staircase (no.) ) Hl #W #
+staircase (no.) ) H # m
+(c) sufficient directional   signs in the following   form should be   displayed al appropriate positions at the refuge floor at a height of 1SOOmm above the floor level, to indicate the direction of travel in order t0 enter the respective staircase number;
+~>
+STAIRCASE (No.} ) 97 # M
+d) all signs and notices provided under (a) , (b) and (c) should
+be in English and Chinese:
+(ii) be illuminated by light on two systems as the lighting  referred to in paragraph 8.4:
+(iii) have   words and characters in block letters not less than SOmm high in white colour on background in green or the words and characters in green on a background in white or biack; and
+(iv) not be easily defaced or damaged;
+
+===== PAGE 38 / 65 =====
+33 -
+(e) appropriate notices in English and Chinese in letters and characters not less than 2Smm high should be provided in a conspicuous part at the main entrance of the building to indicate where the refuge floors are situated_
+21,5
+This paragraph does not apply to a domestic building Or composite building not exceeding 40 storeys in height above the  iowest  ground storey:. In domestic building or composite building exceeding 25 storeys bur not exceeding 40 storeys in height above the lowest ground storey. the main roof f the building should be a refuge floor and should comply with the requirements in paragraphs 21.3 and 21.4.
+PART MII PROVISIONS OF MEANS OF ESCAPE IN PLACES OF PUBLIC ENTERTAINMENT
+In addition to the general requirements in Part II , all places of public entertainment should comply witn the requirements in this part:
+22
+Site
+22_
+The site of place of public entertainment should abut upon and have frontages t0 or more thoroughfares_
+22.2
+The frontages of a building having a place of public entertainment should, subject [0 paragraph 22.7, form at least one-half of the total boundaries of the site 0n which the building is situated . excluding recesses and   projections which do not prejudi- cially affect  exit routes, and should   permit of the   provision  of exit routes in accordance with this Code from each tier or floor direct t0 2 or more thoroughfares_
+22.3
+The thoroughfares referred to in paragraph 22.2 should be of such widths as will enable the persons who are to be accommodated in the place of public entertainment t0 disperse rapidly in the event of fire or panic and as will afford reasonable facilities for the approach of fire appliances.
+
+===== PAGE 39 / 65 =====
+34
+22.4
+in the case of place of public entertainment which is capable of accommodating more than 500 but not more than 2,000 persons one of the thoroughfares referred to in paragraph 22.2 should be at least 12 m wide_
+22.5
+In the case of place of public entertainment which is capable of accommodating more than 2,000 but not more than 3,000 persons one of the thoroughfares referred to in paragraph 22.2 should be at least 12 m wide and the other one should be at ieast 9 m wide if a carriageway or 6 m wide if a footway:
+22.6
+In the case of a place of public entertainment which is capable of accommodating more   than 3,000 but not more than 5,000 persons one of the thoroughfares referred to in paragraph 22.2 should be at least 15 m wide and the other one should be at least 9 m wide.
+22.7
+In the case of a place of public entertainment which IS capable of accommodating more than 5,000 persons such further frontage to the thoroughfares referred t0 in paragraph 22.2 should be provided as the Building Authority may require_
+22.8
+In the case of a place of public entertainment which is capable of accommodating not more than 500 persons, the Building Authority should determine the number and width of   thoroughfares   required t0 be providea as access to the place of entertainment.
+23 _
+Cinemas in Multi-storey Non-domestic or Composite Buildings
+23. [
+Cinemas accommodating not more than 2.000 people in the aggregate in any one building may be situated in any one storey Or storeys Of a non-domestic building or the non-domestic part of a composite building:
+23.2
+Such cinemas may have shared facilities including exit routes_ The exit routes should have adequate   widths and sizes based on the total capacity of the cinemas t0 be served. The exits from the cinemas should be relatively remote from each other and the majority of exit routes should discharge to streets of not less than 4.Smn wide which is accessible (0 fire fighting vehicles to the satisfaction of the Director of Fire Services and, if necessary . may discharge through but should be separated from other occupancies_
+
+===== PAGE 40 / 65 =====
+-35-
+23.3
+Such cinemas may be situated at the first basement only. subject t0 compliance with the following requirements
+(a) all exit routes from the auditorium t0 the Staircases and from the staircases t0 the streets should be short and direct;
+(b) all staircases/exits   from the cinemas  should discharge  independently Onto street;
+(c) all staircases serving other basement floors  should be sealed off at the floor where the cinemas are situated;
+{d) at least one of the exit routes should be fire-tighting and rescue stairway designed and constructed In accordance with the Code O Practice for Means of Access for Fire-fighting and Rescue: and
+(e} the widths of the staircases should be in accordance with Table
+Table
+Nc of persons in each PPE
+No. of exit routes required
+widths of exit routes required
+Less than 300
+1,.Sm each
+301 500
+2m each
+501 750
+3
+2m each
+Over 750
+t0 be decided by Building Authority
+24.
+Exit , Notices, etc
+24  |
+AII exit doors or openings from place of public entertainment and from the stage and dressing rooms in such place should be clearly indicated by a notice bearing the word EXIT in block letters in English and Chinese of letters not less than 175 Mm high in white colour with a background in green or letters in green with a background in white or black
+
+===== PAGE 41 / 65 =====
+36-
+24.2 Such notices should be at a height of at least 2 m above the floor and_ where possible_ should be placed over such doors or openings_
+24.3 Doors and openings_ other than exits, in sight of the audience, which lead to portions of the place of public entertainmeat accessible to the public_ should have notices placed over them indicating the use of such portions and such doors and openings should not resemble exits.
+24.4 Notices, signs and handpointers indicating the way out should be provided.
+24.5 Notices bearing the words NO EXIT should not be provided_
+24.6 Each notice indicating an exit should be illuminated by light on two systems as the lighting referred to in paragraph 33.
+24.7 The lighting of exit notices   should not  in any circumstances be   extinguished or dimmed while the public are on the place of public entertainment
+25.
+Entrances and Exit Routes
+25. [ Two separate exit routes should be provided from every tier or floor which is capable of accommodating not more than SO0 persons , and one additional exit route should be provided for every 250 or part of 250 persons above SO0.
+25.2 Two of the exit routes   from  each tier or   floor  should open  into different thoroughfares or ways _
+25.3 If the tier or floor is capable of accommodating not more than 300 persons the width of each exit route should be not less than 1.2 m measured between the walls at any point or between the leaves of the doors when open, and if the tier or floor is capable of accommodating more than 300 persons the width of each of the exits should be not less than 1.5 m measured in like manner_
+25.4 In the case of any places of public entertainment or portions thereof which are 12 m or more above pavement level the total width of exit routes should be 25 per cent in excess of the width required by paragraph 25.3_
+
+===== PAGE 42 / 65 =====
+357 -
+25.5 If any tier or floor is divided into 2 or  more parts exit routes aS required by this paragraph should be provided from each of such parts _
+25.6 In calculating the number of persons who can be accommodated in any tier or floor or part of a tier 0r floor. the accommodation of all standing and waiting saces in such tier Or floor or part of a tier or floor should be included and for the purpose of this paragraph, any tea room, lounge, restaurant Or foyer should be regarded as waiting space.
+25.7 Exit routes should be arranged S0 as t0 afford a ready means of egress from all parts of each tier or floor and should iead directly into thoroughfares or ways.
+25.8 In theatres and music halls and other  places  of public  entertainment where the principal fire risk is 0n the stage. the exit routes from each part Of each tier or floor should be placed in position remore from the stage.
+25.9 All entrances and exit doors. other than pass doors in connexion with spaces in which persons await admission, should be arranged s0 as to be available for exit during the whole of the time that the public are on the place of public entertainment:
+26.
+Staircases
+26.
+Staircases intended for the use of the public from any tier Or floor or part of & tier Or floor capable of accommodating not more than 300 persons should be in no part less than 1.2 m wide and such staircases from any tler Or floor Or part Of a tier or floor accommodating more than 300 persons shouid be In no part iess than [.S m wide.
+
+===== PAGE 43 / 65 =====
+-38-
+26.2 Staircases referred to in paragraph 26. should
+(a) nor have winders;
+(b) be in flights of not more than 16 or less than 3 steps each;
+(c) not have more than 2 successive flights without a turn; and
+(d) if there are more than 12 steps in a flight, should not have more than one flight without a turn
+26.3 Where flight of steps in place of public entertainment returns the newel wall should be chased sO a5 t0 allow the handrail t0 turn without projecting over the landing:
+26.4 Any recess in the walls of a staircase should be defended by guardrails.
+27 .
+Barriers
+27.1 Any barriers which may be provided for checking o controlling admission should be arranged $0 that the portions immediately in the line of exit open automatically upon pressure being applied in the direction of exit and s0 as not t0 reduce the width of the exit route. AlL fixed directional barriers t0 define the exit route should have adequate strength complying with the requirements in section 17(3) of the Building (Construction) Regulations.
+27.2 Rope barriers should be fitted with automatic catches or slip connexions and should be arranged $0 as nOt tO trail on the floor when parted and the fittings should not project into the gangway Or exit route_
+28.
+Chains and Padlocks
+Chains or padlocks should not be used to secure exit doors  When any other locking mechanism is used, the doors should be capable of being ' opened from inside without using key.
+
+===== PAGE 44 / 65 =====
+59-
+29
+Gangways and Seatways
+29
+Gangways not less than 1.0S m wide should be provided. Such gandways should
+(a) lead direct t0 the exit doors; and
+(b) intersect the rows of seating in such a manner that no  seat should be more than 3 m from gangway measured in the line of seating
+29.2 Where steps are provided in intersecting gangways suitable hand-grips should be provided at the ends of the seats_
+29.3 There should be no projection into gangway which diminish the clear width of the gangway _
+29.4 There should be an unobstructed way or space at least 30Omm in depth, measured berween perpendiculars, between the back of each seat and the front of the sea[ immediately behind.
+30
+Non-slippery Surfaces
+All gangways and exit routes and the treads of steps and staircases should have non-slippery surfaces_
+31 _
+Edges of Steps
+The edges of the tread of steps and staircases should be conspicuous_
+32_
+Exit from Stages
+32. [
+Where a permanent stage is provided in a place of public entertainment an exit should be provided from each side of the stage, and one of such exits should lead direct to a street.
+32.2 An exit leading direct to a street should be provided from the stage basement_
+
+===== PAGE 45 / 65 =====
+-40-
+33 .
+Lighting
+All portions of a place of public entertainment to which the public have access should be provided with artificial lighting providing a horizontal illuminance at floor level of not less than 30 lux and backed up by an emergency lighting system providing horizontal illuminance at floor   level of not   less than 2 lux. The   design  of the emergency lighting system should comply with the Code of Practice for Minimum Fire Service Installations and Equipment.
+34.
+Temporary Buildings
+The following requirements should apply to a temporary building which is intended to be used or which is licensed for a public entertainment
+34.1 There should be an unobstructed way Or space of ar least 3OOmm measured between perpendiculars between the back of one seat and the front of the seat immediately behind_
+34.2 The seating should be fixed firmly to the ground, floor or decking and if separate chairs are used they should be securely battened together in lengths of not less than 4.
+34.3 Gangways nor less   than 1.2m in width intersecting the rows of seating should be provided in such manner that no seat should be more than 3m from a gangway measured in the line of seating, and there should be a gangway abutting each side of the building from which the exit ways should open.
+34.4 Gange ways not less than 1.2m in width at right angles to the longitudinal gangways required by paragraph 34.3 should also be provided in such a manner that the seating IS divided into blocks not more than 9m in depth measured between perpendiculars between the front of the seats forming the front row and the back of the seats forming the back row of a block of seating.
+
+===== PAGE 46 / 65 =====
+-41-
+34.5 Exit  ways not less than 2.4 m in  width should be provided in each side of the structure in such manner that there is one exit way at each end of a prolongation of the centre line of each of the gangways required by paragraph 34.4 and one such exit way is required at each end of a prolongation of a line 1.2 m in front of the first or front row of seating
+34.6 Such further exit ways as are considered necessary by the Building Authority should be provided from the area of the stage Or the space provided for the performance.
+34.7 Any door erected at the exit ways should open in the direction of exit and any fastening used for maintaining the doors closed should readily give way upon light pressure being applied by one person from inside.
+
+===== PAGE 47 / 65 =====
+-42
+COMMENTARIES
+This edition of this Code of Practice is a revision of the 1986 edition_ The reasons for and the rationale behind the major revisions are described in these commentaries t0 facilitate the users to readily understand the spirit of the provisions_ thus assisting the irterpretation thereof
+M
+Deletion
+The following paragraphs in the 1986 edition are deleted as the requirements specified therein, which concern fire resisting construction. are covered by the Code of Practice for Fire Resisting Construction
+1L. Exits from flats and tenements 14 . Enclosure of staircases 23 . Windows in external walls 24_ Doors in light wells 25(6) . Basements smoke vents 26_ Garages and car ports attached t0 buildings
+Requirements concerring fire resisting construction in the various Other paragraphs are also deleted for the same reason.
+Paragraph 27 Domestic occupancies in certain buildings in the 1986 edition is deleted as it iS considered superfluous.
+3_
+The following definitions in the 1986 edition are deleted as these terms are not used in this edition
+FRP Institutional Building , Lobby, Protected Corridor , Protected Staircase , Residential Building , Staircase   (External) , Staircase (Internal)  Staircase (Partly External) _
+
+===== PAGE 48 / 65 =====
+-43-
+MI.
+Major Revisions/New Requirements
+Use of the Code
+This is a new paragraph which states the use of the Code_
+2
+Objectives
+This is a new paragraph which specifies the objectives of the Code_
+3.
+Alternative Approach to Fire Safety
+This is a new paragraph which states the fire safery ergineering is accepted as an alternative approach to fire safety.
+Interpretations
+Interpretations (definitions) are added or modified
+Balcony approach Only balcony serving two or more occupancies is acceptable in order to avoid using part of private  premises e.g. an open-sided utility , a5 balcony approach and to avoid abuse use of the area
+Maisonette The maximum number of storeys is restricted to 3 corresponding to the application of this Code.
+Travel Distance This is measured outside a room; the distance within a room is now called direct distance The travel distance restriction applies to podium level where there are accommodations at that level and ground storey.
+
+===== PAGE 49 / 65 =====
+5.
+Application
+Houses for single family nowadays often have 4 storeys and split-level design: To aliow   flexibility in house   design while   safety is not   forsaken. the   necessity for stringent means of escape requirements iS relaxed for houses up to 3 main domestic storeys and 13 m height. Two split levels may be regarded as one main storey and the carport floor _ which is usually at G/F needs not be counted as a main storey _
+Special Hazard Occupancy
+Escape from normal hazard shall not pass through special hazard as escape should be towards safery and not the reverse.
+Assessment of Accommodation
+Table should be taken as minimum standard irrespective of whether the detailed layout or seating plan is known or  not: Uses not covered by Table should be individually assessed by the Building Authority.
+8
+General Requirements of Exit Routes
+8
+Exit routes should lead to a street. either directly or through an open area at ground level. Exit routes discharging to a podium first and then discharge from there to a street are not acceptable unless the criteria stipulated in the Code have been complied with
+8.2
+If an exit route discharges to private lane_ it must be ensured that a right of way exists Otherwise the owner of the lane is entitled t0 prohibit passage through the lane
+8.3
+As an exit route may be used at any time (a fire may break out at night) . artificial lighting must be provided. 30 lux is the minimum lighting level for circulation areas and lux is the level for   emergency lighting   specified by the Director of Fire Services Emergency lighting should be provided t0 any part of an exit route whether it is partially protected zone (corridors) or a fully protected zone (staircases)_
+
+===== PAGE 50 / 65 =====
+45-
+8
+At the final point of discharge . exit routes should nor be close together unless there IS adequate separation to prevent fire and smoke spread between one another. Aiso at this point, drop in level is required by Building (Construction) Regulation 35_ To avoid the danger of falling of people when escaping  any door Or gate across the exit route at this point should be set back from the drop in level so that people will have sufficient time t0 realise the drop.
+9
+Buildings with Single Staircase
+9.1
+Buildings are permitted t0 have single staircase as concession t0 the normal provisions in consideration of the limitations to such buildings as t0 the size, usage and height as stipulated in this Code_
+9.2
+As the roof Of single staircase building in which the level of the highest floor is more than 13m above ground level is used as & secondary exit an area for refuge t0 wait for rescue it should be designed and constructed t0 have sufficient flat space t0 accommodate all the occupants  of the building  except those of the GIF and be accessible for rescue purpose_
+9.3
+In normal   situation, where vehicular access is   available_ the  roof   should be SO arranged as t0 be readily accessible t0 rescue appliance. However , if vehicular access is nOr available_ the Director of Fire Service may consider t0 impose other conditions such as enhanced fire service installations t0 ensure safety of the occupants_
+
+===== PAGE 51 / 65 =====
+-46-
+10
+Exits from Rooms
+Basically all rooms should be provided with proper exit doors but, in order not to restrict the freedom of design of small rooms such as bedrooms and bathrooms while safety is not forsaken. rooms accommodating more than 3 persons are required to comply with the exit door requirements_
+H=
+Exit from Storeys
+1.1 As a maisonette is similar t0 building having not more than three main domestic storeys, the requirements of this Code need not apply within a maisonette A proper exit, however , should be provided at least to one of the floors of the maisonette for escaping to the main exit route of the building in which the maisonette is situated.
+11.2 Although staircases are designed t0 be fire and smoke proof, there will still be rare occasions when staircase is  smoke logged or even on   fire and. more often obstructed. To allow for such contingencies, a building has to be so designed that the staircases are linked by common passages or areas in the building; i.e not tnrough private premises which may be locked up at times_
+12
+Exits at Ground Storey
+The exit routes at ground level should have adequate separation from the remainder of the building: Other uses in ground floor will normally not be allowed t0 open-off the passage-way of an exit staircase. If exit routes discharge onto the passage-way at ground floor , they should have adequate width to prevent "bottleneck effect.
+
+===== PAGE 52 / 65 =====
+13_
+Access t0 Staircase(s) within Building
+13
+As a protected lobby t0 separate a staircase from the general accommodation of the building is for the purpose of impeding the passage of smoke, the provision of such lobby should not depend on the height of the building but rather whether the passage leading to the staircase (balcony approach) or the staircase itself (open-sided staircase) adequately ventilated. To ensure that any smoke entering such lobby may affect one staircase only separate lobby should be provided to each staircase.
+13.2 The use of common corridor/lobby , utility area, maids quarter etc. as protected lobby is not acceptable_
+14.
+Direct Distance and Travel Distance
+14.[ room is considered as an unprotected zone. The distance of travel within a room should therefore be limited _ corridor or balcony approach is considered as partially protected zone [i.e. comparatively safer than within a room]: Thus, the distance of travel along a corridor or balcony approach may be longer than that within a room_ In order t0 distinguish the different criteria, the terms 'direct distance and 'travel distance' are used tO represent the distance of travel respectively within an unprotected zone and partially protected zone
+14.2 As the time required for the occupant(s) travelling within the unprotected and the partially protected zone t0 the fully protected zone [i.e. protected staircase(s)] should not be too long, the total distance of travel within these unprotected and partially protected zones is also limited_
+14.3 It is  considered that the approach t0 the  protected zone   through balcony or ventilated protected corridor should have a higher level of   safery than other methods of   approach  because the smoke if any _ can t0 some extent; be dispersed by ventilation. Thus . the travel distance and the sum of direct distance and travel distance for such method of approach is allowed to be longer.
+14.4 When a secondary exit door is required to be provided to room it should not be too close i0 the Other exit door otherwise it will lose its effect a5 an alternative exit. Thus, a "30" separation is required_
+
+===== PAGE 53 / 65 =====
+48 -
+14.5 room  (inner room) from which the oly escape route is through another room (access room) is at risk if a fire starts in the access room. Special requirements are therefore imposed tO ensure a safe escape route from an inner room.
+15_
+Discharge Value and Width of Staircase
+15.1 The escape  staircases should have "discharge   value" t0 allow all floors to be evacuated simultaneously i.e. total evacuation.
+15.2 The discharge value tables are formulated on the following basis
+(a) the escape strategy is based on the total evacuation of the building;
+(b) evacuation (from a storey to protected area) within notional period of 2.5 minutes for non-sprinklered buildings and $ minutes for sprinklered buildings;
+(c) the flow rate of people in descending the staircase is taken to be 80 persons/metre width/minute: and
+(d) the number of people temporarily housed in the staircases during evacuation is taken t0 be 3.50 3.90 persons/square metre_
+15.3 As experiments have shown that the ascending flow rate of people is approximately 80 % of that for descending, reduction factor of 0.8 is applied for calculating the discharge value for staircases where the direction of exit is upward.
+15.4 The staircase geometry of traditional 2-flight staircases and scissors staircases are different. As the number of people that can be temporarily housed in a scissors staircase iS approximately 70% of that in a 2-flight staircase , a reduction factor of 0.7 is applied where the exit staircases is a scissors staircases without any intermediate landing between 2 consecutive floors.
+15.5 In adopting the above mentioned figures reference has been made t0 the UK and American standards and research results .
+
+===== PAGE 54 / 65 =====
+49-
+15.6 Where two or more staircases are provided, it is necessary tO discount one staircase for calculating the discharge value o the assumption that one of the staircases might not be available due to smoke No discount is required in this Code because all staircases in a building , other than some single staircase building , are required to be approached through protected lobby or are ventilated and staircases are also linked by common passages in the building:
+15.7 People in a place of large occupancy would move rapidly to exits and reach them at about the same time in case of stadia, sports arenas passenger terminals , etc . which would require them to wait before going through the exit If queuing time was tOO long, huge crowd pressure would be created. The critical factor influencing the queuing time would in general be the aggregate width of the exits and the staircases Thus, the total width of the staircases serving such place of large occupancy should be   increased t0 1.2 times that of the exit routes t0 reduce the queuing time to an acceptable level: The  method of calculation can be expressed by the following equations
+i)
+Where all exits lead to staircases
+W
+1.2 x T
+where W
+total width of staircases serving the place of large occupancy
+T
+total width of exits assessed by Table 2 from the occupant load of the place of large occupancy
+II)
+Where part of the exits lead to a place of ultimate safety and part of them lead to staircases
+W
+1.2 x T'
+where T'
+T (total width of exits leading directly t0 the place of ultimate safety)
+15.8 Other buildings having large capacity , fire engineering approach should be adopted.
+
+===== PAGE 55 / 65 =====
+50-
+16.
+Doors in Relation to Exits
+16.1 Doors across exit routes  should not  normally be locked. However , for security purposes a  mechanical or electrical locking device is acceptable provided that the doors are capable of being readily opened from the inside without the use of a key_ For door to a staircase Or the lobby of the staircase, it is important that it should also be capable of being opened, in case of fire_ from within the staircase Or the lobby to allow people to re-enter the floor in order to go to another staircase. This may be achieved by an electro magnetic lock or other kinds of locking device which is capable of being released  automatically in case  of  fire  Notwithstanding the aforesaid actuation means, the locking device on exit doors should be capable of being released automatically upon power failure. Any other means of securing the doors are not acceptable.
+16.2 Exit routes in a building are usually circulation areas in normal times_ Doors across such routes are often held open to facilitate circulation.   To avoid the doors being held open by arbitrary methods, the use of specially designed hold-open devices, which is capable of being released automatically in case of fire, is encouraged. This , however does not apply to a door to a staircase or the lobby of the staircase which, being the final part of the escape route, should be kept safe at all times.
+16.3 Double leaf doors with flush meeting stiles are preferred over those with rebates the smoke seal effect of which will be lost if not closed fit. checking device should therefore be provided for such doors to ensure the doors are closed in the correct order .
+
+===== PAGE 56 / 65 =====
+SS1 -
+17_
+Construction of Staircases
+The exit staircases should be constructed t0 provide safe evacuation and the Staircase geometry should be so arranged to provide a reasonable rate of flow of the evacuees.
+18.
+Ramps
+Although means of escape for the disabled is not covered in this Code, there is no technical difficulty to make the gradient of exit ramps t0 be I:12 to coincide with that for access ramp for the disabled.
+19_
+Lift Lobbies
+Buildings are often so designed that lifts are not adjacent t0 staircases. When the entrance from the lift lobby to the floor is locked , people coming out from the lift will be trapped in the lobby. To avoid such dangerous situation in case of fire , a lift lobby should be so located that either it has direct access t0 a Staircase or it is linked t0 & staircase through a common passage Or area which should not be locked up at any time The   provision of a direct  intercom link will be accepted as an alternative approach if the building is expected t0 have good management_
+20 .
+Basements
+20.
+People always tend to escape down a staircase rather than up_ This is dangerous in the case of a basement when the escape should be in an upward direction. Directional signs should, therefore_ be required to guide people [O g0 up rather than down: In spite of signs being provided, people may still get confused and there may thus be difficulty in locating the correct level of the exit t0 street To make the exit t0 street clear , staircases serving the basements should not be continued [0 serve the upper floors also.
+20.2 As far as   escape in case of fire is   concerned   genuine  basements are the most hazardous and difficult situation. An independent exit t0 street is, therefore, required t0 each basement to enhance the means of escape. genuine basement is one which is completely below ground_ i.e. below the lowest ground storey and all the exit routes are in an upward direction_
+
+===== PAGE 57 / 65 =====
+S2-
+21_
+Refuge Floors
+21.1 refuge   is an essential part of the exit routes in tall buildings. It acts aS a safe place for a short rest before people continue to escape downwards because it is difficult for most people to walk down a tall building in one go. It acts as a safe passage for people using one staircase, when encountering smoke fire or   obstruction in that staircase, t0 g0 tO another staircase_ It also acts as a place of assembly for people t0 wait   for rescue in case all the staircases cannot be  used due to  smoke fire Or obstruction_ To perform these functions well, refuge floor should be a safe and comfortable place to stay. It should have sufficient area t0 accommodate most of the occupants of about 20 floors (10 above and 10 below)_ It should have adequate height, lighting  ventilation as well as signs_ It is important tO ensure that the area is free from obstructions and to maintain the signage and lighting: Good management therefore plays an essential role in maintaining the function of a refuge floor.
+21.2 As the mandatory requirement of refuge floors in all tall buildings is firstly introduced in this edition of the Code. domestic buildings and composite buildings_ which are considered to  have lower   risk in that  the building will have   relatively smaller compartment and the occupants will be familiar with the layout of the building, are initially relaxed up to 40 storeys before such building  requires refuge floor However for such building which is more than 25 storeys but less than 40 storeys in height, use should still be made of the main roof for refuge by designing it as refuge floor For other types of building, 25-storey is considered as high-rise and refuge floor should be required. Application of refuge floor requirement for domestic buildings and composite buildings is an incremental approach. The requirement will be reviewed in the light of experience and if it could be proved to be feasible_ application to domestic buildings below 40 storeys will be imposed 
+21.3 Signs indicating  where the refuge floor(s) in the building will be situated shall be provided ir; the conspicuous part, such as main entrance_ of the building in order to help the occupants/firemen t0 locate the refuge floor(s)_
+21.4 As water which may accumulate on a refuge floor will affect the safety use of the area for refuge, refuge floor should be suitably waterproof and drained
+
+===== PAGE 58 / 65 =====
+53-
+IV_
+Places of Public Entertainment
+The means of escape requirements for places of public entertainment are transferred from the Places of Public Entertainment Regulations and Practice Note t0 Authorized Persons and Registered Structural Engineers 54 in pursuance of a proposal to delete all matters concerning the design, planning and construction of buildings from the said Regulations
+Means of Escape for the Disabled
+This Code does not cover provisions of means of escape for the disabled. However _ designers are recommended to take this into account in the design of the building: In this  connection, reference  may be made t0 BSS588 Part &:1988. As minimum provision, communication panel may be installed adjacent [0 the fireman'$ lift as a 'call point' for help for the disabled in case of fire.
+
+===== PAGE 59 / 65 =====
+Diagram
+ACCESS To STAIRCASES WITHIN
+BUILDING
+Sl?
+Prolected lobby
+Sec paragraph
+~ 135 (I)
+Opening (if  any)
+comply with the requirements I FRC Code
+Exit doors
+see paragraph 16
+Lift lobby
+see  paragraph 19
+a-b-c-d Separation between the door of 2 staircases
+minimum 6mn measured  along the wall [see para.  13.3(6)]
+
+===== PAGE 60 / 65 =====
+Diagram 2
+INTERNAL  CORRIDOR ACCESS
+Kgreater d2 than 30 (d2
+d4
+d3
+open staircase (see paragraph 13.5 '(6)6)"
+d] d]
+smaller than 30"
+Exit door
+d1
+Direct  distance
+max. 15m [see para.  14.1]
+d2
+Direct  distance
+max. 18m [see para. 14.1
+14.6]
+d3+45
+Staircases separation
+max. 48m [see para. 14.3(c)]
+d1+d4
+Deadend
+max 18mn [see para. 14.3(1)]
+d6
+Trave)  distance
+Limitalions stated in Table
+d1+48 sum of direct distance d1+d4+45 and travel  distance
+
+===== PAGE 61 / 65 =====
+Diagram
+EXTERNAL BALCONY APPROACH
+d2 30' or ereatey
+open staircase (see_Paragraph 13.5(6)(i))
+Direct distance
+max. 15m [see  para_ 14.1]
+d2
+Direct distance
+max. 18m [see para. 14.1 & 14.6]
+d3
+Staircases separation
+max. 48m   [see para. 14.3(c)]
+d4,d5
+Travel distance
+Limitations stated in Table
+d1+45 d2+d4
+Sum of direct distance and travel  distance
+
+===== PAGE 62 / 65 =====
+Diegram
+LAYOUT WITHOUT   INTERNAL    CORRIDOR
+d4
+d3
+d2
+20"
+d1
+Direct distance
+max 15m [see para. 14.1]
+d2
+Direct distance
+max 18m  [see para. 14.1 & 14.6]
+d3,d4
+Travel   distance
+Limitations stated in Table
+d1+d4 d2+d3
+Sum of direct  distance and travel distance
+
+===== PAGE 63 / 65 =====
+Diagram
+OPEN   PLAN   LAYOUT
+grealer than 30"
+less than 30"
+d?
+d1
+Direct distance
+max 30m  [see para. 14.4]
+d2
+Direct distance (deadend)
+max: 18m [see para  14.4]
+
+===== PAGE 64 / 65 =====
+Diagram
+TYPICAL; LAYOUT OF REFUGE FLOOR
+SIGNAGE
+900
+900
+P1
+REFUCT Fioon
+pIS I0 Sneei UEI_
+507 greater Lhan the width the widest staircase
+R
+STAIRCASE
+DN
+UP
+1 L
+VN
+STAiRCASL (
+R
+] 00 1 900
+R
+9uu
+P[
+Permitted fire service water tank and associated [para. 21.2(a)] fire service installation plant room; or other mechanical plant room (not accessible from  refuge floor)
+R P1
+Refuge floor (min. 507 of the floor area) [para. 21.2(b)] Open _ sided above parapet height for cross- [para. 21.2(e)] ventilation Firemen' $ lift serves refuge floor but doors locked [para: 21.2()] during normal operation
+
+===== PAGE 65 / 65 =====
+Diagram Exit Staircase Leading to an Open Area at Upper Floor (The  Exit route across the open area should be  designed and constructed a5 if part the exit staircase)
+S1
+Open_Area
+Open Area at upper floor such as podium` floor)
+S1
+S1
+S2
+S1
+Tower Block
+Tower Block
+0(Opening_
+Exit route be adequately defined and roofed over (optional) [para: 8.3(a)]
+6m
+6m
+L(for   protection) walls roof with adequate FRP Exit route comply with para. 11,.3 11.4 & 11.6 of FRC Code
+Remarks 5[ staircase  leading to place of ultimate safety 52 staircase discharging to open area at upper floor level (e.g podium floor) opening not  protected by fixed light [para: 11. 7(iii) of FRC Code]

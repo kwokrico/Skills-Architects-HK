@@ -1,0 +1,255 @@
+5Jlj ~jj ~ FIRE SERVICES DEPARTMENT 
+5Jli ~Ji !Ji ~ l! ~ FIRE SAFETY COMMAND 
+7/F, Fire Services Headquarters Building ~ ~ :tL ta ~ ;j,> □11 *~ if m: - ~ 1 Hong Chong Road , Tsim Sha Tsui East 
+>J!J BE ~ ~,~,fiB *JJ'.-t:: W Kowloon, Hong Kong 
+;zjs: ~fj ~ OUR REF. (13) in FSD FSC GR 13-314/07 V 
+*P.i5J m ~ YOUR REF . 
+~ X: 1$ Ji FAX NO. (852) 2312 0376 
+~ ~ TEL. NO. (852) 2170 9670 
+~ r !liBfcj= E-MAIL fschq@hkfsd.gov.hk 
+29 May 2026 
+To: Recipients of FSD Circular Letters 
+Dear Sir/Madam, 
+FSD Circular Letter No. 5/2026 
+Fire Safety Requirements for Car Parking Facilities with 
+Automated Parking System (APS) 
+This Circular Letter announces the revised requirements for car parking facilities in 
+the Code of Practice for Minimum Fire Service Installations and Equipment, September 2022 
+("FSI Code"). 
+Given the increasing demand for APS, a comprehensive study with the engagement of 
+professional bodies, trades and government departments was conducted to examine the 
+potential fire risks associated with car parking facilities with APS. With a view to ensuring 
+fire safety, a set of revised requirements have been formulated for incorporating into relevant 
+sections of the FSI Code accordingly. Please see the enclosed amendment sheet for details. 
+The amendments shall take effect from 1 July 2026. For the avoidance of doubt, 
+the following types of building plans received by this Department on or after the effective date 
+shall demonstrate the compliance of the revised requirements: 
+(i) new submission of building plans for new building; and 
+(ii) new submission of building plans for existing building of which not less than one 
+half measured by volume is rebuilt or which is altered to such an extent as to 
+necessitate the reconstruction of not less than one half of the superficial area of 
+the main walls, or where a new occupation permit shall be issued. 
+REF . N UMB E R A N D DAT E SHOULD B E Q U OT E D I N REF E RE NCE TO THIS L E TT E R 
+J-L t!i'. & ;t,: 1/ai H1f iii'/ 'J I i!tt t.i ~Ji & 1:1 WJ 
+.../2 
+- 2 -
+Notwithstanding the above, voluntary compliance with the revised requirements is 
+strongly encouraged. For addition/alteration of fire service installations and equipment in 
+existing buildings according to the revised requirements, please follow the extant procedures in 
+seeking formal approval. 
+For enquiries, please contact Senior Divisional Officer (New Projects) at 3971 4600. 
+'/
+I 
+(l ,/ / L I '-· 
+)(am hkg , Michael) 
+l 
+for Dit~ctor of Fire Services , I 
+V 
+I 
+Encl. 
+R EF NUM B E R AN D D ATE S HO U LD B E QU OT E D I N R EF E R E NCE TO THI S LE TT ER 
+fL ~ R. ,t,: /"ff II# Iii s l lllt !oi '}Ji R. El WJ 
+Code of Practice for Minimum Fire Service Installations and Equipment 
+(September 2022) 
+Amendment Sheet Serial No. 5/2026 
+(1) Paragraph 1. 6 is revised to read: 
+1.6 Design of access staircase, fireman's lift, firefighting and rescue stairway and 
+emergency vehicular access 
+The access staircase, fireman's lift, firefighting and rescue stairway and emergency 
+vehicular access shall be provided to every building in accordance with Reg. 4JA, 41 B, 41 C and 
+4lD of the Building (Planning) Regulations. Whilst the requirements for access staircase, 
+fireman's lift and fire fighting and rescue stairway are included in this Code, they should not be 
+considered as fire service installations within the meaning of paragraph 1.2 above. 
+(2) Paragraph 1. 7 is revised to read: 
+1.7 Provision of access walkways I stairs, closed circuit television system, emergency power 
+points, fireman's communication system, fireman's emergency switch and pedestrian cross 
+over facility 
+(3) Insert definition of "Automated Parking System" in paragraph 3 .1 Definitions: 
+"Automated Parking System" includes 
+(a) Automated Guided Vehicle System 
+(b) Mechanized Vehicle Parking System as defined under the "Lifts and Escalators 
+Ordinance" (Cap 618) 
+(4) The following FSis in the "REQUIREMENTS-SYSTEMS/INST ALLA TI ONS/EQUIPMENT 
+FOR" section of paragraph 4.9 Car ports are revised to read: 
+{jl Closed circuit television system 
+{iil Emergency generator 
+(iii) Emergency lighting 
+{M.Exit sign 
+{El Fire alarm system 
+fJ!.il. Fire control centre 
+(vii) Fire detection system 
+(viii) Fire hydrant/hose reel system 
+(ix) Fireman's communication system 
+~ Fireman's emergency switch 
+(xi) Fireman's lift 
+(xii) Portable hand-operated approved appliance 
+(xiii) Sprinkler system 
+L. 
+1/5 
+(5) The following sub-paragraphs in the "EXTENT" section of paragraph 4.9 Car ports are revised 
+to read: 
+{jJ. To be provided to encompass the entire floor, including means ofaccess and means ofescape, 
+for car ports installed with automated parking system. 
+{jj)_ To he provided for car ports installed with mechanized vehicle parking system. An 
+independently powered generator of sufficient electrical capacity to meet the fire service 
+installations and fireman's lifts it is required to provide. 
+(iii) Emergency lighting shall be provided throughout all public areas and exit routes leading to 
+ground level. 
+(iJ!J. Sufficient directional and exit signs to ensure that all exit routes from premises within the 
+building are clearly indicated as required by the configuration of staircases serving the building. 
+!J!l As required by the risk. If required, one actuating point and one audio warning device to be 
+located at each hose reel point. Visual alarm signals shall be provided where necessary in 
+accordance with current Design Manual: Barrier Free Access. This actuating point shall 
+include facilities for fire pump start and audio/visual warning device initiation. 
+frll. To be provided for car ports installed with mechanized vehicle parking system. Minimum of 
+one, additional to he provided according to the complexity ofthe building. 
+(vii) Heat detectors or multi-sensor detectors shall be provided: 
+(a) in entire car ports with a total floor area not exceeding 230m 2 installed with electric vehicle 
+charging facilities but not covered by sprinkler system; or 
+(b) in car parking areas installed with electric vehicle charging facilities of car ports with a 
+total floor area exceeding 230m 2 but not covered by sprinkler system. 
+A direct line connection to the Fire Services Communications Centre is not required if the car 
+ports are situated in domestic buildings where the provision of direct line connection is not 
+mandatorily required. 
+(viii) As required by the risk. 
+(ix) As required by the Director ofFire Services for car ports installed with mechanized vehicle 
+parking system. 
+{s. To be provided for car ports installed with automated parking system and/or electric vehicle 
+charging facilities. The switch shall be provided at vehicle entrances, fire control centre or 
+other locations as considered acceptable by the Director of Fire Services. 
+(xi) As required by the Code of Practice for Fire Safety in Buildings. 
+(xii) As required by the risk. For car ports installed with electric vehicle charging facilities, 
+additional dry powder or carbon dioxide type fire extinguisher shall be provided at each hose 
+reel point on the floors with electric vehicle charging facilities. 
+(xiii) Required for car ports with total floor area exceeding 230m 2 and to cover all parts o(the car 
+ports including the staircases leading to these car ports. Fast response type sprinkler heads 
+shall he used in all parts ofthe car ports with mechanized vehicle parking system. 
+Note: (i) Carports within buildings shall conform to the requirements specified for those buildings 
+in accordance with this Code . 
+(ii) The additional requirements for car ports installed with electric vehicle charging facilities 
+as stipulated in para. 0!.Jl, :! & ~ above shall not be applicable to the car port of a single­
+family domestic building up to and including three storeys in height. 
+2/5 
+(6) The following sub-paragraphs in the ADDITIONAL REQUIREMENT section ofparagraph 4.9 
+Car ports are revised to read: 
+ADDITIONAL REQUIREMENT~ 
+ill Any intended storage or use ofdangerous goods as defined in Chapter 295 ofthe Laws ofHong 
+Kong should be notified to the Director of Fire Services. 
+{jjl For car ports installed with mechanized vehicle parking system: 
+fill Access staircase as stipulated in the Code ofPractice for Fire Safetv in Buildings shall 
+be provided and such staircase should have a clear width ofnot less than 1 050 mm and 
+a clear headroom of not less than 2 000 mm with Fire Resistance Rating (FRR) of not 
+less than that required for the elements of construction. There shall be at least one 
+access staircase for every 60 m ofany part ofthe car ports. 
+@ Access walkways I stairs ofnot less than 800 mm in width and not less than 2 000 mm in 
+height with guard railing are required to be provided to ensure safe and unobstructed 
+access for fireman to reach at least one side ofeach vehicle, preferably close to the front 
+portion of vehicle. Such walkways I stairs shall be connected to a protected lobby and 
+access staircase and have a stabilitv of not less than that required for the elements of 
+construction. 
+fil Non-perforated and non-combustible materials shall be provided between the upper and 
+lower vehicle parking decks as fire separation facilities to prevent vertical radiation 
+transmission, vertical fire spread and burning running fuel spread. For a non-sprinkler­
+protected car port, the materials shall have a stabilitv FRR ofnot less than 60 minutes. 
+(iii) For car ports installed with automated guided vehicle system, an automatic halting function 
+to suspend all the machinery movement ofthe automated guided vehicles upon actuation of 
+fire alarm system shall be provided. 
+(7) The following FSis in the "REQUIREMENTS-SYSTEMS /INSTALLATIONS/EQUIPMENT 
+FOR" section of paragraph 4.27 Garages are revised to read: 
+ill Automatic actuating devices 
+{jjl Closed circuit television system 
+(iii) Emergency generator 
+ful Emergency lighting 
+6!1.Exit sign 
+fril. Fire alarm system 
+(vii) Fire control centre 
+(viii) Fire detection system 
+(ix) Fire hydrant/hose reel system 
+fs.. Fireman's communication system 
+(xi) Fireman's emergency switch 
+(xii) Fireman's lift 
+(xiii) Portable hand-operated approved appliance 
+(xiv) Sprinkler system 
+(xv) Static or dynamic smoke extraction system 
+(xvi) Ventilation/air conditioning control system 
+3/5 
+(8) The following sub-paragraphs in the EXTENT section of paragraph 4.27 Garages are revised to 
+read: 
+{j)_ As required by that equipment which needs to be automatically actuated. 
+@Tobe provided to encompass the entire floor, including means ofaccess and means ofescape, 
+for garages installed with automated parking system. 
+(iii) To be provided for garages installed with mechanized vehicle parking system. An 
+independently powered generator of sufficient electrical capacity to meet the fire service 
+installations and fireman's lifts it is required to provide. 
+ilil_ Emergency lighting shall be provided throughout the premises and all exit routes. 
+6!J. Sufficient directional and exit signs to ensure that all exit routes from the premises within the 
+building are clearly indicated as required by the configuration ofstaircases serving the building. 
+b!il One actuating point and one audio warning device to be located at each hose reel point. Visual 
+alarm signals shall be provided where necessary in accordance with current Design Manual: 
+Barrier Free Access. This actuating point shall include facilities for fire pump start and 
+audio/visual warning device initiation within the premises. 
+(vii) To be provided for garages installed with mechanized vehicle parking system. Minimum of 
+one, additional to be provided according to the complexity ofthe building. 
+(viii) Heat dete.ctors or multi-sensor detectors shall be provided in entire garage with a total floor 
+area not exceeding 230m 2 installed with electric vehicle charging facilities but not covered by 
+sprinkler system. A direct line connection to the Fire Services Communications Centre is not 
+required if the garages are situated in domestic buildings where the provision of direct line 
+connection is not mandatorily required. 
+(ix) There shall be sufficient hydrants and hose reels on each floor. Fire hydrants shall be provided 
+in all approach lobbies to required staircases or required staircase enclosures. For buildings 
+not having the required staircase, fire hydrants shall be provided to the satisfaction of the 
+Director of Fire Services. Hose reels shall be provided to ensure that every part ofthe premises 
+can be reached by a length of not more than 30 m of hose reel tubing. 
+[MAs required by the Director ofFire Services for garages installed with mechanized vehicle 
+parking system. 
+(xi) To be provided for garages installed with automated parking system and/or electric vehicle 
+charging facilities. The switch shall be provided at vehicle entrances, fire control centre or 
+other locations as considered acceptable by the Director of Fire Services. 
+(xii) As required by the Code of Practice for Fire Safety in Buildings. 
+(xiii) As required by the risk. For garages installed with electric vehicle charging facilities, 
+additional dry powder or carbon dioxide type fire extinguisher shall be provided at each hose 
+reel point on the floors with electric vehicle charging facilities. 
+(xiv) Required for garages with total floor areas exceeding 230 square metres and to cover all parts 
+of the garages including the staircases leading to these garages. Fast response type sprinkler 
+heads shall be used in all parts o{the garages with mechanized vehicle parking system. 
+4/5 
+(xv) Required for any fire compartment exceeding 7 000 cubic metres in that garage with 
+mechanized vehicle parking system where the aggregate area of open able windows of the 
+compartment does not exceed 6.25% ofthe floor area o[that compartment. 
+The requirement ofhot smoke test will be stipulated ifconsidered necessary by the Director 
+ofFire Services in the building plans involving compartments:-
+(gJ. with headroom of12 m or more; or 
+@ with irregular geometrical dimensions or extraordinary large size. 
+(xvi) When a ventilation/air conditioning control system to a building is provided, it shall stop 
+mechanically induced air movement within a designated fire compartment. 
+Note: The additional requirements for garage installed with electric vehicle charging facilities as 
+stipulated in para. ( viii, xi & xiii) above shall not be applicable to the garage of a single-family 
+domestic building up to and including three storeys in height, except a garage situated in 
+basement. 
+(9) The following sub-paragraphs in the ADDITIONAL REQUIREMENT section of paragraph 
+4.27 Garages are revised to read: 
+ADDITIONAL REQUIREMENT~ 
+{jJ. Any intended storage or use of dangerous goods as defined in Chapter 295 ofthe Laws of Hong 
+Kong should be notified to the Director of Fire Services. 
+{ll)_ For garages installed with mechanized vehicle parking systems: 
+(a) Access staircase as stipulated in the Code ofPractice for Fire Safety in Buildings shall 
+be provided and such staircase should have a clear width ofnot less than 1 050 mm and 
+a clear headroom ofnot less than 2 000 mm with Fire Resistance Rating (FRR) ofnot 
+less than that required for the elements of construction. There shall be at least one 
+access staircase for every 60 m ofany part ofthe garages. 
+(b) Access walkways I stairs ofnot less than 800 mm in width and not less than 2 000 mm in 
+height with guard railing are required to be provided to ensure safe and unobstructed 
+access for fireman to reach at least one side ofeach vehicle, preferably close to the front 
+\ 
+portion of vehicle. Such walkways I stairs shall be connected to a protected lobby and 
+access staircase and have a stability of not less than that required for the elements of 
+construction. 
+(c) Non-perforated and non-combustible materials shall be provided between the upper and 
+lower vehicle parking decks as fire separation facilities to prevent vertical radiation 
+transmission, vertical fire spread and burning running fuel spread. For a non-sprinkler­
+protected garage, the materials shall have a stability FRR ofnot less than 60 minutes. 
+(iii) For garages installed with automated guided vehicle system, an automatic halting function 
+to suspend all the machinery movement ofthe automated guided vehicles upon actuation of 
+fire alarm system shall be provided. 
+-End-
+5/5

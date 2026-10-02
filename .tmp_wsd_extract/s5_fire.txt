@@ -1,0 +1,206 @@
+\n===== PDF PAGE 50 =====\n  
+April 2026 version 
+ 
+- 41 - 
+ 
+5. Fire Service 
+5.1 General 
+5.1.1 Not Used. 
+ 
+5.1.2 Not Used. 
+ 
+#5.1.3 Plumbing systems using government water supply for fire services shall comply 
+with the requirements of the WA. 
+ 
+*5.1.4 The use of water from fire service for purposes other than firefighting is prohibited. 
+ 
+ 
+5.2 Metering Requirement 
+#5.2.1 Details of master meter and check meter positions shall be referred to Section 3.3.  
+ 
+ 
+5.3 Pipe & Fitting Materials 
+#5.3.1 Pipe and fittings shall conform to the relevant standards as listed in Part B of this 
+Technical Requirements and the WWR. 
+ 
+#5.3.2 Consideration can be given for the use of wrought iron pipe and black steel pipe 
+without being galvanized, upon application, for a fresh water fire serv ice after a 
+positive air break, i.e. fire service tank or sump tank.   
+ 
+#5.3.3 The materials for pipes and pipe fittings on a salt water fire service shall be capable 
+of withstanding the corrosive effect of salt water. 
+ 
+ 
+5.4 Supply Types and Arrangements 
+5.4.1 General 
+#5.4.1.1 Fire service supply may be from fresh water or salt water source. The supply must 
+be from an independent connection, i.e. entirely independent of other water supply 
+arrangements within the building or development concerned.   \n\n===== PDF PAGE 51 =====\n  
+April 2026 version 
+ 
+- 42 - 
+ 
+#5.4.1.2 For existing buildings, fire service installations o btaining water supply from 
+existing fresh water tanks may be considered case -by-case by the WA and the 
+Director of Fire Services. 
+ 
+5.4.1.3 Not Used. 
+ 
+#5.4.1.4 All plumbing works between the lot boundary and master/check meter positions 
+shall be exposed or laid in a proper service trench/duct to facilitate inspection and 
+repairs.  Adequate drainage shall be provided to remove water inside the 
+trench/duct. 
+ 
+#5.4.1.5 If the connection is not laid in an exposed manner at the lot boundary, then it shall 
+be laid inside underground service trench/duct with adequate cover. The 
+underground/buried water mains should be laid with cover according to the latest 
+required minimum depth of services and associated installations stipulated  by 
+Highways Department. The current minimum cover requirements stated in the 
+Conditions of Excavation Permit are 450mm and 900mm on non-carriageway and 
+carriageway respectively. 
+ 
+#5.4.1.6 A fullway gate valve and a non-return valve have to be installed on the fire service 
+as close to the Government water supply connection as possible.  
+ 
+5.4.2 Sprinkler/ Drencher System 
+5.4.2.1 Not Used. 
+ 
+#5.4.2.2 A dual connection from the Government unrestricted supply ring main shall be 
+provided for a fire service sprink ler / drencher system situated in the recognised 
+Waterworks unrestricted industrial supply zone .  Twin connections, one from an 
+unrestricted supply main and one from a distribution main, will be provided for a 
+fire service sprinkler / drencher system situated outside the recognised unrestricted 
+industrial supply zone, where practicable. 
+ 
+#5.4.2.3 Where it is not practical to connect the fire service sprinkler / drencher system to 
+an unrestricted supply main, FSD may require the provision of fire service tank to 
+serve as secondary source for the fire service installation.  Depending on FSD’s 
+requirements, a single or dual connection can be given to serve the fire service tank 
+of secondary source. 
+ 
+#5.4.2.4 No part of any fire service sprinkler / drench er system supplied from the \n\n===== PDF PAGE 52 =====\n  
+April 2026 version 
+ 
+- 43 - 
+ 
+Government mains shall be used for supplying any other services including other 
+fire service installations, e.g. hose reels, except that a common suction tank can be 
+used for both sprinkler and hose reel systems .  Any exemption from this 
+requirement should have the endorsement of the Director of Fire Services. 
+ 
+#5.4.2.5 Where direct connection s to a sprinkler / drencher system are to be from the 
+government mains, an additional butterfly valve, without stop screw and lock nut 
+on handle and strapped in open position, shall be installed at a point on the supply 
+pipe before the fire service inlet and as close as possible to the control valves of the 
+connections. 
+ 
+#5.4.2.6 FSD’s endorsement shall be sought for the application for improvised sprinkler 
+systems as illustrated in Fig. 17. The design of the improvised system shall be 
+vetted by Fire Services Department. 
+ 
+5.4.3 Fire Hydrant/ Hose Reel System  
+#5.4.3.1 The water supply must not be fed directly from the government mains and the fire 
+hose reel outlet should be housed in a glass-fronted cabinet secured under lock and 
+key.  The glass panel shall be of a frangible type and shall not exceed 1.5 mm in 
+thickness, and that it shall be of such size and design so as not to cause any undue 
+obstruction to the free use of the hose reel .  A metal or plastic striker shall be 
+provided in the vicinity of the cabinet for the purpose of breaking the glass panel 
+in case of emergency. 
+ 
+#5.4.3.2 Common tank arrangements for fire-fighting and flushing or other purposes are not 
+acceptable when a government supply is involved .  Where a building is to be 
+provided with a non-government flushing supply and where it is proposed to feed 
+the fire service from that supply, the applicant is advised to install an independent 
+fire service system if it is envisaged that the fire service system may require to be 
+connected to the government main at a later stage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n===== PDF PAGE 53 =====\n  
+April 2026 version 
+ 
+- 44 - 
+ 
+#5.4.3.3 Warning message shall be securely fixed on or near every hose reel outlet and the 
+message shall be easily visible by the occupier. 
+ 
+ 消 防 用 水 
+嚴 禁 作 其 他 用 途 
+ 
+USE OF WATER FROM FIRE SERVICES 
+FOR PURPOSES OTHER THAN FIRE 
+FIGHTING IS STRICTLY PROHIBITED 
+ 
+水務監督辦事處   Office of the Water Authority 
+ 
+ 
+5.4.4 Street Fire Hydrant System  
+5.4.4.1         Not Used. 
+ 
+#5.4.4.2 Typical layout drawing for street fire hydrant system in Fig. 21 should be followed.  
+ 
+5.4.5 Fire Service Ring Mains 
+#5.4.5.1 Where in large industrial complexes a fire service ring main is required, this should 
+be connected to an unrestricted supply main, if practical.  In cases where this is not 
+practical, a ‘dual’ connection from the government ring main should be provided. 
+ 
+#5.4.5.2 Fire service ring mains shall not be connected to or used for supplying any other 
+service, except with the approval of the WA.   
+ 
+5.4.6 Not Used.  
+ 
+5.4.7 Not Used.  
+ 
+ 
+5.4.8 Not Used.  
+ 
+5.4.9 Not Used.   \n\n===== PDF PAGE 54 =====\n  
+April 2026 version 
+ 
+- 45 - 
+ 
+6. Water Cisterns, Water Pumps and Other Miscellaneous 
+6.1 General  
+*6.1.1 No cistern for the storage of cold water shall be installed or used except with the 
+permission in writing of the WA who shall specify the maximum permitted 
+capacity.   
+ 
+*6.1.2 No cistern for the storage of fresh water supp lied from the waterworks shall, 
+without the written permission of the WA, be so connected that it can be used for 
+the storage of any water other than that supplied from the waterworks. 
+ 
+ 
+6.2 Cold Water Cisterns (or Cold Water Tanks) 
+6.2.1 Location 
+6.2.1.1 Access for Maintenance and Inspection 
+*6.2.1.1.1 Water Storage Tanks shall be installed so that they are easily accessible for cleaning 
+or repairs.  
+ 
+*6.2.1.1.2 Safe access shall be provided to all cisterns by means of a secure permanent ladder 
+or readily available portable ladder. 
+ 
+*6.2.1.1.3 Where a cistern is installed inside a building and, due to limited headroom available, 
+it is fixed with limited clearance from the ceiling or underside of the roof, a quickly 
+detachable fitting must be used to enable it to be easily removed for cleansing and 
+repair. 
+ 
+#6.2.1.1.4 For water cisterns with top access, the access on top of the cisterns should have a 
+minimum headroom of 800mm. 
+ 
+#6.2.1.1.5 Safe, free and uninterrupted access to the water cisterns should be provided and 
+maintained at all time to ensure the safety of personnel undertaking cleaning or 
+maintenance works. 
+ 
+6.2.1.2 Protection against Pollution of Potable Water by Non-Potable Water  
+*6.2.1.2.1 If a cistern for non-potable water is placed adjoining to a cistern for potable water, 
+a physical break must be provided between the cisterns, such that the walls and 
+slabs of the cisterns are separated, however, tie beams linking the cisterns for 
+structural requirements may be fitted and, if fitted, must be c onstructed in a way 
+that cross contamination of the cisterns via the tie beams is not possible. 
+ 

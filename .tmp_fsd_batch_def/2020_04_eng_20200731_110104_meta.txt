@@ -1,0 +1,5 @@
+file=2020_04_eng_20200731_110104.pdf
+method=pypdf
+chars=5657
+alpha=4088
+lines=322

@@ -1,0 +1,273 @@
+Buildings Department Practice Note for Registered Contractors 52 
+ 
+ 
+Mi
+nor Amendment Works 
+ 
+ 
+I
+ntroduction 
+ 
+ 
+T
+he requirement for prior approval and consent for all amendments to 
+building works for which first consent has been given may affect the construction 
+process. 
+ 
+E
+xemption for Minor Amendments 
+ 
+2. T
+o facilitate the carrying out of minor amendment works without 
+causing interruption of the construction progress, subject to a modification of regulation 
+33(1) of the Building (Administration) Regulations (B(A)R) being granted by the 
+Building Authority under section 42(1) of the Buildings Ordinance (BO), prior approval 
+and consent to the minor amendments of building, superstructure1, drainage, foundation, 
+pile cap, site formation, excavation and lateral suppor t works for which the first consent 
+has already been given, would not be required except for the amendments  described in 
+Appendix A.   
+ 
+D
+ocumentation of Minor Amendments 
+ 
+3. A
+s a condition for exemption, the minor amendments would be required 
+to be clearly  documented and deposited in the site office.  Moreover, authoriz ed 
+persons, registered structural engineers and registered geotechnical engineers are 
+required to ensure that approval and consent for all these amendments are obtained prior 
+to certifying co mpletion of the building works or applying for an occupation 
+permit/temporary occupation permit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/4. …
+                                              
+1 Once the permit to an application for modification/exemption of regulation 33(1) of B(A)R 
+for superstructure works has been granted, the permit is also applicable to all minor 
+amendments of related secondary structural element works for which the first consent to the 
+commencement of the works has been given.  A separate application for 
+modification/exemption of regulation 33(A) of the B(A)R for the secondary structural 
+element works will not be required.  Secondary structural element works include curtain 
+wall, window wall, cladding, space frame, precast  elements, canopy, skylight, balustrade , 
+external ceiling, grille/louvre, ventilation duct, maintenance platform and similar secondary 
+structural elements not affecting the overall stability of the building. 
+- 2 - 
+ 
+ 
+4. A similar practice note has been issued to authorized persons , 
+registered structural engineers and registered geotechnical engineers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ( YU Po-mei, Clarice ) 
+Building Authority  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. :  BD GP/BOP/6 (VII)  
+BD GR/1-125/5/1(IV) 
+ 
+First issue   July 2002  
+Last revision  February 2023 
+This revision October 2024 (AD/NB2)  (P aragraph 2 amended and Footnote 1 added) 
+Appendix A 
+(PNRC 52) 
+List of Amendments Not Qualified as Minor Amendments 
+for Deferring Submission 
+1. For building and building (alteration and addition (A&A)), an amendment: 
+(a) resulting in a major revision or localised major revision as per the 
+criteria specified in Practice Note for Authorized Persons, Registered 
+Structural Engineers and Registered Geotechnical Engineers  (PNAP) 
+APP-55; 
+(b) having material effect on the fundamental issues; 
+(c) involving concern on stability/deformation of slopes, retaining walls, 
+adjoining land and buildings; 
+(d) involving an application for exemption or modification of the BO and 
+its subsidiary regulations; 
+(e) not in compliance with the relevant Outline Zoning Plan or deviating 
+from a scheme approved by the Town Planning Board; or 
+(f) i
+nvolvi
+ng works outside the lot boundary. 
+2. For superstructure and superstructure (A&A) , an amendment affecting the 
+overall structural stability of the building. 
+3. For drainage and drainage (A&A), an amendment: 
+(a) involving the revision of drainage layout as a result of a major revision 
+of the building proposal; 
+(b) involving the change of disposal system or connections to public 
+sewers; 
+(c) involving concern on stability/deformation of slopes, retaining walls, 
+adjoining land and buildings; 
+(d) involving an application for exemption or modification of the BO and 
+its subsidiary regulations; 
+(e) involving excavations deeper than 3m; or 
+(f) i
+nvolvi
+ng works outside the lot boundary. 
+- 1 - 
+4. For foundation, an amendment: 
+(a) involving the change in design assumptions, construction method/ 
+material, safety precautionary measures, safety tolerances, monitoring 
+measures/criteria, founding material, allowable load carrying capacity; 
+(b) causing an impact on the railway structures or facilities in Area Number 
+3 of the scheduled areas in Schedule 5 to the BO, or in other railway 
+protection areas  as referred to  in PNAP APP -24, that res ults in not 
+complying with the monitoring control limits  shown on the latest 
+approved plans or the requirements set out in the guidelines  under 
+PNAP APP-24; 
+(c) causing an impact on the drainage and sewage tunnels in Area Number 
+5 of the scheduled areas in Schedule 5 to the BO , or in the tunnel 
+protection zones of Drainage Services Department (DSD) tunnels as 
+referred to in PNAP APP -62, that results in not complying with the 
+monitoring control limits shown on the latest approved plans , or the 
+requirements set out in the technical notes under PNAP APP-62 or the 
+technical guidelines under DSD Practice Note No. 2/2017; 
+(d) involving excavation for pile caps or footing below the approved bulk 
+excavation limit in Area Number 1 of the s cheduled areas in Schedule 
+5 to the BO; 
+(e) involving steel H-piles driven to bedrock steeper  than 25 degree from 
+the horizontal if any as shown on the latest approved plans; 
+(f) involving piles constructed over slope of which the stability will affect 
+or be affected by the piles; 
+(g) not in compliance with the approved minimum clear distance between 
+the foundation and the site boundaries or adjacent sensitive 
+buildings/features;  
+(h) involving a change from Type 1 to Type 2 mechanical couplers for  
+steel reinforcing bars or vice versa, or a change in the mechanical 
+couplers which requires a further quality assurance scheme of the 
+manufacturer to be submitted prior to the application for consent to the 
+commencement of the splicing assembly works;  
+(i) involving relocation of pile(s) to position(s) more than 5m from  
+its/their original location(s), as shown on the latest approved plans; or 
+- 2 - 
+(j) involving the following percentage increase over the number of piles 
+of the same type, as shown on the latest approved plans;  
+(i) more than 5% 1 for piles of the same type except large diameter 
+bored piles (LDBP); or 
+(ii) more than 15%1 for LDBP only. 
+5. For pile cap, an amendment: 
+(a) involving the change in design assumptions; 
+(b
+) involving excavation for pile caps below the approved bulk excavation 
+limit in Area Number 1 of the scheduled areas in Schedule 5 to the BO; 
+(c) causing an impact on the railway structures or facilities in Area 
+Number 3 of the scheduled areas in Schedule 5 to the BO, or in other  
+railway protection areas as referred to in PNAP APP -24, that results 
+in not complying with the monitoring control limits  shown on the 
+latest approved plans or the requirements set out in the guidelines 
+under PNAP APP-24; 
+(d) causing an impact on the drainage and sewage tunnels in Area Number 
+5 of the scheduled areas in Schedule 5 to the BO , or in the tunnel 
+protection zones of Drainage Services Department (DSD) tunnels  as 
+referred to in PNAP APP -62, that results in not complying with the 
+monitoring control limits shown on the latest approved plans , or the 
+requirements set out in the technical notes under PNAP APP-62 or the 
+technical guidelines under DSD Practice Note No. 2/2017; 
+(e) resulting in amendment to the latest approved/accepted excavation and 
+lateral support plans as described in paragraph 6 below; or 
+(f) involving a change from Type 1 to Type 2 mechanical couplers for 
+steel reinforcing bars or vice versa, or a change in the mechanical 
+couplers which requires a further quality assurance scheme of the 
+manufacturer to be submitted prior to the application for consent to the 
+commencement of the splicing assembly works. 
+1 W hen the number of pile(s) so calculated involves decimal numbers, round up to the nearest 
+whole number.  For example, if there are 15 non-LDBP shown on the latest approved plans, 
+the increase in number of non-LDBP should not be more than 1 (15x5%=0.75 and rounding 
+up to the nearest whole number, i.e. 1).  If there are 10 LDBP shown on the latest approved 
+plans, the increase in number of LDBP should not be more than 2 (10x15%=1.5 and rounding 
+up to the nearest whole number, i.e. 2). 
+- 3 - 
+6. For excavation and lateral support (ELS) works, an amendment:   
+(a) i nvolving the change in design assumptions, construction 
+method/material, safety precautionary measures, safety tolerances, 
+monitoring measures/criteria, type/size or installation method of 
+vertical earth retaining elements or construction sequence including 
+pre-loading arrangement of struts; 
+(b) involving excavation below the approved bulk excavation limit in 
+Area Number 1 of the scheduled areas in Schedule 5 to the BO; 
+(c) causing an impact on the railway structures or facilities in Area 
+Number 3 of the scheduled areas in Schedule 5 to the BO, or in other  
+railway protection areas as referred to in PNAP APP -24, that results 
+in not complying with the monitoring control limits  shown on the 
+latest approved plans or the requirements set out in the guidelines 
+under PNAP APP-24; 
+(d) causing an impact on the drainage and sewage tunnels in Area Number 
+5 of the scheduled areas in Schedule 5 to the BO , or in the tunnel 
+protection zones of Drainage Services Department (DSD) tunnels  as 
+referred to in PNAP APP -62, that results in not complying with the 
+monitoring control limits shown on the latest approved plans , or the 
+requirements set out in the technical notes under PNAP APP-62 or the 
+technical guidelines under DSD Practice Note No. 2/2017; or 
+(e) involving the change in strutting layout (horizontal and inclined)  or 
+construction material of lateral support system or reduction of size of 
+structural member s of the approved ELS system , except localised 
+minor changes to the horizontal or inclined arrangement of structural 
+members without reduction of the stiffness of affected struts to resolve 
+obstruction to the permanent structures. 
+7. For site formation, an amendment: 
+(a) i
+nvolving the change in design assumptions, construction 
+method/material, safety precautionary measures, safety tolerances or 
+monitoring measures/criteria;  
+(b) involving excavation below the approved bulk excavation limit in 
+Area Number 1 of the scheduled areas in Schedule 5 to the BO; 
+(c) causing an impact on the railway structures or facilities in Area 
+Number 3 of the scheduled areas in Schedule 5 to the BO, or in other  
+railway protection areas as referred to in PNAP APP -24, that results 
+in not complying with the monitoring control limits  shown on the 
+latest approved plans or the requirements set out in the guidelines 
+under PNAP APP-24; 
+- 4 - 
+(d) causing an impact on the drainage and sewage tunnels in Area Number 
+5 of the scheduled areas in Schedule 5 to the BO , or in  the tunnel 
+protection zones of Drainage Services Department (DSD) tunnels  as 
+referred to in PNAP APP -62, that results in not complying with the 
+monitoring control limits shown on the latest approved plans , or the 
+requirements set out in the technical notes under PNAP APP-62 or the 
+technical guidelines under DSD Practice Note No. 2/2017; 
+(e) involving change of any site formation level shown in the latest 
+approved plans for more than 1m; 
+(f) involving change of site formation level/profile adversely affecting the 
+overall stability of approved E LS system in the site  or adjoining 
+structures/slopes/utilities;  
+(g) involving an increase in retained height of  permanent earth retaining 
+structures or reduction of such for more than 1m; or 
+(h) involving a change from Type 1 to Type 2 mechanical couplers for 
+steel reinforcing bars or vice versa, or a change in the mechanical 
+couplers which requires a further quality assurance scheme of the 
+manufacturer to be submitted prior to the application for consent to the 
+commencement of the splicing assembly works. 
+(R
+ev. 2/2023) 
+- 5 - 

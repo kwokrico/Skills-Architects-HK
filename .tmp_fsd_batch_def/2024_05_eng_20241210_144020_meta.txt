@@ -1,0 +1,5 @@
+file=2024_05_eng_20241210_144020.pdf
+method=pypdf
+chars=5536
+alpha=4187
+lines=119

@@ -1,0 +1,404 @@
+pages 4
+
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+Amendments to the Code of Practice for Precast Concrete Construction 2016 
+( November 2020 ) 
+Legends: 
+1111
+1111 
+Amended 
+Deleted 
+-1-
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+Amendments to the Code of Practice for Precast Concrete Construction 2016 
+Item 
+Current version 
+Amendments 
+1. Clause 2.4.3 
+In respect of concrete cover requirements for protection against In respect of concrete cover requirements for protection against 
+paragraph 2 
+fire, the Code of Practice for Fire Safety in Buildings should be 
+followed, 
+whereas 
+for 
+protection 
+against 
+corrosion, 
+the 
+requirements under the Building (Construction) Regulations 
+should be adopted. 
+fire, the Code of Practice for Fire Safety in Buildings should be 
+followed, 
+whereas 
+for 
+protection 
+against 
+corrosion, 
+the 
+requirements under the atCode of Practice for Structural Use of 
+Concrete 2013 should be adopted. 
+2. Clause 2.4.4.1 
+General 
+To achieve durability, connections should be properly filled with 
+suitable material to prevent corrosion, cracking or spalling of 
+concrete. 
+General 
+To achieve durability, connections should be properly filled with 
+suitable material to prevent corrosion, cracking, atspalling of 
+concrete or water seepage. 
+3. Clause 2.6.1 
+General 
+For the requirements on the use of materials, the Building 
+(Construction) Regulations should be followed. The material 
+properties used for design should be obtained from the Code of 
+Practice for Structural Use of Concrete. 
+General 
+For the requirements on the use of materials, the Building 
+(Construction) Regulations and the Code of Practice for Structural 
+Use of Concrete 2013 should be followed. The material properties 
+used for design should be obtained from the Code of Practice for 
+Structural Use of Concrete 2013. 
+-2-
+
+
+===== PAGE 3 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+4. Clause 2.6.2.1 
+Alkali-silica reaction 
+Aggregates containing silica minerals are susceptible to attack by 
+alkalis (Na2O and K2O) from the cement or other sources. 
+Alkali-silica reaction causes cracking and reduces the strength of 
+concrete. 
+Effective means of reducing the risk of alkali aggregate reaction 
+include: 
+‧control on the amount of cement used in the concrete mix; 
+‧use of a low alkali cement; 
+‧use of an appropriate cement replacement such as pulverised fuel 
+ash (pfa); and 
+‧the reactive alkali content of concrete expressed as the equivalent 
+sodium oxide per cubic metre should not exceed 3.0 kg. 
+The concrete supplier should submit to the authorized person or 
+registered structural engineer a mix design and Hong Kong 
+Laboratory Accreditation Scheme (HOKLAS) endorsed test 
+certificates giving calculations and test results demonstrating that 
+the mix complies with the above limitation on reactive alkali 
+content. 
+Alkali-silica reaction 
+Aggregates containing silica minerals are susceptible to attack by 
+alkalis (Na2O and K2O) from the cement or other sources. 
+Alkali-silica reaction causes cracking and reduces the strength of 
+concrete. 
+Effective means of reducing the risk of alkali aggregate reaction 
+include: 
+‧control on the amount of cement used in the concrete mix; 
+‧use of a low alkali cement; 
+‧use of an appropriate cement replacement such as pulverised fuel 
+ash (pfa); t 
+‧the reactive alkali content of concrete expressed as the equivalent 
+sodium oxide per cubic metre should not exceed 3.0 kg t; 
+‧seeking expert advice before alkali reactive aggregates are used; 
+‧use of non-reactive aggregate in accordance with CS1; or 
+‧reducing the access of moisture, i.e. restricting the amount of 
+water ingress from the environment. 
+The concrete supplier should submit to the authorized person or 
+registered structural engineer a mix design and Hong Kong 
+Laboratory Accreditation Scheme (HOKLAS) endorsed test 
+certificates giving calculations and test results demonstrating that 
+the mix complies with the above limitation on reactive alkali 
+content. 
+-3-
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 
+5. Footnote of 
+Figure A6 
+under 
+Appendix A 
+Note : The connection detail is extracted from a technical paper in 
+the Journal of Southeast University (Natural Science 
+Edition) (東南大學學報(自然科學版) published in May 
+2013. Permission to reproduce the diagram showing the 
+connection detail is granted by the author of the paper. 
+-4-

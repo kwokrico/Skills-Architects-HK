@@ -1,0 +1,5 @@
+file=2023_02_eng_20230621_104014.pdf
+method=pypdf
+chars=42242
+alpha=32581
+lines=815

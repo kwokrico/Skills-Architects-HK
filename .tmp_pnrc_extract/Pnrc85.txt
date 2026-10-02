@@ -1,0 +1,856 @@
+Buildings Department Practice Note for Registered Contractors 85 
+ 
+ 
+Fire Retardant Performance of  
+Protective Nets, Screens, Tarpaulins and Plastic Sheeting  
+Installed on Scaffolding of External Walls 
+ 
+ 
+ Protective nets, screen s, tarpaulins and plastic sheeting (collectively 
+referred to as “protective materials” hereinafter) installed on the scaffolding of external 
+walls of buildings undergoing construction, demolition, alteration and addition, repair or 
+minor works should have fire retardant performance in compliance with the recognised 
+standards to impede the spread of fire when a fire occurs.  This Practice Note outlines the 
+key steps that registered general building contractors, registered specialist contractors and 
+registered minor works contractors
+1 (collectively referred to as “registered contractors 
+(RCs)” hereinafter) should take to ensure that the p rotective materials used on sites 
+comply with the required standards of fire retardant performance. 
+ 
+2. According to this Practice Note, RC s are required to comply with the 
+following new requirements: 
+ 
+(a) Fire retardant performance test reports of protective materials  
+should be provided and properly retained for inspection at any 
+time (paragraphs 3 to 4 below); 
+ 
+(b) Sampling should be conducted on each lot of protective 
+materials in the specified manner for testing .  Tests should be 
+conducted by acc redited laboratories designated by the 
+Government.  If any sample in a lot fails to meet the standards, 
+the entire lot must not be used.  Only when all the samples have 
+met the standards  can the lot be installed on scaffolding 
+(paragraphs 5 to 9 below); 
+ 
+(c) RCs may commence the works once the compliant protective 
+materials are installed on scaffolding, and should notify the 
+Buildings Department (BD).  BD will randomly select 
+individual projects with protective materials  installed for site 
+audit on each elevation .  If any sample from  an individual 
+elevation fails to meet the standards, the protective materials on 
+the entire elevation will be deemed non -compliant with the 
+recognised standards and should be completely removed 
+(paragraphs 10 to 11 below); and 
+ 
+ 
+ 
+/(d) … 
+ 
+                    
+ 
+1  Works carried out in accordance with the simplified procedures under the Minor Works 
+Control System commonly involve repair works for external renderings, external wall tiles or 
+claddings.  
+- 2 - 
+ 
+(d) Fire retardant performance of p rotective materials should be 
+tested periodically to ensure continuous compliance with the 
+recognised standards (paragraph 12 below).  
+ 
+The relev
+ant workflow is set out in Appendix I. 
+ 
+Fire R
+etardant Performance Test Report to be Provided by RCs 
+ 
+3. Prior
+ to the delivery of protective materials to any site, RCs should obtain 
+the fire retardant performance test report for the lot of protective materials  concerned 
+from the supplier for retention on site and display ing at a conspicuous location of the 
+building/site for inspection at any time by authorized persons (APs), registered structural 
+engineers, registered geotechnical engineers, registered inspectors (RI s), 
+owners/occupants and relevant law enforcement officers.  The test report should clearly 
+show the information of the manufacturer, place of origin, performance standard, as well 
+as testing method and result.  The recognised standards of fire retardant performance 
+generally accepted by BD are as follows: 
+ 
+Standard of Fire Retardant Performance Application 
+ 
+GB 5725-2009 “Safety nets”2 Protective nets 
+ 
+BS 5867 -2:2008 (Type B performance requirements) - 
+Fabrics for curtains, drapes and window blinds - Part 2: 
+Flammab
+ility requirements - Specification 
+Protective nets, screens, 
+tarpaulins and plastic 
+sheeting 
+  
+NFPA 701:2023 (Test Method 2) - Standard methods of fire 
+tests for flame propagation of textiles and films 
+Protective nets, screens, 
+tarpa ulins and plastic 
+sheeting 
+ 
+ 
+4. Oth
+er standards of fire retardant performance equivalent to the above 
+recognised standards with relevant documentary proof may also be considered .  RCs 
+should consult BD in advance. 
+ 
+Sampli
+ng by RCs in the Specified Manner for Testing 
+ 
+Exis
+ting buildings 
+ 
+5.  For e
+xisting buildings 3, the sampling requirements are applicable to 
+scaffolding involving three or more consecutive storeys for alteration and addition, repair 
+or minor works, including scaffolding covering the entire elevation of the concerned 
+storeys ( even if only one single elevation of the building  is covered) and scaffolding 
+covering the full height of a re-entrant or light well of the building.  Truss-out scaffolding 
+for repair works for individual units is excluded. 
+ 
+ 
+/6. … 
+                     
+2 GB 5725-2025 “F all protection - Safety nets” will come into effect on 1 September 2026, 
+superseding the previous standard of GB 5725-2009 “Safety nets”. 
+3  Except domestic buildings not exceeding three storeys. 
+ 
+- 3 - 
+ 
+6. P rior to the installation of protective materials on scaffolding, RCs should 
+arrange a third part y4 to specify a random method for RC s or their authorised 
+representatives to conduct sampling  (either on-site or off -site depending on the actual 
+circumstances) for testing by laboratories  designated by the Government  in item (h) in 
+accordance with the following requirements:  
+ 
+(a)  T
+he dimensions of each sample should not be less than  
+1.8 m X 2 m; 
+ 
+(b)  N
+o more than one sample should be taken from each roll/sheet 
+of protective materials; 
+ 
+(c)  T
+he number  of samples taken from each lot of protective 
+materials per order should not be less than the quantity set out  
+in the table below as adopted from ISO 2859-1: 
+ 
+No. of Rolls/Sheets in Each Lot No. of Samples 
+2 to 15 2 
+16 to 25 3 
+26 to 90 5 
+91 to 150 8 
+151 to 280 13 
+281 to 500 20 
+501 to 1 200 32 
+1 201 to 3 200 50 
+3 201 to 10 000 80 
+ 
+(d)  L
+ongitudinal and transverse directions should be indicated on 
+each sample as shown in Appendix II; 
+ 
+(e)  A Sample Information S heet should be completed for each 
+sample to be signed by the RC  or its authorised representative, 
+and further confirmed and endorsed by its authorized signatory 
+(template at Appendix III); 
+ 
+(f)  Each sample should be placed in a transparent sealed envelope 
+and delivered to a designated  laboratory for testing, together 
+with the corresponding Sample Information Sheet in item (e) 
+above; 
+ 
+(g)  The entire sampling process should be recorded on video; 
+ 
+(h)  Tests should be conducted by laboratories designated by the 
+Government and accredited under the Hong Kong Laboratory 
+Accreditation Scheme (HOKLAS) or by other accreditation 
+bodies which have reached mutual recognition arrangements  
+ 
+ 
+/with… 
+                     
+4  Such as a representative of owners/owners’ corporation/property management company,  
+a notary office or a conformity assessment body accredited by the Hong Kong Accreditation 
+Service. 
+- 4 - 
+ 
+with HOKLAS .  Laboratories should submit a test report  
+bearing the accreditation symbol of HOKLAS (or the 
+accreditation symbol of an accreditation bod y which ha s 
+reached mutual recognition arrangements with HOKLAS).  The 
+test report should contain  information in parts A to C of the 
+Sample Information Sheet  (i.e. Appendix III ), along with 
+photographs of samples taken before and after the test for 
+record.  The test report should be submitted in electronic format 
+with a digital signature
+5 for valid authentication of the identity 
+of the designated laboratory, and to ensure the integrity of the 
+test report through encryption and digital signature.  The list of 
+designated laboratories is available on BD’s website6 ; 
+ 
+(i)  The electronic test report (irrespective of whether the results are 
+in compliance with the recognised standards)  should be sent to 
+BD for record; and 
+ 
+(j)  Where samples are taken off -site, RCs should employ reliable 
+systems (such as QR codes, near field communication (NFC) 
+devices and radio frequency identification (RFID) technologies) 
+to track the materials throughout the entire process from 
+delivery to warehouse , sampling for testing, to collection and 
+delivery to sites for installation on scaffolding; and bind the 
+purchase orders, lot/material delivery records, sampling records 
+and test reports to facilitate verification and tracking of the lots 
+in compliance with the recognised standards.  
+ 
+7. RCs should ensure that protective materials are installed on scaffolding 
+only when all samples in each lot have obtained test results in compliance with the 
+recognised standards.  If any sample of an individual lot fails the laboratory test (i.e. not 
+complying with the recognised standards), the entire lot of materials must not be used on 
+scaffolding. 
+ 
+Buildings under construction/demolition
+7 
+ 
+8. The sampling and testing requirements set out in paragraph 6 above also 
+apply to buildings under construction/demolition.  However, taking into account that the 
+works process (including the installation arrangement of protective materials) in 
+construction/demolition sites is different from that of repair works in existing buildings, 
+and that no residents reside s inside the sites thus posing relatively less impact on the 
+public, RCs may choose to install protective materials on scaffolding first and commence 
+the works.  Subsequently, taking every four storeys on an elevation as one lot, RCs should 
+collect sufficient samples based on the quantity of the lot with reference to the 
+requirements set out in items (a) to (j) of paragraph 6 above, and de liver the samples 
+ 
+/to … 
+                    
+ 
+5  A digital signature supported by a recognised certificate issued by the Postmaster General or 
+other certification authorities recogni sed under the Electronic Transactions Ordinance  
+(Cap. 553). 
+6 https://www.bd.gov.hk/doc/en/resources/codes -and-references/accredited -lab/accredited_  
+lab_fire_retardant_protective_net_e.pdf  
+7  Except domestic buildings not exceeding three storeys. 
+- 5 - 
+ 
+to designated laboratories for testing.  If any sample of a particular lot fails the laboratory 
+test (i.e. not complying with the recognised standards), RCs should immediately arrange 
+for the replacement of that particular lot of protective materials. 
+ 
+9. RCs may also choose to conduct sampling on-site or off-site in accordance 
+with the requirements set out in items (a) to (j) of paragraph 6 above prior to the 
+installation of protective materials on scaffolding  for testing by designated laboratories .  
+After the samples are found to have complied with the recognised standards , RCs may 
+then install the protective materials on scaffolding. 
+ 
+Site Audit by BD 
+ 
+10. RCs should notify BD via the specified form at Appendix IV, with a copy 
+to the project AP s or RI s (where applicable) for retention, within seven days upon 
+completion of the installation of protective materials on scaffolding
+8.  Upon receiving the 
+notification, BD will randomly select individual projects with protective materials  
+installed on scaffolding for site audit9.  The detailed arrangements are as follows:  
+ 
+(a)  BD officers9 will request on -site sampling by RC s at different 
+locations on different storeys by random selection;  
+ 
+(b)  BD9 will then arrange for the delivery of the samples to the 
+Public Works Laboratories of the Civil Engineering and 
+Development Department/ the Government Laboratory  for 
+testing; and 
+ 
+(c)  If any sample from an individual elevation fails to meet the 
+recognised standards, the protective materials on the entire 
+elevation will be deemed non- compliant with the required 
+standards of fire retardant performance and should be 
+completely removed. 
+ 
+11. F ire retardant performance test reports, purchase orders, material delivery 
+records, and records of the sampling process, Sample Information Sheets and sample test 
+results mentioned in paragraphs 6, 8 or 9 above should be made available on site for 
+inspection. 
+ 
+Ensuring the Effectiveness of Fire Retardant Performance 
+ 
+12. The fire retardant performance of protective materials may diminish over 
+time and/or due to site operations.  To ensure contin uous compliance with the required 
+standards of fire retardant performance , RCs should regularly monitor the condition of 
+protective materials , conduct sampling periodically (at intervals not exceeding  
+12 months) for testing in accordance with the requirements set out in paragraph 8 above 
+and submit new test results confirming continuous compliance with the required 
+standards to BD.  RC s should also arrange for sampling of new protective materials for  
+ 
+/replacement … 
+                    
+ 
+8  This means that BD should be notified within seven days after protective materials have been 
+installed on the scaffolding of the entire building. 
+9  Site audit may also be conducted by other law enforcement officers. 
+- 6 - 
+ 
+replacement in accordance with the requirements set out in paragraphs 6, 8 or 9 above for 
+testing by designated laboratories, and ensure that protective materials in compliance with 
+the recognised standards are installed on scaffolding.  Upon replacement with new 
+protective materials, BD9 will also conduct site audit accordingly. 
+ 
+Enforcement Action 
+ 
+13.  If it is found that the above sampling and testing requirements for existing 
+buildings and buildings under construction/demolition have not been fulfilled, or that the 
+test result of any sample obtained by BD
+9 fails to attain the recognised standards, BD will 
+order immediate cessation of works and removal of the non-compliant protective 
+materials under the Buildings Ordinance (BO).  Moreover, BD will initiate investigation 
+and, upon identifying any contraventions, instigate prosecution and/or disciplinary action 
+under the BO.  Depending on the nature of the contravention, BD may refer the case to 
+the relevant law enforcement department for appropriate action. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ ( HO Chun-hung ) 
+Building Authority  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. : BD GR/ACT/11 
+ 
+First issue    December 2025 (AD/NB1)  
+ 
+ 
+  
+ 
+ 
+       
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+     
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         
+ 
+ 
+ 
+ 
+ 
+                    
+            
+ 
+ 
+ 
+   
+            
+   
+   
+       
+   
+ 
+ 
+ 
+  
+ 
+ 
+      
+ 
+     
+  
+    
+   
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+    
+  
+    
+  
+   
+   
+  
+    
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+  
+   
+ 
+ 
+Provision of 
+test report 
+Step 1 
+Sampling in 
+accordance with 
+ISO standards 
+Step 2 
+Laboratory test 
+Step 3 
+S 1 
+Site audit 
+Step 4 
+Appendix I 
+(PNRC 85) 
+Flow Chart of Sampling and Testing of Protective Materials 
+Obtain the test report on fire retardant performance from the supplier for 
+retention on site and displaying at a conspicuous location of the building/site 
+On-site sampling (delivery to site) 
+Existing buildings: 
+Conduct sampling@ for each lot based on the 
+specified quantity and area in accordance 
+with ISO standards 
+Buildings under construction/demolition: 
+May i nstall the protective materials on 
+scaffolding first, and conduct sampling @ in 
+accordance with ISO standards, taking every 
+four storeys on an elevation as one lot 
+Off-site sampling (delivery to warehouse) 
+Label each lot to facilitate verification and 
+tracking*, and conduct sampling @ for e ach 
+lot based on the specified quantity and area 
+in accordance with ISO standards 
+Do all samples inNo the lot comply with 
+the recognised 
+standards? 
+Yes 
+Replace that lot of 
+protective materials 
++ Return to Step 1 
+Notify BD within seven days upon completion of 
+installation on scaffolding 
+Install on scaffolding/continue to use 
+Remove protective 
+materials on the 
+entire elevation 
++ Return to Step 1 
+Deliver the samples to a designated laboratory 
+for testing 
+BD to randomly select projects for site audit 
+No 
+Yes 
+Do all samples in 
+the lot comply with 
+the recognised 
+standards? 
+Continue to use the protective materials and submit new test 
+results to BD periodically (at intervals not exceeding 12 months) 
+@ RCs should arrange a third party (such as a representative of owners/owners ’ corporation/property management 
+company, a notary office or a conformity assessment body accredited by the Hong Kong Accreditation Service) to 
+specify a random method for RCs or their authorised representatives to conduct sampling. 
+* Reliable systems (such as QR codes, near field communication (NFC) devices and radio frequency identification 
+(RFID) technologies) should be employed to track the materials throughout the entire process from delivery to 
+warehouse, sampling for testing, to collection and delivery to sites for installation on scaffolding. 
+(12/2025) 
+Appendix II  
+(PNRC 85) 
+ 附錄 II 
+（註冊承建商作業備考 85） 
+ 
+ 
+樣本 註釋 及 尺寸  
+Annotation and Dimensions of Sample 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(12/2025) 
+樣本 
+（尺寸不小於1.8 米x 2 米） 
+Sample  
+(dimensions not less than  
+1.8 m x 2 m) 
+使用捲尺測量兩側尺寸並拍照記錄  
+Indicate the dimensions with photographic records 
+using measuring tapes on both sides 
+ 
+使 用訂書機將
+紙質標籤固定
+在樣本上 
+Paper label fixed to 
+the sample by stapler 
+ 
+不少於 1.8 米 Not less than 1.8 m 
+ 
+  
+橫 
+ 
+Transverse 
+  
+ 橫 
+Transverse  橫 
+Transverse 
+ 縱 
+Longitudinal 
+ 縱 
+Longitudinal 
+ 
+ 
+縱 
+Longitudinal 
+ 
+不少於 2 米 Not less than 2 m 
+ 
+ 
+Appendix III  
+(PNRC 85) 
+ 附錄 III 
+（註冊承建商作業備考 85） 
+樣本資料表   
+Sample Information Sheet 
+ 
+A. 地盤資料 Site Information 
+* 屋宇署檔案／法定命令／通知／指示／ 小型
+工程呈交編號 
+* BD Ref. No. / Statutory Order / Notice / Direction 
+/ MW Submission No. 
+ 
+樓宇名稱 Name of Building  
+地址 Address 
+  
+B. 樣本詳情 Sample Details 
+生產商 Manufacturer  
+供應商 Supplier  
+產品型號 Product No.  
+批次編號 Lot No.  
+取樣日期及時間 Sampling date and time  
+樣本編號 Sample serial no.  
+樣本尺寸 (寬 x 長)  
+Sample dimensions (width x length)  
+取樣方式 
+Sampling method 
+地盤實地取樣 
+On-site sampling      
+場外取樣 
+Off-site sampling 
+場外取樣地址 
+Location of off-site sampling (如適用 If applicable) 
+C. 取樣程序 Sampling Procedures  
+按第三方人士（即*業主／業主立案法團／物業管理公司代表、公證行或香港認可處認可的合格評定機構）指定
+的隨機方式抽取樣本 
+Select samples using a random method designated by a third party  (i.e. *a representative of own ers/owners’ 
+corporation/property management company, a notary office or a conformity assessment body accredited by the Hong 
+Kong Accreditation Service) 
+姓名 
+Name 
+ 簽署 
+Signature 
+ 
+抽取樣本由*註冊承建商／其授權代表進行 
+Sampling by *Registered Contractor/authorised representative 
+本人茲證明取樣過程按 PNRC 85 的要求進行，並已全程錄影。 
+I hereby certify that the sampling process was conducted in accordance with the requirements under PNRC 85 and recorded on 
+video. 
+姓名 
+Name 
+ 簽署 
+Signature 
+ 
+D. 確認 Confirmation# 
+本人茲證明取樣程序是由本公司授權代表按 PNRC 85 的要求進行。 
+I hereby certify that the sampling process was conducted by our authorised representative in accordance with the requirements 
+under PNRC 85. 
+姓名 
+Name 
+ 簽署 
+Signature 
+ 
+ 
+ 
+ 
+註冊承建商(獲授權簽署人) 
+Registered Contractor  
+(Authorized Signatory)  
+公司蓋印 
+Company chop 
+ 
+日期 
+Date 
+ 
+*  刪除不適用者。Delete as appropriate. 
+# 如 C 部是由註冊承建商獲授權簽署人填寫及簽署，則無需填寫 D 部。 
+ If Part C is completed and signed by the Authorized Signatory of the Registered Contractor, completion of Part D is not necessary. 
+(12/2025) 
+附錄 Appendix IV
+85
+註冊承建商作業備考 
+PNRC
+/
+日 dd 月 mm 年 yyyy
+棚架工程完成 / 更換棚架防護物料通知書
+Notification of Completion of Scaffolding / 
+Replacement of Protective Materials of Scaffolding
+• 請以正楷填寫，並在適當方格內加上『√』號。填寫前，請細閱《注意事項》。
+• Read the “Matters to Note”, complete in BLOCK LETTERS and tick the appropriate boxes.
+致建築事務監督
+To Building Authority
+屋宇署檔案／法定命令／通知／指示／小型工程呈交編號
+BD Ref.No./Statutory Order/Notice/Direction/MW Submission No.
+電郵地址
+E-mail Address
+地盤地址(地區與街道名稱及門牌號數)
+Address of Site (number and name of street and locality)
+按照 PNRC 85，本人
+Pursuant to PNRC 85, I
+註冊承建商中文名稱 *
+Name of Registered Contractor in Chinese *
+註冊承建商英文名稱 * 
+Name of Registered Contractor in English *
+特此告知上述地址的棚架工程已完成 / 棚架防護物料已被更換    ，詳情如下:
+hereby give notice that the installation of scaffolding has been completed / protective materials of scaffolding have been replaced   , with details 
+as follows:
+完成日期
+Date of Completion
+聯絡人姓名
+Name of Contact Person
+姓氏先行 
+Surname first
+聯絡電話 
+Contact Tel. No.
+獲授權簽署人姓名(中文) *
+Name of Authorized Signatory in Chinese *
+註冊證明書編號 * 
+Certificate of Registration Number *
+獲授權簽署人姓名(英文) *
+Name of Authorized Signatory in English *
+姓氏先行 
+Surname first
+註冊屆滿日期 * 
+Date of Expiry of Registration *
+註册承建商簽署(獲授權簽署人) *
+Signature of Registered Contractor (Authorized Signatory) * 任何失實核證或聲明可引致法律行動。
+Any false certification or declaration 
+may be subject to legal action.
+日期 Date
+副本送： 認可人士 / 
+                 註册檢驗人員
+c.c. Authorized Person /  
+       Registered Inspector
+* 根據註冊記錄
+* In accordance with the registration record
+# 刪除不適用者
+# Delete as appropriate
+Appendix IV of PNRC 85 (12/2025)
+#
+#
+日 dd 月 mm 年 yyyy
+日 dd 月 mm 年 yyyy
+# #
+#
+#
+甲. 個人資料 A. Personal Data
+任何人如作出虛假聲明或就重要事項作出失實陳述即屬觸犯刑事罪行，
+可能會被檢控。
+Any person making a false declaration or misrepresenting a material fact 
+shall be guilty of a criminal offence and subject to prosecution.
+收集的目的
+1.  屋宇署會使用透過本表格所獲得的個人資料作下列用途：
+(a) 處理你在本表格中所呈交的文件的相關事務；
+(b) 處理有關上述擬進行工程、《建築物條例》及有關法例的相關事務；
+      及 
+(c) 方便屋宇署與你聯絡。
+2.  你必須提供本表格所要求的個人資料 。假如你未能提供所需資料，可能
+導致處理你所呈交的文件時出現延誤，或甚至導致無法處理你的申請。
+獲轉交資料的部門/人士
+3.  本署可能會向其他政府部門、決策局、機構或任何人士披露你透過本表
+格所提供的個人資料，以作上述第 1 段所列的用途。
+索閱個人資料
+4.  根據《個人資料（私隱）條例》，你有權查閱及改正你所提交的個人資
+料。屋宇署有權就有關資料索閱的要求收取合理費用。如要求查閱及改
+正你的個人資料，請與屋宇署聯絡。
+Purposes of Collection
+1. The personal data provided by means of this form will be used by the 
+Buildings Department for the following purposes:
+(a) activities relating to the processing of your submission in this form;
+(b) activities relating to the above proposed works, and administration of the 
+Buildings Ordinance and other legislations; and
+(c) facilitating communication between the Buildings Department and 
+yourself.
+2. It is obligatory for you to provide the information as required in the form. If 
+you fail to provide the required data, delay may be caused in processing of 
+your submission or even result in rejection of the application.
+Classes of Transferees
+3. The personal data you provided by means of this form may be disclosed to 
+other government departments, bureaux, organisations or any persons for 
+the purposes mentioned in paragraph 1 above.
+Access to Personal Data
+4. You have the right of access and correction with respect to the personal 
+data as provided under the Personal Data (Privacy) Ordinance.  The 
+Buildings Department has the right to charge a reasonable fee for the 
+processing of any data access request. Request for personal data access 
+and correction should be addressed to the Buildings Department. 
+1. 請填妥表格載列所有有關的部分，並在表格上簽署。請附上所有證明文
+件。
+2. 所提供的資料如有不全或錯誤，屋宇署將不能處理呈交的文件。
+3. 如對本表格有任何疑問，請與屋宇署聯絡。
+乙. 填寫表格
+1. Please ensure that all relevant parts of the form are duly completed, and 
+the form is signed. Please enclose all supporting documents.
+2. If incomplete or erroneous information is provided in the form, the Buildings 
+Department may not be able to process the submission.
+3. Enquiries regarding this form should be addressed to the Buildings 
+Department. 
+B. Completion of Form
+1.  郵寄/親身呈交 - 本表格連同有關文件應郵寄或親身呈交至屋宇署：
+九龍油麻地海庭道11號西九龍政府合署北座屋宇署總部地下一般查詢及收
+件處。
+2.  電子郵件傳送 - 透過電子郵件傳送本表格及附上有關文件 (全部必須獲
+香港郵政署長發出的數碼證書認證，或根據《電子交易條例》認可的
+其他核證機關所發出的數碼證書認證) 到屋宇署的電子收件處，電郵地
+址為 receipt@bd.gov.hk。
+屋宇署 
+地址：九龍油麻地海庭道11號西九龍政府合署北座屋宇署總部
+電話：2626 1616 (由 “1823” 接聽) 
+傳真：2537 4992
+電郵：enquiry@bd.gov.hk
+Buildings Department
+Address:   Buildings Department Headquarters, North Tower, West Kowloon
+Tel No.:     2626 1616 (handled by “1823”)  
+Fax No.:    2537 4992 
+Email:  enquiry@bd.gov.hk
+丙. 呈交方法
+1. By Post / In Person - This form together with the relevant documents shall 
+be posted to or submitted in person to the Buildings Department:
+General Enquiry and Receipt Counter, G/F, Buildings Department 
+Headquarters, North Tower, West Kowloon Government Offices, 11 Hoi Ting
+2. Through Email - Email this form together with the relevant documents, all 
+with identity authenticated by a digital certificate issued by the Postmaster 
+General or other certification authorities recognized under the Electronic 
+Transactions Ordinance to the e-Counter of the Buildings Department at 
+receipt@bd.gov.hk.
+C. Submission Methods
+丁. 聯絡資料 D. Contact Details
+注意事項 Matters to Note 
+Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon
+Road, Yau Ma Tei, Kowloon.
+Appendix IV of PNRC 85 (12/2025)

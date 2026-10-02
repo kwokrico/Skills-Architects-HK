@@ -1,0 +1,657 @@
+{
+  "cs_by_folder": {
+    "BEAM Plus Assessment Tools": [
+      {
+        "current": "BEAM Plus Assessment Tools Architect Critical Summary.md",
+        "renamed": "BEAM Plus Assessment Tools_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Cap 121 Buildings Ordinance (Application to the New Territories) Ordinance": [
+      {
+        "current": "Cap 121 Architect Critical Summary (02-08-2012).md",
+        "renamed": "Cap 121 (02-08-2012)_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Cap 123 Building Ordience": [
+      {
+        "current": "Cap 123 Architect Critical Summary (01-03-2026).md",
+        "renamed": "Cap 123 (01-03-2026)_CS.md"
+      },
+      {
+        "current": "Cap 123A Architect Critical Summary (30-06-2024).md",
+        "renamed": "Cap 123A (30-06-2024)_CS.md"
+      },
+      {
+        "current": "Cap 123B Architect Critical Summary (01-02-2021).md",
+        "renamed": "Cap 123B (01-02-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123C Architect Critical Summary (13-05-2021).md",
+        "renamed": "Cap 123C (13-05-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123D Architect Critical Summary (30-06-1997).md",
+        "renamed": "Cap 123D (30-06-1997)_CS.md"
+      },
+      {
+        "current": "Cap 123E Architect Critical Summary (30-06-1997).md",
+        "renamed": "Cap 123E (30-06-1997)_CS.md"
+      },
+      {
+        "current": "Cap 123F Architect Critical Summary (16-06-2024).md",
+        "renamed": "Cap 123F (16-06-2024)_CS.md"
+      },
+      {
+        "current": "Cap 123G Architect Critical Summary (09-09-2021).md",
+        "renamed": "Cap 123G (09-09-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123H Architect Critical Summary (09-02-2012).md",
+        "renamed": "Cap 123H (09-02-2012)_CS.md"
+      },
+      {
+        "current": "Cap 123I Architect Critical Summary (23-04-2020).md",
+        "renamed": "Cap 123I (23-04-2020)_CS.md"
+      },
+      {
+        "current": "Cap 123J Architect Critical Summary (13-05-2021).md",
+        "renamed": "Cap 123J (13-05-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123K Architect Critical Summary (21-10-2021).md",
+        "renamed": "Cap 123K (21-10-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123L Architect Critical Summary (13-05-2021).md",
+        "renamed": "Cap 123L (13-05-2021)_CS.md"
+      },
+      {
+        "current": "Cap 123M Architect Critical Summary (01-12-2020).md",
+        "renamed": "Cap 123M (01-12-2020)_CS.md"
+      },
+      {
+        "current": "Cap 123N Architect Critical Summary (31-03-2022).md",
+        "renamed": "Cap 123N (31-03-2022)_CS.md"
+      },
+      {
+        "current": "Cap 123O Architect Critical Summary (21-10-2023).md",
+        "renamed": "Cap 123O (21-10-2023)_CS.md"
+      },
+      {
+        "current": "Cap 123P Architect Critical Summary (31-03-2022).md",
+        "renamed": "Cap 123P (31-03-2022)_CS.md"
+      },
+      {
+        "current": "Cap 123Q Architect Critical Summary (24-06-2021).md",
+        "renamed": "Cap 123Q (24-06-2021)_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Cap 502 Fire Safety (Commercial Premises) Ordinance": [
+      {
+        "current": "Cap 502 Architect Critical Summary (13-12-2024).md",
+        "renamed": "Cap 502 (13-12-2024)_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Cap 572 Fire Safety (Buildings) Ordinance": [
+      {
+        "current": "Cap 572 Architect Critical Summary (13-12-2024).md",
+        "renamed": "Cap 572 (13-12-2024)_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Cap 636 Fire Safety (Industrial Buildings) Ordinance": [
+      {
+        "current": "Cap 636 Architect Critical Summary (10-09-2020).md",
+        "renamed": "Cap 636 (10-09-2020)_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Miscellaneous": [
+      {
+        "current": "Code of Practice for Mandatory Building Inspection Scheme and Mandatory Window Inspection Scheme (2023 Edition)_CS.md",
+        "renamed": "Code of Practice for Mandatory Building Inspection Scheme and Mandatory Window Inspection Scheme (2023 Edition)_CS.md"
+      },
+      {
+        "current": "Guide to Fire Safety Design for Caverns 1994 Architect Critical Summary.md",
+        "renamed": "Guide to Fire Safety Design for Caverns 1994_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Planning and Construction": [
+      {
+        "current": "Code of Practice for Building Works for Lifts and Escalators 2011 (2020 Edition)_CS.md",
+        "renamed": "Code of Practice for Building Works for Lifts and Escalators 2011 (2020 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice for Fire Resisting Construction 1996 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Fire Resisting Construction 1996_CS.md"
+      },
+      {
+        "current": "Code of Practice for Fire Safety in Buildings 2011 Architect Critical Summary (2024 Edition).md",
+        "renamed": "Code of Practice for Fire Safety in Buildings 2011 (2024 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice for Means of Access for Firefighting and Rescue 2004 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Means of Access for Firefighting and Rescue 2004_CS.md"
+      },
+      {
+        "current": "Code of Practice for Overall Thermal Transfer Value in Buildings 1995 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Overall Thermal Transfer Value in Buildings 1995_CS.md"
+      },
+      {
+        "current": "Code of Practice for the Provision of Means of Escape in Case of Fire 1996 Architect Critical Summary.md",
+        "renamed": "Code of Practice for the Provision of Means of Escape in Case of Fire 1996_CS.md"
+      },
+      {
+        "current": "Code of Practice on Access for External Maintenance 2021 Architect Critical Summary.md",
+        "renamed": "Code of Practice on Access for External Maintenance 2021_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Site and Building Works": [
+      {
+        "current": "Code of Practice for Demolition of Buildings 2004 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Demolition of Buildings 2004_CS.md"
+      },
+      {
+        "current": "Code of Practice for Site Supervision 2009 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Site Supervision 2009_CS.md"
+      },
+      {
+        "current": "Technical Memorandum for Supervision Plans 2009 Architect Critical Summary.md",
+        "renamed": "Technical Memorandum for Supervision Plans 2009_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Structure": [
+      {
+        "current": "Code of Practice for Dead and Imposed Loads 2011 Architect Critical Summary (2021 Edition).md",
+        "renamed": "Code of Practice for Dead and Imposed Loads 2011 (2021 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice for Foundations 2017 Architect Critical Summary (2024 Edition).md",
+        "renamed": "Code of Practice for Foundations 2017 (2024 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice for Precast Concrete Construction 2016 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Precast Concrete Construction 2016_CS.md"
+      },
+      {
+        "current": "Code of Practice for Structural Use of Concrete 2013 Architect Critical Summary (2020 Edition).md",
+        "renamed": "Code of Practice for Structural Use of Concrete 2013 (2020 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice for Structural Use of Glass 2018 Architect Critical Summary.md",
+        "renamed": "Code of Practice for Structural Use of Glass 2018_CS.md"
+      },
+      {
+        "current": "Code of Practice for the Structural Use of Steel 2011 Architect Critical Summary (2023 Edition).md",
+        "renamed": "Code of Practice for the Structural Use of Steel 2011 (2023 Edition)_CS.md"
+      },
+      {
+        "current": "Code of Practice on Wind Effects in Hong Kong 2019 Architect Critical Summary.md",
+        "renamed": "Code of Practice on Wind Effects in Hong Kong 2019_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Minor Works (MWCS)": [
+      {
+        "current": "Minor Works Control System Architect Critical Summary.md",
+        "renamed": "Minor Works Control System_CS.md"
+      }
+    ],
+    "Building Department (BD)\\Others": [
+      {
+        "current": "Cap 344 Architect Critical Summary (13-07-2025).md",
+        "renamed": "Cap 344 (13-07-2025)_CS.md"
+      },
+      {
+        "current": "Cap 344A Architect Critical Summary (28-06-2018).md",
+        "renamed": "Cap 344A (28-06-2018)_CS.md"
+      },
+      {
+        "current": "Cap 344B Architect Critical Summary (27-07-2023).md",
+        "renamed": "Cap 344B (27-07-2023)_CS.md"
+      }
+    ],
+    "Drainage Services Department (DSD)": [
+      {
+        "current": "Sewerage Manual Part 1 Key Planning Issues and Gravity Collection System Architect Critical Summary (May 2013).md",
+        "renamed": "Sewerage Manual Part 1 Key Planning Issues and Gravity Collection System (May 2013)_CS.md"
+      },
+      {
+        "current": "Sewerage Manual Part 2 Pumping Stations and Rising Mains Architect Critical Summary (May 2013).md",
+        "renamed": "Sewerage Manual Part 2 Pumping Stations and Rising Mains (May 2013)_CS.md"
+      },
+      {
+        "current": "Stormwater Drainage Manual Planning, Design and Management Architect Critical Summary (January 2018).md",
+        "renamed": "Stormwater Drainage Manual Planning, Design and Management (January 2018)_CS.md"
+      }
+    ],
+    "Fire Department (FSD)": [
+      {
+        "current": "FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2001 Application of Ceiling Flush Recessed and Concealed Sprinklers Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2001 Application of Ceiling Flush Recessed and Concealed Sprinklers_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2002 Rules for Fire Detection and Alarm Systems for Buildings Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2002 Rules for Fire Detection and Alarm Systems for Buildings_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2009 Rules for Fire Detection and Fire Alarm Systems for Buildings Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2009 Rules for Fire Detection and Fire Alarm Systems for Buildings_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2010 Emergency Exit Devices Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2010 Emergency Exit Devices_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2014 Use of Pre-insulated Panels for Construction of Air Ducts in Mechanical Ventilating Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2014 Use of Pre-insulated Panels for Construction of Air Ducts in Mechanical Ventilating Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2017 Automatic Actuation Devices for Lifts Not Discharging to Protected Means of Escape Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2017 Automatic Actuation Devices for Lifts Not Discharging to Protected Means of Escape_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2019 Ventilation Air Conditioning VAC Control System Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2019 Ventilation Air Conditioning VAC Control System_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2020 Revised Application Procedure for Inspection and Testing of FSI in New Buildings Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2020 Revised Application Procedure for Inspection and Testing of FSI in New Buildings_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2022 Clean Agent Fire Extinguishing Systems Enclosure Integrity Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2022 Clean Agent Fire Extinguishing Systems Enclosure Integrity_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 1-2023 Sprinkler System for Car Ports Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 1-2023 Sprinkler System for Car Ports_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 10-1997 Visual Fire Alarm System Design Manual Barrier Free Access 1997 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 10-1997 Visual Fire Alarm System Design Manual Barrier Free Access 1997_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-1994 Rules for Automatic Sprinkler Installations Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-1994 Rules for Automatic Sprinkler Installations_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2000 Exit and Directional Signs Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2000 Exit and Directional Signs_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2002 Hot Smoke Test on Smoke Extraction System Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2002 Hot Smoke Test on Smoke Extraction System_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2006 Pressurization of Staircases to BS 5588 Part 4 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2006 Pressurization of Staircases to BS 5588 Part 4_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2008 Fire Protection Measures in Construction Sites Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2008 Fire Protection Measures in Construction Sites_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2009 Sounder Bases of Smoke Detectors in Hotels Guesthouses and Student Hostels Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2009 Sounder Bases of Smoke Detectors in Hotels Guesthouses and Student Hostels_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2010 Multi-sensor Detectors in Fire Detection Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2010 Multi-sensor Detectors in Fire Detection Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2012 Visual Fire Alarm Systems under Design Manual Barrier Free Access 2008 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2012 Visual Fire Alarm Systems under Design Manual Barrier Free Access 2008_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2013 Fire Hydrant Hose Reel System Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2013 Fire Hydrant Hose Reel System_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2016 Improvised Hose Reel System Cap 572 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2016 Improvised Hose Reel System Cap 572_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2017 Minimum Fire Resisting Cable Requirements for FSI Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2017 Minimum Fire Resisting Cable Requirements for FSI_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2018 Guidelines on Formulation of Fire Safety Improvement Plans Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2018 Guidelines on Formulation of Fire Safety Improvement Plans_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2019 Fire Safety Requirements for Waivers for Buffer Floor and Lower Floors of Existing Industrial Building Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2019 Fire Safety Requirements for Waivers for Buffer Floor and Lower Floors of Existing Industrial Building_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2021 Practical Guide for Design Installation Acceptance and Maintenance of FSI Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2021 Practical Guide for Design Installation Acceptance and Maintenance of FSI_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2022 Codes of Practice Minimum FSI September 2022 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2022 Codes of Practice Minimum FSI September 2022_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2023 Fire Safety Requirements for Mechanical Ventilating Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2023 Fire Safety Requirements for Mechanical Ventilating Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2024 Fire Protection Measures in High-rise Buildings under Construction Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2024 Fire Protection Measures in High-rise Buildings under Construction_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 2-2025 Fire Safety Requirements for Data Centres Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 2-2025 Fire Safety Requirements for Data Centres_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-1997 Checklist for Fire Shutter Installation Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-1997 Checklist for Fire Shutter Installation_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-1998 Codes of Practice for Minimum FSI 1998 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-1998 Codes of Practice for Minimum FSI 1998_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2006 Specification for Automatic Sprinkler Installations Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2006 Specification for Automatic Sprinkler Installations_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2007 FSI Required under Fire Safety Buildings Ordinance Cap 572 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2007 FSI Required under Fire Safety Buildings Ordinance Cap 572_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2010 Rules for Fire Detection and Fire Alarm Systems for Buildings Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2010 Rules for Fire Detection and Fire Alarm Systems for Buildings_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2012 Specification for Automatic Sprinkler Installations Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2012 Specification for Automatic Sprinkler Installations_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2016 Guidelines on Fire Safety Requirements for New Railway Infrastructures Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2016 Guidelines on Fire Safety Requirements for New Railway Infrastructures_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2017 Reduced Supply Tank Capacity and Fresh Water Incorporation Cap 572 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2017 Reduced Supply Tank Capacity and Fresh Water Incorporation Cap 572_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2019 Guidance Notes on FSI in Modular Integrated Construction Building Projects Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2019 Guidance Notes on FSI in Modular Integrated Construction Building Projects_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2023 Specification of Gas Extraction System for Battery Room and Electrical Charging Facilities Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2023 Specification of Gas Extraction System for Battery Room and Electrical Charging Facilities_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2024 Flexible Connectors for Single Sprinklers to Range Pipes Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2024 Flexible Connectors for Single Sprinklers to Range Pipes_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2025 Fire Safety Requirements for Battery Rooms and Electrical Charging Facilities Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2025 Fire Safety Requirements for Battery Rooms and Electrical Charging Facilities_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 3-2026 IoT Fire Detection and Portable Extinguishers Alternative Cap 572 Low Rise Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 3-2026 IoT Fire Detection and Portable Extinguishers Alternative Cap 572 Low Rise_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-1996 Consolidated FSD Circular Letters 1996 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-1996 Consolidated FSD Circular Letters 1996_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2001 Visual Fire Alarm Time Related System and Water Mist System Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2001 Visual Fire Alarm Time Related System and Water Mist System_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2005 Emergency Vehicular Access Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2005 Emergency Vehicular Access_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2006 FSI Guidelines for New Territories Exempted Houses Small Houses Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2006 FSI Guidelines for New Territories Exempted Houses Small Houses_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2008 Arrangements for Submissions of FSI Plans Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2008 Arrangements for Submissions of FSI Plans_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2010 Sprinkler Subsidiary Stop Valves Management System Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2010 Sprinkler Subsidiary Stop Valves Management System_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2012 Code of Practice for Minimum FSI Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2012 Code of Practice for Minimum FSI_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2017 Clean Agent Fire Extinguishing Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2017 Clean Agent Fire Extinguishing Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2020 Additional Fire Safety Requirements for Car Parking Facilities with EV Charging Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2020 Additional Fire Safety Requirements for Car Parking Facilities with EV Charging_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2021 Specification for Emergency Lighting Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2021 Specification for Emergency Lighting_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2023 Fire Safety Measures Cap 572 Fresh Water and Improvised Hose Reel Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2023 Fire Safety Measures Cap 572 Fresh Water and Improvised Hose Reel Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 4-2024 Corrigendum Codes of Practice Minimum FSI September 2022 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 4-2024 Corrigendum Codes of Practice Minimum FSI September 2022_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-1999 Visual Fire Alarm System Design Manual Barrier Free Access 1997 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-1999 Visual Fire Alarm System Design Manual Barrier Free Access 1997_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2005 Codes of Practice for Minimum FSI July 2005 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2005 Codes of Practice for Minimum FSI July 2005_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2008 Graphical Symbol Exit Signs Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2008 Graphical Symbol Exit Signs_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2016 Revised Supply Tank Requirement for Hose Reel System Cap 572 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2016 Revised Supply Tank Requirement for Hose Reel System Cap 572_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2020 Specification for Automatic Sprinkler Installations Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2020 Specification for Automatic Sprinkler Installations_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2021 Fire Safety Requirements for Emergency Lighting in Licensed Registered Premises Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2021 Fire Safety Requirements for Emergency Lighting in Licensed Registered Premises_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2024 Application Procedure for Inspection and Testing of FSI under Cap 502 572 636 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2024 Application Procedure for Inspection and Testing of FSI under Cap 502 572 636_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 5-2026 Fire Safety Requirements for Car Parking Facilities with Automated Parking System APS Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 5-2026 Fire Safety Requirements for Car Parking Facilities with Automated Parking System APS_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 6-2016 Stop Valves Management System for Fire Hydrant Hose Reel Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 6-2016 Stop Valves Management System for Fire Hydrant Hose Reel Systems_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 6-2020 Installation of Fire Service Pump or Supply Tank on Roof or Floor Slab Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 6-2020 Installation of Fire Service Pump or Supply Tank on Roof or Floor Slab_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 6-2021 Standard for Fire Detection and Fire Alarm Systems for Buildings Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 6-2021 Standard for Fire Detection and Fire Alarm Systems for Buildings_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 7-1995 Automatic Fire Detection System Design and Maintenance Considerations Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 7-1995 Automatic Fire Detection System Design and Maintenance Considerations_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 7-1997 Revised Fire Services Requirements for Refuge Floors Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 7-1997 Revised Fire Services Requirements for Refuge Floors_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 7-1999 Installation and Maintenance of AV Advisory System Emergency Generator Lighting and Exit Sign Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 7-1999 Installation and Maintenance of AV Advisory System Emergency Generator Lighting and Exit Sign_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 7-2020 Certification of FSI under Fire Safety Industrial Buildings Ordinance Cap 636 Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 7-2020 Certification of FSI under Fire Safety Industrial Buildings Ordinance Cap 636_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 8-2021 Additional Requirements for Pressurization of Staircases Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 8-2021 Additional Requirements for Pressurization of Staircases_CS.md"
+      },
+      {
+        "current": "FSD Circular Letter No. 9-2020 Pressure Reducing Valves for Fire Hydrant Hose Reel Systems Architect Critical Summary.md",
+        "renamed": "FSD Circular Letter No. 9-2020 Pressure Reducing Valves for Fire Hydrant Hose Reel Systems_CS.md"
+      }
+    ],
+    "Joint Practice Notes (JPN)": [
+      {
+        "current": "Joint Practice Note No. 1 Green and Innovative Buildings Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 1 Green and Innovative Buildings_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 2 Second Package of Incentives for Green and Innovative Buildings Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 2 Second Package of Incentives for Green and Innovative Buildings_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 3 Landscape and Site Coverage of Greenery Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 3 Landscape and Site Coverage of Greenery_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 4 Development Control Parameters Plot Ratio Gross Floor Area Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 4 Development Control Parameters Plot Ratio Gross Floor Area_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 5 Development Control Parameters Building Height Restriction Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 5 Development Control Parameters Building Height Restriction_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 6 Sustainable Building Design Guidelines Building Separation and Building Setback Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 6 Sustainable Building Design Guidelines Building Separation and Building Setback_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 7 Development Control Parameters Site Coverage Restriction Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 7 Development Control Parameters Site Coverage Restriction_CS.md"
+      },
+      {
+        "current": "Joint Practice Note No. 8 Enhanced Facilitation Measures for Modular Integrated Construction Architect Critical Summary.md",
+        "renamed": "Joint Practice Note No. 8 Enhanced Facilitation Measures for Modular Integrated Construction_CS.md"
+      }
+    ],
+    "Planning Department (PlanD)\\Cap 131 Town Planning Ordinance": [
+      {
+        "current": "Cap 131 Architect Critical Summary (02-11-2023).md",
+        "renamed": "Cap 131 (02-11-2023)_CS.md"
+      }
+    ],
+    "Water Authority (WSD)": [
+      {
+        "current": "Technical Requirements for Plumbing Works in Buildings Architect Critical Summary (April 2026).md",
+        "renamed": "Technical Requirements for Plumbing Works in Buildings (April 2026)_CS.md"
+      }
+    ]
+  },
+  "cs_total": 131,
+  "cs_needing_source_move": 112,
+  "cs_already_in_source_reference": 18,
+  "no_cs_total": 643,
+  "no_cs_by_category": {
+    "amendments": 9,
+    "brochures": 8,
+    "explanatory_notes": 1,
+    "mwcs_forms": 18,
+    "pnap": 7,
+    "primary": 600
+  },
+  "no_cs_primary": [
+    "Building Department (BD)\\Cap 121 Buildings Ordinance (Application to the New Territories) Ordinance\\Buildings Ordinance (Application to the New Territories) Ordinance Cap 121 Consolidated version for the Whole Chapter (02-08-2012) (English).pdf",
+    "Building Department (BD)\\Cap 502 Fire Safety (Commercial Premises) Ordinance\\Cap 502 Consolidated version for the Whole Chapter (13-12-2024) (English).pdf",
+    "Building Department (BD)\\Cap 572 Fire Safety (Buildings) Ordinance\\Fire Safety (Buildings) Ordinance Cap 572 Consolidated version for the Whole Chapter (13-12-2024) (English).pdf",
+    "Building Department (BD)\\Cap 636 Fire Safety (Industrial Buildings) Ordinance\\Cap 636 Consolidated version for the Whole Chapter (10-09-2020) (English).pdf",
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Miscellaneous\\Code of Practice for Mandatory Building Inspection Scheme and Mandatory Window Inspection Scheme 2012 (2023 Edition).pdf",
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Miscellaneous\\CODE OF PRACTICE FOR OIL STORAGE INSTALLATIONS 1992_Osi_1992.pdf",
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Planning and Construction\\Design Manual Barrier Free Access 2008 (2025 Edition) (English).md",
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Planning and Construction\\Design Manual Barrier Free Access 2008 (2025 Edition) (English).pdf",
+    "Building Department (BD)\\Codes of Practice and Design Manuals\\Structure\\EMSUOS2011e.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR1 Attachment of Photographs.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR2 Attachment of A3 Plans.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR3 Attachment of A4 Plans.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR4 Attachment of Structural Calculations.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR5 Attachment of Supervision Plan Class I.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\PR6 Attachment of Safety Inspection Report or Related Documents.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\SP Supervision Plan.pdf",
+    "Building Department (BD)\\Minor Works (MWCS)\\Supporting Information\\VSR Safety Inspection Checklist for Validation Scheme.pdf",
+    "Building Department (BD)\\Others\\Building Management (Fees) Regulations Cap 344A Consolidated version for the Whole Chapter (28-06-2018) (English).pdf",
+    "Building Department (BD)\\Others\\Building Management (Third Party Risks Insurance) Regulation Cap 344B Consolidated version for the Whole Chapter (27-07-2023) (English).pdf",
+    "Building Department (BD)\\Others\\Building Management Ordinance Cap 344 Consolidated version for the Whole Chapter (13-07-2025) (English).pdf",
+    "Building Department (BD)\\Others\\Cap 316E Consolidated version for the Whole Chapter (07-01-2010) (English and Traditional Chinese).pdf",
+    "Building Department (BD)\\Others\\Cap 404 Consolidated version for the Whole Chapter (15-02-2017) (English and Traditional Chinese).pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI001.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI002.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI003.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI004.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI005.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI006.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI007.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI008.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI009.pdf",
+    "Building Department (BD)\\Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)\\PNBI010.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc01.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc02.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc03.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc04.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc05.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc06.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc07.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc11.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc12.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc13.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc14.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc15.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc17.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc19.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc21.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc22.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc23.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc24.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc25.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc26.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc27.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc29.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc30.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc31.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc32.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc33.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc34.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc36.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc37.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc38.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc41.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc42.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc43.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc46.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc47.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc48.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc49.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc52.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc54.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc59.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc60.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc61.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc62.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc63.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc64.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc65.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc67.pdf",
+    "Building Department (BD)\\Practice Notes for Registered Contractors (PNRC)\\Pnrc68.pdf"
+  ],
+  "no_cs_primary_count": 600
+}

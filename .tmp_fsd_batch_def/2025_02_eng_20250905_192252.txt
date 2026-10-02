@@ -1,0 +1,196 @@
+消 防 處 
+消 防 安 全 總 區 
+ 
+香港 九龍尖沙咀東康莊道一號 
+消防 處總部大廈七樓  
+  
+ 
+FIRE SERVICES DEPARTMENT 
+FIRE SAFETY COMMAND 
+ 
+7/F, Fire Services Headquarters Building 
+1 Hong Chong Road, Tsim Sha Tsui East 
+Kowloon, Hong Kong 
+ 
+ 
+ 
+本處檔號  OUR REF. : (11) in FSD FSC GR 13-314/07 V 
+來函檔案 YOUR REF. : 
+圖文傳真 FAX NO. : (852) 2312 0376 
+電  話  TEL. NO. : (852) 2170 9670 
+電子郵件 E-MAIL : fschq@hkfsd.gov.hk 
+ 
+ 26 June 2025 
+ 
+ 
+To: Recipients of FSD Circular Letters 
+ 
+Dear Sir/Madam, 
+ 
+FSD Circular Letter No. 2/2025 
+Fire Safety Requirements for Data Centres 
+ 
+This Circular Letter serves to announce the new requirements for data centres in the 
+Code of Practice for Minimum Fire Service Installations and Equipment, September 2022  
+(“FSI Code”). 
+ 
+Given the increasing demand for data centres , it is imperative  to introduce a new 
+classification of premises, i.e., data centre, in the FSI Code.  Subsequent to a comprehensive 
+review with the engagement of professional bodies, trades and government departments, this  
+new classification together with associated requirements w ill be included in relevant 
+paragraphs of the FSI Code with effect from 1 August 2025.  Please see the enclosed 
+amendment sheet for details. 
+ 
+ For the avoidance of doubt , the following types of building plans received by this 
+Department on or after the effective date shall demonstrate the compliance of  the new 
+requirements:  
+ 
+(i) new submission of building plans for new building; and  
+(ii) new submission of building plans for existing building of which not less than 
+one half measured by volume is rebuilt or which is altered to such an extent as 
+to necessitate the reconstruction of not less than one half of the superficial area 
+of the main walls, or where a new occupation permit shall be issued.  
+ 
+ 
+ 
+…/2 
+
+   
+ 
+1 
+ 
+Code of Practice for Minimum Fire Service Installations and Equipment 
+(September 2022) 
+ 
+Amendment Sheet Serial No. 2/2025 
+ 
+ 
+ 
+(1) Insert definition of “Data Centre” in paragraph 3.1: 
+  
+ “Data Centre” means  
+Premises used for data processing services but exclude activities involving direct 
+provision of customer services, retail services or goods, which often attract a 
+large number of visiting members of the public to the premises. 
+ 
+ 
+(2) Insert a new classification of premises in CLASSIFICATION OF PREMISES 
+AND AREAS OF SPECIAL RISKS in PART IV and re -number the following 
+CLASSIFICATION OF PREMISES AND AREAS OF SPECIAL RISKS: 
+  
+4.21 Data Centres 
+4.22  Domestic Buildings—Low Rise (up to and including 3 storeys in height) 
+4.23  Domestic Buildings—Low Rise (over 3 storeys in height) 
+4.24  Domestic Buildings—High Rise 
+4.25 Consumer Electrical Equipment: incorporating transformers, switchgear, 
+generators/alternators requiring separate installations 
+4.26 Explosive Production and/or storages 
+4.27  Garages 
+4.28  Hotels—Low Rise 
+4.29  Hotels—High Rise 
+4.30  Industrial/Godown Buildings—Low Rise 
+4.31  Industrial/Godown Buildings—High Rise 
+4.32 Institutional Buildings—Low Rise 
+4.33  Institutional Buildings—High Rise 
+4.34  Kitchens (other than kitchens in domestic premises) 
+4.35  Lift Motor Rooms 
+4.36  Lifts not Discharging to Protected Means of Escape 
+4.37  Mechanical Plant Rooms (Group I)  
+4.38  Mechanical Plant Rooms (Group II)  
+4.39  Passenger Terminals/Stations 
+4.40  Petro-chemical Complexes 
+4.41  Railway Marshalling Yards 
+4.42  Refuge Floors 
+4.43  Road Tunnels 
+ 
+ 
+2 
+ 
+4.44  Shipyards  
+4.45  Substation/Switchgear Buildings 
+4.46 Telephone distri bution equipment, computer installation and similar 
+installations 
+ 
+ 
+(3) Insert the following FSI into the REQUIREMENTS section of paragraph 4.21 with: 
+ 
+(i) Automatic actuating devices 
+(ii) Automatic fixed installation other than water 
+(iii) Emergency generator 
+(iv) Emergency lighting 
+(v) Exit sign 
+(vi) Fire alarm system 
+(vii) Fire control centre 
+(viii) Fire detection system 
+(ix) Fire hydrant/hose reel system 
+(x) Fireman’ s lift 
+(xi) Portable hand-operated approved appliance 
+(xii) Sprinkler system 
+(xiii) Ventilation/air conditioning control system 
+ 
+ 
+(4) Insert the following sub-paragraphs into the EXTENT section of paragraph 4.21: 
+ 
+(i) As required by that equipment which needs to be automatically actuated. 
+(ii) To be provided to areas where the use of w ater is undesirable for the 
+occupancy or trade. 
+(iii) An independently powered generator of sufficient electrical capacity to 
+meet the fire service installations and fireman’ s lifts it is required to 
+provide. 
+(iv) Emergency lighting shall be provided thr oughout the entire building and 
+all exit routes leading to ground level. 
+(v) Sufficient directional and exit signs to ensure that all exit routes from any 
+floor within the building are clearly indicated as required by the 
+configuration of staircases serving the building. 
+(vi) One actuating point and one audio warning device to be located at each 
+hose reel point. Visual alarm signals shall be provided where necessary in 
+accordance with current Design Manual: Barrier Free Access. This 
+actuating point shall include facilities for fire pump start and audio/visual 
+warning device initiation. 
+ 
+ 
+ 
+3 
+ 
+(vii) Minimum of one, additional to be provided according to the complexity of 
+the building. 
+(viii) To be provided in areas not covered by automatic fixed installations. 
+(ix) There shall be sufficient hydrants and hose reels on each floor. Fire 
+hydrants shall be provided in all approach lobbies to required staircases or 
+required staircase enclosures. For buildings not having the required 
+staircase, fire hydrants shall be provided to the satisfaction of the Director 
+of Fire Services. Hose reels shall be provided to ensure that every part of 
+the premises can be reached by a length of not more than 30 m of hose reel 
+tubing. 
+(x) As required by the Code of Practice for Fire Safety in Buildings. 
+(xi) As required by occupancy. 
+(xii) Required for data centres  with total floor areas exceeding 230 square 
+metres and to cover all parts of the data centres  including staircases, 
+common corridors and toilets. 
+(xiii) When a ventilation /air conditioning control system to a building is 
+provided, it shall stop mechanically induced air movement within a 
+designated fire compartment. 
+ 
+ 
+(5) Insert the following sub- paragraphs into the ADDITIONAL REQUIREMENTS 
+section of paragraph 4.21: 
+  
+(i) All l inings for acoustic and thermal insulation purposes in ductings and 
+concealed locations shall be of Class 1 or 2 Rate of Surface Spread of 
+Flame as per British Standard 476: Part 7 or its international equivalent, 
+or be brought up to that standard by use o
+f an approved fire retardant 
+product. 
+(ii) All linings for acoustic, thermal insulation and decorative purposes within 
+protected means of escape shall be of Class 1 or 2 Rate of Surface Spread 
+of Flame as per British Standard 476: Part 7 or its international 
+equivalent, or be brought up to that standard by use of an approved fire 
+retardant product. 
+(iii) Any intended storage or use of dangerous goods as defined in Chapter 295 
+of the Laws of Hong Kong should be notified to the Director of Fire 
+Services. 
+  
+ 
+ 
+ 
+- End -
