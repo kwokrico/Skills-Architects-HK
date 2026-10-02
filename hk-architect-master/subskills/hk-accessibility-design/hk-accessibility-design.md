@@ -1,18 +1,18 @@
 ---
 name: hk-accessibility-design
-description: Hong Kong barrier-free access — Design Manual Barrier Free Access 2008 (DMBA), PNAP APP-152, BD compliance, accessible routes, ramps, lifts, tactile paving, and MTR interface.
+description: Hong Kong barrier-free access — Design Manual Barrier Free Access 2008 (DMBA), PNAP APP-41, BD compliance, accessible routes, ramps, lifts, tactile paving, and MTR interface.
 disable-model-invocation: true
 ---
 
 # HK Accessibility Design
 
-Primary code: Design Manual: Barrier Free Access 2008 (DMBA 2008). BD enforces via BO Cap. 123 and PNAP APP-152. Compliance checked at Building Plan submission stage.
+Primary code: Design Manual: Barrier Free Access 2008 (DMBA 2008). BD enforces via BO Cap. 123 and PNAP APP-41. Compliance checked at Building Plan submission stage.
 
 For **DMBA ramps**, use `hk-accessibility-design`. For other topics, see the routing table below.
 
 ## When to Use This Skill
 
-Barrier-free access under DMBA 2008 and PNAP APP-152.
+Barrier-free access under DMBA 2008 and PNAP APP-41.
 
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
@@ -60,7 +60,7 @@ Required at: all public entrances, lift lobbies, pedestrian crossings, MTR/publi
 
 ## 3. BD Submission Requirements
 
-- PNAP APP-152: administrative reference for barrier-free access compliance
+- PNAP APP-41: administrative reference for barrier-free access compliance (Design Manual: Barrier Free Access 2008)
 - Barrier-free access plan required as part of General Building Plans submission
 - Accessible route must connect: entrance → lift → all floors → accessible WC → all primary spaces
 - Exemptions: village houses (NTEH); certain minor works under Cap. 123N
@@ -86,4 +86,4 @@ Required at: all public entrances, lift lobbies, pedestrian crossings, MTR/publi
 
 ---
 
-*Sources: Design Manual: Barrier Free Access 2008 (BD), PNAP APP-152, Buildings Ordinance Cap. 123.*
+*Sources: Design Manual: Barrier Free Access 2008 (BD), PNAP APP-41, Buildings Ordinance Cap. 123.*

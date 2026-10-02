@@ -8,40 +8,40 @@ Total: **132** files
 
 ## Building Department (BD)\Cap 121 Buildings Ordinance (Application to the New Territories) Ordinance (1)
 
-- `Cap 121 (02-08-2012)_CS.md`
+- `Cap 121 (02-08-2012)_Buildings Ordinance (Application to the New Territories) Ordinance_CS.md`
 
 ## Building Department (BD)\Cap 123 Building Ordience (18)
 
-- `Cap 123 (01-03-2026)_CS.md`
-- `Cap 123A (30-06-2024)_CS.md`
-- `Cap 123B (01-02-2021)_CS.md`
-- `Cap 123C (13-05-2021)_CS.md`
-- `Cap 123D (30-06-1997)_CS.md`
-- `Cap 123E (30-06-1997)_CS.md`
-- `Cap 123F (16-06-2024)_CS.md`
-- `Cap 123G (09-09-2021)_CS.md`
-- `Cap 123H (09-02-2012)_CS.md`
-- `Cap 123I (23-04-2020)_CS.md`
-- `Cap 123J (13-05-2021)_CS.md`
-- `Cap 123K (21-10-2021)_CS.md`
-- `Cap 123L (13-05-2021)_CS.md`
-- `Cap 123M (01-12-2020)_CS.md`
-- `Cap 123N (31-03-2022)_CS.md`
-- `Cap 123O (21-10-2023)_CS.md`
-- `Cap 123P (31-03-2022)_CS.md`
-- `Cap 123Q (24-06-2021)_CS.md`
+- `Cap 123 (01-03-2026)_Buildings Ordinance_CS.md`
+- `Cap 123A (30-06-2024)_Building (Administration) Regulations_CS.md`
+- `Cap 123B (01-02-2021)_Building (Construction) Regulations_CS.md`
+- `Cap 123C (13-05-2021)_Building (Demolition Works) Regulations_CS.md`
+- `Cap 123D (30-06-1997)_Building (Escalators) Regulations_CS.md`
+- `Cap 123E (30-06-1997)_Building (Lifts) Regulations_CS.md`
+- `Cap 123F (16-06-2024)_Building (Planning) Regulations_CS.md`
+- `Cap 123G (09-09-2021)_Building (Private Streets and Access Roads) Regulations_CS.md`
+- `Cap 123H (09-02-2012)_Building (Refuse Storage and Material Recovery Chambers and Refuse Chutes) Regulations_CS.md`
+- `Cap 123I (23-04-2020)_Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulations_CS.md`
+- `Cap 123J (13-05-2021)_Building (Ventilating Systems) Regulations_CS.md`
+- `Cap 123K (21-10-2021)_Building (Oil Storage Installations) Regulations_CS.md`
+- `Cap 123L (13-05-2021)_Building (Appeal) Regulation_CS.md`
+- `Cap 123M (01-12-2020)_Building (Energy Efficiency) Regulation_CS.md`
+- `Cap 123N (31-03-2022)_Building (Minor Works) Regulation_CS.md`
+- `Cap 123O (21-10-2023)_Building (Minor Works) (Fees) Regulation_CS.md`
+- `Cap 123P (31-03-2022)_Building (Inspection and Repair) Regulation_CS.md`
+- `Cap 123Q (24-06-2021)_Building (Construction) Regulation_CS.md`
 
 ## Building Department (BD)\Cap 502 Fire Safety (Commercial Premises) Ordinance (1)
 
-- `Cap 502 (13-12-2024)_CS.md`
+- `Cap 502 (13-12-2024)_Fire Safety (Commercial Premises) Ordinance_CS.md`
 
 ## Building Department (BD)\Cap 572 Fire Safety (Buildings) Ordinance (1)
 
-- `Cap 572 (13-12-2024)_CS.md`
+- `Cap 572 (13-12-2024)_Fire Safety (Buildings) Ordinance_CS.md`
 
 ## Building Department (BD)\Cap 636 Fire Safety (Industrial Buildings) Ordinance (1)
 
-- `Cap 636 (10-09-2020)_CS.md`
+- `Cap 636 (10-09-2020)_Fire Safety (Industrial Buildings) Ordinance_CS.md`
 
 ## Building Department (BD)\Codes of Practice and Design Manuals\Miscellaneous (2)
 
@@ -81,9 +81,9 @@ Total: **132** files
 
 ## Building Department (BD)\Others (3)
 
-- `Cap 344 (13-07-2025)_CS.md`
-- `Cap 344A (28-06-2018)_CS.md`
-- `Cap 344B (27-07-2023)_CS.md`
+- `Cap 344 (13-07-2025)_Building Management Ordinance_CS.md`
+- `Cap 344A (28-06-2018)_Building Management (Fees) Regulations_CS.md`
+- `Cap 344B (27-07-2023)_Building Management (Third Party Risks Insurance) Regulation_CS.md`
 
 ## Drainage Services Department (DSD) (3)
 
