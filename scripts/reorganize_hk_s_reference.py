@@ -11,6 +11,7 @@ import sys
 from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 HK_REF = ROOT / "hk_s_reference"
@@ -56,6 +57,10 @@ def doc_matches_cs_entry(doc: Path, cs: CsEntry) -> bool:
     doc_jpn = jpn_key(doc.name)
     cs_jpn = jpn_key(cs.title)
     if doc_jpn and cs_jpn and doc_jpn == cs_jpn:
+        return True
+    doc_pnrc = _pnrc_key(doc.name)
+    cs_pnrc = _pnrc_key(cs.title)
+    if doc_pnrc and cs_pnrc and doc_pnrc == cs_pnrc:
         return True
     return False
 
@@ -204,6 +209,11 @@ def match_doc_to_any_cs(doc: Path, cs_entries: list[CsEntry]) -> bool:
 
 
 def collect_without_cs(cs_entries: list[CsEntry]) -> list[Path]:
+    named: set[Path] = set()
+    for cs in cs_entries:
+        hit = _explicit_filename_source(cs, _read_cs(cs.path))
+        if hit is not None:
+            named.add(hit)
     without: list[Path] = []
     for path in sorted(HK_REF.rglob("*")):
         if not path.is_file():
@@ -214,36 +224,354 @@ def collect_without_cs(cs_entries: list[CsEntry]) -> list[Path]:
             continue
         if is_cs_file(path):
             continue
-        if not match_doc_to_any_cs(path, cs_entries):
-            without.append(path)
+        if path in named or match_doc_to_any_cs(path, cs_entries):
+            continue
+        without.append(path)
     return without
+
+
+_URL_RE = re.compile(r"https?://[^\s)>\]]+")
+_BACKTICK_RE = re.compile(r"`([^`]+)`")
+_STEM_NOISE_RE = re.compile(
+    r"\b(brochure|english|chinese|traditional|edition|fifth|fourth|third|second|first|with|eurocodes)\b",
+    re.I,
+)
+_PNBI_RE = re.compile(r"\bpnbi[-_\s]?0*(\d+)\b", re.I)
+_PNRC_RE = re.compile(r"\bpnrc[-_\s]?0*(\d+)\b", re.I)
+_PRACTICE_NOTE_RE = re.compile(
+    r"(?:practice note no\.?\s+(?:apsrse\s+)?|pn\s*)(\d+)\s*[-_]\s*(\d{2,4})([a-z])?",
+    re.I,
+)
+_PRACTICE_NOTE_REV_RE = re.compile(r"^(?:2k|(\d{4}))([a-z])?[-_](\d+)([a-z])?$", re.I)
+_APSR_RE = re.compile(r"^(\d{2})(\d{2})apsr$", re.I)
+_INV_EXTS = DOC_EXTS | {".rtf"}
+_MAX_MATCH_HITS = 5
+
+
+def nearest_source_dir(cs: CsEntry) -> Path:
+    """source_reference next to the CS, or next to source_md/ for LandsD drafts."""
+    if cs.path.parent.name == "source_md":
+        return cs.path.parent.parent / "source_reference"
+    return cs.path.parent / "source_reference"
+
+
+def _md_path(path: Path, label: str | None = None) -> str:
+    rel = path.relative_to(HK_REF).as_posix()
+    text = (label if label is not None else path.name).replace("|", "\\|")
+    return f"[{text}]({quote(rel, safe='/')})"
+
+
+def _md_url(url: str) -> str:
+    safe = url.replace("|", "%7C")
+    return f"[{safe}]({safe})"
+
+
+def _read_cs(path: Path) -> str:
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
+def _cited_files(text: str, sr: Path) -> list[Path]:
+    if not sr.is_dir():
+        return []
+    by_name = {p.name.lower(): p for p in sr.iterdir() if p.is_file()}
+    found: list[Path] = []
+    seen: set[Path] = set()
+    for line in text.splitlines():
+        if "source_reference" not in line.replace("\\", "/"):
+            continue
+        for token in _BACKTICK_RE.findall(line):
+            token = token.strip().replace("\\", "/")
+            if not token or "*" in token:
+                continue
+            hit = by_name.get(token.split("/")[-1].lower())
+            if hit is not None and hit not in seen:
+                seen.add(hit)
+                found.append(hit)
+    return found
+
+
+def _listable_docs(sr: Path) -> list[Path]:
+    if not sr.is_dir():
+        return []
+    return [
+        p
+        for p in sr.iterdir()
+        if p.is_file() and p.suffix.lower() in _INV_EXTS and not is_amendment(p.name)
+    ]
+
+
+def _matcher_hits(cs: CsEntry, docs: list[Path], sr: Path) -> list[Path]:
+    entry = CsEntry(path=cs.path, title=cs.title, key=cs.key, parent=sr.parent)
+    hits = [doc for doc in docs if doc_matches_cs_entry(doc, entry)]
+    cap = cap_prefix(cs.title)
+    if cap:
+        tight = [doc for doc in hits if cap_prefix(doc.name) == cap]
+        if tight:
+            return tight
+    return hits
+
+
+def _full_year(year: int) -> int:
+    if year >= 100:
+        return year
+    return 1900 + year if year >= 70 else 2000 + year
+
+
+def _label_stem(name: str) -> str:
+    """Drop a real file extension. Leave titles whose dot is 'No.' alone."""
+    suffix = Path(name).suffix.lower()
+    if suffix in _INV_EXTS or suffix == ".md":
+        return Path(name).stem
+    return name
+
+
+def _practice_note_key(name: str) -> tuple[int, int, str] | None:
+    stem = _label_stem(name)
+    match = _PRACTICE_NOTE_RE.search(stem)
+    if match:
+        suffix = match.group(3) or ""
+        if suffix.lower() == "e":
+            suffix = ""
+        return int(match.group(1)), _full_year(int(match.group(2))), suffix.lower()
+    match = _APSR_RE.match(stem)
+    if match:
+        return int(match.group(2)), _full_year(int(match.group(1))), ""
+    match = _PRACTICE_NOTE_REV_RE.match(stem)
+    if not match:
+        return None
+    year = 2000 if match.group(1) is None else int(match.group(1))
+    suffix = (match.group(2) or match.group(4) or "").lower()
+    if suffix == "e":
+        suffix = ""
+    return int(match.group(3)), year, suffix
+
+
+def _pnbi_key(name: str) -> str | None:
+    match = _PNBI_RE.search(name)
+    return str(int(match.group(1))) if match else None
+
+
+def _pnrc_key(name: str) -> str | None:
+    match = _PNRC_RE.search(name)
+    return str(int(match.group(1))) if match else None
+
+
+def _id_hit(title: str, docs: list[Path]) -> Path | None:
+    pnbi = _pnbi_key(title)
+    if pnbi:
+        hits = [doc for doc in docs if _pnbi_key(doc.name) == pnbi]
+        if len(hits) == 1:
+            return hits[0]
+    pnrc = _pnrc_key(title)
+    if pnrc:
+        hits = [doc for doc in docs if _pnrc_key(doc.name) == pnrc]
+        if len(hits) == 1:
+            return hits[0]
+    note = _practice_note_key(title)
+    if note:
+        hits = [doc for doc in docs if _practice_note_key(doc.name) == note]
+        if len(hits) == 1:
+            return hits[0]
+    return None
+
+
+def _loose_stem(name: str) -> str:
+    text = _STEM_NOISE_RE.sub(" ", _label_stem(name).lower())
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", text).split())
+
+
+def _rejects_other_circular(title: str, doc_name: str) -> bool:
+    """Shared words must not pair two different 'No. N-YYYY' circulars."""
+    cs_circ = circular_key(title)
+    doc_circ = circular_key(doc_name)
+    return bool(cs_circ and doc_circ and cs_circ != doc_circ)
+
+
+def _stem_hit(title: str, docs: list[Path]) -> Path | None:
+    cs_key = _loose_stem(title)
+    if len(cs_key) < 12:
+        return None
+    contained = [
+        doc
+        for doc in docs
+        if not _rejects_other_circular(title, doc.name)
+        and (cs_key in (dk := _loose_stem(doc.name)) or dk in cs_key)
+    ]
+    if len(contained) == 1:
+        return contained[0]
+    if contained:
+        return None
+    cs_tokens = [tok for tok in cs_key.split() if len(tok) >= 3]
+    scored: list[tuple[int, Path]] = []
+    for doc in docs:
+        if _rejects_other_circular(title, doc.name):
+            continue
+        doc_tokens = set(_loose_stem(doc.name).split())
+        doc_tokens |= {tok[:-1] for tok in doc_tokens if tok.endswith("s") and len(tok) > 4}
+        shared = [
+            tok
+            for tok in cs_tokens
+            if tok in doc_tokens or (tok.endswith("s") and len(tok) > 4 and tok[:-1] in doc_tokens)
+        ]
+        long = sum(1 for tok in shared if len(tok) >= 5)
+        if len(shared) < 2 or (long < 1 and len(shared) < 3):
+            continue
+        scored.append((len(shared), doc))
+    if not scored:
+        return None
+    scored.sort(key=lambda item: (-item[0], item[1].name.lower()))
+    if len(scored) > 1 and scored[0][0] == scored[1][0]:
+        return None
+    return scored[0][1]
+
+
+def _opening_url(text: str) -> str | None:
+    head = "\n".join(text.splitlines()[:20])
+    match = _URL_RE.search(head)
+    return match.group(0).rstrip(".,;") if match else None
+
+
+def _source_section(text: str) -> str:
+    match = re.search(r"(?m)^### Source\s*$", text)
+    if not match:
+        return ""
+    rest = text[match.end() :]
+    nxt = re.search(r"(?m)^#{1,6} ", rest)
+    return rest[: nxt.start()] if nxt else rest
+
+
+def _named_source_files(text: str, sr: Path) -> list[Path]:
+    """Backtick filenames in ### Source that exist in this source_reference/."""
+    if not sr.is_dir():
+        return []
+    by_name = {path.name.lower(): path for path in sr.iterdir() if path.is_file()}
+    found: list[Path] = []
+    seen: set[Path] = set()
+    for token in _BACKTICK_RE.findall(_source_section(text)):
+        token = token.strip().replace("\\", "/")
+        if not token or "*" in token:
+            continue
+        hit = by_name.get(Path(token).name.lower())
+        if hit is not None and hit not in seen:
+            seen.add(hit)
+            found.append(hit)
+    return found
+
+
+def _explicit_filename_source(cs: CsEntry, text: str) -> Path | None:
+    """Filename the CS names, when title matching is missing or ambiguous.
+
+    A unique 1..5 title hit stays in charge so an extra backtick cannot
+    replace an already-correct pair.
+    """
+    sr = nearest_source_dir(cs)
+    if _cited_files(text, sr):
+        return None
+    docs = _listable_docs(sr)
+    hits = _matcher_hits(cs, docs, sr) if docs else []
+    if 1 <= len(hits) <= _MAX_MATCH_HITS:
+        return None
+    named = _named_source_files(text, sr)
+    return named[0] if len(named) == 1 else None
+
+
+def _source_cell(cs: CsEntry, text: str, sole: bool) -> tuple[str, bool]:
+    sr = nearest_source_dir(cs)
+    cited = _cited_files(text, sr)
+    if cited:
+        return "<br>".join(_md_path(path) for path in cited), True
+    explicit = _explicit_filename_source(cs, text)
+    if explicit is not None:
+        return _md_path(explicit), True
+    docs = _listable_docs(sr)
+    hits = _matcher_hits(cs, docs, sr) if docs else []
+    if len(hits) > _MAX_MATCH_HITS:
+        return _md_path(sr, "source_reference/"), True
+    if hits:
+        ordered = sorted(hits, key=lambda path: path.name.lower())
+        return "<br>".join(_md_path(path) for path in ordered), True
+    ident = _id_hit(cs.title, docs) if docs else None
+    if ident is not None:
+        return _md_path(ident), True
+    stemmed = _stem_hit(cs.title, docs) if docs else None
+    if stemmed is not None:
+        return _md_path(stemmed), True
+    url = _opening_url(text)
+    if url:
+        return _md_url(url), True
+    if sole and sr.is_dir() and any(path.is_file() for path in sr.iterdir()):
+        return _md_path(sr, "source_reference/"), True
+    return "—", False
+
+
+def _assert_inventory_samples(cells: dict[str, str]) -> None:
+    """ponytail: fails regeneration if a known CS/source pair stops resolving."""
+    samples = {
+        "BEAM Plus Assessment Tools/BEAM Plus New Buildings V2.0_CS.md": "BEAM Plus New Buildings V2.0 Brochure.pdf",
+        "Building Department (BD)/Cap 123 Building Ordience/Cap 123 (01-03-2026)_Buildings Ordinance_CS.md": "Cap 123 Consolidated",
+        "Fire Department (FSD)/FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors_CS.md": "1-1997",
+        "Fire Department (FSD)/FSD Circular Letter No. 1-2011 Delisting of Fire Extinguishers Containing Scheduled Substances_CS.md": "2011_01.pdf",
+        "Fire Department (FSD)/FSD Circular Letter No. 2-2007 Certification of FSI under Fire Safety Buildings Ordinance Cap 572_CS.md": "2007_02.pdf",
+        "Building Department (BD)/BD Website/Alterations and additions/Alterations and additions_CS.md": "bd.gov.hk/en/building-works/alterations-and-additions",
+        "Land Department (LandD)/LACO Circular Memorandum/source_md/LACO Circular Memorandum No. 72 (26-04-2013)_CS.md": "72.pdf",
+        "Planning Department (PlanD)/Cap 131 Town Planning Ordinance/Cap 131 (02-11-2023)_CS.md": "—",
+    }
+    for rel, needle in samples.items():
+        cell = cells.get(rel, "")
+        if needle not in cell:
+            raise AssertionError(f"{rel} source cell missing {needle!r}: {cell}")
+    cap = cells[
+        "Building Department (BD)/Cap 123 Building Ordience/Cap 123 (01-03-2026)_Buildings Ordinance_CS.md"
+    ]
+    if "Cap 123A" in cap:
+        raise AssertionError(f"Cap 123 row also linked Cap 123A: {cap}")
 
 
 def write_cs_inventory(cs_entries: list[CsEntry]) -> Path:
     out = HK_REF / "_CS_INVENTORY.md"
-    by_folder: dict[str, list[tuple[str, str]]] = defaultdict(list)
+    texts = {cs.path: _read_cs(cs.path) for cs in cs_entries}
+    sr_counts: dict[Path, int] = defaultdict(int)
     for cs in cs_entries:
-        folder = str(cs.path.parent.relative_to(HK_REF))
-        old_name = cs.path.name
-        new_name = rename_cs_filename(old_name)
-        by_folder[folder].append((old_name, new_name))
+        sr_counts[nearest_source_dir(cs)] += 1
+
+    rows: dict[str, list[tuple[str, str, str, bool]]] = defaultdict(list)
+    cells: dict[str, str] = {}
+    for cs in cs_entries:
+        folder = cs.path.parent.relative_to(HK_REF).as_posix()
+        if folder == ".":
+            folder = ""
+        cell, resolved = _source_cell(cs, texts[cs.path], sr_counts[nearest_source_dir(cs)] == 1)
+        rel = cs.path.relative_to(HK_REF).as_posix()
+        cells[rel] = cell
+        rows[folder].append((cs.path.name, _md_path(cs.path), cell, resolved))
+
+    _assert_inventory_samples(cells)
 
     lines = [
         "# Critical Summary Inventory",
         "",
         f"Total: **{len(cs_entries)}** files",
         "",
+        "| Folder | CS | With source |",
+        "|---|---:|---:|",
     ]
-    for folder in sorted(by_folder):
-        items = by_folder[folder]
-        lines.append(f"## {folder} ({len(items)})")
+    for folder in sorted(rows):
+        items = rows[folder]
+        label = folder or "(root)"
+        lines.append(f"| {label} | {len(items)} | {sum(1 for item in items if item[3])} |")
+    lines.append("")
+
+    for folder in sorted(rows):
+        items = sorted(rows[folder], key=lambda item: item[0].lower())
+        heading = folder or "(root)"
+        lines.append(f"## {heading} ({len(items)})")
         lines.append("")
-        for old, new in sorted(items):
-            if old == new:
-                lines.append(f"- `{new}`")
-            else:
-                lines.append(f"- `{old}` → `{new}`")
+        lines.append("| CS | Source |")
+        lines.append("|---|---|")
+        for _name, cs_link, cell, _resolved in items:
+            lines.append(f"| {cs_link} | {cell} |")
         lines.append("")
+
     out.write_text("\n".join(lines), encoding="utf-8")
     return out
 

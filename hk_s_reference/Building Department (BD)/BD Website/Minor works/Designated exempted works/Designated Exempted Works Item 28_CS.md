@@ -1,0 +1,25 @@
+# Designated Exempted Works Item 28
+**Architect critical summary for schematic design**
+2 Oct 2026 | Buildings Department | [English](https://www.bd.gov.hk/en/building-works/minor-works/designated-exempted-works/index_mwcs_works_28.html) · [繁體](https://www.bd.gov.hk/tc/building-works/minor-works/designated-exempted-works/index_mwcs_works_28.html)
+
+> Scope note: BD webpage for Designated exempted works item 28, scraped 2 Oct 2026. Every limit below is printed on that page. If a criterion is not in the table, this page does not state it. Sister summary: [Minor Works Control System_CS.md](../../../Minor%20Works%20%28MWCS%29/Minor%20Works%20Control%20System_CS.md).
+
+## Regulatory Overview
+
+This page covers **Designated exempted works** item **28**. Nature of works stated on the page: **Erection/Alteration/Repair/Removal of any cat-ladder projecting from an external wall of a building**.
+
+## Critical main topics and subtopics
+
+### 1. Item gate
+
+| Parameter | Requirement |
+|---|---|
+| Designated Exempted Works item no. | 28 |
+| Nature of works | Erection/Alteration/Repair/Removal of any cat-ladder projecting from an external wall of a building |
+| Result in any additional load to any cantilevered slab | No |
+| The distance between the highest point of the cat-ladder and the roof or ground | **Not more than 3m** |
+| Projection of the rungs of the cat-ladder from the wall | **Not more than 300mm** |
+| The rungs of the cat-ladder | Not wider than **500mm** |
+| The cat ladder projects over any street | No |
+
+**SD takeaway:** If any row of the gate is not met, this item does not apply.

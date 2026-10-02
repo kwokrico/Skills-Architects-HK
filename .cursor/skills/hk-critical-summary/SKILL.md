@@ -19,6 +19,7 @@ Write a highly practical, scannable Architect Critical Summary from a **provided
 3. **Derive the CS filename** from the source (rules below). Never put "Architect Critical Summary" in the filename.
 4. **Write the CS file** in the same parent folder as the source document topic — **not** inside `source_reference/`.
 5. **Place the English PDF** in `source_reference/` under that parent. Keep the PDF's existing filename; do not rename it to match the CS. If it is already there, leave it. If only a bilingual PDF exists, use the English consolidated version.
+6. **Refresh the inventories.** After the CS file and the English PDF are in place, from the repo root run `python scripts/reorganize_hk_s_reference.py --report-only`. That rewrites `hk_s_reference/_CS_INVENTORY.md` and `hk_s_reference/DOCUMENTS_WITHOUT_CS.md`. Do not hand-edit either file. Do not pass `--execute`. Skip this command if step 1 halted because no source was provided.
 
 ---
 
@@ -115,3 +116,4 @@ Scale depth to the source: a short circular may be a few tables; a CoP or Cap ma
 | Topic with no SD takeaway | One `**SD takeaway:**` per `###` topic |
 | Invented clauses or remembered Cap text | Read the provided file; cite only what is in it |
 | Regulatory Overview longer than 2 sentences | Two sentences, then move on to topics |
+| Hand-editing `_CS_INVENTORY.md` or `DOCUMENTS_WITHOUT_CS.md` | Run `python scripts/reorganize_hk_s_reference.py --report-only` after the CS is written |

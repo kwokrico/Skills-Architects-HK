@@ -1,0 +1,23 @@
+# Designated Exempted Works Item 6
+**Architect critical summary for schematic design**
+2 Oct 2026 | Buildings Department | [English](https://www.bd.gov.hk/en/building-works/minor-works/designated-exempted-works/index_mwcs_works_6.html) · [繁體](https://www.bd.gov.hk/tc/building-works/minor-works/designated-exempted-works/index_mwcs_works_6.html)
+
+> Scope note: BD webpage for Designated exempted works item 6, scraped 2 Oct 2026. Every limit below is printed on that page. If a criterion is not in the table, this page does not state it. Sister summary: [Minor Works Control System_CS.md](../../../Minor%20Works%20%28MWCS%29/Minor%20Works%20Control%20System_CS.md).
+
+## Regulatory Overview
+
+This page covers **Designated exempted works** item **6**. Nature of works stated on the page: **Repair/Removal of any external mesh fence or metal railing, with or without a solid fence wall as its lower part on-grade**.
+
+## Critical main topics and subtopics
+
+### 1. Item gate
+
+| Parameter | Requirement |
+|---|---|
+| Designated Exempted Works item no. | 6 |
+| Nature of works | Repair/Removal of any external mesh fence or metal railing, with or without a solid fence wall as its lower part on-grade |
+| The height of the structure, including any feature at its top | **Not more than 3m** |
+| If the lower part of the structure is a solid fence wall, the height of the wall alone | **Not more than 1.1m** |
+| The structure is used as a protective barrier | No |
+
+**SD takeaway:** If any row of the gate is not met, this item does not apply.

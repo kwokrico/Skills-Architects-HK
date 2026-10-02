@@ -1,34 +1,25 @@
 # Documents Without Critical Summary
 
-Total: **951** files (PDF and MD)
+Total: **1052** files (PDF and MD)
 
 ## Summary by department
 
 | Department | Count |
 |------------|------:|
-| Building Department (BD) | 625 |
-| Land Department (LandD) | 219 |
-| Fire Department (FSD) | 35 |
+| Building Department (BD) | 847 |
+| Land Department (LandD) | 145 |
 | Planning Department (PlanD) | 31 |
-| Environmental Protection Department (EPD) | 26 |
-| BEAM Plus Assessment Tools | 8 |
-| Drainage Services Department (DSD) | 4 |
+| Environmental Protection Department (EPD) | 18 |
+| Drainage Services Department (DSD) | 3 |
 | Water Authority (WSD) | 3 |
+| CONSTRUCTION INDUSTRY COUNCIL | 2 |
+| Fire Department (FSD) | 1 |
+| Joint Practice Notes (JPN) | 1 |
+| critical summary prompt.md | 1 |
 
 ---
 
-## BEAM Plus Assessment Tools (8)
-
-- `BEAM Plus Assessment Tools/BEAM Plus Data Centres Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Existing Buildings Global Version 1.0 Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Existing Buildings V2.0 Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Existing Schools Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Interiors Non-Residential Version 2.0 Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Interiors Residential Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus Neighbourhood Brochure.pdf`
-- `BEAM Plus Assessment Tools/BEAM Plus New Buildings V2.0 Brochure.pdf`
-
-## Building Department (BD) (625)
+## Building Department (BD) (847)
 
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123/Cap 123 First Schedule (01-03-2026) (English).md`
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123/Cap 123 First Schedule (01-03-2026) (English).pdf`
@@ -77,27 +68,27 @@ Total: **951** files (PDF and MD)
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123N Building (Minor Works) Regulation/Cap 123N Part 7 (31-03-2022) (English).pdf`
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123N Building (Minor Works) Regulation/Cap 123N Part 8 (31-03-2022) (English).pdf`
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123N Building (Minor Works) Regulation/Cap 123N TOC (31-03-2022) (English).pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Miscellaneous/CODE OF PRACTICE FOR OIL STORAGE INSTALLATIONS 1992_Osi_1992.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Site and Building Works/Demolition_e2004_amendment_oct2023.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Site and Building Works/Demolition_e2004_amendment_sep2016.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/CoP_SUC2013e_amendment202306.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/CoP_SUC2013e_amendment202404.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/Code of Practice for Precast Concrete Construction 2016 Amendment 2020.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/Code of Practice for Precast Concrete Construction 2016 Amendment 2026.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/Code of Practice for Structural Use of Glass 2018 Amendment 2020.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/Code of Practice for Structural Use of Glass 2018 Amendment 2024.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/EMSUOS2011e.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/ExplanatoryNotesWindEffects2019e.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/ExplanatoryNotesWindEffects2019e_Amend2023e.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/FoundationCode2017_amendment202509.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/SUOS2011e_Amend202604.pdf`
-- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/WindEffects2019e_Amend2023e.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Miscellaneous/source_reference/CoP MBIS MWIS 2012 (2023 Edition).pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Site and Building Works/source_reference/Demolition_e2004_amendment_oct2023.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Site and Building Works/source_reference/Demolition_e2004_amendment_sep2016.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/CoP_SUC2013e_amendment202306.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/CoP_SUC2013e_amendment202404.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/Code of Practice for Precast Concrete Construction 2016 Amendment 2020.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/Code of Practice for Precast Concrete Construction 2016 Amendment 2026.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/Code of Practice for Structural Use of Glass 2018 Amendment 2020.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/Code of Practice for Structural Use of Glass 2018 Amendment 2024.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/EMSUOS2011e.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/ExplanatoryNotesWindEffects2019e.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/ExplanatoryNotesWindEffects2019e_Amend2023e.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/FoundationCode2017_amendment202509.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/SUOS2011e_Amend202604.pdf`
+- `Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/WindEffects2019e_Amend2023e.pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Additional Documents/MW33 Submission of Supplementary Documents or Information.pdf`
-- `Building Department (BD)/Minor Works (MWCS)/Change  Cessation of Appointment of Prescribed Building Professional  Contractor/MW07 Notice of Change in Appointment of RSE RGE or PRC.pdf`
-- `Building Department (BD)/Minor Works (MWCS)/Change  Cessation of Appointment of Prescribed Building Professional  Contractor/MW08 Notice of Change in Appointment of AP or RI.pdf`
-- `Building Department (BD)/Minor Works (MWCS)/Change  Cessation of Appointment of Prescribed Building Professional  Contractor/MW09 Notice of Nomination of Temporary PBP.pdf`
-- `Building Department (BD)/Minor Works (MWCS)/Change  Cessation of Appointment of Prescribed Building Professional  Contractor/MW10 Notice of Cessation of Appointment of PRC.pdf`
-- `Building Department (BD)/Minor Works (MWCS)/Change  Cessation of Appointment of Prescribed Building Professional  Contractor/MW31 Notice of PBP Ceasing to be Appointed or Nominated.pdf`
+- `Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW07 Notice of Change in Appointment of RSE RGE or PRC.pdf`
+- `Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW08 Notice of Change in Appointment of AP or RI.pdf`
+- `Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW09 Notice of Nomination of Temporary PBP.pdf`
+- `Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW10 Notice of Cessation of Appointment of PRC.pdf`
+- `Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW31 Notice of PBP Ceasing to be Appointed or Nominated.pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW01 Notice of Commencement of Minor Works (with PBP Appointed).pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW02 Certificate of Completion of Minor Works (with PBP Appointed).pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW11 Notice of Commencement of Additional Class I Minor Works (with PBP).pdf`
@@ -118,9 +109,10 @@ Total: **951** files (PDF and MD)
 - `Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR6 Attachment of Safety Inspection Report or Related Documents.pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Supporting Information/SP Supervision Plan.pdf`
 - `Building Department (BD)/Minor Works (MWCS)/Supporting Information/VSR Safety Inspection Checklist for Validation Scheme.pdf`
-- `Building Department (BD)/Others/Cap 316E Consolidated version for the Whole Chapter (07-01-2010) (English and Traditional Chinese).pdf`
-- `Building Department (BD)/Others/Cap 404 Consolidated version for the Whole Chapter (15-02-2017) (English and Traditional Chinese).pdf`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/` (critical summaries named `[code] [title].md`: 165 APP, 22 ADM, 35 ADV)
+- `Building Department (BD)/Others/source_reference/Cap 316E Consolidated version for the Whole Chapter (07-01-2010) (English and Traditional Chinese).pdf`
+- `Building Department (BD)/Others/source_reference/Cap 404 Consolidated version for the Whole Chapter (15-02-2017) (English and Traditional Chinese).pdf`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_ADM-ADV_Table_English.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_APP_Table_English.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_APP_Table_Traditional_Chinese.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_ADM_e/ADM-001 Practice Notes in Force.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_ADM_e/ADM-001 Practice Notes in Force.pdf`
@@ -577,377 +569,493 @@ Total: **951** files (PDF and MD)
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/batch_09_ADM013-023.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/batch_10_ADV001-019.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/batch_11_ADV021-038.md`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI001.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI002.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI003.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI004.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI005.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI006.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI007.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI008.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI009.pdf`
-- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI010.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc01.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc02.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc03.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc04.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc05.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc06.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc07.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc11.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc12.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc13.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc14.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc15.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc17.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc19.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc21.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc22.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc23.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc24.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc25.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc26.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc27.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc29.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc30.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc31.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc32.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc33.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc34.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc36.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc37.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc38.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc41.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc42.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc43.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc46.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc47.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc48.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc49.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc52.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc54.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc59.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc60.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc61.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc62.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc63.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc64.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc65.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc67.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc68.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc69.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc70.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc71.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc72.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc73.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc74.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc75.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc76.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc77.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc78.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc79.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc80.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc81.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc82.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc83.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc84.pdf`
-- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/Pnrc85.pdf`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-1 Practice Notes in Force.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-10 Imaging Standards for Plans.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-11 Change of Address.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-13 Monitoring for Site Safety and Quality.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-14 Minor Amendments to Plans and Specified Forms.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-15 Submission of Site Formation Proposals.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-16 Ground Investigation Works in Scheduled Areas — Approval and Consent.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-17 Submission of Plans and Documents in Electronic Format.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-18 Site Auditing for Building Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-19 Building Approval Process.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-2 Centralised Processing of Building Plans.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-20 Central Data Bank.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-21 Site Parameters — Documentary Proof.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-22 Withdrawal and Resubmission.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-23 Self-certification System for Plan Submission of Simple Structural Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-3 Emergency Situations — Telephone Numbers for Use Outside Office Hours.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-4 Priority.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-5 Submissions to the Buildings Department.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-6 Computer Programs for Use in Structural and Geotechnical Design.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-7 Geotechnical Information Unit.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-8 Structural Design Information.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADM-9 Colouring of Plans.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-1 Asbestos.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-10 Lift Shaft Platforms.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-11 Suspended Working Platforms.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-12 Display of Site Information.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-13 Application for Excavation Permit for Works on Public Road — Circulation of Proposal to Utility Undertakers.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-14 Facilities for External Inspection and Maintenance of Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-15 Fixing of Reinforcement for Concrete Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-16 Street Name and Building Number.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-17 Noise Annoyance Prevention — Design of Pump Room and Ventilation System.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-18 Corruption Prevention.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-19 Construction and Demolition Waste.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-2 Legislation and Publications Affecting the Building Industry.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-21 Management Framework for Disposal of Dredged-Excavated Sediment.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-23 Improvement of Visual Appearance and Landscape Treatment for Man-made Slopes and Retaining Walls.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-24 Floor Drains in Kitchens and Bathrooms.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-25 Extractor Fans in Bathrooms and Lavatories in Domestic Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-26 Ventilation of Common Corridors and Lift Lobbies in Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-27 Protection of Natural Streams-Rivers from Adverse Impacts Arising from Construction Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-28 Provision of Sanitary Fitments in Offices, Shopping Arcades, Department Stores, Places of Public Entertainment, Cinemas and Other Public Places.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-29 Construction Site Safety — Pay for Safety Scheme.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-3 Standardization of Floor Numbering.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-30 Provision of Mechanical Ventilation under Building (Planning) Regulation 34.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-31 Building External Finishes — Wet-fixed Tiles.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-32 Provision of Babycare Rooms and Lactation Rooms in Commercial Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-33 Essential Information in Plan Submissions.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-34 Building Information Modelling (BIM).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-35 Greening in Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-36 Modular Integrated Construction.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-37 Conduct of Registered Building Professionals under the Buildings Ordinance.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-38 Innovative Building Materials and Technologies.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-4 Control of Environmental Nuisance from Construction Sites.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-5 Tropical Hardwood Timber.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-6 Lightning Protection for Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-8 Registration of Slopes and Retaining Walls.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/ADV-9 Submission of Development Progress.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-1 Landlord and Tenant (Consolidation) Ordinance, Cap. 7 - Demolished Buildings (Re-development of Sites) Ordinance, Cap. 337 — Validity of Approved Plans.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-10 Oil Storage Installations — Building (Oil Storage Installations) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-100 Structural Plans of Glass Reinforced Polyester (GRP) Water Tanks.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-101 Podium Height Restriction under Building (Planning) Regulation 20(3).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-104 Exclusion of Floor Areas for Recreational Use.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-105 Water Seepage.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-106 Fire Resisting Construction — Kitchens in Restaurants.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-107 Precautionary Measures for Construction Sites.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-108 Dedication of Land-Area for Use as Public Passage.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-109 Geotechnical Manual for Slopes — Guidance on Interpretation and Updating.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-11 Street Improvement Schemes — Submission of Building Plans in respect of Lots affected thereby.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-110 Protective Barriers.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-111 Design of Car Parks and Loading-Unloading Facilities.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-112 Disposal of Condensate from Air-conditioners.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-114 Waste Minimization — Provision of Fitments and Fittings in New Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-115 Performance Review — Item 6(g)(ii) in Column B, Section 17(1) of the Buildings Ordinance.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-116 Aluminium Windows.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-117 Structural Requirements for Alteration and Addition Works in Existing Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-118 Testing of Building Materials.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-119 Stair-well and Open Wells in School and Other Buildings Used by Youngsters.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-12 Prestressed Ground Anchors in Building Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-120 Concrete Batching Plant.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-121 Amendment to Code of Practice for Provision of Means of Escape in Case of Fire 1996 (MOE Code).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-122 Provision of Sky Garden in Refuge Floor.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-123 Alternative Designs — Paragraph 12.3 of the Code of Practice for Fire Resistance Construction 1996 (FRC Code).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-124 Streets for Site Classification.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-125 External Area and Floor Adjoining External Ground or Roof.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-126 Erection of Signboards.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-127 Contractor’s Sheds.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-128 Geotechnical Design Information.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-129 Use of Recycled Aggregates in Concrete for Minor Structures and Non-structural Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-13 Submission of Certificate of Completion of Building Works, Application for Occupation Permit and Submission of Record Plans and Information.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-130 Lighting and Ventilation Requirements – Performance-based Approach.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-132 Site Coverage and Open Space Provision.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-133 Cast Iron Pipes for Drainage Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-134 Development in the Designated Area of Northshore Lantau.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-135 Quality Supervision of Soil Nailing Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-136 Building (Planning) Regulation 41D — Emergency Vehicular Access.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-137 Ground-borne Vibration and Ground Settlement arising from Pile Foundation and Excavation and Lateral Support Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-138 Appointment of Authorised Signatory to Act for Registered Contractor and Temporary absence of Authorised Signatories.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-139 Code of Practice on Wind Effects in Hong Kong.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-14 Cinemas and Other Places of Public Entertainment in Non-domestic Buildings or Composite Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-140 Registration of Authorized Persons and Registered Structural Engineers as Registered Geotechnical Engineers.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-141 Division of Responsibilities between Authorized Person, Registered Structural Engineer and Registered Geotechnical Engineer.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-142 Code of Practice for Structural Use of Concrete 2013.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-143 Quality Control and Supervision of Precast Concrete Construction.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-144 Design and Construction of Run-in and Run-out on Public Road.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-145 Fire Safety (Buildings) Ordinance, Cap. 572.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-146 Metal Gates.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-147 Minor Works Control System.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-148 Minor Works Contractors Registration.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-149 Appointment of Authorized Signatory to Act for Prescribed Registered Contractor and Temporary absence of Authorized Signatories in respect of Minor Works commenced under the Simplified Requirements.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-15 Site Formation — Temporary or Permanent Filling Work.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-150 Wholesale Conversion of Industrial Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-151 Building Design to Foster a Quality and Sustainable Built Environment.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-152 Sustainable Building Design Guidelines.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-153 Code of Practice for Fire Safety in Buildings 2011.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-154 Design Requirements for Columbarium Facilities.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-155 Signboard Validation Scheme.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-156 Design and Construction Requirements for Energy Efficiency of Residential Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-157 Code of Practice for Site Supervision 2009.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-158 Quality Supervision of Building Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-159 Measures to Deter Misuse of Industrial Buildings for Residential Use.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-16 Cladding.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-162 Conditions and Requirements Imposed under the Buildings Ordinance upon Granting Approval and-or Consent.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-163 Code of Practice on Access for External Maintenance 2021.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-164 Enhanced Design Standards of Aboveground Drainage System.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-165 Product Certification System.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-166 Metal Grille and Louvre.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-167 Quality of In-situ Reinforced Concrete Works at an Early Age.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-168 Code of Practice for the Structural Use of Steel 2011.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-169 Strength Tests for Structural Fixings in Concrete.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-17 Rock Faces — Building (Planning) Regulations 27 and 47.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-170 Code of Practice for Demolition of Buildings 2004.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-171 Code of Practice for the Structural Use of Glass 2018.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-172 Residential Care Homes for the Elderly and Residential Care Homes for Persons with Disabilities.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-173 Hostels in the City Scheme.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-174 Code of Practice for Precast Concrete Construction 2016.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-18 Code of Practice for Foundations 2017.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-19 Projections in relation to Site Coverage and Plot Ratio — Building (Planning) Regulations 20 & 21.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-2 Calculation of Gross Floor Area and Non-accountable Gross Floor Area — Building (Planning) Regulation 23(3)(a) and (b).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-20 Building Proposals affected by Street Widening — Building (Planning) Regulation 22(2).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-21 Demolition Works — Measures for Public Safety.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-22 Dewatering in Foundation and Basement Excavation Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-23 Hoardings, Covered Walkways and Gantries (including Temporary Access for Construction Vehicles) — Part IX of Building (Planning) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-24 Railway Protection under Railways Ordinance, Mass Transit Railway (Land Resumption and Related Provisions) Ordinance and Area Number 3 of the Scheduled Areas in Schedule 5 to the Buildings Ordinance.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-25 Requirements for a Geotechnical Assessment at General Building Plan Submission Stage — Regulation 8(1)(ba) of Building (Administration) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-26 Pouring of Concrete against Walls of Adjoining Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-27 Gas Water Heaters — Regulation 35A of Building (Planning) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-28 Requirements for Qualified Supervision of Site Formation Works, Excavation Works, Foundation Works on Sloping Ground, and Ground Investigation Works in the Scheduled Areas — BO Section 17.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-29 Lift and Escalator Installations — Building Works Requirements.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-3 Nomination of an Authorized Person, Registered Structural Engineer or Registered Geotechnical Engineer to act in stead.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-30 Geotechnical Control on Developments in Mid-levels Scheduled Area.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-31 Permanent Water Supply to Fire Service Installations — BO section 21(6)(d).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-32 Hong Kong Airport (Control of Obstructions) Ordinance (Cap. 301) — Airport Height Restrictions.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-33 Pulverised Fuel Ash in Concrete.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-34 Structural Design of Bridges and Associated Highway Structures.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-35 Refuse Storage and Collection — Building (Refuse Storage and Material Recovery Chambers and Refuse Chutes) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-37 Curtain Wall, Window and Window Wall.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-38 Bridges over Streets and Lanes — Buildings Ordinance section 31(1).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-39 Inspection and Copying of Plans and Documents.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-4 Water Supply and Wells.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-40 Hotel Development.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-41 Buildings to be Planned for Use by Persons with a Disability — B(P)R Regulation 72 - Design Manual - Barrier Free Access 2008.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-42 Amenity Features.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-43 Licensing of Child Care Centres, Kindergartens and Restaurants.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-44 Streets in relation to Site Area — Building (Planning) Regulation 23(2)(a).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-45 Testing of Reinforcement for Concrete.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-46 Pollution from Industrial Buildings — Building (Standards of Sanitary Fitments, Plumbing, Drainage Works and Latrines) Regulation 90.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-47 Unauthorized Alterations and Additions — Buildings Ordinance Section 14.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-48 Requirements for Qualified Supervision of Structural Works, Foundation Works and Excavation Works — BO Section 17.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-49 Site Investigation and Ground Investigation.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-5 Height of Storeys — Regulations 3(3) & 24 of Building (Planning) Regulations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-50 Temporary Buildings — Building (Planning) Regulations 50–52.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-51 Monitoring and Maintenance of Horizontal Drains.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-52 Supply of Plans to Registered General Building Contractors, Registered Specialist Contractors and Registered Minor Works Contractors.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-53 Building (Construction) Regulation — Accepted Standards - Technical Criteria.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-54 Retaining Wall.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-55 Procedure for Payment of Fees on Submission of Plans.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-56 Exemption Criteria for Site Formation Works associated with Exempted Building Works in the New Territories.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-57 Requirements for an Excavation and Lateral Support Plan.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-58 Testing of Drainage Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-59 Ban on Hand-dug Caissons.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-60 Specified Forms.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-61 Geotechnical Control on Developments in Area Numbers 2 and 4 of the Scheduled Areas.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-62 Protection of Sewage and Drainage Tunnels.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-63 Geoguide 1 — Guide to Retaining Wall Design.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-64 Methods for Testing Hong Kong Soils (GEOSPEC 3).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-65 Natural Lighting to Staircases.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-66 Metal Refuse Chutes at Construction Sites.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-67 Energy Efficiency of Buildings — Building (Energy Efficiency) Regulation.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-68 Design and Construction of Cantilevered Reinforced Concrete Structures.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-69 Conservation of Historic Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-7 Application for Registration as Authorized Persons, Registered Structural Engineers, Registered Geotechnical Engineers and Registered Inspectors.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-70 Use of Plastic Sheet to Cover Scaffolding Outside Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-71 Underground Cavern Development.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-72 Control of Blasting.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-73 Service Lanes.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-74 Alkali-Aggregate Reaction in Reinforced Concrete Structures.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-75 Means of Access for Firefighting and Rescue in Buildings (B(P)R 41A, 41B, 41C).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-76 Keeping Buried Services out of Slopes.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-78 Occupation of New Buildings — Buildings Ordinance section 21.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-79 Geoguide 5 — Guide to Slope Maintenance.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-8 Chimneys and Flues.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-80 Code of Practice for Fire Resisting Construction 1996.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-81 Places of Public Entertainment (Amendment) Regulation 1996 and Associated Legislative Amendments.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-82 Code of Practice for the Provision of Means of Escape in Case of Fire 1996.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-83 Amendments and clarification to Code of Practice for Fire Resisting Construction 1996.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-84 Access Facilities for Telecommunications and Broadcasting Services.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-85 Application of the Revised Fire Safety Codes.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-86 Non-loadbearing Partition Walls.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-87 Guide to Fire Engineering Approach.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-88 Code of Practice on Inspection and Maintenance of Water Carrying Services Affecting Slopes.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-89 Provision of Better Lift Service.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-9 Country Parks Ordinance, Cap 208 — Buildings Ordinance section 16(1)(d).md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-90 Buildings Ordinance section 18(6) — Authority to Enter Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-91 Maintenance and Replacement Works of Lift Installations.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-92 Amendments and Clarification to Code of Practice for the Provision of Means of Escape in Case of Fire 1996.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-93 Planning and Design of Drainage Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-94 Fire Safety (Commercial Premises) Ordinance, Cap. 502.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-95 Sale Offices and Show Flats on Construction Sites.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-96 Registration of General Building Contractors and Specialist Contractors.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-97 Consent Procedures for Building Works and Street Works.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-98 Lighting and Ventilation for Bathrooms and Lavatories in Domestic Buildings.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/APP-99 Flushing Volume for Flushing Cisterns.md`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/PNBI_Table_English.md`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI001.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI002.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI003.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI004.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI005.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI006.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI007.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI008.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI009.pdf`
+- `Building Department (BD)/Practice Notes for Mandatory Building and Window Inspection Schemes (PNBI)/source_reference/PNBI010.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc01.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc02.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc03.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc04.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc05.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc06.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc07.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc11.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc12.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc13.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc14.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc15.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc17.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc19.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc21.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc22.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc23.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc24.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc25.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc26.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc27.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc29.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc30.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc31.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc32.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc33.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc34.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc36.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc37.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc38.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc41.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc42.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc43.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc46.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc47.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc48.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc49.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc52.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc54.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc59.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc60.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc61.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc62.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc63.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc64.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc65.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc67.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc68.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc69.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc70.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc71.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc72.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc73.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc74.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc75.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc76.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc77.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc78.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc79.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc80.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc81.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc82.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc83.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc84.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc85.pdf`
+- `Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/summaries/PNRC_Table_English.md`
 
-## Drainage Services Department (DSD) (4)
+## CONSTRUCTION INDUSTRY COUNCIL (2)
 
-- `Drainage Services Department (DSD)/Safety_Manual_2018_EN_Dec_2020.pdf`
+- `CONSTRUCTION INDUSTRY COUNCIL/source_reference/mic-connection-sealing-construction-procedure-introduction.pdf`
+- `CONSTRUCTION INDUSTRY COUNCIL/source_reference/mimep-site-installation-construction-procedure-chi.pdf`
+
+## Drainage Services Department (DSD) (3)
+
 - `Drainage Services Department (DSD)/source_reference/Sewerage Manual Part 1 Key Planning Issues and Gravity Collection System (with Eurocodes) Third Edition May 2013 (English).pdf`
 - `Drainage Services Department (DSD)/source_reference/Sewerage Manual Part 2 Pumping Stations and Rising Mains (with Eurocodes) Second Edition May 2013 (English).pdf`
 - `Drainage Services Department (DSD)/source_reference/Stormwater Drainage Manual Planning, Design and Management Fifth Edition January 2018 (English).pdf`
 
-## Environmental Protection Department (EPD) (26)
+## Environmental Protection Department (EPD) (18)
 
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P2.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P3.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P4.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P4A.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P4B.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P5.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/P5A.pdf`
-- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/document_1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P2.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P3.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P4.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P5.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P6.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P7.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/P8.pdf`
-- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/document_1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P2.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P3.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P4.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P5.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/P6.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/document_1.pdf`
-- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/sch0.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P1.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P2.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P3.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4A.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4B.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P5.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P5A.pdf`
+- `Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/document_1.pdf`
+- `Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/source_reference/document_1.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P1.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P2.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P3.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P4.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P5.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P6.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/document_1.pdf`
+- `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/sch0.pdf`
 
-## Fire Department (FSD) (35)
+## Fire Department (FSD) (1)
 
-- `Fire Department (FSD)/01-2004-ENG.pdf`
-- `Fire Department (FSD)/03-2005-ENG.pdf`
-- `Fire Department (FSD)/2007_02.pdf`
-- `Fire Department (FSD)/2008_01.pdf`
-- `Fire Department (FSD)/2009_03.pdf`
-- `Fire Department (FSD)/2011_01.pdf`
-- `Fire Department (FSD)/2016_07_eng.pdf`
-- `Fire Department (FSD)/2017_05_eng.pdf`
-- `Fire Department (FSD)/2018_03_eng_20190102_171422.pdf`
-- `Fire Department (FSD)/2021_01_eng_20210119_174824.pdf`
-- `Fire Department (FSD)/2021_07_eng_20210820_122639.pdf`
-- `Fire Department (FSD)/2021_09_eng_20211130_162156.pdf`
-- `Fire Department (FSD)/2022_03_eng_20220929_163738.pdf`
-- `Fire Department (FSD)/2022_04_eng_20221118_102159.pdf`
-- `Fire Department (FSD)/2022_05_eng_20221220_185139.pdf`
-- `Fire Department (FSD)/2023_05_eng_20230914_174824.pdf`
-- `Fire Department (FSD)/2024_01_eng_20240304_175728.pdf`
-- `Fire Department (FSD)/2025_01_eng_20250317_103159.pdf`
-- `Fire Department (FSD)/2025_04_eng_20250905_192751.pdf`
-- `Fire Department (FSD)/2025_05_eng_20250910_185641.pdf`
-- `Fire Department (FSD)/2025_06_eng_20251016_144624.pdf`
-- `Fire Department (FSD)/2026_01_eng_20260109_155514.pdf`
-- `Fire Department (FSD)/2026_02_eng_20260109_155627.pdf`
-- `Fire Department (FSD)/2026_04_eng_20260519_105303.pdf`
-- `Fire Department (FSD)/e01_1998.pdf`
-- `Fire Department (FSD)/e01_2000.pdf`
-- `Fire Department (FSD)/e02_1997.pdf`
-- `Fire Department (FSD)/e02_1998.pdf`
-- `Fire Department (FSD)/e02_2001.pdf`
-- `Fire Department (FSD)/e02_2003.pdf`
-- `Fire Department (FSD)/e03_1999.pdf`
-- `Fire Department (FSD)/e04_1997.pdf`
-- `Fire Department (FSD)/e05_1997.pdf`
-- `Fire Department (FSD)/e05_1998.pdf`
-- `Fire Department (FSD)/e08_1997.pdf`
+- `Fire Department (FSD)/FSD_Circular_Letters_Technical_Summaries.md`
 
-## Land Department (LandD) (219)
+## Joint Practice Notes (JPN) (1)
 
-- `Land Department (LandD)/LACO Circular Memorandum/12wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/15wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/18wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/1wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/21wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/22wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/23wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/25wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/26.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/28wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/29wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/31wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/32wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/33wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/34A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/34wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/36wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/37wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/38wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/39wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/41a.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/42wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/43b.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/43c.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/43d.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/44wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/45wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/48wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/49wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/50wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/51.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/52wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/53wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/54A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/54wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/55wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/56.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/57.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/58.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/58a.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/58b.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/59wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/5wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/60.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/61.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/62.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/63.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/64.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/65.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/66.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/67.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/68.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/69.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/6wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/70.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/70A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/71.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72Cwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72D.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72E.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72F.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/72Fwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/73Cwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74Cwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74D.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74Dwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/74wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75D.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75Dwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/75wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76Cwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76D.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76Dwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/76wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/77.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/77wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78Bwac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78C.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/78wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/79.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/79A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/79Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/79B.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/79wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/7b.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/80.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/81.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/81wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/82.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/82wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/83.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/83wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/84.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/84A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/84Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/84wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/85.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/85wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/86.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/86wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/87.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/87A.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/87Awac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/87wac_e.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/88.pdf`
-- `Land Department (LandD)/LACO Circular Memorandum/88wac_e.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2000A_3.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2000_4B.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2001-3.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2005-4e.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2006-4e.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2006-7e.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2008-4.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2009-2.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2011_2.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2012A_3.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2012B_3.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2012_3.pdf`
-- `Land Department (LandD)/LAO Practice Notes/2014_4.pdf`
-- `Land Department (LandD)/LAO Practice Notes/9101apsr.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 10_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 10_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 11_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 11_2023A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 12_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 13_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2016.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2017.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2020.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2020A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2022A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2024A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2025B.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 1_2026.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2016.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2018.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2019A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2021.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 2_2026.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2018.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2020.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2020A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2022A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 3_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2014A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2018.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2021.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 4_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2020.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2020B.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2023A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 5_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2019A.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2022.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 6_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 7_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 7_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 7_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 8_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 8_2024.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 8_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 9_2023.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN 9_2025.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN1_2019.pdf`
-- `Land Department (LandD)/LAO Practice Notes/PN7_2019.pdf`
+- `Joint Practice Notes (JPN)/JPN_Table_English.md`
+
+## Land Department (LandD) (145)
+
+- `Land Department (LandD)/LACO Circular Memorandum/LACO_CM_1-71_Technical_Summaries.md`
+- `Land Department (LandD)/LACO Circular Memorandum/LACO_CM_72-88_Technical_Summaries.md`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/12wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/15wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/18wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/1wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/21wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/22wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/23wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/25wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/26.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/28wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/29wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/31wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/32wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/33wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/34A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/34wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/36wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/37wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/38wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/39wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/41a.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/42wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/43b.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/43c.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/43d.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/44wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/45wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/48wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/49wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/50wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/51.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/52wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/53wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/54A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/54wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/55wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/56.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/57.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/58.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/58a.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/58b.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/59wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/5wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/60.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/61.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/62.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/63.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/64.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/65.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/66.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/67.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/68.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/69.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/6wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/70.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/70A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/71.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72Cwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72D.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72E.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72F.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/72Fwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/73Cwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74Cwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74D.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74Dwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/74wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75D.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75Dwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/75wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76Cwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76D.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76Dwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/76wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/77.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/77wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78Bwac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78C.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/78wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/79.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/79A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/79Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/79B.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/79wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/7b.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/80.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/81.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/81wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/82.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/82wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/83.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/83wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/84.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/84A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/84Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/84wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/85.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/85wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/86.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/86wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/87.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/87A.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/87Awac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/87wac_e.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/88.pdf`
+- `Land Department (LandD)/LACO Circular Memorandum/source_reference/88wac_e.pdf`
+- `Land Department (LandD)/LAO Practice Notes/LAO_PN_Technical_Summaries.md`
+- `Land Department (LandD)/LAO Practice Notes/_extract_tmp/_CS_CONVENTION.md`
+- `Land Department (LandD)/LAO Practice Notes/_extract_tmp/_heads.md`
+- `Land Department (LandD)/LAO Practice Notes/_extract_tmp/_index.md`
+- `Land Department (LandD)/LAO Practice Notes/source_reference/2000A_3.pdf`
 
 ## Planning Department (PlanD) (31)
 
@@ -985,6 +1093,10 @@ Total: **951** files (PDF and MD)
 
 ## Water Authority (WSD) (3)
 
-- `Water Authority (WSD)/Amendment%20Table%20for%20Apr%202026%20Version.pdf`
 - `Water Authority (WSD)/Enhanced%20Technical%20Requirements%20for%20GA%202.0_Eng.pdf`
 - `Water Authority (WSD)/Figure.pdf`
+- `Water Authority (WSD)/source_reference/Amendment%20Table%20for%20Apr%202026%20Version.pdf`
+
+## critical summary prompt.md (1)
+
+- `critical summary prompt.md`
