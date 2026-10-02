@@ -154,8 +154,9 @@ Domestic GFA + Non-domestic GFA ≤ Permissible GFA
 |---|---|
 | APP-2 | Gross floor area and non-accountable gross floor area |
 | APP-40 | Sustainable building design guidelines (setback, greenery) |
+| APP-41 | Barrier-free access (Design Manual: Barrier Free Access 2008) |
 | APP-130 | Means of escape — general principles |
-| APP-152 | Barrier-free access |
+| APP-152 | Sustainable Building Design Guidelines |
 | ADV-36 | Amenity features (balconies, utility platforms) |
 | ADV-49 | Green and innovative buildings |
 

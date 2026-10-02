@@ -2,7 +2,7 @@
 name: hk-architect-master
 description: >
   Activate for ANY Hong Kong architecture, buildings, planning, or construction question.
-  Trigger when the query involves: Buildings Ordinance (Cap. 123), PNAP letters (APP-2, APP-40, APP-130, APP-152),
+  Trigger when the query involves: Buildings Ordinance (Cap. 123), PNAP letters (APP-2, APP-40, APP-41, APP-130, APP-152),
   GFA, plot ratio, site coverage, BHR, OZP zoning, HKPSG, planning applications (s.16/s.12A),
   means of escape, fire safety (FS Code 2011), FSD, sprinklers, barrier-free access (DMBA 2008),
   BEAM Plus, OTTV/RTTV, AVA, public housing (HA/HD/Harmony), MTR TOD, composite buildings,
@@ -117,8 +117,9 @@ Answer routine questions directly from this section **before** loading a sub-ski
 |---|---|---|
 | **APP-2** | GFA and non-accountable GFA (exemptions) | `hk-building-codes` |
 | **APP-40** | Sustainable building design (setback, greenery ratio ≥ 20–30%) | `hk-building-sustainability` |
+| **APP-41** | Barrier-free access (Design Manual: Barrier Free Access 2008) | `hk-accessibility-design` |
 | **APP-130** | Means of escape — general principles | `hk-fire-life-safety` |
-| **APP-152** | Barrier-free access | `hk-accessibility-design` |
+| **APP-152** | Sustainable Building Design Guidelines | `hk-building-sustainability` |
 | **ADV-36** | Amenity features (balconies, utility platforms) | `hk-building-codes` |
 | **ADV-49** | Green and innovative buildings | `hk-building-sustainability` |
  

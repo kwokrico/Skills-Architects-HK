@@ -181,7 +181,7 @@ Use in transmittal PDF **and** machine-editable register (Excel/Sheets). One row
 | BD | General Building Plans | BO s.14; PNAP APP-2 GFA schedule | AP |
 | BD | Drainage plans | DSD requirements | AP / drain consultant |
 | BD | Structural plans | BO — RSE submission | RSE |
-| BD | Barrier-free access plan | DMBA 2008; PNAP APP-152 | AP |
+| BD | Barrier-free access plan | DMBA 2008; PNAP APP-41 | AP |
 | FSD | Fire services plans + calculations | FS Code 2011 | FS consultant / AP |
 | WSD | Plumbing / fire mains (as applicable) | WWO requirements | MEP |
 | Planning | s.16 / s.12A materials (if required) | TPO Cap. 131 | Planning consultant |

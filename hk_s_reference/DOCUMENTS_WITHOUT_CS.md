@@ -1,12 +1,12 @@
 # Documents Without Critical Summary
 
-Total: **956** files (PDF and MD)
+Total: **951** files (PDF and MD)
 
 ## Summary by department
 
 | Department | Count |
 |------------|------:|
-| Building Department (BD) | 630 |
+| Building Department (BD) | 625 |
 | Land Department (LandD) | 219 |
 | Fire Department (FSD) | 35 |
 | Planning Department (PlanD) | 31 |
@@ -28,7 +28,7 @@ Total: **956** files (PDF and MD)
 - `BEAM Plus Assessment Tools/BEAM Plus Neighbourhood Brochure.pdf`
 - `BEAM Plus Assessment Tools/BEAM Plus New Buildings V2.0 Brochure.pdf`
 
-## Building Department (BD) (630)
+## Building Department (BD) (625)
 
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123/Cap 123 First Schedule (01-03-2026) (English).md`
 - `Building Department (BD)/Cap 123 Building Ordience/source_reference/Cap. 123/Cap 123 First Schedule (01-03-2026) (English).pdf`
@@ -120,13 +120,8 @@ Total: **956** files (PDF and MD)
 - `Building Department (BD)/Minor Works (MWCS)/Supporting Information/VSR Safety Inspection Checklist for Validation Scheme.pdf`
 - `Building Department (BD)/Others/Cap 316E Consolidated version for the Whole Chapter (07-01-2010) (English and Traditional Chinese).pdf`
 - `Building Department (BD)/Others/Cap 404 Consolidated version for the Whole Chapter (15-02-2017) (English and Traditional Chinese).pdf`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_ADM-ADV_Technical_Summaries.md`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_ADM_Technical_Summaries.md`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_ADV_Technical_Summaries.md`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_APP_A-B_Technical_Summaries.md`
+- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/summaries/` (critical summaries named `[code] [title].md`: 165 APP, 22 ADM, 35 ADV)
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/PNAP_APP_Table_Traditional_Chinese.md`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/TOC.md`
-- `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/TOC_ADM-ADV.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_ADM_e/ADM-001 Practice Notes in Force.md`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_ADM_e/ADM-001 Practice Notes in Force.pdf`
 - `Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_ADM_e/ADM-002 Centralised Processing of Building Plans.md`

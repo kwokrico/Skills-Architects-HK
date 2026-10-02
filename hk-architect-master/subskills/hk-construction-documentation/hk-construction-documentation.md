@@ -42,7 +42,7 @@ BD submission packages, AP/RSE drawings, GS, compliance documentation.
 | Drainage Plans | BD | Stormwater and foul drainage; DSD compliance |
 | Structural Plans | BD (RSE) | Foundation, structural framing, transfer slab |
 | Fire Services Plans | FSD | Sprinkler, hose reel, alarm, smoke extraction |
-| Barrier-Free Access Plan | BD | DMBA 2008 compliance; PNAP APP-152 |
+| Barrier-Free Access Plan | BD | DMBA 2008 compliance; PNAP APP-41 |
 
 ---
 
@@ -52,8 +52,9 @@ BD submission packages, AP/RSE drawings, GS, compliance documentation.
 |---|---|---|
 | APP-2 | GFA and non-accountable GFA | All submissions; GFA schedule |
 | APP-40 | Sustainable building design (setback, greenery) | Concept and BP stage |
+| APP-41 | Barrier-free access (Design Manual: Barrier Free Access 2008) | Accessibility drawings |
 | APP-130 | Means of escape | MOE drawings |
-| APP-152 | Barrier-free access | Accessibility drawings |
+| APP-152 | Sustainable Building Design Guidelines | Concept and GBP when separation, setback, or greenery is in play |
 | ADV-36 | Amenity features (balconies, utility platforms) | Residential projects |
 | ADV-49 | Green and innovative buildings | BEAM Plus projects |
 

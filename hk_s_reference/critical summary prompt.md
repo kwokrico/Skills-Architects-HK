@@ -20,7 +20,7 @@ Follow the hk_s_reference Critical Summary convention:
 **Examples:**
 | Source PDF | Critical Summary filename |
 |------------|---------------------------|
-| `Cap 123L Consolidated version for the Whole Chapter (13-05-2021) (English).pdf` | `Cap 123L (13-05-2021)_CS.md` |
+| `Cap 123L Consolidated version for the Whole Chapter (13-05-2021) (English).pdf` | `Cap 123L (13-05-2021)_Building (Appeal) Regulation_CS.md` |
 | `Code of Practice for Fire Safety in Buildings 2011 (2024 Edition).pdf` | `Code of Practice for Fire Safety in Buildings 2011 (2024 Edition)_CS.md` |
 | `FSD Circular Letter No. 2-2025 Fire Safety Requirements for Data Centres.pdf` | `FSD Circular Letter No. 2-2025 Fire Safety Requirements for Data Centres_CS.md` |
 
@@ -28,7 +28,8 @@ Follow the hk_s_reference Critical Summary convention:
 1. Using the document’s short title (Cap number, CoP name, circular title, etc.).
 2. Stripping boilerplate suffixes: `Consolidated version for the Whole Chapter`, `(English)`, `(English and Traditional Chinese)`.
 3. Keeping one parenthetical date or edition if present in the source.
-4. Appending `_CS.md`.
+4. For a Cap instrument, inserting the statutory short title after the date: `Cap 123L (13-05-2021)_Building (Appeal) Regulation_CS.md`.
+5. Appending `_CS.md`.
 
 ### Source PDF
 - Move (or save) the original English PDF into a `source_reference/` subfolder under the same parent folder.
@@ -36,7 +37,7 @@ Follow the hk_s_reference Critical Summary convention:
 - Example layout:
 
 Cap 123 Building Ordience/
- ├── Cap 123L (13-05-2021)_CS.md
+ ├── Cap 123L (13-05-2021)_Building (Appeal) Regulation_CS.md
  └── source_reference/
  └── Cap 123L Consolidated version for the Whole Chapter (13-05-2021) (English).pdf
 

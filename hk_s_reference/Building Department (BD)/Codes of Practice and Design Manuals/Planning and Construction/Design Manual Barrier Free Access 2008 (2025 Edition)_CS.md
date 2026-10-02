@@ -3,7 +3,7 @@
 **Architect critical summary for schematic design**  
 2025 Edition (June 2025 revision; amendments via PNAP APP-41 through May 2024 / June 2025) | Buildings Department
 
-> Scope note: Chapters 3–4 **Obligatory Design Requirements** align with the **Third Schedule of the Building (Planning) Regulations**. Alternative designs are acceptable only if they achieve the stated **Performance Objectives**. Best Practice / Recommended items are **not** B(P)R minima — use them for tender quality, elderly / welfare briefs, and client-enhanced schemes. Read with PNAP APP-41 / APP-152 for BD plan-marking. Visual fire alarm cross-refers FSD CoP; lift emergency call cross-refers Cap. 327 CoPs.
+> Scope note: Chapters 3–4 **Obligatory Design Requirements** align with the **Third Schedule of the Building (Planning) Regulations**. Alternative designs are acceptable only if they achieve the stated **Performance Objectives**. Best Practice / Recommended items are **not** B(P)R minima — use them for tender quality, elderly / welfare briefs, and client-enhanced schemes. Read with PNAP APP-41 for BD plan-marking. Visual fire alarm cross-refers FSD CoP; lift emergency call cross-refers Cap. 327 CoPs.
 
 ---
 

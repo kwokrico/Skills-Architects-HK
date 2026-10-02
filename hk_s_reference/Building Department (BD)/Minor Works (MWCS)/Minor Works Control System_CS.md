@@ -69,6 +69,8 @@ It does **not** apply to Cap **121** New Territories Exempted Houses; does **not
 
 **Mid-job additional items (Class I/II only):** if extra Class I/II items arise after the original notice → submit **MW11** (Class I) or **MW12** (Class II) **≥7 days** before those additional items start, with plans/details. On completion, one MW02/MW04 package covers **all** completed items including the additions.
 
+**Form checklist:** who signs, the statutory clock, and the attachments for each form are in §9. This table is the class routing view.
+
 ---
 
 ### 4. Who must be on the team
@@ -265,34 +267,62 @@ No prior approval/consent; **no** need to appoint AP or registered contractors. 
 
 ---
 
-### 9. Documents under simplified requirements (pamphlet p.14)
+### 9. Submission matrix — which form, when, who, what to attach
 
-| Deliverable | Requirement |
+Taken from the BD e-forms in the class folders (editions below). Clocks are the words on the form: **not less than 7 days before** commencement, or **within 14 days after** completion. Pamphlet p.14 still points Class I/II prescribed plans and details to **Building (Administration) Regulations reg. 8**; drawing presentation (colour, scale, photo marks) stays with **PNRC 71** and **ADM-9**.
+
+| Form | When | Who signs | Attach with the form |
+|---|---|---|---|
+| **MW01** (02/2026) Class I start | Not less than **7 days** before commencement. May include Class II items | PAW appoints PRC (B(MW)R **s.28**) and PBP (**s.27**): AP, or RI only for prescribed repair or associated demolition; RSE and/or RGE when those elements exist. Each appointed person confirms (AP/RI under **s.30** and **s.37**) | Prescribed plans and details; photographs of the premises **before** the works; supervision plan **only where the Technical Memorandum requires it**. Signboard-owner part if a signboard is erected. Common-parts part (OC / management company) if common parts may be involved |
+| **MW11** (09/2021) extra Class I items | Not less than **7 days** before the additional items, under the **existing** submission number. May include Class II items | Same appointed PBP and PRC. AP/RI confirms under **s.30** and **s.37** | Same set as MW01, including a supervision plan where the Technical Memorandum requires it |
+| **MW02** (09/2021) Class I completion | **Within 14 days** after completion. May include Class II **and** Class III items | AP or RI (B(MW)R **s.31**, **s.32**, **s.37**); RSE / RGE for their elements; PRC for the contractor certificate | Photographs of **all works as completed**. Revised prescribed plans if the completed works differ from the submitted plans — AP/RSE/RGE describe differences per **PNAP APP-147**; PRC per **PNRC 71**. Class III portion: plans **or** a description. Certify structural safety; for demolition, an adequate margin of safety for land or street affected |
+| **MW03** (02/2026) Class II start | Not less than **7 days** before commencement | PAW appoints PRC only (**s.28**). PRC confirms under **s.33** and **s.37** | Prescribed plans and details; photographs **before** the works. Signboard-owner part if a signboard is erected. OC / management-company part if common parts may be involved |
+| **MW12** (09/2021) extra Class II items | Not less than **7 days** before the **additional** works, under the existing submission number | Same PRC (**s.33**, **s.37**) | Same plans and before-photographs as MW03. Signboard particulars may refer back to the **MW03** under that submission number (B(MW)R **s.36(a)(v)**) |
+| **MW04** (09/2021) Class II completion | **Within 14 days** after completion. May include Class III items | PRC (**s.34**, **s.35**; **s.36** if Class III is included; **s.37** if works differ from the plans or Class III plans are involved) | Photographs of all works as completed. Revised plans if they differ — differences per **PNRC 71**. Class III portion: photographs **immediately before and after**, plus plans **or** a description |
+| **MW05** (09/2021) Class III only | **No pre-start notice.** Within **14 days** after completion | PAW appoints PRC (**s.28**). PRC certifies under **s.36** and **s.37**. An RMWC registered under **s.11** (individual) must certify that they **personally** carried out the works | Photographs **immediately before and after**, plus plans **or** a description of the works as completed. Signboard-owner part if a signboard is erected. The submission-number field is **only** for signboard works |
+| **MW32** (09/2021) Class III signboard number | Request a submission number to **display on** a signboard to be erected or altered. Not a commencement notice | PRC appointed for the works | **No** prescribed plans. Preliminary particulars only. Display standard: **PNRC 71** |
+
+**MW32 is not a simplified-requirements submission.** It is restricted to erection or alteration of signboards under items **3.16** and **3.17** (Schedule 1 Part 3). Obtaining the number is not compliance with Part 6 of the Building (Minor Works) Regulation. **MW05** is still required within 14 days after completion (s.36). The number may be displayed only on signboards at the address stated on MW32.
+
+**Validation tick on MW01 and MW03:** tick when the works are alteration or strengthening necessary to validate prescribed building or building works (**other than unauthorized signboards**, as the form prints it) under the Household Minor Works Validation Scheme or the Minor Amenity Feature Validation Scheme (Buildings Ordinance **s.39C**).
+
+**PNRC 85 — MW01 and MW03 (02/2026) only.** The PRC declares whether the works involve scaffolding of **three or more consecutive storeys**. That includes scaffolding covering an entire elevation of those storeys (even one elevation) and scaffolding the full height of a re-entrant or light well. **Truss-out scaffolding for repair of an individual unit is excluded.** If that scaffolding is involved, the PRC confirms the PNRC 85 procedure for fire-retardant protective materials.
+
+**Matters to Note (on the forms; stated once):**
+
+| Note | What it requires |
 |---|---|
-| **Forms** | Class I/II: notice **7 days prior** (MW01 / MW03). All classes: certificate **within 14 days** after completion (MW02 / MW04 / MW05) |
-| **Plans — Class I / II** | Plans and details prescribed in **Building (Administration) Regulations reg. 8** |
-| **Plans — Class III** | Plans showing works as completed **or** description of completed works |
-| **Photographs** | Physical condition of premises **immediately before** commencement **and after** completion |
-| **Supervision plan** | Per Technical Memorandum for Supervision Plans — **only some Class I** items |
-| Guidance | **PNRC 71** for submission standards |
+| Incomplete form | If the form is incomplete or wrong, BD may not be able to process it. Submissions under the simplified requirements are randomly selected for audit |
+| Acknowledgement | Not BA design approval — see §12 |
+| Common parts | PRC is advised to follow the DMC and notify the property management company or owners’ corporation **before** commencement. MW01 / MW03 / MW05 / MW11 / MW12 also have a part for those particulars when common parts may be involved |
+| Site notice | As far as practicable, post a notice at or near the works so other owners and affected occupants know in advance |
+| Signboard lighting | AP and applicant are advised to follow the ENB / EPD / EMSD Guidelines on Industry Best Practices for External Lighting Installations |
+| Construction waste | PRC must take appropriate measures so waste is disposed of properly |
+| Windows | For window-related minor works: prescribed inspection under the Mandatory Window Inspection Scheme code of practice **before** commencement, and the windows rendered safe **after** the works |
 
-Also (practice detail): coloured plans; scales typically ≥1:100 (plans) / ≥1:500 (block); A3 preferred; photo marks on plans — see PNRC 71 / ADM-9.
+**SD takeaway:** Lock the form with the class. Class III has no 7-day notice. A Class III signboard still needs **MW05**; **MW32** only puts a number on the board.
 
 ---
 
-### 10. Validation schemes (prescribed building or building works under B(MW)R)
+### 10. Validation schemes — which MW06, and the cut-off on that form
 
-Three schemes under MWCS to retain, after validation, unauthorised works that are relatively small / lower risk and built **before** each scheme’s implementation:
+Three pamphlet schemes. The forms in this folder set cover **household** and **minor amenity** only. There is **no signboard-validation form** here.
 
-| Scheme | Pamphlet pointer | SD use |
-|---|---|---|
-| **Household Minor Works Validation** | Separate BD pamphlet | Pre-**31 Dec 2010** AC frames / drying racks / small canopies (Schedule 3 Part 2 specs) |
-| **Minor Amenity Feature Validation** | Separate BD pamphlet | Pre-**1 Sep 2020** amenity features (scheme from 1 Sep 2021) |
-| **Signboard Validation** | Separate BD pamphlet | Pre-**2 Sep 2013** prescribed signboards; typically **5-year** re-validation cycle |
+| Form | Scheme on the form | Cut-off printed on the form | Who certifies |
+|---|---|---|---|
+| **MW06-1** (09/2021) | **Minor Amenity Feature** Validation. Class I alteration or strengthening | Schedule 3 **Part 4** items completed or carried out before **1 Sep 2020** | Within **14 days** after the inspection; if alteration or strengthening is involved, within **14 days** after those works. AP under BO **s.39C** and B(MW)R **s.62A**. PBP appointed under **s.27**. If Class I alteration/strengthening already started, quote the earlier **MW01** number. RSE part — skip if the works are a specified construction under **s.37(4)**. Completion of the Class I works: **s.31** and **s.37**, with revised plans if they differ |
+| **MW06-2** (09/2021) | **Minor Amenity Feature** Validation. Class II alteration or strengthening | Same Part 4 / **1 Sep 2020** gate | Same 14-day clocks. Quote the earlier **MW03** if those works already started. Inspection by AP, RSE or RI **or** by the PRC (s.39C, **s.62A**). PRC appointed under **s.28** when alteration or strengthening is carried out. Differences: **PNRC 71** |
+| **MW06-3** (09/2021) | Title covers **Household** Minor Works Validation **or** Minor Amenity Feature Validation. Class III. The Household-folder PDF and the Amenity-folder PDF are the **same form template** | **Two lists on one form.** Schedule 3 **Part 2**, completed or carried out before **31 Dec 2010**: supporting structure for an AC unit, water cooling tower or associated air ducts on-grade or on a slab **other than a cantilevered slab**; metal supporting frame for an AC unit or associated air ducts projecting from an external wall; drying rack projecting from an external wall; canopy projecting from an external wall. Schedule 3 **Part 4**, before **1 Sep 2020**: BSI support or metal casing on-grade or on a roof (not a cantilevered slab, not an inaccessible roof); AC frame and light-fitting frame projecting from an external wall; on a roof — solid fence wall, mesh fence or metal railing (with or without a solid fence wall as its lower part), and pole; metal gate at a fence wall; canopy projecting from an external wall; external metal ventilation duct or associated supporting frame (on-grade or on a roof, plus the further duct item printed on the form) | Within **14 days** after the inspection; if alteration or strengthening is involved, within **14 days** after those works. Inspection under BO **s.39C** and B(MW)R **s.62** and **s.62A** as appropriate, by AP/RSE/RI **or** PRC. PRC for alteration/strengthening appointed under **s.28**. RMWC (individual, s.11) certifies personal carrying-out |
 
-Validated works remain **UBW in law** (no retrospective approval) — BA generally will not enforce solely for lack of prior approval unless they become dangerous. Post-cut-off illegal works **cannot** join.
+**How to read Columns A and B (all three MW06 forms):** Column A = inspected, no alteration or strengthening required. Column B = minor works to alter, rectify or strengthen are necessary under BO **s.39C(4)**. The certificate says the works are structurally safe and comply with the Buildings Ordinance **except s.14(1)** and **Building (Administration) Regulations reg. 25**. Validation is not a retrospective approval.
 
-Class III strengthen items **3.34–3.37** are the natural MW pathway when strengthening is needed as part of household-type validation.
+**VSR** (Safety Inspection Checklist) is the attachment to a validation submission, not a separate notice. One report may cover more than one prescribed building or building works item; if the same item has **different descriptions**, submit a **separate** VSR set for each description. It ticks Schedule 3 features against designated-exempted-works exclusions. Numeric envelopes stay in §8 and on the checklist — a failed tick means the feature is outside that validation item, or it needs alteration or strengthening on the matching MW06.
+
+**Signboard Validation (pamphlet only):** pre-**2 Sep 2013** prescribed signboards; typically a **5-year** re-validation cycle. Do not assign an MW06 number. Unauthorised signboards are excluded from the MW01/MW03 validation tick.
+
+Pamphlet position, unchanged: validated works remain **UBW in law**. BA generally will not enforce solely for lack of prior approval unless they become dangerous. Works after the cut-off on the form cannot join that list. Class III items **3.34–3.37** remain the MW pathway when household-type AC frames, drying racks or canopies need strengthening.
+
+**SD takeaway:** Do not use one date for every validation. On **MW06-3**, household items (Schedule 3 Part 2) are pre-**31 Dec 2010**; amenity items (Part 4) are pre-**1 Sep 2020**. Class I amenity uses **MW06-1** (and MW01 if works already started); Class II amenity uses **MW06-2** (and MW03).
 
 ---
 
@@ -359,30 +389,66 @@ Examples that need careful AS matching:
 2. Involve **structure**? Match **Schedule 1 MW** or **DEW**? Or pure **s.41(3)** non-structural interior?
 3. Measure **height, projection, weight, display area, excavation depth, cantilever / load path, on-grade vs roof**.
 4. Fit **DEW** → document numeric envelope; no MWCS forms.
-5. Else fit **exact MW item** (§6 tables) → Class → Types A–H (§11) → appoint PBP/PRC with matching registration → programme 7+14 day clocks (+ MW11/12 if scope grows).
+5. Else fit **exact MW item** (§6 tables) → Class → Types A–H (§11) → appoint PBP/PRC with matching registration → use the §9 form for that class (MW01/MW11 then MW02; MW03/MW12 then MW04; MW05 only). **MW32** is a display number for Class III signboard items 3.16 / 3.17; it does not replace MW05.
 6. Else → **full s.14(1)** A&A.
-7. Existing UBW? → validation cut-offs (§10) or removal items (§6.4) or formal A&A.
+7. Existing UBW? → validation forms in §10 (**MW06-1 / MW06-2 / MW06-3**) or removal items (§6.4) or formal A&A. Signboard validation has no form in this folder set — pamphlet only.
 8. Cross-check **FS Code / FSI / drainage / BFA / DMC** — MWCS never overrides these.
 9. Pull **approved architectural + structural** records (BIC/BRAVO) before locking openings, roof loads, barriers, or façade works.
 
 ---
 
-### 14. Quick reference — forms & supportive tools
+### 14. Appointment changes, supplementary documents, attachment sheets
 
-| Form | Use |
+A change of person is its own form. Do not resubmit MW01 / MW03 to swap an AP, RSE, or contractor. All of these are **within 7 days**.
+
+| Form | When | What it does |
+|---|---|---|
+| **MW08** (09/2021) | Within 7 days after the **new** appointment | New AP or RI in place of the original (B(MW)R **s.27**, confirmation **s.48(3)**). Where the Technical Memorandum requires a supervision plan, submit a **revised** supervision plan (**s.48(3)(b)**) |
+| **MW07** (09/2021) | Within 7 days after appointment of the new person(s) | New RSE, RGE, or PRC (appointment under **s.27** and/or **s.28**; confirmation **s.48(2)**, and **s.48(4)** for the contractor). AP or RI submits the revised supervision plan when the Technical Memorandum requires one |
+| **MW09** (09/2021) | Within 7 days after the **nomination** | Appointed PBP nominates another PBP to act temporarily (B(MW)R **s.49**; Buildings Ordinance **s.4A(5)**). Nominator and nominee both confirm. Further submission numbers may be listed. Extra sheets must be signed and dated |
+| **MW31** (09/2020) | Within 7 days after the date of **cessation or nomination** | PBP (AP, RSE, RI, or RGE) ceases to be appointed or nominated (**s.50**). State the date and the minor works completed under that person’s supervision |
+| **MW10** (09/2020) | Within 7 days after cessation. If **Class I** is involved: within 7 days after the **AP receives** the notice | PRC ceases (**s.51**). Plans and photographs of the minor works **as completed**. Certify the works match the Ordinance and the submitted plans. Demolition: adequate margin of safety, and any structure remaining is structurally safe. Deliver the notice to the AP or RI (or the PBP nominated under BO **s.4A(5)**). For Class I, that AP or RI files it under **s.52** (the notice required by **s.51(1)(a)**) |
+
+**MW33** (09/2021) — supplementary documents or information against an **existing** minor-works submission number. Signed by the appointed person in that capacity: AP, RI, RSE, RGE, or PRC. The form’s own checklist is the allowed set:
+
+- Photographs of the premises before commencement
+- Photographs of all works as completed
+- Revised prescribed plans and details
+- Structural calculations
+- Structural appraisal report
+- Geotechnical appraisal report
+- Demolition proposal
+- Temporary safety measures or support
+- Catalogue
+- Material invoice, test certificate, or report
+- Supervision plan
+
+**Attachment sheets** (wrappers for the documents above — not a second statutory notice):
+
+| Sheet | Carries |
 |---|---|
-| **MW01 / MW02** | Class I start / complete (with PBP) |
-| **MW03 / MW04** | Class II start / complete |
-| **MW05** | Class III notice + certificate of completion |
-| **MW11 / MW12** | Additional Class I / II items after original notice |
-| **MW06-1 / 06-2 / 06-3** | Validation-related alteration/strengthening completion |
-| **MW07–MW10 / MW31** | Change / nomination / cessation of appointment |
-| **MW32** | Class III signboard submission-number request (display on board) |
-| **MW33** | Supplementary documents |
-| **PR1–PR6 / SP / VSR** | Photos, A3/A4 plans, calcs, supervision plan, safety inspection attachments |
+| **PR1** | Photographs, `.jpg`, before commencement and after completion. Signed by the PRC (authorised signatory) or a PBP |
+| **PR2** | A3 plans, `.jpg`, with drawing title and number |
+| **PR3** | A4 plans, `.jpg`, with revision description |
+| **PR4** | Structural calculations, `.pdf` |
+| **PR5** | Supervision-plan attachment for **Class I** |
+| **PR6** | Safety inspection report and/or other related documents, `.pdf`. Signed by the PBP and/or the PRC |
+| **SP** | The supervision plan itself, submitted under the Technical Memorandum issued under Buildings Ordinance **s.39A**. AP, RSE, RGE, and RC streams each certify their part. Required only when the Technical Memorandum requires it (Class I path — see MW01 / MW11 / MW07 / MW08). TCP grades are not repeated here |
+| **VSR** | Validation safety-inspection checklist — see §10 |
 
 **BD supportive measures (pamphlet):** Technical Guidelines + practice notes; public leaflets; **MWCS – Quick Guide for Minor Works** mobile app; website; hotline **2626 1616** (1823); enquiry counter G/F BD HQ.
 
+**SD takeaway:** Swap a person with MW07 / MW08 / MW09 / MW10 / MW31 within 7 days. Add missing drawings or a supervision plan later with **MW33** plus the matching PR or SP sheet — not a fresh commencement notice.
+
 ---
 
-*Pamphlet disclaimer: not a legal document — introduces main features only (January 2022). For submissions, verify live Cap 123N Schedules, Technical Guidelines, and PNRC 71.*
+### Source
+
+- Pamphlet: *Introduction to Minor Works Control System* (January 2022), Buildings Department — in `source_reference/`. Not a legal document; it introduces main features only.
+- Class forms: MW01 (02/2026), MW02 (09/2021), MW11 (09/2021); MW03 (02/2026), MW04 (09/2021), MW12 (09/2021); MW05 (09/2021), MW32 (09/2021).
+- Validation: MW06-1, MW06-2, MW06-3 (all 09/2021). The two MW06-3 PDFs (Household folder and Minor Amenity Feature folder) share one template.
+- Appointment: MW07 (09/2021), MW08 (09/2021), MW09 (09/2021), MW10 (09/2020), MW31 (09/2020). Supplementary: MW33 (09/2021).
+- Attachments: PR1–PR6, SP, VSR (no edition stamp on those templates).
+- Companion instruments: Cap **123N** Schedules 1–3, Technical Memorandum for Supervision Plans (BO **s.39A**), **PNRC 71**, **PNAP APP-147**, **PNRC 85**.
+
+*For a submission, verify the live form and Cap 123N Schedules. This summary cites the e-forms in the MWCS folders and the January 2022 pamphlet.*

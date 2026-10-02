@@ -12,7 +12,7 @@ For **BEAM Plus / energy performance strategy**, use `hk-building-sustainability
 
 ## When to Use This Skill
 
-BEAM Plus, OTTV/RTTV, greenery, EIA interfaces, green building credits.
+BEAM Plus, OTTV/RTTV, greenery, EIA interfaces, green building credits. Sustainable Building Design quantitative rules (building separation, setback, site coverage of greenery) are PNAP APP-152.
 
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
