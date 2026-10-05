@@ -3,12 +3,12 @@
 Read `d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\.cursor\skills\hk-critical-summary\SKILL.md` and follow it.
 
 Match tone/structure of:
-`d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\hk_s_reference\Land Department (LandD)\LACO Circular Memorandum\source_md\LACO Circular Memorandum No. 1A (21-10-1994)_CS.md`
+`d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\hk_s_reference\Land Department (LandD)\LACO Circular Memorandum\summaries\LACO Circular Memorandum No. 1A (21-10-1994)_CS.md`
 
 ## Paths
 
 - Extracts: `d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\hk_s_reference\Land Department (LandD)\LAO Practice Notes\_extract_tmp\{stem}.txt` (spaces in PDF names become `_`)
-- Write CS to: `d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\hk_s_reference\Land Department (LandD)\LAO Practice Notes\source_md\`
+- Write CS to: `d:\Users\rico.kwok\PycharmProjects\Skills-Architects-HK\hk_s_reference\Land Department (LandD)\LAO Practice Notes\summaries\`
 - Do **not** move/rename original PDFs/DOC/RTF. Do **not** write into `source_reference/`. Do **not** create a combined Technical Summaries file.
 
 ## Filename

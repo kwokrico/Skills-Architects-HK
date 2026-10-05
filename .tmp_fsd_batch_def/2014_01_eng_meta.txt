@@ -1,5 +1,0 @@
-file=2014_01_eng.pdf
-method=ocr
-chars=5898
-alpha=4601
-lines=173

@@ -1,5 +1,0 @@
-file=2019_03_eng_20190327_160959.pdf
-method=pypdf
-chars=7916
-alpha=5968
-lines=549

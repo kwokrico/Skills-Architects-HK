@@ -249,8 +249,8 @@ _MAX_MATCH_HITS = 5
 
 
 def nearest_source_dir(cs: CsEntry) -> Path:
-    """source_reference next to the CS, or next to source_md/ for LandsD drafts."""
-    if cs.path.parent.name == "source_md":
+    """source_reference next to the CS, or sibling of summaries/source_md."""
+    if cs.path.parent.name in {"source_md", "summaries"}:
         return cs.path.parent.parent / "source_reference"
     return cs.path.parent / "source_reference"
 
@@ -509,11 +509,11 @@ def _assert_inventory_samples(cells: dict[str, str]) -> None:
     samples = {
         "BEAM Plus Assessment Tools/BEAM Plus New Buildings V2.0_CS.md": "BEAM Plus New Buildings V2.0 Brochure.pdf",
         "Building Department (BD)/Cap 123 Building Ordience/Cap 123 (01-03-2026)_Buildings Ordinance_CS.md": "Cap 123 Consolidated",
-        "Fire Department (FSD)/FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors_CS.md": "1-1997",
-        "Fire Department (FSD)/FSD Circular Letter No. 1-2011 Delisting of Fire Extinguishers Containing Scheduled Substances_CS.md": "2011_01.pdf",
-        "Fire Department (FSD)/FSD Circular Letter No. 2-2007 Certification of FSI under Fire Safety Buildings Ordinance Cap 572_CS.md": "2007_02.pdf",
+        "Fire Department (FSD)/summaries/FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors_CS.md": "1-1997",
+        "Fire Department (FSD)/summaries/FSD Circular Letter No. 1-2011 Delisting of Fire Extinguishers Containing Scheduled Substances_CS.md": "2011_01.pdf",
+        "Fire Department (FSD)/summaries/FSD Circular Letter No. 2-2007 Certification of FSI under Fire Safety Buildings Ordinance Cap 572_CS.md": "2007_02.pdf",
         "Building Department (BD)/BD Website/Alterations and additions/Alterations and additions_CS.md": "bd.gov.hk/en/building-works/alterations-and-additions",
-        "Land Department (LandD)/LACO Circular Memorandum/source_md/LACO Circular Memorandum No. 72 (26-04-2013)_CS.md": "72.pdf",
+        "Land Department (LandD)/LACO Circular Memorandum/summaries/LACO Circular Memorandum No. 72 (26-04-2013)_CS.md": "72.pdf",
         "Planning Department (PlanD)/Cap 131 Town Planning Ordinance/Cap 131 (02-11-2023)_CS.md": "—",
     }
     for rel, needle in samples.items():

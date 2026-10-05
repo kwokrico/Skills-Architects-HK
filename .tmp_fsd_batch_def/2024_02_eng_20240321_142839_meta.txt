@@ -1,5 +1,0 @@
-file=2024_02_eng_20240321_142839.pdf
-method=pypdf
-chars=16092
-alpha=12251
-lines=285

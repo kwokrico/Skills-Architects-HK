@@ -1,0 +1,363 @@
+Source-URL: https://www.elegislation.gov.hk/hk/cap311!en.pdf
+Fetched: 2026-10-05
+
+Air Pollution Control Ordinance
+(Cap. 311)
+Contents
+Section Page
+Part I
+Preliminary
+1. Short title 1-2
+2. Interpretation 1-2
+3. Application 1-16
+4. Authority and authorized officers 1-16
+4A. Secretary to publish approved methods 1-18
+5. (Repealed) 1-18
+Part II
+Air Control Zones and Air Quality 
+Objectives
+6. Air control zones 2-2
+7. (Repealed) 2-2
+7A. Air quality objectives 2-2
+8. Authority to seek to achieve quality objectives 2-4
+Part III
+Control of Air Pollution
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-2
+Cap. 311
+
+9. Technical memorandum relating to air 
+pollution
+3-2
+Section Page
+10. Air pollution abatement notice 3-2
+Part IV
+Specified Processes and the Licensing of 
+Premises Therefor
+11. Power to amend Schedule 1 4-2
+12. Prevention of discharge of noxious or 
+offensive emissions
+4-2
+13. Licence required to use premises for specified 
+process
+4-2
+14. Application for licences 4-4
+14A. Air pollution control plan 4-6
+15. Grant or refusal of licences 4-8
+15A. Payment of annual charges by licence holders 4-10
+16. Renewal of licences 4-10
+17. Cancellation or variation of a licence 4-12
+18. Applications for and variations of licences 4-14
+18A. Application for transfer of licences 4-16
+18B. Supply of incorrect information, etc. 4-18
+19. Notices of existing premises used for 
+specified processes
+4-18
+20. Exemption of certain premises 4-22
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-4
+Cap. 311
+
+Section Page
+20AA. Removal of exemption to certain classes of 
+existing premises
+4-24
+20A. Cessation of exemption on conviction under 
+section 19(3)
+4-26
+21. Cessation of exemption in certain 
+circumstances and application for licence
+4-26
+22. Further powers in relation to an existing 
+specified process
+4-28
+23. Exempted premises—approval of changes 4-32
+24. Compensation for cancellation or variation of 
+licences
+4-34
+25. Compensation for cancellation or variation 
+of exemptions with the approval of the Chief 
+Executive in Council
+4-34
+26. Assessment of compensation 4-36
+26A. Payment of annual charges by owners of 
+exempted premises
+4-36
+Part IV A
+Unleaded Petrol and the Control of the 
+Emission of Air Pollutants from Motor 
+Vehicles
+26B. (Repealed) 4A-2
+26C. (Repealed) 4A-2
+26D. (Repealed) 4A-2
+26E. (Repealed) 4A-2
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-6
+Cap. 311
+
+Section Page
+26F. (Repealed) 4A-2
+Part IVB
+Specified Licences
+Division 1—Allocated Allowances
+26G. Secretary to allocate emission allowances in 
+respect of specified licence
+4B-2
+26H. Authority to ascertain quantity of allocated 
+allowances etc.
+4B-4
+Division 2—Determination of Compliance 
+with Certain Terms and Conditions
+26I. Determination of compliance with certain 
+terms and conditions
+4B-4
+Division 3—Adjustments to Quantity of 
+Allocated Allowances
+26J. Increase in quantity of allocated allowances 
+in case of surplus of allocated allowances in 
+preceding year
+4B-6
+26K. Increase in quantity of allocated allowances 
+upon occurrence of special event or failure to 
+acquire emission credits
+4B-8
+26L. Increase or reduction in quantity of allocated 
+allowances further to their acquisition or 
+transfer
+4B-12
+26M. Increase or reduction in quantity of allocated 
+allowances further to acquisition or transfer 
+of emission credits under recognized emission 
+trading scheme
+4B-14
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-8
+Cap. 311
+
+Section Page
+26N. Application of certain provisions of this 
+Division to licence that has ceased to be in 
+force
+4B-20
+Part V
+Enforcement
+27. Authority may obtain information 5-2
+28. Powers of entry and inspection, etc. 5-2
+29. Offences in relation to section 28 5-10
+30. Power to require modification etc., of 
+chimneys and relevant plant
+5-12
+30A. Contravention of terms and conditions of 
+licence, etc.
+5-14
+30B. Contravention of terms and conditions of 
+specified licence for excessive emission or 
+supply of incorrect information, etc.
+5-16
+Part V A
+Issue of Closure Notices for Suspected 
+Contravention of Section 13
+30C. Interpretation of Part V A 5A-2
+30D. Authority may issue closure notices 5A-2
+30E. Service of closure notices 5A-4
+30F. Period while closure notices are in force 5A-6
+30G. Authority’s power to close subject premises 5A-8
+30H. Prohibition on conducting specified process 
+on subject premises
+5A-8
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-10
+Cap. 311
+
+Section Page
+30I. Prohibition on entering or remaining on 
+subject premises
+5A-10
+30J. Authority may permit people to enter or 
+remain on subject premises
+5A-12
+30K. Prohibition on removing, defacing or 
+interfering with closure notices
+5A-12
+30L. Prohibition on breaking or interfering with 
+lock or seal attached to subject premises
+5A-14
+30M. Defence for contravention of section 30I, 30K 
+or 30L
+5A-14
+30N. Authority may cancel closure notices 5A-14
+Part VI
+Appeals
+31. When appeal may be brought; and effect 
+thereof
+6-2
+32. Constitution of Appeal Board 6-10
+33. Exercise of Appeal Board’s jurisdiction 6-12
+34. Supplementary provisions as to Appeal Board 6-16
+35. (Repealed) 6-18
+36. Case may be stated 6-18
+Part VII
+Miscellaneous
+37. Codes of Practice 7-2
+37A. Technical memorandum 7-4
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-12
+Cap. 311
+
+Section Page
+37B. Placing of technical memorandum before 
+Legislative Council
+7-4
+37C. Commencement of technical memorandum 7-8
+37D. Amendment of Schedules 7-8
+38. Authority may hold a hearing 7-10
+39. Authority to keep a register 7-10
+40. Protection of private information from 
+publicity
+7-12
+41. Offence to disclose secret information 
+obtained officially
+7-14
+42. Protection of Government and public officers 7-16
+43. Regulations 7-18
+44. Application of Ordinance to Government 7-32
+45. Advisory Council on the Environment 7-34
+46. Limit of time for laying informations, etc. 7-36
+47. Prosecution of offences 7-36
+47A. Directors of body corporate liable in certain 
+circumstances
+7-36
+48. Defences in proceedings relating to emission 
+of air pollutants
+7-38
+48A. Defence of emergency 7-40
+49. Provisions of Ordinance to be in addition to 
+any other Ordinance
+7-42
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-14
+Cap. 311
+
+Section Page
+50. Service of notices 7-42
+Part VIII
+Control of Environmental Asbestos
+51. Registers of asbestos consultants, etc. 8-2
+52. Appointment of the Administration 
+Committee
+8-2
+53. Functions of the Administration Committee 8-4
+54. Composition and meeting of the 
+Administration Committee
+8-4
+55. Application for registration 8-6
+56. Restriction on entry on certain registers, etc. 8-6
+57. Function of Administration Committee in 
+registration
+8-8
+58. Registration 8-8
+59. Annual registration fee 8-10
+60. Removal of names from registers 8-10
+61. Restoration of names to registers 8-10
+62. Disciplinary proceedings 8-12
+63. Legal adviser 8-12
+64. Rules of procedure 8-12
+65. Notice of hearing 8-14
+66. Finding and recommendation of 
+Administration Committee
+8-14
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-16
+Cap. 311
+
+Section Page
+67. Order of the Authority 8-14
+68. Power of the Administration Committee 8-16
+Part IX
+Asbestos Control Work
+69. Investigation for asbestos 9-2
+70. Contents of asbestos investigation report 9-6
+71. Contents of asbestos management plan 9-6
+72. Issue of conditions 9-10
+73. Notification of commencement of asbestos 
+abatement work
+9-12
+74. Appointment and duties of registered asbestos 
+consultants
+9-12
+75. Appointment and duties of registered asbestos 
+contractors
+9-14
+76. Appointment and duties of registered asbestos 
+laboratories
+9-14
+77. Offences 9-16
+78. Defences 9-18
+79. Issue of asbestos abatement notice 9-20
+Part X
+Ban on Use, Supply, Import and 
+Transhipment of Asbestos etc.
+80. Ban on use, supply, import and transhipment 
+of asbestos or asbestos containing material
+10-2
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-18
+Cap. 311
+
+Section Page
+81. Defence for offence under section 80 10-4
+82. Non-application of section 80 10-6
+83. Exemption from section 80 10-8
+84. Seizure etc. of asbestos or asbestos containing 
+material following conviction under section 
+80
+10-10
+Schedule 1 Specified Processes S1-2
+Schedule 2 Matters to which Terms and 
+Conditions of Licence or Exemption 
+may Relate
+S2-2
+Schedule 2A Mandatory Terms and Conditions of 
+Specified Licence
+S2A-2
+Schedule 2B Fee Prescribed for Purposes of 
+Section 26K(1) of this Ordinance
+S2B-2
+Schedule 2C Percentage Specified for Purposes of 
+Section 26M(5) of this Ordinance
+S2C-2
+Schedule 3 (Repealed) S3-2
+Schedule 4 Determination of Compensation S4-2
+Schedule 5 Air Quality Objectives S5-2
+Last updated date
+11.4.2025
+Air Pollution Control Ordinance
+T-20
+Cap. 311
+
+To make provision for abating, prohibiting and controlling pollution of the 
+atmosphere and for matters connected therewith.
+(Amended 2 of 1991 s. 2)
+ 
+ 
+[1 October 1983] L.N. 303 of 1983
+(Format changes—E.R. 2 of 2014)
+Part I

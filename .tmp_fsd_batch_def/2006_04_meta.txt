@@ -1,5 +1,0 @@
-file=2006_04.pdf
-method=pypdf
-chars=47983
-alpha=34689
-lines=1562

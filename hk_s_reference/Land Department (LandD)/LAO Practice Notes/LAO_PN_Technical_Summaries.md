@@ -1,9 +1,9 @@
 # LAO Practice Notes — Technical Design Summaries
 
-**Scope:** LAO Practice Notes (including APSRSE 2/94 and 2/96) from this library’s `source_md/*_CS.md`.
+**Scope:** LAO Practice Notes (including APSRSE 2/94 and 2/96) from this library’s `summaries/*_CS.md`.
 **Focus:** Lease GFA/SC/DDH, GBP under lease, waivers, NDA/standard-rate premium, trees/landscape, Certificate of Compliance.
 **Coverage:** 96 practice notes (one section each). Missing variants named in CS but with no source in this library: **1/2025A**, **3/2025**, **5/2020A**, **12/2023A**.
-**Caveat:** Advisory desk reference only. Verify the live LandsD LAO PN list and the project land grant before reliance. Individual `source_md/*_CS.md` files remain the per-instrument source; this file is the scan layer.
+**Caveat:** Advisory desk reference only. Verify the live LandsD LAO PN list and the project land grant before reliance. Individual `summaries/*_CS.md` files remain the per-instrument source; this file is the scan layer.
 
 ---
 
@@ -11,7 +11,7 @@
 
 1. Check the **supersession map** before relying on an older PN.
 2. Jump via the **issue index**.
-3. Open the matching `source_md/*_CS.md` / `source_reference/` PDF for citation text.
+3. Open the matching `summaries/*_CS.md` / `source_reference/` PDF for citation text.
 
 ---
 
@@ -182,7 +182,7 @@ A sample MLP is attached at Appendix I (not in this extract).
 
 - `9101apsr.pdf` (LAO Practice Notes for AP / Surveyors / RSE, Issue No. 1/1991, 17 January 1991)
 - Read with: later **APSRSE 2/94** (12-week MLP reply; same information list) and **APSRSE 2/96** (minor vs substantial MLP amendments)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-1991 (January 1991)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-1991 (January 1991)_CS.md`
 
 ---
 
@@ -225,7 +225,7 @@ A substantive reply will be given to a master layout plan submission required un
 
 - `9402apsr.doc` (Practice Note for AP / Surveyors / RSE, Issue No. APSRSE 2/94, March 1994)
 - Read with: **Issue No. 1/1991** (MLP purpose + sample); **APSRSE 2/96** (when a revised MLP is needed after GBP amendments); **PN 5/2002** later shortens the MLP clock
-*Source Critical Summary:* `source_md/LAO Practice Note No. APSRSE 2-94 (March 1994)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. APSRSE 2-94 (March 1994)_CS.md`
 
 ---
 
@@ -264,7 +264,7 @@ APSRSE 2/94 of March 1994 already sets the MLP information pack and DLO reply ti
 
 - `9602apsr.doc` (Practice Note for AP / Surveyors / RSE, Issue No. APSRSE 2/96, September 1996)
 - Read with: **APSRSE 2/94** (base MLP pack + 12-week reply); **Issue No. 1/1991** (MLP purpose)
-*Source Critical Summary:* `source_md/LAO Practice Note No. APSRSE 2-96 (September 1996)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. APSRSE 2-96 (September 1996)_CS.md`
 
 ---
 
@@ -322,7 +322,7 @@ Prime objective: **no car waits on the public street** to enter the car park. Wa
 
 - `2k-2.doc` (LAO Practice Note Issue No. 2/2000, February 2000)
 - Read with: lease car-parking / loading clauses; later flexibility PN **10/2000** (±5% or 50 spaces)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2000 (February 2000)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2000 (February 2000)_CS.md`
 
 ---
 
@@ -375,7 +375,7 @@ This note assists parties preparing building plans on lots restricted as to the 
 
 - `2k-3.doc` (LAO Practice Note Issue No. 3/2000, April 2000)
 - Read with: the specific house-number / user words in the Government lease or land grant
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2000 (April 2000)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2000 (April 2000)_CS.md`
 
 ---
 
@@ -431,7 +431,7 @@ If the lot (or para. 2–3 sub-lot) was **redeveloped** and LandsD **approved or
 ### Source
 
 `2000A_3.pdf` | LAO PN 3/2000 (`2k-3.doc`) | CFA FACV 17/2012. Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2000A (25 June 2014)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2000A (25 June 2014)_CS.md`
 
 ---
 
@@ -494,7 +494,7 @@ OCR of Table 1 (verify against PDF):
 ### Source
 
 `2000_4B.pdf` | BA recreational GFA practice; later LAO PNs on accountable GFA (e.g. 4/2014). Table 1 figures from OCR of a scanned PDF — confirm numbers on the original.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2000B (24 May 2013)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2000B (24 May 2013)_CS.md`
 
 ---
 
@@ -534,7 +534,7 @@ Lease conditions usually require parking, loading and unloading at **fixed ratio
 
 - `2k-10.rtf` (LAO Practice Note Issue No. 10/2000, 20 December 2000)
 - Read with: lease parking / L/UL ratio clauses; **PN 2/2000** (mechanical parking)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 10-2000 (December 2000)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 10-2000 (December 2000)_CS.md`
 
 ---
 
@@ -574,7 +574,7 @@ TPB announced guidelines on 19 January 2001 for developments in newly designated
 
 - `2001-2.rtf` (LAO Practice Note Issue No. 2/2001, 23 February 2001)
 - Read with: TPB guidelines for **OU(Business)**; the industrial user clause of the existing lease
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2001 (February 2001)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2001 (February 2001)_CS.md`
 
 ---
 
@@ -655,7 +655,7 @@ Full 2.0–5.0 m² (0.1 m² steps) is in the source Appendix.
 
 - `2001-3.pdf` (LAO Practice Note Issue No. 3/2001, 26 April 2001)
 - Read with: **Joint Practice Note No. 1**; supplementary **PN 6/2001** (when a consent letter suffices without modification)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2001 (April 2001)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2001 (April 2001)_CS.md`
 
 ---
 
@@ -723,7 +723,7 @@ Where the lease “Definition of GFA” already lets the Director exclude floor 
 
 - `2001-6.rtf` (LAO Practice Note Issue No. 6/2001, 20 July 2001)
 - Read with: **PN 3/2001** (premium schedule and application timing); **Joint Practice Note No. 1**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2001 (July 2001)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2001 (July 2001)_CS.md`
 
 ---
 
@@ -761,7 +761,7 @@ Where a land exchange, land grant or lease modification is in train, the applica
 
 - `2002-2.rtf` (LAO Practice Note Issue No. 2/2002, 5 February 2002)
 - Read with: later **PN 7/2006** (GBP while MLP or modification still open)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2002 (February 2002)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2002 (February 2002)_CS.md`
 
 ---
 
@@ -802,7 +802,7 @@ The note clarifies Government’s (and LandsD’s) role on Conditions of Sale fo
 
 - `2002-3.rtf` (LAO Practice Note Issue No. 3/2002, 22 February 2002)
 - Read with: the Conditions of Sale / Application List for the specific lot
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2002 (February 2002)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2002 (February 2002)_CS.md`
 
 ---
 
@@ -847,7 +847,7 @@ Clock (#): from date of **valid receipt** (no outstanding AP information) to dat
 
 - `2002-5.rtf` (LAO Practice Note Issue No. 5/2002, 3 June 2002)
 - Read with: **APSRSE 2/94** (MLP pack); **PN 1/94** and **PN 3/94** (superseded clocks); later **PN 7/2006** (amendment-plan handling)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2002 (June 2002)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2002 (June 2002)_CS.md`
 
 ---
 
@@ -917,7 +917,7 @@ DLO district boundaries; straddling lots → **higher** rate. Sample consent: Ap
 
 - `2002-6.rtf` (LAO Practice Note Issue No. 6/2002, 3 June 2002)
 - Read with: **Joint Practice Note No. 2** paras (6)(a)–(b); **PNAP 13** (April 2001 Revision); **PN 3/2001** / **6/2001** (balcony analogue); later **PN 3/2003** (NSPE wall premium rates where no curtain-wall SC)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2002 (June 2002)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2002 (June 2002)_CS.md`
 
 ---
 
@@ -959,7 +959,7 @@ Enquiries (this PN): Customer Relations Manager Mr. Y C LI **2231 3233**; Assist
 
 - `2003-1e.rtf` (Practice Note Issue No. 1/2003, 24 March 2003)
 - Read with: Land Exchange Entitlement (Letters A/B) documents held by the owner
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2003 (March 2003)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2003 (March 2003)_CS.md`
 
 ---
 
@@ -1003,7 +1003,7 @@ Where existing lease conditions have no special condition for determination of G
 
 - `2003-3e.rtf` (LAO Practice Note Issue No. 3/2003, 23 June 2003). Appendix I (unit rates) and Appendix II (sample calculation) are **not** in the extract.
 - Read with: **PN 6/2002** para 2(i) (when modification is needed); **Joint Practice Note No. 2**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2003 (June 2003)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2003 (June 2003)_CS.md`
 
 ---
 
@@ -1046,7 +1046,7 @@ To encourage purpose-built residential care homes for the elderly (RCHE) in new 
 
 - `2003-4e.rtf` (LAO Practice Note Issue No. 4/2003, 7 August 2003)
 - Read with: **SWD Guidance Note** on this subject (SWD website, August 2003)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2003 (August 2003)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2003 (August 2003)_CS.md`
 
 ---
 
@@ -1112,7 +1112,7 @@ Consent letter (Appendix I) locks SC / built-over / roofed-over / covered area t
 
 - `2004-1e.rtf` (LAO Practice Note Issue No. 1/2004, 31 March 2004)
 - Read with: **BD PNAP 280** (Site Coverage and Open Space Provision)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2004 (March 2004)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2004 (March 2004)_CS.md`
 
 ---
 
@@ -1152,7 +1152,7 @@ Commercial use in an industrial building breaches an industrial-user lease and i
 
 - `2005-4e.pdf` (LAO Practice Note Issue No. 4/2005, 9 April 2005)
 - Read with: **PN 2/2003** (upper-floor industrial waiver procedures); the industrial user clause and the OZP
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2005 (April 2005)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2005 (April 2005)_CS.md`
 
 ---
 
@@ -1224,7 +1224,7 @@ Unit-size bands in the sample SC (rates `[ ]` = TD):
 ### Source
 
 `2006-4e.pdf` | HKPSG parking | LAO PN 10/2000 (earlier ±5%/50 flexibility) | LAO PN 4/2014 (GFA accountability of car parks). Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2006 (25 May 2006)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2006 (25 May 2006)_CS.md`
 
 ---
 
@@ -1278,7 +1278,7 @@ To streamline DLO handling of general building plans — especially amendments a
 
 - `2006-7e.pdf` (LAO Practice Note Issue No. 7/2006, 6 December 2006)
 - Read with: **PN 2/2002** (plans before completion of exchange/modification); **PN 5/2002** (pledged weeks); **APSRSE 2/96** (MLP vs GBP drift)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 7-2006 (December 2006)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 7-2006 (December 2006)_CS.md`
 
 ---
 
@@ -1320,7 +1320,7 @@ Developments contiguous with the lot boundary risk unintentional encroachment on
 
 - `2008-4.pdf` (LAO Practice Note Issue No. 4/2008, 9 June 2008)
 - Read with: sale/grant plan from the District Survey Office; lease General Condition on extensions
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2008 (9 June 2008)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2008 (9 June 2008)_CS.md`
 
 ---
 
@@ -1362,7 +1362,7 @@ Where vacant Government land next to the building is not required for permanent 
 ### Source
 
 `2009-2.pdf` | DLO STT practice. Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2009 (9 June 2009)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2009 (9 June 2009)_CS.md`
 
 ---
 
@@ -1423,7 +1423,7 @@ Full dollar schedules are in Apps. I–VI of `2011_2.pdf` (OCR). Do not copy sta
 ### Source
 
 `2011_2.pdf` | JPN 1 & 2 | LAO 3/2001, 6/2001, 6/2002, 3/2003 | later rate PNs 4/2023, 3/2024, 6/2025. Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2011 (31 March 2011)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2011 (31 March 2011)_CS.md`
 
 ---
 
@@ -1505,7 +1505,7 @@ An **industrial lot** is one that, under the Government lease, may not be used f
 
 - `2012_3.pdf` (LAO PN Issue No. 3/2012, 18 June 2012)
 - Read with: **LAO PN 3/2012A** and **3/2012B** (later variations — 3/2012B supersedes Appendix I); Town Planning Board / OZP user; BO and FSD for works and licences
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3_2012 (June 2012)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3_2012 (June 2012)_CS.md`
 
 ---
 
@@ -1538,7 +1538,7 @@ Without this PN, the 3/2012 scheme would have stopped taking applications after 
 ### Source
 
 `2012A_3.pdf` | LAO PN 3/2012, 3/2012B. Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2012A (3 March 2016)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2012A (3 March 2016)_CS.md`
 
 ---
 
@@ -1615,7 +1615,7 @@ Except as varied by this PN, all other provisions of PN 3/2012 and 3/2012A remai
 
 - `2012B_3.pdf` (LAO PN Issue No. 3/2012B, May 2016)
 - Read with: **LAO PN 3/2012** (intensity, 15-year, 40%/PR 2.5, 30% office); **LAO PN 3/2012A**; OGCIO Green Data Centre Practices
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3_2012B (May 2016)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3_2012B (May 2016)_CS.md`
 
 ---
 
@@ -1725,7 +1725,7 @@ Any building on the lot is measured for GFA unless the lease exempts it. Paras 4
 
 - `2014_4.pdf` (LAO PN Issue No. 4/2014, August 2014; paras 40–41 recovered by OCR)
 - Read with: **LAO PN 4/2014A** and **JPN No. 4** (streamlined GFA accountability from 18 October 2021); **PNAP APP-2**; **JPN Nos. 1 & 2**; **LAO PN 4/2000(B)**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4_2014 (August 2014)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4_2014 (August 2014)_CS.md`
 
 ---
 
@@ -1767,7 +1767,7 @@ JPN No. 4 takes effect from **18 October 2021** (the Effective Date). Streamline
 
 - `PN 4_2014A.pdf` (LAO PN Issue No. 4/2014A, 7 October 2021)
 - Read with: **LAO PN 4/2014** (still the parent for cases outside JPN 4’s plan trigger); **revised JPN No. 4**; **Cap. 121** if NT-exempt building
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4_2014A (October 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4_2014A (October 2021)_CS.md`
 
 ---
 
@@ -1825,7 +1825,7 @@ An industrial building here is one lawfully erected on a lot restricted to **ind
 
 - `PN 1_2016.pdf` (LAO PN Issue No. 1/2016, 25 January 2016)
 - Read with: OZP / TPB permission; BO and FSD; **LAO PN 4/2019** (other industrial-premises waivers expressly point here for testing labs)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1_2016 (January 2016)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1_2016 (January 2016)_CS.md`
 
 ---
 
@@ -1868,7 +1868,7 @@ The special waiver requires the Assignor, before disposal, to obtain the Directo
 
 - `PN 2_2016.pdf` (LAO PN Issue No. 2/2016, 1 June 2016)
 - Read with: **LAO PN 1/2010, 1/2010A, 1/2010B** (parent special waiver); **LAO PN 6/2019** (later entire-IB special waiver also applies this PN’s disposal procedures)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2_2016 (June 2016)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2_2016 (June 2016)_CS.md`
 
 ---
 
@@ -1924,7 +1924,7 @@ Non-BCIII GBP under lease remains **8 weeks** per LAO PN **5/2002**.
 ### Source
 
 `PN 1_2017.pdf` | PNAP ADM-2, ADV-33, APP-20 | LAO PN 5/2002, 6/2007, APSRSE 1/94. Body from OCR; App. I historic lease is image-garbled — use the PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2017 (12 April 2017)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2017 (12 April 2017)_CS.md`
 
 ---
 
@@ -1984,7 +1984,7 @@ LandsD comments and decides on GBP referred through the Centralized Processing S
 
 - `PN 2_2018.pdf` (LAO PN Issue No. 2/2018, 26 November 2018)
 - Read with: **LAO PN 4/2018** (streamlined GBP / workshops); **LAO PN 3/2018** (computer GFA / coloured plans); **LAO PN 3/2014** (DDH); **LAO PN 4/2006** (parking schedule example in guidance); **LAO PN 1/2017** (virtually unrestricted exclusion)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2_2018 (November 2018)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2_2018 (November 2018)_CS.md`
 
 ---
 
@@ -2064,7 +2064,7 @@ AP should follow Annex 1 for CAD on **non-rewritable DVD-ROM**, and Annex 3 for 
 
 - `PN 3_2018.pdf` (LAO PN Issue No. 3/2018, 26 November 2018)
 - Read with: **PNAP ADM-19** Appendix F; **LAO PN 2/2018** and **4/2018** (note 4/2018 Stage 1 says DVD-ROM **not** required at Stage 1); **LAO PN 4/2000(B)**; **PNAP APP-89**; **JPN Nos. 1 & 2**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3_2018 (November 2018)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3_2018 (November 2018)_CS.md`
 
 ---
 
@@ -2133,7 +2133,7 @@ AP must ensure correctness of all arithmetic and area calculations (including GF
 
 - `PN 4_2018.pdf` (LAO PN Issue No. 4/2018, 26 November 2018)
 - Read with: **LAO PN 2/2018** (Development Schedule); **LAO PN 3/2018** (DVD-ROM / CBP); **PNAP ADM-2** (Centralized Processing System); **LAO PN 1/2017** (excluded)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4_2018 (November 2018)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4_2018 (November 2018)_CS.md`
 
 ---
 
@@ -2172,7 +2172,7 @@ Godown Premises may only be used for **storage of goods**, with **movement** of 
 
 - `PN1_2019.pdf` (LAO PN Issue No. 1/2019, 21 January 2019)
 - Read with: TPB **Definitions of Terms**; FSD / BA licences; **LAO PN 4/2019** Appendix II (standard-rate waiver list cross-refers this PN for godown vs industrial premises)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1_2019 (January 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1_2019 (January 2019)_CS.md`
 
 ---
 
@@ -2228,7 +2228,7 @@ A **pre-1987 IB** is wholly or partly constructed **on or before 1 March 1987**,
 
 - `PN 2_2019.pdf` (LAO PN Issue No. 2/2019, 18 February 2019)
 - Read with: **LAO PN 2/2019A** (TPB window extended to 31 October 2024); **LAO PN 6/2019** para 17 (concurrent lease-mod under this PN **and** entire-IB special waiver **not accepted**); TPB / B(P)Reg
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2_2019 (February 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2_2019 (February 2019)_CS.md`
 
 ---
 
@@ -2265,7 +2265,7 @@ Words **“During the three-year period commencing from 10 October 2018”** in 
 
 - `PN 2_2019A.pdf` (LAO PN Issue No. 2/2019A, 7 October 2021)
 - Read with: **LAO PN 2/2019** (full scheme)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2_2019A (October 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2_2019A (October 2021)_CS.md`
 
 ---
 
@@ -2339,7 +2339,7 @@ Buffer floors may be required to separate non-industrial uses (which themselves 
 
 - `PN 3_2019.pdf` (LAO PN Issue No. 3/2019, 21 March 2019)
 - Read with: **FSD Circular Letter No. 2/2019**; **LAO PN 3/2012** (data-centre waiver fee); **LAO PN 5/2001, 5/2001A, 1/2015** (telecom-exchange fee); OGCIO Green Data Centre Practices
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3_2019 (March 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3_2019 (March 2019)_CS.md`
 
 ---
 
@@ -2403,7 +2403,7 @@ Application may be for an initial term of years **or** lifetime of the existing 
 
 - `PN 4_2019.pdf` (LAO PN Issue No. 4/2019, 22 March 2019)
 - Read with: **LAO PN 3/2012, 3/2012A, 3/2012B** (data centre); **LAO PN 1/2016** (testing lab); **LAO PN 5/2019** (RBS); **LAO PN 1/2019** (godown cargo/recycling)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4_2019 (March 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4_2019 (March 2019)_CS.md`
 
 ---
 
@@ -2459,7 +2459,7 @@ Rates subject to review. IB interiors use PN 4/2019 App IV instead.
 
 - `PN 5_2019.pdf` (LAO PN Issue No. 5/2019, 22 March 2019)
 - Read with: **LAO PN 4/2019** Appendix IV (IB interior RBS fees); Communications Authority licences; TPB / FSD / BA
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5_2019 (March 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5_2019 (March 2019)_CS.md`
 
 ---
 
@@ -2537,7 +2537,7 @@ Building age **≥ 15 years** from OP of the **entire** IB (if multiple OPs, fro
 
 - `PN 6_2019.pdf` (LAO PN Issue No. 6/2019, 2 April 2019)
 - Read with: **LAO PN 6/2019A** (window to 31 October 2024); **LAO PN 2/2016** (disposal consent); **LAO PN 2/2019** (no concurrent application); **LAO PN 7/2019** (transitional housing overlay); OZP / TPB
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6_2019 (April 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6_2019 (April 2019)_CS.md`
 
 ---
 
@@ -2574,7 +2574,7 @@ Words **“on or before 31 March 2022”** in PN 6/2019 paragraph 1 are varied t
 
 - `PN 6_2019A.pdf` (LAO PN Issue No. 6/2019A, 11 October 2021)
 - Read with: **LAO PN 6/2019** (full scheme)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6_2019A (October 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6_2019A (October 2021)_CS.md`
 
 ---
 
@@ -2629,7 +2629,7 @@ Owners may apply for a Transitional Housing Waiver for conversion and use of the
 
 - `PN7_2019.pdf` (LAO PN Issue No. 7/2019, 18 April 2019)
 - Read with: **LAO PN 6/2019** (and **6/2019A**); **LAO PN 1/2010, 1/2010A, 1/2010B** and **2/2016** (existing Special Waivers only); THB Task Force on Transitional Housing; TPB 26 November 2018 press release on eligible transitional housing as temporary use
-*Source Critical Summary:* `source_md/LAO Practice Note No. 7_2019 (April 2019)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 7_2019 (April 2019)_CS.md`
 
 ---
 
@@ -2727,7 +2727,7 @@ Follow **JPN 3 paras 9–11**. Landscape submission must show **location, dispos
 
 - `PN 1_2020.pdf`
 - Varied by: **LAO PN No. 1/2020A** (SCC at submission; shorter completion clocks; Forms 1A–7). Read with: **JPN 3**; **PNAP APP-152**; **LAO PN Nos. 2/2020, 4/2018**; **DEVB TC(W) 6/2015**; PlanD **PNPP 1/2019**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2020 (January 2020)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2020 (January 2020)_CS.md`
 
 ---
 
@@ -2816,7 +2816,7 @@ Form 1A notes (design locks unchanged in substance): PlanD approval required bef
 
 - `PN 1_2020A.pdf`
 - Read with: **LAO PN No. 1/2020**; **JPN 3**; **PNAP APP-152**; **LAO PN No. 2/2020**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2020A (May 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2020A (May 2022)_CS.md`
 
 ---
 
@@ -2914,7 +2914,7 @@ On redevelopment modification, owner may apply to **remove** DDH/DD if the lot f
 ### Source
 
 `PN 3_2020.pdf` | JPN 5 | LAO PN 4/2018, 4/2014, 4/2008, 1/2010B | **PN 3/2020A** (SC update). Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2020 (27 April 2020)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2020 (27 April 2020)_CS.md`
 
 ---
 
@@ -2978,7 +2978,7 @@ JPN 7’s streamlined SC arrangements among BD, LandsD and PlanD take effect fro
 
 - `PN 3_2020A.pdf`
 - Read with: **JPN No. 7**; **LAO PN No. 3/2020** para 7(a)(i); **LAO PN No. 1/2004**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2020A (August 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2020A (August 2021)_CS.md`
 
 ---
 
@@ -3011,7 +3011,7 @@ Ordinances on acquisition/resumption often allow recovery of costs reasonably in
 ### Source
 
 `PN 5_2020.pdf` | **PN 5/2020B** (operative supplement). Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2020 (30 June 2020)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2020 (30 June 2020)_CS.md`
 
 ---
 
@@ -3067,7 +3067,7 @@ This PN issues a new **Application Form for Claim of Professional Fees** (Append
 
 - `PN 5_2020B.pdf`
 - Read with: **LAO PN 5/2020** (parent); applicable compensation ordinances named in the claim (Caps **124**, **370**, **127** as examples)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2020B (December 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2020B (December 2025)_CS.md`
 
 ---
 
@@ -3130,7 +3130,7 @@ If the job is advanced and OP is expected **just after** BC (or extended BC) exp
 ### Source
 
 `PN 2_2021.pdf` | LACO pre-sale consent timing | superseded PNs listed above. Text from OCR of a scanned PDF.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2021 (3 June 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2021 (3 June 2021)_CS.md`
 
 ---
 
@@ -3254,7 +3254,7 @@ All Part (II) consents **might generally** be assessed/granted at GBP checking.
 
 - `PN 4_2021.pdf`
 - Read with: **LAO PN 4/2018** (GBP checking stages); **JPN 6** (building separation / setback); **LAO PN 3/2021** (offensive trades)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2021 (December 2021)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2021 (December 2021)_CS.md`
 
 ---
 
@@ -3349,7 +3349,7 @@ Facilitate: OZP extract; assignment/Deed Poll plans; **2 sets of sketch plans an
 
 - `PN 1_2022.pdf` (page 5 recovered by OCR: paras 11–16, 16 February 2022)
 - Varied by: **LAO PN No. 1/2022A** (BBTO to 31 December 2023). Read with OZPs **S/KTN/2**, **S/FLN/2**; **LAO PN No. 3/2022** (standard rates)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2022 (February 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2022 (February 2022)_CS.md`
 
 ---
 
@@ -3387,7 +3387,7 @@ This PN varies only paragraph 13 of LAO PN No. 1/2022. All other provisions of P
 
 - `PN 1_2022A.pdf`
 - Read with: **LAO PN No. 1/2022** (Remaining Phase application rules); **LAO PN No. 3/2022 / 3/2022A** (standard-rates premium option, same deadline)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2022A (June 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2022A (June 2023)_CS.md`
 
 ---
 
@@ -3442,7 +3442,7 @@ Fn 1–2: “BC period” includes **commence-to-operate (CtO)** and associated 
 
 - `PN 2_2022.pdf`
 - Read with: **LAO PN No. 2/2021** (BC-extension premium sliding scale)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2022 (March 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2022 (March 2022)_CS.md`
 
 ---
 
@@ -3524,7 +3524,7 @@ Applicant should submit a Cap. 473 **Authorised Land Surveyor** Survey Submissio
 
 - `PN 3_2022.pdf`
 - Varied by: **LAO PN No. 3/2022A**. Read with: **LAO PN No. 1/2022**; **PN 1/2021** (pre-1987 IB rates excluded here)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2022 (March 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2022 (March 2022)_CS.md`
 
 ---
 
@@ -3593,7 +3593,7 @@ All rates **per GFA** except agricultural use (**per site area**).
 
 - `PN 3_2022A.pdf`
 - Read with: **LAO PN No. 3/2022** (formula A×B−C×D−E); **LAO PN Nos. 1/2022 and 1/2022A**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2022A (June 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2022A (June 2023)_CS.md`
 
 ---
 
@@ -3656,7 +3656,7 @@ LandsD will generally treat solar PV (panels, inverters, meters, boards, cables,
 
 - `PN 4_2022.pdf`
 - Read with: BD **Technical Guidelines on MWCS**; **PNAP ADM-2**; LandsD NTEH pamphlet
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2022 (May 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2022 (May 2022)_CS.md`
 
 ---
 
@@ -3727,7 +3727,7 @@ Where the lease requires the Director’s written approval to erect separate tem
 
 - `PN 5_2022.pdf`
 - Read with: LandsD **Guidance Notes on Provision of Sales Office and Show Flats**; Consent Scheme / CC practice
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2022 (May 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2022 (May 2022)_CS.md`
 
 ---
 
@@ -3832,7 +3832,7 @@ Admin fee **$54,800**. Rates non-negotiable; review **not earlier than 1 April 2
 
 - `PN 6_2022.pdf`
 - Read with: **JPN 8** (July 2022); **JPN 1 / JPN 2** (green-feature GFA/SC sub-clause)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2022 (October 2022)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2022 (October 2022)_CS.md`
 
 ---
 
@@ -3926,7 +3926,7 @@ Within **8 weeks of Contract Date** (as applicable): discharge mortgages (draft 
 
 - `PN 2_2023.pdf`
 - NDA / special cases may follow **LAO PN No. 1/2022** (and later NDA PNs) instead of this flow
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2023 (March 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2023 (March 2023)_CS.md`
 
 ---
 
@@ -4011,7 +4011,7 @@ OT Licence (issued or deemed) does not displace other lease covenants, the Build
 
 - `PN 3_2023.pdf`
 - Supersedes: **LAO PN No. 6/2007**; **PN 3/2021** as varied by **PN 1/2023**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2023 (March 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2023 (March 2023)_CS.md`
 
 ---
 
@@ -4116,7 +4116,7 @@ App V continues in 10 mm steps to **290–300 mm**. App VI (Jan 2011) stops at *
 
 - `PN 4_2023.pdf`
 - Read with: **JPN 1** / **JPN 2** (the version cited in the lease); parent rate PNs **3/2001** (as supplemented by **6/2001**), **6/2002**, **3/2003**, **2/2011** (superseded: **3/2001A**, **1/2018**)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2023 (March 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2023 (March 2023)_CS.md`
 
 ---
 
@@ -4190,7 +4190,7 @@ During the three-year Pilot, LandsD may (i) **exempt eligible RCHE from land pre
 
 - `PN 5_2023.pdf`
 - Read with: **LAO PN 4/2003** (base Incentive Scheme; **not applicable during Pilot**); SWD Guidance Note (June 2023); **PNAP APP-151**; Cap. **459**; TPO / BO
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2023 (June 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2023 (June 2023)_CS.md`
 
 ---
 
@@ -4232,7 +4232,7 @@ The 2003 Incentive Scheme (PN 4/2003) was enhanced for a pilot from **20 June 20
 
 - `PN 5_2023A.pdf`
 - Read with: **LAO PN 5/2023** (operative design rules); **LAO PN 4/2003** (suspended while enhancements continue); SWD Guidance Note (June 2026)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2023A (June 2026)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2023A (June 2026)_CS.md`
 
 ---
 
@@ -4305,7 +4305,7 @@ A **tree** is a plant with trunk diameter **≥ 95 mm at 1.3 m** above ground (A
 
 - `PN 6_2023.pdf`
 - Read with: LandsD **Guidance Notes on TPRP**; **PlanD PN 1/2019** (LMP/LP); **LAO PN 4/2018** (workshop); AFCD NCPN No. 2; DEVB TC(W) **6/2015**; DEVB **Handbook on Tree Management**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2023 (June 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2023 (June 2023)_CS.md`
 
 ---
 
@@ -4360,7 +4360,7 @@ Submit the relevant form (Annex A, B or C) plus consent form Annex D where appro
 
 - `PN 7_2023.pdf` (LAO PN No. 7/2023, 10 July 2023)
 - Read with: **Personal Data (Privacy) Ordinance (Cap. 486)**; Land Registry search. Supersedes **LAO PN 6/2006** and **6/2006A**.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 7_2023 (July 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 7_2023 (July 2023)_CS.md`
 
 ---
 
@@ -4424,7 +4424,7 @@ Annex Part B **2** (for PN 1/2017): the computer printout is submitted **at firs
 
 - `PN 8_2023.pdf` (LAO PN No. 8/2023, 3 October 2023; first issued March 2023 as PN 1/2023 — superseded)
 - Read with: the Relevant PNs named above (this PN varies their checklists only).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 8_2023 (October 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 8_2023 (October 2023)_CS.md`
 
 ---
 
@@ -4474,7 +4474,7 @@ Incorporated Owners / OC or the property manager must ensure compliance with par
 
 - `PN 9_2023.pdf` (LAO PN No. 9/2023, 8 December 2023)
 - Read with: the lot's **user clause** and **DMC** common-parts plan; **BO** MOE standards.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 9_2023 (December 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 9_2023 (December 2023)_CS.md`
 
 ---
 
@@ -4548,7 +4548,7 @@ GFA of eligible RCHD includes:
 
 - `PN 10_2023.pdf` (LAO PN No. 10/2023, 20 December 2023)
 - Read with: **Cap. 613**; **TPO** s.12A/s.16 and the OZP; **BO / B(P)R** (RCHD GFA-accountable; BA PR modification in the Pilot Period); **PNAP APP-151**; SWD Guidance Note (Dec 2023).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 10_2023 (December 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 10_2023 (December 2023)_CS.md`
 
 ---
 
@@ -4616,7 +4616,7 @@ First phase: **10 zones** in **Yuen Long, North and Tuen Mun** — four existing
 
 - `PN 11_2023.pdf` (LAO PN No. 11/2023, 28 December 2023)
 - Read with: supplementary rates PN (**11/2023A**); **PN 3/2022** and **3/2022A** (KTN/FLN NDA standard rates — out of scope here). Map: Appendix I (LIC-MIS-2017n, 20/12/2023).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 11_2023 (December 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 11_2023 (December 2023)_CS.md`
 
 ---
 
@@ -4705,7 +4705,7 @@ Overlapping zones: **higher** rates. Straddle two zones/sub-zones: after-GFA **p
 
 - `PN 11_2023A.pdf` (LAO PN No. 11/2023A, 2 April 2024)
 - Read with: **LAO PN 11/2023** (eligibility and zones); **LAO PN 12/2023** (if pre-1987 IB on the lot — these rates only). Option Form: Appendix I.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 11_2023A (April 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 11_2023A (April 2024)_CS.md`
 
 ---
 
@@ -4794,7 +4794,7 @@ Option Form must include OP **or** BA letter showing first plan submission on/be
 
 - `PN 12_2023.pdf` (LAO PN No. 12/2023, 28 December 2023; first issued March 2021 as PN 1/2021, last revised March 2022 as 1/2021A — both superseded)
 - Read with: **PN 11/2023** / NDA standard-rate PNs (those rates override if the lot is in those areas); **PN 2/2019** (optional extra PR, not required). Forms: Appendices I and III; regions: Appendix II.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 12_2023 (December 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 12_2023 (December 2023)_CS.md`
 
 ---
 
@@ -4870,7 +4870,7 @@ Appendix II also: Government land adjoining/intervening the private land is incl
 
 - `PN 13_2023.pdf` (LAO PN No. 13/2023, 28 December 2023)
 - Read with: NDA-specific invitation PNs (sites, rates, deadlines); **PN 10/2025** (premium offsetting with other agri land, where applicable). Criteria: Appendices I–II.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 13_2023 (December 2023)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 13_2023 (December 2023)_CS.md`
 
 ---
 
@@ -4969,7 +4969,7 @@ Facilitate: OZP extract; assignment/Deed Poll plans for portions; **sketch plans
 
 - `PN 1_2024.pdf`
 - Varied by: **LAO PN No. 1/2024A**. Read with: **LAO PN No. 13/2023**; OZP **S/HSK/2**; HSK/HT ODP; CEDD/PlanD urban-design briefs
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2024 (February 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2024 (February 2024)_CS.md`
 
 ---
 
@@ -5011,7 +5011,7 @@ This PN varies paragraph 9 of PN 1/2024 for accepted Second Phase applications. 
 
 - `PN 1_2024A.pdf`
 - Read with: **LAO PN No. 1/2024**; **LAO PN No. 13/2023** (ECNTA); updated HSK/HT Reference Plan on LandsD website
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2024A (March 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2024A (March 2025)_CS.md`
 
 ---
 
@@ -5050,7 +5050,7 @@ Except for the Appendix III rates varied here, all other information and provisi
 
 - `PN 2_2024.pdf`
 - Read with: **LAO PN No. 5/2019** (waiver procedure and remaining Appendix III notes)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2024 (April 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2024 (April 2024)_CS.md`
 
 ---
 
@@ -5093,7 +5093,7 @@ The numbered rate tables (Appendices I–VI) are **not attached** to this librar
 
 - `PN 3_2024.pdf` (this library file is **1 page**; Appendices I–VI rate tables are **not attached** — use the live LandsD PDF for $/m²)
 - Read with: **JPN Nos. 1 and 2**; LAO PN Nos. **3/2001**, **6/2001**, **6/2002**, **3/2003**, **2/2011**, **4/2023**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 3-2024 (April 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 3-2024 (April 2024)_CS.md`
 
 ---
 
@@ -5134,7 +5134,7 @@ From **1 April 2024**, the MiC premium rates in **Appendix III to PN 6/2022** ar
 
 - `PN 4_2024.pdf` (this library file is **one page**; Appendices I–II rate table and five-region map are **not attached** — use LandsD’s published appendices / **PN 7/2025**)
 - Read with: **LAO PN 6/2022** (MiC lease modification / consent / BH); **JPN 8**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2024 (April 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2024 (April 2024)_CS.md`
 
 ---
 
@@ -5220,7 +5220,7 @@ Provide, **not later than settlement of the initial administrative fee**: (i) Su
 
 - `PN 5_2024.pdf`
 - Read with: **LAO PN 1/2024** (HSK/HT application windows); **LAO PN 12/2023** (pre-1987 IB standard rates — cannot mix with this PN)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2024 (August 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2024 (August 2024)_CS.md`
 
 ---
 
@@ -5268,7 +5268,7 @@ Submission of BIM files is taken as **permitting** the Government to use the mod
 
 - `PN 6_2024.pdf`
 - Read with: **LAO PN 3/2018** (CAD area calculation); LandsD **Guidance Notes on Use of BIM for Mathematical Calculation of Areas**; **PNAP ADM-19**, **ADV-34**, **ADM-17**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2024 (September 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2024 (September 2024)_CS.md`
 
 ---
 
@@ -5315,7 +5315,7 @@ Appendix I to this PN **supersedes** the sample application in Appendix I to **P
 
 - `PN 7_2024.pdf` (LAO PN No. 7/2024, 31 October 2024)
 - Read with: **LAO PN 2/2019** and **2/2019A** (parent scheme). Sample form: Appendix I to this PN.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 7_2024 (October 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 7_2024 (October 2024)_CS.md`
 
 ---
 
@@ -5379,7 +5379,7 @@ On-going pre-1987 applications received **before** this PN, where the special wa
 
 - `PN 8_2024.pdf` (LAO PN No. 8/2024, 31 October 2024)
 - Read with: **LAO PN 6/2019** and **6/2019A** (parent special waiver); **PN 2/2019** footnote 2 (industrial lot); **PN 1/2010** series / **2/2019** series (redevelopment ineligibility).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 8_2024 (October 2024)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 8_2024 (October 2024)_CS.md`
 
 ---
 
@@ -5465,7 +5465,7 @@ Issuance does not prejudice Government enforcement. Misconduct on SCC (including
 
 - `PN 1_2025.pdf`
 - Varied by: **LAO PN No. 1/2025B** (all NT DLOs from 24 November 2025). Read with Cap. 121 CoE practice.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2025 (January 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2025 (January 2025)_CS.md`
 
 ---
 
@@ -5504,7 +5504,7 @@ Paragraph 13 of PN 1/2025 is replaced. All other provisions of PN 1/2025 remain 
 
 - `PN 1_2025B.pdf`
 - Read with: **LAO PN No. 1/2025** (SCC forms, RP, 10/14-week processing); PN 1/2025A is superseded
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2025B (November 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2025B (November 2025)_CS.md`
 
 ---
 
@@ -5591,7 +5591,7 @@ Facilitate: OZP extract; assignment/Deed Poll plans; sketches; MLP / EIA / TIA /
 
 - `PN 2_2025.pdf`
 - Read with: **LAO PN No. 13/2023**; OZP **S/YL-TYST/14**; YLS Revised Recommended ODP
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2025 (February 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2025 (February 2025)_CS.md`
 
 ---
 
@@ -5660,7 +5660,7 @@ Agricultural rate is **$5,000/m² site** in every listed zone. **#** = new town 
 
 - `PN 4_2025.pdf`
 - Read with: **LAO PN 11/2023** (zones); **LAO PN 11/2023A** (parent pilot scheme)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 4-2025 (April 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 4-2025 (April 2025)_CS.md`
 
 ---
 
@@ -5731,7 +5731,7 @@ Regions = Appendix II to **PN 12/2023**. Before = Industrial/Godown (except Spec
 
 - `PN 5_2025.pdf`
 - Read with: **LAO PN 12/2023** (parent scheme + five-region map App II); superseded **PN 12/2023A**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 5-2025 (April 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 5-2025 (April 2025)_CS.md`
 
 ---
 
@@ -5834,7 +5834,7 @@ App V continues in 10 mm steps to **290–300 mm**. App VI (Jan 2011) stops at *
 
 - `PN 6_2025.pdf`
 - Read with: **JPN 1** / **JPN 2** (lease vintage); parent rate PNs **3/2001** (as supplemented by **6/2001**), **6/2002**, **3/2003**, **2/2011**, **4/2023**, **3/2024** (district map App VII)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 6-2025 (April 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 6-2025 (April 2025)_CS.md`
 
 ---
 
@@ -5879,7 +5879,7 @@ Appendix I also tabulates separate **Domestic** and **Non-Domestic** unit rates 
 
 - `PN 7_2025.pdf` (LAO PN No. 7/2025, 10 April 2025)
 - Read with: **JPN No. 8**; **LAO PN 6/2022** (parent MiC lease process); **LAO PN 4/2024** (five-region map in Appendix II; rates replaced).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 7_2025 (April 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 7_2025 (April 2025)_CS.md`
 
 ---
 
@@ -5939,7 +5939,7 @@ Para 2 of this PN still cites **LACO CM 72E** for the pre-sale list (DDH, MLP, l
 
 - `PN 8_2025.pdf` (LAO PN No. 8/2025, 17 April 2025)
 - Read with: **LAO PN 4/2018** (stage 2 GBP); **LACO CM 72E / 72F** (pre-sale approval list); **Cap. 621** (definition of phase); **BO s.14(1)** (BA Phasing Plans).
-*Source Critical Summary:* `source_md/LAO Practice Note No. 8_2025 (April 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 8_2025 (April 2025)_CS.md`
 
 ---
 
@@ -6036,7 +6036,7 @@ Checklist (Appendix IV): current ownership printout; agent authorisation; for ap
 
 - `PN 9_2025.pdf` (LAO PN No. 9/2025, 4 November 2025)
 - Read with: **PNAP APP-2** (Nov 2025) paras 15–18 and Appendix C; superseded **LAO PN 3/2025**. Lease SC templates: Appendices I–II of this PN.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 9_2025 (November 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 9_2025 (November 2025)_CS.md`
 
 ---
 
@@ -6104,7 +6104,7 @@ If as-yet-unresumed Offered Land is accepted: resumption notice gazetted/served/
 
 - `PN 10_2025.pdf` (LAO PN No. 10/2025, 30 December 2025)
 - Read with: **LAO PN 13/2023** (ECNTA); LandsD designated-projects list; Caps. **124 / 370 / 358AL / 519**.
-*Source Critical Summary:* `source_md/LAO Practice Note No. 10_2025 (30 December 2025)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 10_2025 (30 December 2025)_CS.md`
 
 ---
 
@@ -6191,7 +6191,7 @@ Architect-facing rows (authority in brackets):
 
 - `PN 1_2026.pdf`
 - Supersedes PN **1/1987**, **8/2000**; varies **PN 4/2008**. Read with: **PN 1/2020 / 1/2020A**, **PN 6/2023**, **DEVB GC 1/2026**; Cap. 121 cases use **PN 1/2025**
-*Source Critical Summary:* `source_md/LAO Practice Note No. 1-2026 (January 2026)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 1-2026 (January 2026)_CS.md`
 
 ---
 
@@ -6265,4 +6265,4 @@ Applicant must **acknowledge** that unused Remaining Balance may be redeployed a
 
 - `PN 2_2026.pdf`
 - Read with: **LAO PN No. 2/2023** (transaction procedure)
-*Source Critical Summary:* `source_md/LAO Practice Note No. 2-2026 (May 2026)_CS.md`
+*Source Critical Summary:* `summaries/LAO Practice Note No. 2-2026 (May 2026)_CS.md`

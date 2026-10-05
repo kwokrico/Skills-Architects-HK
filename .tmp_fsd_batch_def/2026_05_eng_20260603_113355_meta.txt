@@ -1,5 +1,0 @@
-file=2026_05_eng_20260603_113355.pdf
-method=pypdf
-chars=16455
-alpha=12855
-lines=254

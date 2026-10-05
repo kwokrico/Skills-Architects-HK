@@ -1,5 +1,0 @@
-file=2009_02.pdf
-method=ocr
-chars=2449
-alpha=1854
-lines=68

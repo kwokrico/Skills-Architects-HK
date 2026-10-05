@@ -1,5 +1,0 @@
-file=2025_02_eng_20250905_192252.pdf
-method=pypdf
-chars=7189
-alpha=5385
-lines=195

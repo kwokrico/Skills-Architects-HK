@@ -1,5 +1,0 @@
-file=2023_04_eng_20230706_105808.pdf
-method=pypdf
-chars=19937
-alpha=13967
-lines=815

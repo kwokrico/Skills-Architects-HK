@@ -1,5 +1,0 @@
-file=2008_02.pdf
-method=pypdf
-chars=14600
-alpha=11115
-lines=410

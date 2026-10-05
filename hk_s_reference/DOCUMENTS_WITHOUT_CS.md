@@ -1,20 +1,20 @@
 # Documents Without Critical Summary
 
-Total: **1052** files (PDF and MD)
+Total: **1101** files (PDF and MD)
 
 ## Summary by department
 
 | Department | Count |
 |------------|------:|
 | Building Department (BD) | 847 |
-| Land Department (LandD) | 145 |
-| Planning Department (PlanD) | 31 |
+| Land Department (LandD) | 144 |
+| Fire Department (FSD) | 73 |
 | Environmental Protection Department (EPD) | 18 |
+| Joint Practice Notes (JPN) | 9 |
 | Drainage Services Department (DSD) | 3 |
 | Water Authority (WSD) | 3 |
 | CONSTRUCTION INDUSTRY COUNCIL | 2 |
-| Fire Department (FSD) | 1 |
-| Joint Practice Notes (JPN) | 1 |
+| Planning Department (PlanD) | 1 |
 | critical summary prompt.md | 1 |
 
 ---
@@ -901,18 +901,97 @@ Total: **1052** files (PDF and MD)
 - `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/document_1.pdf`
 - `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/sch0.pdf`
 
-## Fire Department (FSD) (1)
+## Fire Department (FSD) (73)
 
 - `Fire Department (FSD)/FSD_Circular_Letters_Technical_Summaries.md`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-1997 Fire Services Requirements for Refuge Floors.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2001 Application of Ceiling Flush Recessed and Concealed Sprinklers.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2002 Rules for Fire Detection and Alarm Systems for Buildings.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2009 Rules for Fire Detection and Fire Alarm Systems for Buildings.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2010 Emergency Exit Devices.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2014 Use of Pre-insulated Panels for Construction of Air Ducts in Mechanical Ventilating Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2017 Automatic Actuation Devices for Lifts Not Discharging to Protected Means of Escape.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2019 Ventilation Air Conditioning VAC Control System.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2020 Revised Application Procedure for Inspection and Testing of FSI in New Buildings.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2022 Clean Agent Fire Extinguishing Systems Enclosure Integrity.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 1-2023 Sprinkler System for Car Ports.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 10-1997 Visual Fire Alarm System Design Manual Barrier Free Access 1997.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-1994 Rules for Automatic Sprinkler Installations.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2000 Exit and Directional Signs.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2002 Hot Smoke Test on Smoke Extraction System.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2006 Pressurization of Staircases to BS 5588 Part 4.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2008 Fire Protection Measures in Construction Sites.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2009 Sounder Bases of Smoke Detectors in Hotels Guesthouses and Student Hostels.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2010 Multi-sensor Detectors in Fire Detection Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2012 Visual Fire Alarm Systems under Design Manual Barrier Free Access 2008.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2013 Fire Hydrant Hose Reel System.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2016 Improvised Hose Reel System Cap 572.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2017 Minimum Fire Resisting Cable Requirements for FSI.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2018 Guidelines on Formulation of Fire Safety Improvement Plans.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2019 Fire Safety Requirements for Waivers for Buffer Floor and Lower Floors of Existing Industrial Building.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2021 Practical Guide for Design Installation Acceptance and Maintenance of FSI.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2022 Codes of Practice Minimum FSI September 2022.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2023 Fire Safety Requirements for Mechanical Ventilating Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2024 Fire Protection Measures in High-rise Buildings under Construction.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 2-2025 Fire Safety Requirements for Data Centres.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-1997 Checklist for Fire Shutter Installation.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-1998 Codes of Practice for Minimum FSI 1998.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2006 Specification for Automatic Sprinkler Installations.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2007 FSI Required under Fire Safety Buildings Ordinance Cap 572.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2010 Rules for Fire Detection and Fire Alarm Systems for Buildings.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2012 Specification for Automatic Sprinkler Installations.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2016 Guidelines on Fire Safety Requirements for New Railway Infrastructures.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2017 Reduced Supply Tank Capacity and Fresh Water Incorporation Cap 572.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2019 Guidance Notes on FSI in Modular Integrated Construction Building Projects.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2023 Specification of Gas Extraction System for Battery Room and Electrical Charging Facilities.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2024 Flexible Connectors for Single Sprinklers to Range Pipes.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2025 Fire Safety Requirements for Battery Rooms and Electrical Charging Facilities.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 3-2026 IoT Fire Detection and Portable Extinguishers Alternative Cap 572 Low Rise.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-1996 Consolidated FSD Circular Letters 1996.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2001 Visual Fire Alarm Time Related System and Water Mist System.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2005 Emergency Vehicular Access.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2006 FSI Guidelines for New Territories Exempted Houses Small Houses.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2008 Arrangements for Submissions of FSI Plans.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2010 Sprinkler Subsidiary Stop Valves Management System.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2012 Code of Practice for Minimum FSI.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2017 Clean Agent Fire Extinguishing Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2020 Additional Fire Safety Requirements for Car Parking Facilities with EV Charging.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2021 Specification for Emergency Lighting.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2023 Fire Safety Measures Cap 572 Fresh Water and Improvised Hose Reel Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 4-2024 Corrigendum Codes of Practice Minimum FSI September 2022.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-1999 Visual Fire Alarm System Design Manual Barrier Free Access 1997.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2005 Codes of Practice for Minimum FSI July 2005.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2008 Graphical Symbol Exit Signs.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2016 Revised Supply Tank Requirement for Hose Reel System Cap 572.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2020 Specification for Automatic Sprinkler Installations.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2021 Fire Safety Requirements for Emergency Lighting in Licensed Registered Premises.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2024 Application Procedure for Inspection and Testing of FSI under Cap 502 572 636.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 5-2026 Fire Safety Requirements for Car Parking Facilities with Automated Parking System APS.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 6-2016 Stop Valves Management System for Fire Hydrant Hose Reel Systems.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 6-2020 Installation of Fire Service Pump or Supply Tank on Roof or Floor Slab.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 6-2021 Standard for Fire Detection and Fire Alarm Systems for Buildings.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 7-1995 Automatic Fire Detection System Design and Maintenance Considerations.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 7-1997 Revised Fire Services Requirements for Refuge Floors.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 7-1999 Installation and Maintenance of AV Advisory System Emergency Generator Lighting and Exit Sign.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 7-2020 Certification of FSI under Fire Safety Industrial Buildings Ordinance Cap 636.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 8-2021 Additional Requirements for Pressurization of Staircases.pdf`
+- `Fire Department (FSD)/source_reference/FSD Circular Letter No. 9-2020 Pressure Reducing Valves for Fire Hydrant Hose Reel Systems.pdf`
 
-## Joint Practice Notes (JPN) (1)
+## Joint Practice Notes (JPN) (9)
 
 - `Joint Practice Notes (JPN)/JPN_Table_English.md`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 1 Green and Innovative Buildings.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 2 Second Package of Incentives for Green and Innovative Buildings.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 3 Landscape and Site Coverage of Greenery.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 4 Development Control Parameters Plot Ratio Gross Floor Area.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 5 Development Control Parameters Building Height Restriction.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 6 Sustainable Building Design Guidelines Building Separation and Building Setback.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 7 Development Control Parameters Site Coverage Restriction.pdf`
+- `Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 8 Enhanced Facilitation Measures for Modular Integrated Construction.pdf`
 
-## Land Department (LandD) (145)
+## Land Department (LandD) (144)
 
-- `Land Department (LandD)/LACO Circular Memorandum/LACO_CM_1-71_Technical_Summaries.md`
-- `Land Department (LandD)/LACO Circular Memorandum/LACO_CM_72-88_Technical_Summaries.md`
+- `Land Department (LandD)/LACO Circular Memorandum/LACO_CM_Table_English.md`
 - `Land Department (LandD)/LACO Circular Memorandum/source_reference/12wac_e.pdf`
 - `Land Department (LandD)/LACO Circular Memorandum/source_reference/15wac_e.pdf`
 - `Land Department (LandD)/LACO Circular Memorandum/source_reference/18wac_e.pdf`
@@ -1057,39 +1136,9 @@ Total: **1052** files (PDF and MD)
 - `Land Department (LandD)/LAO Practice Notes/_extract_tmp/_index.md`
 - `Land Department (LandD)/LAO Practice Notes/source_reference/2000A_3.pdf`
 
-## Planning Department (PlanD) (31)
+## Planning Department (PlanD) (1)
 
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_agr_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_c_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ca_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_caw_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_cda_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_cp_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_cpa_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_gb_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_gic_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_i_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_id_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_o_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_os_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_oub_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_oucdwea_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_oucdwra_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ouel_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ouie_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_oumu_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ouru_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ousrc_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_ra_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_rb_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_rc_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_rd_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_re_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_rec_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_sssi_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/msn_v_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/rc_notes_e.pdf`
-- `Planning Department (PlanD)/OZP Master Schedule of Notes/uc_notes_e.pdf`
+- `Planning Department (PlanD)/OZP Master Schedule of Notes/MSN_Table_English.md`
 
 ## Water Authority (WSD) (3)
 

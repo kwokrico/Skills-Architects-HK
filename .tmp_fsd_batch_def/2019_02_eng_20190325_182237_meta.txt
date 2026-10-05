@@ -1,5 +1,0 @@
-file=2019_02_eng_20190325_182237.pdf
-method=pypdf
-chars=5399
-alpha=3579
-lines=732

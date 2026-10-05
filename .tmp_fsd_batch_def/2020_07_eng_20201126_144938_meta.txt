@@ -1,5 +1,0 @@
-file=2020_07_eng_20201126_144938.pdf
-method=pypdf
-chars=2792
-alpha=2034
-lines=63

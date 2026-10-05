@@ -1,0 +1,1800 @@
+Residential Care Homes (Persons with Disabilities) 
+Ordinance
+(Cap. 613)
+Contents
+Section Page
+Part 1
+Preliminary
+1. Short title 1-2
+2. Interpretation 1-2
+3. Application 1-8
+Part 2
+Restriction and Exception Relating to 
+Operation of Residential Care Homes for 
+Persons with Disabilities
+4. Offence of operating residential care homes 
+for PWDs without licence
+2-2
+5. Certain existing homes excepted from 
+application of section 4
+2-4
+6. Certain residential care homes for the elderly 
+excepted from application of section 4
+2-4
+6A. Certain nursing homes excepted from 
+application of section 4
+2-4
+Part 3
+Licences
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+T-2
+Cap. 613
+
+Section Page
+Division 1—Licence Applications
+7. Application for and issue of licence 3-2
+7A. Fit and proper requirement for licence 
+applicant
+3-8
+8. Renewal of licence 3-8
+9. Cancellation or suspension; amendment or 
+variation of conditions of licence
+3-14
+10. Notice of refusal to issue or renew licence 
+and of cancellation or suspension, etc.
+3-16
+Division 2—Responsible Persons
+10A. Licence applicant to propose responsible 
+person
+3-18
+10B. Certain operators to propose responsible 
+person on renewal application
+3-18
+10C. How to propose responsible person 3-20
+10D. Duties of responsible person 3-22
+10E. Fit and proper requirement for responsible 
+person
+3-22
+10F. Change of responsible person as required by 
+Director
+3-22
+10G. Change of responsible person because of 
+death, incapacity, etc.
+3-24
+10H. Change of responsible person in other 
+circumstances
+3-26
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+T-4
+Cap. 613
+
+10I. Director to specify date of becoming 
+responsible person
+3-28
+Section Page
+Division 3—Reporting Requirements
+10J. Operator to report certain events 3-30
+Part 4
+Certificates of Exemption
+11. Application for and issue of certificate of 
+exemption
+4-2
+12. Renewal of certificate of exemption 4-4
+13. Notice of refusal to issue or renew certificate 
+of exemption and of revocation, etc.
+4-6
+Part 5
+Appeals
+14. Appeals against decisions 5-2
+Part 6
+Supervision of Residential Care Homes for 
+Persons with Disabilities
+15. Appointment of inspectors 6-2
+16. Inspection of residential care homes for 
+PWDs
+6-2
+17. Protection of specified persons from liability 
+for certain acts and omissions
+6-4
+18. Director may direct remedial measures 6-6
+19. Director may order cessation of use of 
+premises as residential care home for PWDs
+6-6
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+T-6
+Cap. 613
+
+Section Page
+20. Exercise of Director’s functions 6-8
+21. Power of Chief Executive to give directions 6-10
+Part 7
+Miscellaneous
+22. Offences in relation to licences and 
+certificates of exemption
+7-2
+22A. Liability of responsible person 7-6
+22B. Liability of directors, partners, etc. 7-8
+22C. Prosecution deadline for offences 7-8
+23. Code of Practice relating to operation of 
+residential care homes for PWDs
+7-10
+24. Regulation 7-10
+25. No fee payable in respect of licence or 
+certificate of exemption
+7-16
+Part 8
+(Repealed)
+26-49. (Omitted as spent) 8-2
+Schedule 1 Fit and Proper Requirement for 
+Licence Applicant
+S1-2
+Schedule 2 Fit and Proper Requirement for 
+Responsible Person
+S2-2
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+T-8
+Cap. 613
+
+An Ordinance to regulate residential care homes for persons with 
+disabilities by a licensing system, and to make consequential and 
+related amendments to other Ordinances.
+ 
+ 
+[18 November 2011]
+(Enacting provision omitted—E.R. 1 of 2012)
+ 
+ 
+(Format changes—E.R. 1 of 2012)
+Part 1
+Preliminary
+1. Short title
+ (1) This Ordinance may be cited as the Residential Care Homes 
+(Persons with Disabilities) Ordinance.
+ (2) (Omitted as spent—E.R. 2 of 2014)
+(Amended E.R. 2 of 2014)
+2. Interpretation
+ (1) In this Ordinance— (Amended 12 of 2023 s. 55)
+Cap. 459 (《第459章》) means the Residential Care Homes 
+(Elderly Persons) Ordinance (Cap. 459); (Added 12 of 2023 
+s. 55)
+Cap. 459A (《第459A章》) means the Residential Care Homes 
+(Elderly Persons) Regulation (Cap. 459 sub. leg. A); (Added 
+12 of 2023 s. 55)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 1 1-2
+Section 1 Cap. 613
+Verified Copy
+
+certificate of exemption  (豁免證明書) means a certificate of 
+exemption issued under section 11(2)(a) or renewed under 
+section 12(3)(a);
+Director (署長) means the Director of Social Welfare;
+existing home (原有院舍) means a residential care home for 
+PWDs that exists immediately before 18 November 2011; 
+(Amended 12 of 2023 s. 55)
+inspector (督察) means a person appointed under section 15 to be 
+an inspector of residential care homes for PWDs;
+licence (牌照、牌) means a licence issued under section 7(2)(a) or 
+renewed under section 8(3)(a);
+management officer (管理人員) means—
+ (a) in relation to a sole proprietorship—an individual who 
+is the sole proprietor or is concerned in the management 
+of the sole proprietorship;
+ (b) in relation to a body corporate—an individual who is 
+a director of the body corporate or is concerned in its 
+management; or
+ (c) in relation to a partnership—an individual who is 
+a partner in the partnership or is concerned in its 
+management; (Added 12 of 2023 s. 55)
+material date (關鍵日期) means the 1st anniversary of the date on 
+which the Residential Care Homes Legislation (Miscellaneous 
+Amendments) Ordinance 2023 (12 of 2023) is published in 
+the Gazette*; (Added 12 of 2023 s. 55)
+operator (營辦人), in relation to a residential care home for 
+PWDs, means a person who holds a licence or certificate 
+of exemption issued in respect of the residential care home; 
+(Added 12 of 2023 s. 55)
+person with disabilities  and PWD (殘疾人士) mean a person who 
+suffers from one or more of the following disabilities—
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 1 1-4
+Section 2 Cap. 613
+Verified Copy
+
+ (a) total or partial loss of the bodily or mental functions;
+ (b) total or partial loss of a part of the body;
+ (c) the malfunction, malformation or disfigurement of a part 
+of the body;
+ (d) a disorder, illness or disease that affects the thought 
+processes, perception of reality, emotions or judgement 
+or that results in disturbed behaviour;
+premises (處所) includes any building, enclosure, ground or open 
+air space;
+resident (住客) means a person who is admitted to reside in any 
+residential care home for PWDs;
+residential care home for PWDs (殘疾人士院舍) means any 
+premises at which more than 5 PWDs, who have attained 
+the age of 6 years, are habitually received for the purpose 
+of residential accommodation with the provision of care; 
+(Amended 12 of 2023 s. 55)
+residential care home for the elderly  (安老院) means a residential 
+care home as defined by section 2(1) of Cap. 459; (Added 12 
+of 2023 s. 55)
+responsible person (負責人), in relation to a residential care home 
+for PWDs, means a person who—
+ (a) has become the responsible person of the residential 
+care home under section 10A(2), 10B(2) or 10I(4); and
+ (b) has not ceased to be such a responsible person under 
+section 10F(5), 10G(1) or 10H(4). (Added 12 of 2023 
+s. 55)
+ (2) To avoid doubt, in this Ordinance, a reference to this 
+Ordinance includes any subsidiary legislation made under this 
+Ordinance. (Added 12 of 2023 s. 55)
+Editorial Note:
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 1 1-6
+Section 2 Cap. 613
+Verified Copy
+
+* Date of publication in the Gazette: 16 June 2023.
+3. Application
+ (1) This Ordinance does not apply to—
+ (a) any premises used or intended for use solely for the 
+purpose of the medical treatment of persons requiring 
+medical treatment;
+ (b) (Repealed 34 of 2018 s. 193)
+ (c) a boarding school within the meaning of the Education 
+Regulations (Cap. 279 sub. leg. A);
+ (d) a treatment centre within the meaning of the Drug 
+Dependent Persons Treatment and Rehabilitation Centres 
+(Licensing) Ordinance (Cap. 566); or
+ (e) a residential care home for PWDs, or type or description 
+of residential care home for PWDs, excluded by the 
+Director by order published in the Gazette.
+ (2) An order under subsection (1)(e) may specify that the relevant 
+exclusion is—
+ (a) subject to any condition as indicated in the order;
+ (b) subject to any geographical limitation as indicated in the 
+order;
+ (c) to have effect for the period as indicated in the order; or
+ (d) to have partial application as indicated in the order.
+ (3) An order under subsection (1)(e) is subsidiary legislation.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 1 1-8
+Section 3 Cap. 613
+Verified Copy
+
+Part 2
+Restriction and Exception Relating to Operation of 
+Residential Care Homes for Persons with Disabilities
+4. Offence of operating residential care homes for PWDs without 
+licence
+ (1) Subject to sections 5, 6 and 6A, a person must not operate, 
+keep, manage or in any other way have control of a residential 
+care home for PWDs otherwise than under a licence for the 
+time being in force. (Amended 34 of 2018 s. 194)
+ (2) It is not a defence for a person charged with an offence under 
+subsection (1) to show that—
+ (a) the person did not know that at the relevant time no 
+licence was in force in respect of the residential care 
+home for PWDs;
+ (b) if the residential care home for PWDs is an existing 
+home—the person did not know that at the relevant time 
+no certificate of exemption was in force in respect of the 
+residential care home; or (Replaced 12 of 2023 s. 56)
+ (c) if the residential care home for PWDs is also a 
+residential care home for the elderly—the person did not 
+know that at the relevant time no licence issued under 
+Cap. 459 was in force in respect of the residential care 
+home. (Replaced 12 of 2023 s. 56)
+ (3) A person who contravenes subsection (1) commits an offence 
+and is liable—
+ (a) to a fine of $1,000,000 and to imprisonment for 2 years; 
+and
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 2 2-2
+Section 4 Cap. 613
+Verified Copy
+
+ (b) in the case of a continuing offence, to a further fine 
+of $10,000 for each day during which the offence 
+continues.
+(Amended 12 of 2023 s. 56)
+5. Certain existing homes excepted from application of section 4
+Section 4 does not apply to a residential care home for PWDs that 
+is an existing home in respect of which a certificate of exemption 
+is for the time being in force.
+6. Certain residential care homes for the elderly excepted from 
+application of section 4
+(Amended 12 of 2023 s. 57)
+Section 4 does not apply to a residential care home for PWDs that 
+is also a residential care home for the elderly if a licence issued 
+under Cap. 459 is in force in respect of the residential care home.
+(Amended 12 of 2023 s. 57)
+6A. Certain nursing homes excepted from application of section 4
+Section 4 does not apply to a residential care home for PWDs that 
+is also a scheduled nursing home (as defined by section 124 of the 
+Private Healthcare Facilities Ordinance (Cap. 633)) if an exemption 
+granted under section 128 of that Ordinance is in force in respect 
+of the residential care home for PWDs.
+(Added 34 of 2018 s. 195 and E.R. 5 of 2018)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 2 2-4
+Section 5 Cap. 613
+Verified Copy
+
+Part 3
+Licences
+Division 1—Licence Applications
+(Added 12 of 2023 s. 58)
+7. Application for and issue of licence
+ (1) An application by a person for the issue of a licence in 
+respect of a residential care home for PWDs must be—
+ (a) made to the Director in the form and manner determined 
+by the Director; and
+ (b) accompanied by the information, particulars and plans 
+required by the Director.
+ (2) The Director must, on receipt of an application under 
+subsection (1), determine the application—
+ (a) by issuing to, and in the name of, the applicant a 
+licence subject to any conditions that the Director 
+thinks fit to impose in relation to the operation, keeping, 
+management or other control of the residential care 
+home; or (Amended 12 of 2023 s. 59)
+ (b) by refusing to issue a licence to the applicant.
+ (3) Without limiting subsection (2)(b), the Director may refuse 
+to issue a licence to the applicant if it appears to the Director 
+that—
+ (a) the applicant or any person the applicant proposes to 
+employ at the residential care home is not a fit and 
+proper person to operate, take part in the management of 
+or be employed at the residential care home; (Amended 
+12 of 2023 s. 59)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-2
+Section 7 Cap. 613
+Verified Copy
+
+ (ab) the applicant does not comply with section 10A(1); 
+(Added 12 of 2023 s. 59)
+ (ac) the person proposed to be the responsible person of the 
+residential care home under section 10A(1) is not a fit 
+and proper person to perform the duties mentioned in 
+section 10D; (Added 12 of 2023 s. 59)
+ (b) the premises used or intended to be used for the 
+residential care home are not fit to be used for the 
+purposes of a residential care home for PWDs for 
+reasons connected with the situation, means of ingress 
+and egress, design, construction, size, type of building, 
+staffing or equipment;
+ (c) the premises used or intended to be used for the 
+residential care home do not comply with any 
+requirements relating to design, construction, fire 
+precautions, health, sanitation and safety set out in—
+ (i) any regulation made by the Secretary for 
+Development under section 38 of the Buildings 
+Ordinance (Cap. 123);
+ (ii) any Code of Practice published by the Director of 
+Fire Services and referred to in section 16(1)(b) of 
+the Buildings Ordinance (Cap. 123);
+ (iii) any Code of Practice issued by the Director under 
+section 23; or
+ (iv) any regulation made by the Secretary for Labour 
+and Welfare under section 24; or
+ (d) the proposed name of the residential care home is 
+unsuitable or is the same as or similar to—
+ (i) the name of an existing home in respect of which 
+a certificate of exemption is for the time being in 
+force;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-4
+Section 7 Cap. 613
+Verified Copy
+
+ (ii) the name of a residential care home for PWDs in 
+respect of which a licence is in force or has been 
+suspended, surrendered or cancelled; or (Replaced 
+12 of 2023 s. 59)
+ (iii) the name of a residential care home for the elderly 
+in respect of which a licence issued under Cap. 459 
+is in force or has been suspended, surrendered or 
+cancelled. (Replaced 12 of 2023 s. 59)
+ (iv)-(v) (Repealed 12 of 2023 s. 59)
+ (4) A licence issued under this section must—
+ (a) be in the form determined by the Director;
+ (b) specify the conditions, if any, imposed under subsection 
+(2)(a);
+ (c) include an endorsement authorizing the person to whom 
+it is issued to operate, keep, manage or otherwise have 
+control of a residential care home for PWDs of a type 
+prescribed for the purposes of this section; and
+ (d) specify the validity period of the licence, not being a 
+period of more than 36 months.
+ (5) If a licence issued under Cap. 459 is for the time being in 
+force in respect of the residential care home, the applicant 
+must, after being advised by the Director that the application 
+under subsection (1) is successful, surrender the first-
+mentioned licence to the Director on the issue of a licence 
+under this section. (Amended 12 of 2023 s. 59)
+ (6) A licence or a copy of it purporting to be signed by the 
+Director—
+ (a) is evidence of the facts stated in it as at the date of the 
+licence or the copy; and
+ (b) is to be received in evidence without further proof.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-6
+Section 7 Cap. 613
+Verified Copy
+
+ (7) A certificate purporting to be signed by the Director that 
+a residential care home for PWDs is licensed or is not 
+licensed—
+ (a) is evidence of the facts stated in it as at the date of the 
+certificate; and
+ (b) is to be received in evidence without further proof.
+7A. Fit and proper requirement for licence applicant
+For section 7(3)(a), in considering whether an applicant is a fit and 
+proper person to operate a residential care home for PWDs, the 
+Director must have regard to all relevant matters, including—
+ (a) if the applicant is a sole proprietor—the matters set out 
+in section 1 of Schedule 1;
+ (b) if the applicant is a body corporate—the matters set out 
+in section 2 of Schedule 1; or
+ (c) if the applicant is a partnership—the matters set out in 
+section 3 of Schedule 1.
+(Added 12 of 2023 s. 60)
+8. Renewal of licence
+ (1) The operator of a residential care home for PWDs may, 
+before the licence expires, apply for the licence to be renewed 
+for a period of not more than 36 months. (Amended 12 of 
+2023 s. 61)
+ (2) An application for the renewal of a licence must be made to 
+the Director—
+ (a) not more than 4 months and not less than 2 months 
+before the licence expires or within any other period 
+before its expiry as permitted by the Director in writing; 
+and
+ (b) in the form and manner determined by the Director.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-8
+Section 7A Cap. 613
+Verified Copy
+
+ (3) The Director may, on receipt of an application under 
+subsection (1)—
+ (a) renew the licence and impose any conditions in relation 
+to the operation, keeping, management or other control 
+of the residential care home in respect of the renewed 
+licence, in addition to or instead of any conditions 
+previously imposed under section 7(2)(a); or
+ (b) refuse to renew the licence.
+ (4) Without limiting subsection (3)(b), the Director may refuse 
+to renew the licence in respect of a residential care home for 
+PWDs—
+ (a) on any ground specified in section 7(3)(a), (b) or (c) that 
+would have entitled the Director to refuse an application 
+for the licensing of the residential care home;
+ (ab) on the ground that the operator of the residential care 
+home fails to comply with section 10B(1), 10F(4), 
+10G(2), 10H or 10J; (Added 12 of 2023 s. 61)
+ (ac) on the ground that the Director is not satisfied that the 
+person proposed to be the responsible person of the 
+residential care home under section 10B(1), 10F(4), 
+10G(2) or 10H(3) is a fit and proper person to perform 
+the duties mentioned in section 10D; (Added 12 of 2023 
+s. 61)
+ (b) on the ground that—
+ (i) the operator has been convicted of an offence 
+against this Ordinance or an indictable offence; or
+ (ii) any other person has been convicted of an offence 
+against this Ordinance or an indictable offence in 
+respect of the residential care home;
+ (c) on the ground that, in respect of the residential care 
+home or its residents—
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-10
+Section 8 Cap. 613
+Verified Copy
+
+ (i) this Ordinance has been or is being contravened; 
+or
+ (ii) any requirement, order or direction made or given 
+under this Ordinance has not been complied with 
+by the operator;
+ (d) on the ground that any condition of the licence has not 
+been or is not being complied with by the operator; or
+ (e) on the ground that it appears to the Director that— 
+(Amended 12 of 2023 s. 61)
+ (i) the residential care home has ceased to be operated 
+or to exist;
+ (ii) the operator has ceased to operate, keep, manage 
+or otherwise have control of the residential care 
+home; or
+ (iii) the residential care home has, on any occasion 
+since the date on which the licence is issued in 
+respect of it, been operated in a manner contrary to 
+the public interest. (Amended 12 of 2023 s. 61)
+ (5) A renewal of a licence under this section before the expiry 
+of the licence takes effect on the day following the day of its 
+expiry.
+ (6) Subject to subsection (7), any licence in respect of which an 
+application for renewal is made under this section and which, 
+but for this subsection, would expire before the determination 
+of the application remains in force until the determination by 
+the Director of the application.
+ (7) Subsection (6) does not apply if—
+ (a) the application is withdrawn; or
+ (b) the licence is cancelled or suspended under section 9.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-12
+Section 8 Cap. 613
+Verified Copy
+
+ (8) A renewal of a licence under this section takes effect on 
+the day following the day on which the licence would have 
+expired but for subsection (6), for the period (not being more 
+than 36 months) indicated by the Director at the time of 
+renewal.
+ (9) If a decision to refuse to renew a licence under subsection 
+(3)(b) is appealed against under section 14(d) and the licence 
+would, but for this subsection, expire before the determination 
+of the appeal, the licence remains in force until the appeal is 
+disposed of, withdrawn or abandoned unless—
+ (a) it would, in the opinion of the Director, be contrary to 
+the public interest for the licence to remain in force; and
+ (b) the order on the decision contains a statement to that 
+effect.
+9. Cancellation or suspension; amendment or variation of 
+conditions of licence
+ (1) The Director may cancel or suspend the licence in respect 
+of a residential care home for PWDs, or amend or vary any 
+condition of the licence, on any ground specified in section 
+8(4) that would have entitled the Director to refuse an 
+application for the renewal of a licence.
+ (2) A decision under subsection (1) that is appealed against under 
+section 14(e) is suspended in its operation as from the day 
+on which the appeal is made until the appeal is disposed of, 
+withdrawn or abandoned unless—
+ (a) the suspension would, in the opinion of the Director, be 
+contrary to the public interest; and
+ (b) the order on the decision contains a statement to that 
+effect.
+ (3) If a licence is for the time being in force in respect of a 
+residential care home for PWDs and an application for the 
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 1 3-14
+Section 9 Cap. 613
+Verified Copy
+
+issue of a licence in respect of the same residential care home 
+premises is successful under Cap. 459, the Director must 
+cancel the licence issued under this Ordinance immediately 
+before issuing a licence under section 8 of that Ordinance. 
+(Amended 12 of 2023 s. 62)
+10. Notice of refusal to issue or renew licence and of cancellation 
+or suspension, etc.
+(Amended 12 of 2023 s. 63)
+ (1) The Director must, before refusing an application for a 
+licence or for the renewal of a licence, or before exercising 
+the power under section 9(1), give notice to the applicant 
+or the operator of a residential care home for PWDs of the 
+intention to do so— (Amended 12 of 2023 s. 63)
+ (a) stating the grounds on which the Director intends to 
+refuse the application or exercise the power under that 
+section; and
+ (b) stating that the applicant or the operator may make 
+written representations to the Director.
+ (2) If the Director decides to refuse an application for a licence 
+or for the renewal of a licence, or if the Director decides to 
+exercise the power under section 9(1), the Director must make 
+a written order, properly dated and signed, to that effect.
+ (3) The Director must send a copy of the written order under 
+subsection (2) to the applicant or the operator by delivering 
+it personally or by registered post to the applicant or the 
+operator, at the address last known to the Director.
+(Amended 12 of 2023 s. 63)
+Division 2—Responsible Persons
+(Division 2 added 12 of 2023 s. 64)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-16
+ Cap. 613
+Verified Copy
+
+10A. Licence applicant to propose responsible person
+ (1) For an application for a licence in respect of a residential care 
+home for PWDs under section 7, the applicant must propose 
+a management officer of the applicant (proposed responsible 
+person) to be the responsible person of the residential care 
+home.
+ (2) If, on the application, the Director issues a licence in respect 
+of the residential care home, the proposed responsible person 
+becomes the responsible person of the residential care home 
+on the day on which the licence takes effect.
+ (3) On issuing the licence, the Director must—
+ (a) by a written notice, inform the applicant of the effect of 
+subsection (2); and
+ (b) send a copy of the notice to the proposed responsible 
+person—
+ (i) by delivering it personally to the person; or
+ (ii) by registered post to the person at the person’s 
+correspondence address mentioned in section 
+10C(a).
+10B. Certain operators to propose responsible person on renewal 
+application
+ (1) For an application for the renewal of a licence in respect of a 
+residential care home for PWDs under section 8, the operator 
+of the residential care home must propose a management 
+officer of the operator (proposed responsible person) to be 
+the responsible person of the residential care home if—
+ (a) the application is the first application for the renewal of 
+the licence made on or after the material date; and
+ (b) the licence—
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-18
+Section 10A Cap. 613
+Verified Copy
+
+ (i) was in force immediately before the material date; 
+or
+ (ii) is issued on or after the material date on an 
+application made before that date.
+ (2) If, on the application, the Director renews the licence, the 
+proposed responsible person becomes the responsible person 
+of the residential care home—
+ (a) if section 8(5) applies—on the day on which the renewal 
+takes effect; or
+ (b) if section 8(6) applies—on the day after the date on 
+which the application is determined.
+ (3) On renewing the licence, the Director must—
+ (a) by a written notice, inform the operator of the effect of 
+subsection (2); and
+ (b) send a copy of the notice to the proposed responsible 
+person—
+ (i) by delivering it personally to the person; or
+ (ii) by registered post to the person at the person’s 
+correspondence address mentioned in section 
+10C(a).
+10C. How to propose responsible person
+If an applicant or operator is required under this Division to 
+propose a management officer of the applicant or operator (proposed 
+responsible person) to be the responsible person of a residential 
+care home for PWDs, the proposal must—
+ (a) contain the name and correspondence address of the 
+proposed responsible person;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-20
+Section 10C Cap. 613
+Verified Copy
+
+ (b) contain a statement made by the proposed responsible 
+person indicating his or her consent to be the responsible 
+person of the residential care home;
+ (c) contain any other information specified by the Director; 
+and
+ (d) be made in the form and manner specified by the 
+Director.
+10D. Duties of responsible person
+The duties of a responsible person of a residential care home for 
+PWDs are—
+ (a) to ensure adequate supervision of the operation, keeping, 
+management and control of the residential care home for 
+protecting the interest and safety of the residents of the 
+residential care home; and
+ (b) to ensure that the residential care home is operated in 
+compliance with this Ordinance.
+10E. Fit and proper requirement for responsible person
+For sections 7(3)(ac), 8(4)(ac), 10F(1) and 10I(1)(b), in considering 
+whether a person is a fit and proper person to perform the duties 
+mentioned in section 10D, the Director must have regard to all 
+relevant matters, including the matters set out in Schedule 2.
+10F. Change of responsible person as required by Director
+ (1) The Director may, by a written notice given to the operator of 
+a residential care home for PWDs, direct that the responsible 
+person of the residential care home ( outgoing responsible 
+person) cease to be such a responsible person if satisfied that 
+the person—
+ (a) is no longer a fit and proper person to perform the duties 
+mentioned in section 10D; or
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-22
+Section 10D Cap. 613
+Verified Copy
+
+ (b) has failed to perform any of the duties.
+ (2) The notice must—
+ (a) state that—
+ (i) the Director is satisfied of the matter mentioned in 
+subsection (1)(a) or (b); and
+ (ii) the outgoing responsible person ceases to be the 
+responsible person of the residential care home on 
+the date of the notice; and
+ (b) require the operator to propose another management 
+officer of the operator to be the responsible person of 
+the residential care home.
+ (3) The Director must also send a copy of the notice to the 
+outgoing responsible person.
+ (4) The operator must, within 7 days after the date of the notice 
+or a longer period that the Director permits, propose another 
+management officer of the operator to be the responsible 
+person of the residential care home.
+ (5) The outgoing responsible person ceases to be the responsible 
+person of the residential care home on the date of the notice.
+10G. Change of responsible person because of death, incapacity, etc.
+ (1) The responsible person of a residential care home for PWDs 
+ceases to be such a responsible person when he or she—
+ (a) dies;
+ (b) becomes incapable of managing and administering his 
+or her property and affairs because of mental or physical 
+incapacity;
+ (c) ceases to be a management officer of the operator of the 
+residential care home; or
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-24
+Section 10G Cap. 613
+Verified Copy
+
+ (d) gives a written notice to the operator of the residential 
+care home and the Director to withdraw his or her 
+consent to be the responsible person of the residential 
+care home.
+ (2) If an event described in subsection (1)(a), (b), (c) or (d) 
+(relevant event ) occurs, the operator of the residential care 
+home must, within the period specified in subsection (3)—
+ (a) inform the Director of the relevant event in the form 
+specified by the Director; and
+ (b) propose another management officer of the operator to 
+be the responsible person of the residential care home.
+ (3) The period specified for subsection (2) is—
+ (a) 7 days after the date on which the operator becomes 
+aware of the relevant event; or
+ (b) a longer period that the Director permits.
+10H. Change of responsible person in other circumstances
+ (1) The operator of a residential care home for PWDs may 
+change the responsible person of the residential care home 
+in circumstances other than those set out in sections 10F and 
+10G by giving a written notice to the Director.
+ (2) The notice must—
+ (a) state—
+ (i) the operator’s intention to change the responsible 
+person of the residential care home; and
+ (ii) the date on which the responsible person of the 
+residential care home (outgoing responsible 
+person) will cease to be such a responsible person 
+(cessation date);
+ (b) be given at least 14 days before the cessation date; and
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-26
+Section 10H Cap. 613
+Verified Copy
+
+ (c) be given in the form and manner specified by the 
+Director.
+ (3) When giving the notice, the operator must also propose 
+another management officer of the operator to be the 
+responsible person of the residential care home.
+ (4) The outgoing responsible person ceases to be the responsible 
+person of the residential care home on the cessation date.
+10I. Director to specify date of becoming responsible person
+ (1) This section applies if—
+ (a) the operator of a residential care home for PWDs 
+proposes a management officer of the operator ( proposed 
+responsible person ) to be the responsible person of the 
+residential care home under section 10F(4), 10G(2) or 
+10H(3); and
+ (b) the Director is satisfied that the proposed responsible 
+person is a fit and proper person to perform the duties 
+mentioned in section 10D.
+ (2) The Director must, by a written notice—
+ (a) inform the operator that the Director is satisfied of the 
+matter mentioned in subsection (1)(b); and
+ (b) specify a date (being one after the date of the notice) 
+on which the proposed responsible person becomes the 
+responsible person of the residential care home ( specified 
+date).
+ (3) The Director must also send a copy of the notice to the 
+proposed responsible person—
+ (a) by delivering it personally to the person; or
+ (b) by registered post to the person at the person’s 
+correspondence address mentioned in section 10C(a).
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 2 3-28
+Section 10I Cap. 613
+Verified Copy
+
+ (4) The proposed responsible person becomes the responsible 
+person of the residential care home on the specified date.
+Division 3—Reporting Requirements
+(Division 3 added 12 of 2023 s. 64)
+10J. Operator to report certain events
+ (1) The operator of a residential care home for PWDs must report 
+to the Director if any of the events specified in subsection (3) 
+occurs.
+ (2) The report must—
+ (a) be given in writing within 7 days after the date on which 
+the operator becomes aware of the event or a longer 
+period that the Director permits; and
+ (b) contain the information specified by the Director.
+ (3) The following events are specified for subsection (1)—
+ (a) for an operator that is a sole proprietor—
+ (i) a prosecution is started against the operator or the 
+responsible person of the residential care home for 
+an indictable offence in Hong Kong;
+ (ii) a prosecution is started against the operator or 
+the responsible person for an offence punishable 
+with imprisonment (however described) in a place 
+outside Hong Kong;
+ (iii) the operator or the responsible person is convicted 
+of an indictable offence in Hong Kong;
+ (iv) the operator or the responsible person is sentenced 
+to imprisonment (however described) in a place 
+outside Hong Kong, whether or not the sentence is 
+suspended;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 3 3-30
+Section 10J Cap. 613
+Verified Copy
+
+ (v) the operator or the responsible person becomes an 
+undischarged bankrupt;
+ (vi) the operator or the responsible person enters into a 
+composition or scheme of arrangement with their 
+creditors;
+ (vii) a body corporate of which the operator or 
+the responsible person is a director goes into 
+liquidation or becomes the subject of a winding-up 
+order;
+ (viii) there is a change in the name or correspondence 
+address of the responsible person;
+ (b) for an operator that is a body corporate—
+ (i) a prosecution is started against the operator or the 
+responsible person of the residential care home for 
+an indictable offence in Hong Kong;
+ (ii) a prosecution is started against the operator or 
+the responsible person for an offence punishable 
+with imprisonment (however described) in a place 
+outside Hong Kong;
+ (iii) the operator or the responsible person is convicted 
+of an indictable offence in Hong Kong;
+ (iv) the operator is convicted of an offence punishable 
+with imprisonment (however described) in a place 
+outside Hong Kong;
+ (v) the responsible person is sentenced to 
+imprisonment (however described) in a place 
+outside Hong Kong, whether or not the sentence is 
+suspended;
+ (vi) the operator goes into liquidation or becomes the 
+subject of a winding-up order;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 3 3-32
+Section 10J Cap. 613
+Verified Copy
+
+ (vii) the operator or the responsible person enters into a 
+composition or scheme of arrangement with their 
+creditors;
+ (viii) a body corporate of which the operator or 
+the responsible person is a director goes into 
+liquidation or becomes the subject of a winding-up 
+order;
+ (ix) the responsible person becomes an undischarged 
+bankrupt;
+ (x) there is a change in the name or correspondence 
+address of the responsible person; or
+ (c) for an operator that is a partnership—
+ (i) a prosecution is started against any partner in the 
+partnership (partner) or the responsible person of 
+the residential care home for an indictable offence 
+in Hong Kong;
+ (ii) a prosecution is started against any partner or 
+the responsible person for an offence punishable 
+with imprisonment (however described) in a place 
+outside Hong Kong;
+ (iii) any partner or the responsible person is convicted 
+of an indictable offence in Hong Kong;
+ (iv) any partner (being an individual) or the responsible 
+person is sentenced to imprisonment (however 
+described) in a place outside Hong Kong, whether 
+or not the sentence is suspended;
+ (v) any partner (being a body corporate) is convicted 
+of an offence punishable with imprisonment 
+(however described) in a place outside Hong Kong;
+ (vi) any partner or the responsible person becomes an 
+undischarged bankrupt;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 3 3-34
+Section 10J Cap. 613
+Verified Copy
+
+ (vii) any partner goes into liquidation or becomes the 
+subject of a winding-up order;
+ (viii) any partner or the responsible person enters into a 
+composition or scheme of arrangement with their 
+creditors;
+ (ix) a body corporate of which any partner or 
+the responsible person is a director goes into 
+liquidation or becomes the subject of a winding-up 
+order;
+ (x) there is a change in the name or correspondence 
+address of the responsible person.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 3—Division 3 3-36
+Section 10J Cap. 613
+Verified Copy
+
+Part 4
+Certificates of Exemption
+11. Application for and issue of certificate of exemption
+ (1) An application by a person for the issue of a certificate of 
+exemption in respect of an existing home must be—
+ (a) made to the Director in the form and manner determined 
+by the Director; and
+ (b) accompanied by the information, particulars and plans 
+required by the Director.
+ (2) The Director may, on receipt of an application under 
+subsection (1), determine the application—
+ (a) by issuing to, and in the name of, the applicant a 
+certificate of exemption subject to any conditions that 
+the Director thinks fit to impose in relation to the 
+operation, keeping, management or other control of the 
+existing home; or (Amended 12 of 2023 s. 65)
+ (b) by refusing to issue a certificate of exemption to the 
+applicant.
+ (3) A certificate of exemption issued under this section must—
+ (a) be in the form determined by the Director;
+ (b) specify the conditions, if any, imposed under subsection 
+(2)(a);
+ (c) include an endorsement authorizing the person to whom 
+it is issued to operate, keep, manage or otherwise have 
+control of an existing home of a type prescribed for the 
+purposes of this section; and
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 4 4-2
+Section 11 Cap. 613
+Verified Copy
+
+ (d) specify the validity period of the certificate, not being a 
+period of more than 36 months.
+ (4) The Director may revoke a certificate of exemption.
+ (5) A certificate of exemption or a copy of it purporting to be 
+signed by the Director—
+ (a) is evidence of the facts stated in it as at the date of the 
+certificate or the copy; and
+ (b) is to be received in evidence without further proof.
+ (6) A certificate purporting to be signed by the Director that a 
+certificate of exemption has or has not been issued in respect 
+of an existing home—
+ (a) is evidence of the facts stated in it as at the date of the 
+first-mentioned certificate; and
+ (b) is to be received in evidence without further proof.
+12. Renewal of certificate of exemption
+ (1) The operator of an existing home may, before the certificate 
+of exemption expires, apply for the certificate to be renewed 
+for a period of not more than 36 months. (Amended 12 of 
+2023 s. 66)
+ (2) An application for the renewal of a certificate of exemption 
+must be made to the Director—
+ (a) not more than 4 months and not less than 2 months 
+before the certificate expires or within any other period 
+before its expiry as permitted by the Director in writing; 
+and
+ (b) in the form and manner determined by the Director.
+ (3) The Director may, on receipt of an application under 
+subsection (1)—
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 4 4-4
+Section 12 Cap. 613
+Verified Copy
+
+ (a) renew the certificate and impose any conditions in 
+relation to the operation, keeping, management or other 
+control of the existing home in respect of the renewed 
+certificate of exemption, in addition to or instead of any 
+conditions previously imposed under section 11(2)(a); or
+ (b) refuse to renew the certificate.
+ (4) A renewal of a certificate of exemption under this section 
+before the expiry of the certificate takes effect on the day 
+following the day of its expiry.
+ (5) Subject to subsection (6), any certificate of exemption in 
+respect of which an application for renewal is made under 
+this section and which, but for this subsection, would expire 
+before the determination of the application remains in force 
+until the determination by the Director of the application.
+ (6) Subsection (5) does not apply if—
+ (a) the application is withdrawn; or
+ (b) the certificate is revoked under section 11(4).
+ (7) A renewal of a certificate of exemption under this section 
+takes effect on the day following the day on which the 
+certificate would have expired but for subsection (5), for the 
+period (not being more than 36 months) indicated by the 
+Director at the time of renewal.
+13. Notice of refusal to issue or renew certificate of exemption and 
+of revocation, etc.
+(Amended 12 of 2023 s. 67)
+ (1) If the Director decides to refuse an application for a certificate 
+of exemption under section 11(2)(b), the Director must give 
+notice of the decision to the applicant stating the grounds for 
+the refusal.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 4 4-6
+Section 13 Cap. 613
+Verified Copy
+
+ (2) If the Director decides to revoke a certificate of exemption 
+under section 11(4), the Director must give notice of the 
+decision to the operator of the existing home stating the 
+grounds for the revocation.
+ (3) If the Director decides to refuse an application for the renewal 
+of a certificate of exemption under section 12(3)(b), or to 
+grant an application subject to conditions imposed in respect 
+of the renewed certificate of exemption under section 12(3)(a), 
+the Director must give notice of the decision to the applicant 
+or the operator of the existing home stating the grounds for 
+the refusal or conditions.
+ (4) A notice given under this section must be in writing and be 
+sent to the applicant or the operator referred to in subsection 
+(1), (2) or (3) respectively by delivering it personally or by 
+registered post to the applicant or the operator, at the address 
+last known to the Director.
+(Amended 12 of 2023 s. 67)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 4 4-8
+Section 13 Cap. 613
+Verified Copy
+
+Part 5
+Appeals
+14. Appeals against decisions
+A person who is aggrieved by any of the following decisions made 
+in respect of the person may appeal to the Administrative Appeals 
+Board—
+ (a) a decision of the Director to impose any condition under 
+section 7;
+ (b) a decision of the Director to refuse to issue a licence 
+under section 7;
+ (c) a decision of the Director to impose any condition under 
+section 8;
+ (d) a decision of the Director to refuse to renew a licence 
+under section 8;
+ (e) a decision of the Director to cancel or suspend, or to 
+amend or vary any condition of, a licence under section 
+9(1);
+ (f) a decision of the Director to impose any condition under 
+section 11;
+ (g) a decision of the Director to refuse to issue a certificate 
+of exemption under section 11;
+ (h) a decision of the Director to revoke a certificate of 
+exemption under section 11;
+Last updated date
+9.2.2012
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 5 5-2
+Section 14 Cap. 613
+Verified Copy
+
+ (i) a decision of the Director to impose any condition under 
+section 12;
+ (j) a decision of the Director to refuse to renew a certificate 
+of exemption under section 12.
+Last updated date
+9.2.2012
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 5 5-4
+Section 14 Cap. 613
+Verified Copy
+
+Part 6
+Supervision of Residential Care Homes for Persons 
+with Disabilities
+15. Appointment of inspectors
+The Director may by notice in writing appoint the following 
+persons to be an inspector of residential care homes for PWDs—
+ (a) an officer of the Social Welfare Department;
+ (b) an officer of the Buildings Department;
+ (c) a person who is registered as a medical practitioner 
+under the Medical Registration Ordinance (Cap. 161);
+ (d) a person with full registration within the meaning of the 
+Nurses Registration Ordinance (Cap. 164). (Amended 24 
+of 2024 s. 94)
+16. Inspection of residential care homes for PWDs
+ (1) In this section, specified person (指明人士) means—
+ (a) the Director;
+ (b) an officer of the Fire Services Department; or
+ (c) an inspector.
+ (2) If a specified person produces, if so required, proof of identity 
+as the specified person, and the specified person’s identity 
+card issued under the Registration of Persons Ordinance 
+(Cap. 177), the specified person may—
+ (a) at all reasonable times enter and inspect any residential 
+care home for PWDs or any premises which the 
+specified person has reason to suspect are used as or 
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 6 6-2
+Section 15 Cap. 613
+Verified Copy
+
+for the purposes of a residential care home for PWDs 
+(suspected premises);
+ (b) require any person taking part in the operation or 
+management of the residential care home or suspected 
+premises to—
+ (i) produce any book, document or other article 
+relating to the operation or management of the 
+residential care home or suspected premises, or to 
+any other activity in respect of the residential care 
+home or suspected premises; or
+ (ii) give any information relating to the operation, 
+management or activity mentioned in subparagraph 
+(i);
+ (c) remove for further examination from the residential 
+care home or suspected premises any book, document 
+or other article which the specified person has reason 
+to suspect is evidence of the commission of an offence 
+against this Ordinance;
+ (d) remove for further examination from the residential 
+care home any book, document or other article which 
+the specified person has reason to suspect is evidence 
+of a ground for the cancellation of the licence issued in 
+respect of it; and
+ (e) do any other things that are necessary for—
+ (i) the inspection of the residential care home; or
+ (ii) the inspection or testing of any equipment, works 
+or system used for or in connection with the 
+operation, keeping, management or other control of 
+the residential care home.
+17. Protection of specified persons from liability for certain acts 
+and omissions
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 6 6-4
+Section 17 Cap. 613
+Verified Copy
+
+ (1) A specified person under section 16 is not personally liable 
+for any civil liability in respect of anything done or omitted to 
+be done by the specified person in good faith in the exercise 
+of a function or purported exercise of a function under this 
+Ordinance.
+ (2) The protection conferred by subsection (1) does not affect any 
+liability of the Government for the act or omission.
+18. Director may direct remedial measures
+ (1) The Director may, in respect of any residential care home for 
+PWDs, by notice in writing, give any directions that appear to 
+the Director to be required to ensure that—
+ (a) the residential care home is operated and managed 
+satisfactorily;
+ (b) the welfare of the residents is promoted in a proper 
+manner;
+ (c) it is provided with adequate apparatus and equipment 
+to safeguard the residential care home against fire or 
+other hazards likely to endanger the lives or health of 
+residents; and
+ (d) this Ordinance is complied with.
+ (2) A notice under subsection (1)—
+ (a) must be sent to a person who operates, keeps, manages 
+or otherwise has control of the residential care home 
+by delivering it personally or by registered post to that 
+person at the address last known to the Director; and 
+(Amended 12 of 2023 s. 68)
+ (b) must indicate a period within which the directions are to 
+be complied with.
+19. Director may order cessation of use of premises as residential 
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 6 6-6
+Section 18 Cap. 613
+Verified Copy
+
+care home for PWDs
+ (1) The Director may by a written order direct that the premises 
+used as a residential care home for PWDs cease to be used 
+as a residential care home for PWDs for the period that the 
+Director thinks fit or until further notice—
+ (a) if it appears to the Director that there is any danger or 
+risk of danger to the residents in the residential care 
+home; or
+ (b) if, in respect of the residential care home, the 
+requirements of a direction given under section 18(1) 
+are not complied with within the period indicated in the 
+notice sent under section 18(2).
+ (2) An order under this section—
+ (a) must be sent to a person who operates, keeps, manages 
+or otherwise has control of the residential care home 
+concerned; and (Amended 12 of 2023 s. 69)
+ (b) takes effect at the following time—
+ (i) if it is delivered personally to the person to whom 
+it is to be sent, when it is so delivered;
+ (ii) if it is sent by registered post to the last known 
+address of the person, when it would in the 
+ordinary course of post be delivered to that 
+address; or
+ (iii) if it is posted in a conspicuous place inside or 
+outside the premises to which it relates, when it is 
+so posted.
+20. Exercise of Director’s functions
+ (1) A Deputy Director of Social Welfare may exercise any 
+function of the Director under this Ordinance.
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 6 6-8
+Section 20 Cap. 613
+Verified Copy
+
+ (2) The Director may authorize any public officer to exercise any 
+function of the Director under this Ordinance.
+ (3) A person to whom this subsection applies is not personally 
+liable for any civil liability in respect of anything done or 
+omitted to be done by the person in good faith in the exercise 
+of a function or purported exercise of a function under this 
+Ordinance.
+ (4) Subsection (3) applies to—
+ (a) the Director;
+ (b) any Deputy Director of Social Welfare; and
+ (c) any public officer authorized under subsection (2).
+ (5) The protection conferred by subsection (3) does not affect any 
+liability of the Government for the act or omission.
+21. Power of Chief Executive to give directions
+ (1) The Chief Executive may give to the Director, any Deputy 
+Director of Social Welfare or to any other public officer any 
+directions that the Chief Executive thinks fit with respect to 
+the exercise of the person’s functions under this Ordinance, 
+either generally or in any particular case.
+ (2) A person to whom a direction is given by the Chief Executive 
+under subsection (1) must, in the exercise of the person’s 
+functions under this Ordinance, comply with that direction.
+Last updated date
+26.7.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 6 6-10
+Section 21 Cap. 613
+Verified Copy
+
+Part 7
+Miscellaneous
+22. Offences in relation to licences and certificates of exemption
+ (1) A person commits an offence if the person operates, keeps, 
+manages or otherwise has control of a residential care home 
+for PWDs in respect of which a licence is for the time being 
+in force— (Amended 12 of 2023 s. 70)
+ (a) in contravention of any condition of the licence;
+ (b) in any premises other than the residential care home 
+premises indicated in the licence; or
+ (c) under any name other than the name of the residential 
+care home indicated in the licence.
+ (2) If a condition of a licence issued in respect of a residential 
+care home for PWDs is contravened, the operator of the 
+residential care home commits an offence unless the operator 
+proves that— (Amended 12 of 2023 s. 70)
+ (a) the operator did not know and had no reason to suspect 
+the existence of the circumstances giving rise to the 
+contravention; and
+ (b) the operator could not have prevented those 
+circumstances arising by the exercise of reasonable 
+supervision and reasonable diligence. (Amended 12 of 
+2023 s. 70)
+ (3) A person commits an offence if the person operates, keeps, 
+manages or otherwise has control of an existing home in 
+respect of which a certificate of exemption is for the time 
+being in force— (Amended 12 of 2023 s. 70)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-2
+Section 22 Cap. 613
+Verified Copy
+
+ (a) in contravention of any condition of the certificate of 
+exemption;
+ (b) in any premises other than the existing home premises 
+indicated in the certificate of exemption; or
+ (c) under any name other than the name of the existing 
+home indicated in the certificate of exemption.
+ (4) If a condition of a certificate of exemption issued in respect 
+of an existing home is contravened, the operator of the 
+existing home commits an offence unless the operator proves 
+that— (Amended 12 of 2023 s. 70)
+ (a) the operator did not know and had no reason to suspect 
+the existence of the circumstances giving rise to the 
+contravention; and
+ (b) the operator could not have prevented those 
+circumstances arising by the exercise of reasonable 
+supervision and reasonable diligence. (Amended 12 of 
+2023 s. 70)
+ (5) If an offence under subsection (1) or (3) is alleged to have 
+been committed, proof that a defendant did any act in 
+connection with the operation, keeping, management or other 
+control of a residential care home for PWDs is, in the absence 
+of evidence to the contrary, proof that the defendant operated, 
+kept, managed or otherwise had control of the residential care 
+home.
+ (6) A person commits an offence if the person—
+ (a) in or in connection with any application under 
+this Ordinance makes any statement or gives any 
+information, whether in oral or written form, which is 
+false in any material particular and which the person 
+knows or reasonably ought to know is false in the 
+material particular;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-4
+Section 22 Cap. 613
+Verified Copy
+
+ (b) obstructs the Director, any officer of the Fire Services 
+Department or any inspector in the exercise of any 
+functions under this Ordinance;
+ (c) refuses to produce any book, document or other 
+article when so required under section 16 or gives any 
+information which is false in a material particular and 
+which the person knows or reasonably ought to know is 
+false in the material particular;
+ (d) fails to comply with the requirements of a direction 
+given under section 18 within the period indicated in the 
+notice sent under it; or
+ (e) fails to comply with the requirements of an order sent to 
+the person under section 19.
+ (7) A person who commits an offence under this section is 
+liable—
+ (a) to a fine at level 6 and to imprisonment for 2 years; and
+ (b) in the case of a continuing offence, to a further fine 
+of $10,000 for each day during which the offence 
+continues.
+22A. Liability of responsible person
+If the operator of a residential care home for PWDs commits an 
+offence under this Ordinance, and it is proved that the offence—
+ (a) was committed with the consent or connivance of the 
+responsible person of the residential care home; or
+ (b) was attributable to any neglect on the part of the 
+responsible person of the residential care home in 
+performing the duties mentioned in section 10D,
+the responsible person also commits the offence.
+(Added 12 of 2023 s. 71)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-6
+Section 22A Cap. 613
+Verified Copy
+
+22B. Liability of directors, partners, etc.
+ (1) If—
+ (a) a sole proprietor commits an offence under this 
+Ordinance; and
+ (b) it is proved that the offence was committed with the 
+consent or connivance of a person concerned in the 
+management of the sole proprietorship,
+the person also commits the offence.
+ (2) If—
+ (a) a body corporate commits an offence under this 
+Ordinance; and
+ (b) it is proved that the offence was committed with 
+the consent or connivance of a director of the body 
+corporate, or of a person concerned in the management 
+of the body corporate,
+the director or the person, as the case requires, also commits 
+the offence.
+ (3) If—
+ (a) a partner in a partnership commits an offence under this 
+Ordinance; and
+ (b) it is proved that the offence was committed with 
+the consent or connivance of another partner in the 
+partnership, or of a person concerned in the management 
+of the partnership,
+the other partner or the person, as the case requires, also 
+commits the offence.
+(Added 12 of 2023 s. 71)
+22C. Prosecution deadline for offences
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-8
+Section 22B Cap. 613
+Verified Copy
+
+ (1) A prosecution for an offence under this Ordinance may only 
+be started before the end of 12 months after the date on which 
+the offence is discovered by the Director.
+Note—
+This replaces the time limit under section 26 of the Magistrates Ordinance 
+(Cap. 227).
+ (2) Subsection (1) does not apply in relation to an offence 
+committed before the material date.
+(Added 12 of 2023 s. 71)
+23. Code of Practice relating to operation of residential care homes 
+for PWDs
+ (1) The Director may issue from time to time any Code of 
+Practice setting out principles, procedures, guidelines and 
+standards for the operation, keeping, management or other 
+control of residential care homes for PWDs.
+ (2) A copy of every Code of Practice issued from time to time 
+under subsection (1) is to be made available during business 
+hours by the Director for inspection by the public, free of 
+charge, at the offices of the Government directed by the 
+Director.
+24. Regulation
+ (1) The Secretary for Labour and Welfare may by regulation 
+provide for or in relation to residential care homes for PWDs 
+for—
+ (a) their operation, management, supervision and inspection;
+ (b) their classes or description;
+ (c) the duties and responsibilities of operators and 
+responsible persons of residential care homes for PWDs; 
+(Amended 12 of 2023 s. 72)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-10
+Section 23 Cap. 613
+Verified Copy
+
+ (d) the qualifications, experience, appointment, duties, 
+responsibilities and discipline of persons employed 
+for the purposes of the operation, management and 
+supervision of residential care homes for PWDs, 
+including the number of persons to be so employed in 
+relation to the number of residents and the registration 
+of their employment by the Director;
+ (e) the admission of residents having regard to the age 
+of residents who may be admitted to any class or 
+description of residential care homes for PWDs;
+ (f) the medical examination of the residents and the persons 
+employed;
+ (g) the exclusion from residential care homes for PWDs of 
+any resident or employee and measures to preserve the 
+health and well-being of residents or employees;
+ (h) the discharge of residents from residential care homes 
+for PWDs and the procedure to be adopted for the 
+discharge, including the period of notice to be given for 
+the discharge of any resident;
+ (i) the control and supervision of activities in residential 
+care homes for PWDs;
+ (j) the adequacy, suitability and use of equipment in 
+residential care homes for PWDs;
+ (k) the keeping of records, timetables, menus and books of 
+account;
+ (l) the reports and information to be supplied to the 
+Director;
+ (m) the design, construction, hygiene and sanitation of 
+residential care homes for PWDs;
+ (n) the precautions to be taken against fire or other hazards 
+likely to endanger the lives or health of residents;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-12
+Section 24 Cap. 613
+Verified Copy
+
+ (o) the provision of and control of entrances to and exits 
+from residential care homes for PWDs;
+ (p) the disclosure and provision of information relating 
+to the level or amount of fees and other charges that 
+may be charged or imposed in respect of the services 
+provided or otherwise on account of the care of 
+residents;
+ (q) subject to section 25, the fees to be charged for any 
+matter prescribed or permitted by this Ordinance;
+ (r) the promotion, including the advertising or marketing, of 
+residential care homes for PWDs by specifying whether 
+licences or certificates of exemption are for the time 
+being in force in respect of the residential care homes;
+ (s) generally, carrying into effect this Ordinance.
+ (2) Any regulation made under this section may—
+ (a) prohibit the performance of particular acts without the 
+consent of the Director;
+ (b) authorize the Director to require or prohibit the 
+performance of particular acts; and
+ (c) require particular acts to be performed to the satisfaction 
+of the Director.
+ (3) The Director may, by notice in writing sent to a person 
+who operates, keeps, manages or otherwise has control of 
+a residential care home for PWDs— (Amended 12 of 2023 
+s. 72)
+ (a) waive wholly, partly or conditionally the requirements 
+of any regulation made under this section in respect of 
+the residential care home; and
+ (b) amend or withdraw the notice.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-14
+Section 24 Cap. 613
+Verified Copy
+
+ (4) Regulations made under this section may provide that any 
+contravention of the regulations is an offence punishable by—
+ (a) a fine not exceeding level 6 and a term of imprisonment 
+not exceeding 2 years; and
+ (b) a fine not exceeding $10,000 for each day during which 
+the offence continues.
+ (5) The amount of fees provided for under subsection (1)(q) need 
+not be limited by reference to the amount of administrative 
+or other costs incurred, or likely to be incurred, by the 
+Director in the exercise of the Director’s functions under this 
+Ordinance.
+ (6) Without affecting subsection (5), any regulation made under 
+subsection (1)(q) may provide for—
+ (a) a different fee to be payable having regard to—
+ (i) the type or description of any residential care home 
+for PWDs or of any matter prescribed or permitted 
+by this Ordinance; or
+ (ii) the period indicated in the licence or the certificate 
+of exemption; and
+ (b) the waiver, remission, reduction or refund of any fee.
+25. No fee payable in respect of licence or certificate of exemption
+No fee is payable—
+ (a) on an application for the issue or renewal of a licence;
+ (b) on an application for the issue or renewal of a certificate 
+of exemption;
+ (c) for the issue or renewal of a licence; or
+ (d) for the issue or renewal of a certificate of exemption.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 7 7-16
+Section 25 Cap. 613
+Verified Copy
+
+Part 8
+(Repealed 12 of 2023 s. 73)
+26-49. (Omitted as spent—E.R. 1 of 2012)
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Part 8 8-2
+Section 26 Cap. 613
+Verified Copy
+
+Schedule 1
+[s. 7A]
+Fit and Proper Requirement for Licence Applicant
+(Schedule 1 added 12 of 2023 s. 74)
+1. Matters for sole proprietor
+For section 7A(a), the matters are—
+ (a) whether the sole proprietor has been—
+ (i) convicted of an offence involving fraud or 
+dishonesty in any place;
+ (ii) convicted of an indictable offence in Hong Kong;
+ (iii) sentenced to imprisonment (however described) 
+in a place outside Hong Kong, whether or not the 
+sentence is suspended; or
+ (iv) convicted of an offence under this Ordinance, 
+Cap. 459 or Cap. 459A;
+ (b) the record of the following matters in connection with 
+the sole proprietor—
+ (i) any application for—
+ (A) a licence within the meaning of this 
+Ordinance;
+ (B) a licence as defined by section 2(1) of 
+Cap. 459; or
+ (C) a certificate of exemption;
+ (ii) any application for the renewal of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i);
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 1 S1-2
+Section 1 Cap. 613
+Verified Copy
+
+ (iii) compliance with the conditions of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i); and
+ (iv) compliance with this Ordinance, Cap. 459 or 
+Cap. 459A; and
+ (c) whether the sole proprietor—
+ (i) is an undischarged bankrupt;
+ (ii) has entered into a composition or scheme of 
+arrangement with the sole proprietor’s creditors; or
+ (iii) is a director of any body corporate that is in 
+liquidation or is the subject of a winding-up order.
+2. Matters for body corporate
+For section 7A(b), the matters are—
+ (a) whether the body corporate has been convicted of—
+ (i) an offence involving fraud or dishonesty in any 
+place;
+ (ii) an indictable offence in Hong Kong;
+ (iii) an offence in a place outside Hong Kong; or
+ (iv) an offence under this Ordinance, Cap. 459 or 
+Cap. 459A;
+ (b) the record of the following matters in connection with 
+the body corporate—
+ (i) any application for—
+ (A) a licence within the meaning of this 
+Ordinance;
+ (B) a licence as defined by section 2(1) of 
+Cap. 459; or
+ (C) a certificate of exemption;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 1 S1-4
+Section 2 Cap. 613
+Verified Copy
+
+ (ii) any application for the renewal of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i);
+ (iii) compliance with the conditions of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i); and
+ (iv) compliance with this Ordinance, Cap. 459 or 
+Cap. 459A; and
+ (c) whether the body corporate—
+ (i) is in liquidation or is the subject of a winding-up 
+order;
+ (ii) has entered into a composition or scheme of 
+arrangement with the body corporate’s creditors; or
+ (iii) is a director of any body corporate that is in 
+liquidation or is the subject of a winding-up order.
+3. Matters for partnership
+For section 7A(c), the matters are—
+ (a) whether any partner in the partnership has been—
+ (i) convicted of an offence involving fraud or 
+dishonesty in any place;
+ (ii) convicted of an indictable offence in Hong Kong;
+ (iii) if the partner is an individual—sentenced to 
+imprisonment (however described) in a place 
+outside Hong Kong, whether or not the sentence is 
+suspended;
+ (iv) if the partner is a body corporate—convicted of an 
+offence in a place outside Hong Kong; or
+ (v) convicted of an offence under this Ordinance, 
+Cap. 459 or Cap. 459A;
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 1 S1-6
+Section 3 Cap. 613
+Verified Copy
+
+ (b) the record of the following matters in connection with 
+any partner in the partnership—
+ (i) any application for—
+ (A) a licence within the meaning of this 
+Ordinance;
+ (B) a licence as defined by section 2(1) of 
+Cap. 459; or
+ (C) a certificate of exemption;
+ (ii) any application for the renewal of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i);
+ (iii) compliance with the conditions of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i); and
+ (iv) compliance with this Ordinance, Cap. 459 or 
+Cap. 459A; and
+ (c) whether any partner in the partnership—
+ (i) is an undischarged bankrupt;
+ (ii) is in liquidation or is the subject of a winding-up 
+order;
+ (iii) has entered into a composition or scheme of 
+arrangement with the partner’s creditors; or
+ (iv) is a director of any body corporate that is in 
+liquidation or is the subject of a winding-up order.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 1 S1-8
+Section 3 Cap. 613
+Verified Copy
+
+Schedule 2
+[s. 10E]
+Fit and Proper Requirement for Responsible Person
+(Schedule 2 added 12 of 2023 s. 74)
+For section 10E, the matters are—
+ (a) whether the person has been—
+ (i) convicted of an offence involving fraud or 
+dishonesty in any place;
+ (ii) convicted of an indictable offence in Hong Kong;
+ (iii) sentenced to imprisonment (however described) 
+in a place outside Hong Kong, whether or not the 
+sentence is suspended; or
+ (iv) convicted of an offence under this Ordinance, 
+Cap. 459 or Cap. 459A;
+ (b) the record of the following matters in connection with 
+the person—
+ (i) any application for—
+ (A) a licence within the meaning of this 
+Ordinance;
+ (B) a licence as defined by section 2(1) of 
+Cap. 459; or
+ (C) a certificate of exemption;
+ (ii) any application for the renewal of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i);
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 2 S2-2
+ Cap. 613
+Verified Copy
+
+ (iii) compliance with the conditions of a licence or 
+certificate of exemption mentioned in subparagraph 
+(i); and
+ (iv) compliance with this Ordinance, Cap. 459 or 
+Cap. 459A; and
+ (c) whether the person—
+ (i) is an undischarged bankrupt;
+ (ii) has entered into a composition or scheme of 
+arrangement with the person’s creditors; or
+ (iii) is a director of any body corporate that is in 
+liquidation or is the subject of a winding-up order.
+Last updated date
+16.6.2024
+Residential Care Homes (Persons with Disabilities) Ordinance
+Schedule 2 S2-4
+ Cap. 613
+Verified Copy
