@@ -165,13 +165,13 @@ Open these when the job names them. They are saved so a clause can be found. The
 
 ## Still outside this folder
 
-A complete practice picture also needs documents that are not saved here:
+The graded list, with official links, is [`STATUTORY_GAPS.md`](STATUTORY_GAPS.md). Checked on 5 October 2026. Cap 123A to Cap 123Q and the current Buildings Department codes of practice are already in this folder. The six items below are still outside it.
 
-- Architects Registration Board code of professional conduct
-- Hong Kong Institute of Architects (HKIA) conditions of engagement
-- Hong Kong Planning Standards and Guidelines
-- Cap 301 Hong Kong Airport (Control of Obstructions) Ordinance. The practice note that cites it is saved: [APP-32 Airport Height Restrictions](Building%20Department%20(BD)/Practice%20Notes%20for%20Authorized%20Persons%20(PNAP)/summaries/APP-32%20Hong%20Kong%20Airport%20%28Control%20of%20Obstructions%29%20Ordinance%20%28Cap.%20301%29%20%E2%80%94%20Airport%20Height%20Restrictions.md)
-- Buildings Energy Efficiency Ordinance, administered by the Electrical and Mechanical Services Department
-- The site Outline Zoning Plan and the government lease
+- Architects Registration Board code of professional conduct, effective 14 May 2024. Cap 408 has no subsidiary legislation. This code is a Board instrument under section 9.
+- Hong Kong Institute of Architects (HKIA) Code of Professional Conduct, and the Standard Form of Agreement between Client and Architect. The professional-assessment syllabus still calls the appointment terms conditions of engagement.
+- Hong Kong Planning Standards and Guidelines, all 12 chapters. Chapter 1 says the standards are not themselves statutory.
+- Cap 301 Hong Kong Airport (Control of Obstructions) Ordinance, the height order Cap 301D, and the Airport Height Restriction Plans. The practice note is saved: [APP-32 Airport Height Restrictions](Building%20Department%20(BD)/Practice%20Notes%20for%20Authorized%20Persons%20(PNAP)/summaries/APP-32%20Hong%20Kong%20Airport%20%28Control%20of%20Obstructions%29%20Ordinance%20%28Cap.%20301%29%20%E2%80%94%20Airport%20Height%20Restrictions.md).
+- Cap 610 Buildings Energy Efficiency Ordinance, and the 2024 Building Energy Code and Energy Audit Code. Cap 123M in this folder is the overall thermal transfer value regime.
+- The site Outline Zoning Plan and the government lease.
 
-On a real site, the site OZP and the lease control the envelope. The master schedules and practice notes in this folder state the general rules those two documents can tighten.
+On a real site, the site OZP and the lease control the envelope. The master schedules and practice notes in this folder state the general rules those two documents can tighten. The same gap file lists the fire-services installation code, Cap 618, the Waterworks Ordinance, and the environmental technical memoranda, which are also unsaved.
