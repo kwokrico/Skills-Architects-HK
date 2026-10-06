@@ -1,0 +1,14 @@
+# pnap hk alterations additions
+
+Source topic: `subskills/hk-alterations-additions/hk-alterations-additions.md`.
+
+## PNAP operative rules for this subject
+
+Distilled from the Practice Notes for Authorized Persons critical summaries. The rule column is the schematic-design takeaway in that summary. Where the summary gives no separate takeaway, the overview or the printed table is used, and the note is listed as thin in the building-codes index.
+
+| PNAP | Subject | Operative rule |
+| --- | --- | --- |
+| APP-47 | Unauthorized Alterations and Additions | Do not submit plans to legitimize works already built; approval is only for works not yet carried out, apart from the minor-works and pre-31 December 2010 validation routes in this note. If the work is not minor works or section 41 exempted works, obtain approval and consent before it starts. Printed figures: Prescribed building or building works in Schedule 3 of the Building (Minor Works) Regulation, completed or carried out before 31 December 2010: May be inspected and certified under section 39C and section 62 of the Building (Minor Works) Regulation (Household Minor Works Validation Scheme). The Building Authority shall not then serve a section 24 removal order or a section 24C warning notice on the ground of contravention of section 14(1). The works remain unauthorized, and action may still be taken if they become dangerous; Other completed works: Rejected under section 16(1)(a) because it is not a proposal for approval and consent before commencement; Form BA 5 or BA 17: Also rejected under section 16(1)(c), because those forms apply to works "to be carried out" or permission "to erect", not to structures already erected; Effective demolition order: Also rejected under section 16(1)(d) |
+| APP-117 | Structural Requirements for Alteration and Addition Works in Existing Buildings | Inspect and photograph every existing member the alteration touches, and design every new member to the current codes. A 5% loss of wind-frame stiffness or a 10% increase in wind exposure area forces a current wind-code check of the whole building. If the original structural plans are missing, compare new and original forces or open up the members before relying on the old design. Printed figures: Wind: removal: Partial or total removal of existing major wind-resisting walls or frames that reduces their stiffness by 5% or more: check wind adequacy to the current wind code; Wind: exposure: Extension of building dimensions that increases wind exposure area by 10% or more: check to the current wind code; Flat slabs: Flat slabs originally designed by the working-stress method, if structurally altered or given any additional load: check shearing stresses using the Code of Practice for the Structural Use of Concrete 1987; Drawings: Reinforcement details of affected existing members, when available, should be shown on drawings, following paragraph 6 of PNAP 121 |
+
+Notes in this skill: 2.

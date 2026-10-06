@@ -1,0 +1,37 @@
+# MW Item 2.28
+**Architect critical summary for schematic design**
+2 Oct 2026 | Buildings Department | [English](https://www.bd.gov.hk/en/building-works/minor-works/minor-works-items/index_mwcs_item2_28.html) · [繁體](https://www.bd.gov.hk/tc/building-works/minor-works/minor-works-items/index_mwcs_item2_28.html)
+
+> Scope note: BD webpage for Class II item 2.28, scraped 2 Oct 2026. Every limit below is printed on that page. If a criterion is not in the table, this page does not state it. Sister summary: [Minor Works Control System_CS.md](../../../Minor%20Works%20%28MWCS%29/Minor%20Works%20Control%20System_CS.md).
+
+## Regulatory Overview
+
+This page covers **Class II** item **2.28**. Registered contractor types on the page: **D**. BD files it under: Drainage (underground). Nature of works stated on the page: **Repair**.
+
+## Critical main topics and subtopics
+
+### 1. Item gate
+
+| Parameter | Requirement |
+|---|---|
+| Item no. | 2.28 |
+| Item class/type | Class II Type D |
+| Nature of works | Repair |
+| Excavation depth | **Not more than 1.5m** |
+| The distance between any point of the excavation and the bottom of any retaining wall or the toe of any slope with a gradient of **more than 15** degrees | At least equal to the depth of the excavation |
+| The works involve the last manhole | No |
+| If the works are carried out beside the crest of a slope with a gradient of **not more than 30** degrees | The distance between any point of the excavation and the outer edge of the crest is at least equal to the height of the slope. |
+| If the works are carried out beside the crest of a slope with a gradient of **more than 30** degrees | the height of the slope is **not more than 3m**; and the distance between any point of the excavation and the outer edge of the crest is at least equal to 1.5 times the height of the slope. |
+| If the works are carried out beside the top of a retaining wall | the height of the wall is **not more than 3 m**; and the distance between any point of the excavation and the wall is at least equal to 1.5 times the height of the wall. |
+
+### 2. Submission path printed on this page
+
+Forms named on the page: **MW03, MW04**.
+
+| Step | What the page says |
+|---|---|
+| Step 1 | Owner or their agent Appoint Prescribed Registered Contractor (Class II of Type D) Search for Eligible Professionals/Contractors online |
+| Step 2 | Prescribed Registered Contractors Submit MW03 - Notice of Commencement, documents, photos **7 days** before commencement of work MW03 form See sample |
+| Step 3 | Prescribed Registered Contractors Submit MW04 - Certificate of Completion, documents, photos **within 14 days** after completion of work MW04 form See sample |
+
+**SD takeaway:** If any row of the gate is not met, this item does not apply. Re-match another item or use full Cap 123 approval and consent.

@@ -1,0 +1,17 @@
+# pnap hk site supervision
+
+Source topic: `subskills/hk-site-supervision/hk-site-supervision.md`.
+
+## PNAP operative rules for this subject
+
+Distilled from the Practice Notes for Authorized Persons critical summaries. The rule column is the schematic-design takeaway in that summary. Where the summary gives no separate takeaway, the overview or the printed table is used, and the note is listed as thin in the building-codes index.
+
+| PNAP | Subject | Operative rule |
+| --- | --- | --- |
+| ADM-13 | Monitoring for Site Safety and Quality | Treat demolition, deep excavation, percussion piling, steep slopes, high retaining walls, and projections over streets as high-frequency inspection stages and keep the approved sequence on site. Issue the approved plans, the agreed sequence, and the consent conditions to the contractor to keep on site before the high-risk operations start. For minor works, still keep the prescribed plans and supervision plan on site; selected sites are audited even though there is no systematic inspection programme. Printed figures: Remedies: Corrective advice to the AP, RSE, or RGE; orders under sections 23 and 24A; prosecution and disciplinary action where appropriate |
+| ADM-18 | Site Auditing for Building Works | Keep qualified supervisors and the approved documents on site at all times; the next audit is earlier if the last one found substandard work, and it will not be booked in advance. For a fast-track two-storey warehouse, notify the bearing-stratum inspection and expect it within one working day; a warehouse at or under 1,500 m² gross floor area is otherwise a single unscheduled audit. Printed figures: Two-storey warehouse on the ADM-19 fast track: Inspection of the foundation bearing stratum within one working day (within 8 working hours) of notification. Quality inspection of structural elements is combined with the comprehensive superstructure inspection into one joint visit; Warehouse not exceeding 1,500 m² gross floor area: Only one unscheduled audit unless irregularities warrant more |
+| APP-135 | Quality Supervision of Soil Nailing Works | Treat nails longer than 20 m, and nails in loose ground or groundwater, as needing a site trial and pull-out tests before working nails. Show trial locations, the pull-out procedure, and how nail length will be verified, on the site-formation submission. Printed figures: Length over 20 m: Higher chance of loose or permeable ground or a buried stream course: drillhole collapse that can obstruct the reinforcement assembly, high grout loss, and grout quality harder to ensure |
+| APP-157 | Code of Practice for Site Supervision 2009 | From a Form BA 10 dated 1 November 2024, temporary works under a tower crane need both a design engineer and an independent checking engineer. Use the 2024 Edition of the supervision code, and match technically competent persons to paragraphs 8.18 to 8.24 of the 2021 Edition or to a course on the accepted list. Printed figures: 2021 Edition: Incorporates the 2015–2021 circular letters. Technically competent person qualifications are paragraphs 8.18 to 8.24; Appendix A, December 2023, and Appendix B, August 2024: Further amendments, brought into the 2024 Edition |
+| APP-158 | Quality Supervision of Building Works | Put curtain wall, waterproofing tests, and any consent condition on the quality-supervision checklist, in addition to the Appendix A items for the superstructure or excavation. Keep the quality-supervision checklists and inspection records on site for audit. |
+
+Notes in this skill: 5.
