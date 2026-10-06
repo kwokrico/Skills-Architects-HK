@@ -1,113 +1,817 @@
 {
-  "A&A": "Alterations and Additions — works to existing buildings under BO approval or MWCS",
-  "AAB": "Antiquities Advisory Board — heritage grading and conservation advice",
-  "AMO": "Antiquities and Monuments Office — graded buildings and monument protection",
-  "AP": "Authorized Person registered under Buildings Ordinance Cap. 123 — signs statutory submissions",
-  "ArchSD": "Architectural Services Department — government works architect (public sector)",
-  "AVA": "Application for Variation — planning or lease parameter variation (PlanD / LandsD)",
-  "BA12": "BD form — application for occupation permit (part of OP submission chain)",
-  "BA13": "BD form — certificate of completion of building works",
-  "BA14": "BD form — certificate that building is fit for occupation",
-  "BD": "Buildings Department — building plan approval, consent, occupation permit",
-  "BEAM Plus": "Hong Kong green building rating tool (NB, EB, Interiors, Neighbourhood)",
-  "BHR": "Building Height Restriction in metres above Principal Datum or by storeys",
-  "BIM": "Building Information Modelling — coordinated digital design and issue workflow",
-  "BMO": "Building Management Ordinance Cap. 344 — management and repair of common parts",
-  "BO": "Buildings Ordinance Cap. 123 — primary building control legislation",
-  "BO s.14": "Consent to commence building works and carry out building works",
-  "BoQ": "Bills of Quantities — tender pricing and measurement document",
-  "CA": "Contract Administrator — employer's agent under building contract (HKIA forms)",
-  "CC": "Certificate of Compliance — Lands Department clearance for private land disposals",
-  "CDM": "Construction design and management coordination — H&S duties on projects",
-  "CE": "Compensation Event — NEC terminology for change, delay, or risk events",
-  "CEDD": "Civil Engineering and Development Department — slopes, site formation, and public works interfaces",
-  "CLP": "CLP Power — electricity supply undertaker (Kowloon and New Territories)",
-  "CNP": "Construction Noise Permit — EPD approval under Noise Control Ordinance Cap. 400 for prescribed construction activities",
-  "D&B": "Design and Build procurement — contractor-led design and construction",
-  "DEVB": "Development Bureau — policy for public works and NEC adoption",
-  "DIA": "Drainage Impact Assessment — DSD consultation for development drainage effects",
-  "DfMA": "Design for Manufacture and Assembly — design approach supporting MiC",
-  "DLO": "District Lands Office — LandsD front door for site conditions and grant compliance",
-  "DLP": "Defects Liability Period — post-practical-completion contractual remedy period",
-  "ELS": "Excavation and Lateral Support — basement retention (pile wall, diaphragm wall, strutting)",
-  "first fix": "MEP sleeves and conduits embedded before concrete pour — reduces chasing",
-  "follow-the-structure": "Facade works start when superstructure is several floors below top — shortens programme",
-  "ITP": "Inspection and Test Plan — contractor hold points aligned with QA and AP/RSE witness",
-  "second fix": "MEP installation after partitions/boarding — follows structure first fix",
-  "工序穿插": "Overlapping construction trades (fast-tracking) — programme logic, not a HK statutory term",
-  "DMBA": "Design Manual: Barrier Free Access 2008 — accessibility design standard",
-  "EMSD": "Electrical and Mechanical Services Department — lifts, escalators, BEC, Form 5",
-  "EOT": "Extension of Time — contractual relief for qualifying delay events",
-  "EPD": "Environmental Protection Department — noise, waste, environmental permits",
-  "ER": "Employer's Requirements — design-build specification package for D&B contracts",
-  "FEHD": "Food and Environmental Hygiene Department — F&B licensing and layout constraints",
-  "FRC": "Fire Resisting Construction — compartment walls/floors per FS Code",
-  "FS Code": "Code of Practice for Fire Safety in Buildings 2011",
-  "FSD": "Fire Services Department — fire services installations and Fire Certificate",
-  "FSI": "Fire Services Installation — sprinklers, hydrants, hose reels, alarms, etc.",
-  "GBP": "General Building Plans — coordinated statutory submission to BD",
-  "GCC": "General Conditions of Contract — government building works contract terms",
-  "GEO": "Geotechnical Engineering Office — slope stability and geotechnical standards under CEDD",
-  "GFA": "Gross Floor Area per BO definition; subject to PNAP APP-2 exemptions",
-  "GS": "General Specification — technical specification for government/institutional works",
-  "HA": "Hong Kong Housing Authority — public rental and subsidized housing developer",
-  "HD": "Housing Department — HA executive arm; Harmony block standards",
-  "HIA": "Heritage Impact Assessment — required for graded sites and sensitive proposals",
-  "HKIA": "Hong Kong Institute of Architects — professional body; publishes SFBC",
-  "HKICM": "Hong Kong Institute of Construction Managers — construction management profession",
-  "HKIS": "Hong Kong Institute of Surveyors — quantity surveying and property professions",
-  "HKPSG": "Hong Kong Planning Standards and Guidelines — PlanD development standards",
-  "HKWC": "Hong Kong Wind Code — wind actions for structural and facade design",
-  "HKE": "Hongkong Electric — electricity supply undertaker (Hong Kong Island and Lamma)",
-  "HyD": "Highways Department — roads, slopes interfaces, highway-related submissions",
-  "IC": "Interim Certificate — periodic payment certificate under building contract",
-  "LandsD": "Lands Department — lease conditions, modifications, CC, Consent to Assign",
-  "LD": "Labour Department — occupational safety and health enforcement on sites",
-  "MiC": "Modular Integrated Construction — pre-fabricated volumetric modules",
-  "MLP": "Master Layout Plan — lease plan showing building footprint and setbacks",
-  "MOD": "Modification of Lease — LandsD application to vary lease conditions",
-  "MOE": "Means of Escape — exit routes, travel distance, exit widths (BO Reg. 41, FS Code)",
-  "MTR": "Mass Transit Railway Corporation — TOD developments and railway protection",
-  "MW01": "Minor works form — Class I notification before commencement",
-  "MW03": "Minor works form — Class II notification before commencement",
-  "MW05": "Minor works form — Class III completion notification",
-  "MWCS": "Minor Works Control System under Building (Minor Works) Regulation",
-  "NEC4": "New Engineering Contract fourth edition — collaborative contract suite (ECC)",
-  "NTEH": "New Territories Exempted House — village house policy (small house)",
-  "OC": "Owners Corporation — incorporated body managing common parts under BMO Cap. 344",
-  "OFCA": "Office of the Communications Authority — telecommunications licensing and undertaker regulation",
-  "OP": "Occupation Permit — BD certification that building is fit for occupation",
-  "OTTV": "Overall Thermal Transfer Value — facade heat gain metric (W/m²)",
-  "PC": "Practical Completion — contractual milestone; risk often transfers to employer",
-  "PCI": "Pre-construction information — H&S and site information pack for contractor mobilisation",
-  "PC Sum": "Prime Cost Sum — provisional sum for nominated sub-contract work",
-  "PD": "Principal Datum — Hong Kong height reference system (mPD)",
-  "PI": "Professional Indemnity insurance — design liability cover",
-  "PlanD": "Planning Department — OZP, planning applications under Town Planning Ordinance",
-  "PNAP": "Practice Notes for Authorized Persons, Registered Structural Engineers and Registered Geotechnical Engineers",
-  "PPE": "Place of Public Entertainment — assembly occupancy under FS Code / licensing",
-  "PR": "Plot Ratio — permissible GFA divided by site area per OZP/lease",
-  "QS": "Quantity Surveyor — cost planning, BoQ, valuations, final account",
-  "RC": "Registered Contractor — BO contractor registration for building works",
-  "RGE": "Registered Geotechnical Engineer — geotechnical design and certification",
-  "RMWC": "Registered Minor Works Contractor — MWCS contractor registration",
-  "RSE": "Registered Structural Engineer — structural design and certification",
-  "RTTV": "Roof Thermal Transfer Value — roof heat gain metric (W/m²)",
-  "RV": "Rateable Value — basis for some government fees and charges",
-  "SFBC": "Standard Form of Building Contract — HKIA/HKIS/HKICM private sector forms",
-  "SUC": "Code of Practice for Structural Use of Concrete 2013",
-  "SUS": "Code of Practice for Structural Use of Steel 2011",
-  "T8": "Typhoon signal No. 8 — inclement weather stand-down in HK contracts",
-  "TD": "Transport Department — traffic impact assessment and temporary traffic management on public roads",
-  "TIA": "Traffic Impact Assessment — planning-stage traffic study, often a s.16 condition",
-  "TMP": "Temporary Traffic Management Plan — construction-phase traffic accommodation on public roads",
-  "TPB": "Town Planning Board — decides planning applications and plan amendments",
-  "TPO": "Town Planning Ordinance Cap. 131 — planning permission framework",
-  "TPO s.12A": "Application for review of planning decision",
-  "TPO s.16": "Application for planning permission",
-  "UBW": "Unauthorized Building Works — works not approved under BO; enforcement risk",
-  "URA": "Urban Renewal Authority — redevelopment and compensation frameworks",
-  "VM": "Value Management — structured workshop to optimize scope, cost, programme",
-  "WSD": "Water Supplies Department — plumbing, fire mains, WWO 46 inspection",
-  "假設工程": "Site establishment works — hoarding, utilities, survey, mobilisation before main construction"
+  "A&A": {
+    "English": "Alterations and Additions — works to existing buildings under BO approval or MWCS",
+    "Chinese": "改建及加建",
+    "Sub-skill": "hk-alterations-additions"
+  },
+  "AAB": {
+    "English": "Antiquities Advisory Board — heritage grading and conservation advice",
+    "Chinese": "古物諮詢委員會",
+    "Sub-skill": "hk-heritage-conservation"
+  },
+  "AMO": {
+    "English": "Antiquities and Monuments Office — graded buildings and monument protection",
+    "Chinese": "古物古蹟辦事處",
+    "Sub-skill": "hk-heritage-conservation"
+  },
+  "AP": {
+    "English": "Authorized Person registered under Buildings Ordinance Cap. 123 — signs statutory submissions",
+    "Chinese": "認可人士",
+    "Sub-skill": "hk-professional-conduct"
+  },
+  "ArchSD": {
+    "English": "Architectural Services Department — government works architect (public sector)",
+    "Chinese": "建築署",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "AVA": {
+    "English": "Application for Variation — planning or lease parameter variation (PlanD / LandsD)",
+    "Chinese": "變更申請",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "BA12": {
+    "English": "BD form — application for occupation permit (part of OP submission chain)",
+    "Chinese": "佔用許可證申請表",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "BA13": {
+    "English": "BD form — certificate of completion of building works",
+    "Chinese": "建築工程完工證明書",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "BA14": {
+    "English": "BD form — certificate that building is fit for occupation",
+    "Chinese": "適宜佔用證明書",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "BD": {
+    "English": "Buildings Department — building plan approval, consent, occupation permit",
+    "Chinese": "屋宇署",
+    "Sub-skill": "hk-building-codes"
+  },
+  "BEAM Plus": {
+    "English": "Hong Kong green building rating tool (NB, EB, Interiors, Neighbourhood)",
+    "Chinese": "綠建環評",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "BHR": {
+    "English": "Building Height Restriction in metres above Principal Datum or by storeys",
+    "Chinese": "建築物高度限制",
+    "Sub-skill": "hk-building-codes"
+  },
+  "BIM": {
+    "English": "Building Information Modelling — coordinated digital design and issue workflow",
+    "Chinese": "建築信息模擬",
+    "Sub-skill": "hk-construction-documentation"
+  },
+  "BMO": {
+    "English": "Building Management Ordinance Cap. 344 — management and repair of common parts",
+    "Chinese": "建築物管理條例",
+    "Sub-skill": "hk-alterations-additions"
+  },
+  "BO": {
+    "English": "Buildings Ordinance Cap. 123 — primary building control legislation",
+    "Chinese": "建築物條例",
+    "Sub-skill": "hk-building-codes"
+  },
+  "BO s.14": {
+    "English": "Consent to commence building works and carry out building works",
+    "Chinese": "同意展開建築工程",
+    "Sub-skill": "hk-consent-scheduling"
+  },
+  "BoQ": {
+    "English": "Bills of Quantities — tender pricing and measurement document",
+    "Chinese": "工料清單",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "CA": {
+    "English": "Contract Administrator — employer's agent under building contract (HKIA forms)",
+    "Chinese": "合約管理人",
+    "Sub-skill": "hk-tender-contract-administration"
+  },
+  "CC": {
+    "English": "Certificate of Compliance — Lands Department clearance for private land disposals",
+    "Chinese": "遵辦證明書",
+    "Sub-skill": "hk-certificate-of-compliance"
+  },
+  "CDM": {
+    "English": "Construction design and management coordination — H&S duties on projects",
+    "Chinese": "施工設計與管理協調",
+    "Sub-skill": "hk-construction-health-safety"
+  },
+  "CE": {
+    "English": "Compensation Event — NEC terminology for change, delay, or risk events",
+    "Chinese": "補償事件",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "CEDD": {
+    "English": "Civil Engineering and Development Department — slopes, site formation, and public works interfaces",
+    "Chinese": "土木工程拓展署",
+    "Sub-skill": "hk-site-establishment"
+  },
+  "CLP": {
+    "English": "CLP Power — electricity supply undertaker (Kowloon and New Territories)",
+    "Chinese": "中電",
+    "Sub-skill": "hk-building-services"
+  },
+  "CNP": {
+    "English": "Construction Noise Permit — EPD approval under Noise Control Ordinance Cap. 400 for prescribed construction activities",
+    "Chinese": "建築噪音許可證",
+    "Sub-skill": "hk-acoustic-design"
+  },
+  "D&B": {
+    "English": "Design and Build procurement — contractor-led design and construction",
+    "Chinese": "設計及建造",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "DEVB": {
+    "English": "Development Bureau — policy for public works and NEC adoption",
+    "Chinese": "發展局",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "DIA": {
+    "English": "Drainage Impact Assessment — DSD consultation for development drainage effects",
+    "Chinese": "排水影響評估",
+    "Sub-skill": "hk-building-services"
+  },
+  "DfMA": {
+    "English": "Design for Manufacture and Assembly — design approach supporting MiC",
+    "Chinese": "製造及裝配設計",
+    "Sub-skill": "hk-mic-dfma"
+  },
+  "DLO": {
+    "English": "District Lands Office — LandsD front door for site conditions and grant compliance",
+    "Chinese": "地區地政處",
+    "Sub-skill": "hk-lease-compliance"
+  },
+  "DLP": {
+    "English": "Defects Liability Period — post-practical-completion contractual remedy period",
+    "Chinese": "保修期",
+    "Sub-skill": "hk-practical-completion-snagging"
+  },
+  "ELS": {
+    "English": "Excavation and Lateral Support — basement retention (pile wall, diaphragm wall, strutting)",
+    "Chinese": "挖掘及側向承托",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "first fix": {
+    "English": "MEP sleeves and conduits embedded before concrete pour — reduces chasing",
+    "Chinese": "首期安裝",
+    "Sub-skill": "hk-construction-programme"
+  },
+  "follow-the-structure": {
+    "English": "Facade works start when superstructure is several floors below top — shortens programme",
+    "Chinese": "隨結構跟進",
+    "Sub-skill": "hk-construction-programme"
+  },
+  "ITP": {
+    "English": "Inspection and Test Plan — contractor hold points aligned with QA and AP/RSE witness",
+    "Chinese": "檢驗及測試計劃",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "second fix": {
+    "English": "MEP installation after partitions/boarding — follows structure first fix",
+    "Chinese": "二期安裝",
+    "Sub-skill": "hk-construction-programme"
+  },
+  "工序穿插": {
+    "English": "Overlapping construction trades (fast-tracking) — programme logic, not a HK statutory term",
+    "Chinese": "工序穿插",
+    "Sub-skill": "hk-construction-programme"
+  },
+  "DMBA": {
+    "English": "Design Manual: Barrier Free Access 2008 — accessibility design standard",
+    "Chinese": "設計手冊：暢通無阻的通道2008",
+    "Sub-skill": "hk-accessibility-design"
+  },
+  "EMSD": {
+    "English": "Electrical and Mechanical Services Department — lifts, escalators, BEC, Form 5",
+    "Chinese": "機電工程署",
+    "Sub-skill": "hk-building-services"
+  },
+  "EOT": {
+    "English": "Extension of Time — contractual relief for qualifying delay events",
+    "Chinese": "延長工期",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "EPD": {
+    "English": "Environmental Protection Department — noise, waste, environmental permits",
+    "Chinese": "環境保護署",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "ER": {
+    "English": "Employer's Requirements — design-build specification package for D&B contracts",
+    "Chinese": "僱主要求",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "FEHD": {
+    "English": "Food and Environmental Hygiene Department — F&B licensing and layout constraints",
+    "Chinese": "食物環境衞生署",
+    "Sub-skill": "hk-building-programming"
+  },
+  "FRC": {
+    "English": "Fire Resisting Construction — compartment walls/floors per FS Code",
+    "Chinese": "耐火結構",
+    "Sub-skill": "hk-fire-life-safety"
+  },
+  "FS Code": {
+    "English": "Code of Practice for Fire Safety in Buildings 2011",
+    "Chinese": "建築物消防安全守則",
+    "Sub-skill": "hk-fire-life-safety"
+  },
+  "FSD": {
+    "English": "Fire Services Department — fire services installations and Fire Certificate",
+    "Chinese": "消防處",
+    "Sub-skill": "hk-fire-life-safety"
+  },
+  "FSI": {
+    "English": "Fire Services Installation — sprinklers, hydrants, hose reels, alarms, etc.",
+    "Chinese": "消防裝置",
+    "Sub-skill": "hk-fire-life-safety"
+  },
+  "GBP": {
+    "English": "General Building Plans — coordinated statutory submission to BD",
+    "Chinese": "一般建築圖則",
+    "Sub-skill": "hk-construction-documentation"
+  },
+  "GCC": {
+    "English": "General Conditions of Contract — government building works contract terms",
+    "Chinese": "一般合約條件",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "GEO": {
+    "English": "Geotechnical Engineering Office — slope stability and geotechnical standards under CEDD",
+    "Chinese": "土力工程處",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "GFA": {
+    "English": "Gross Floor Area per BO definition; subject to PNAP APP-2 exemptions",
+    "Chinese": "總樓面面積",
+    "Sub-skill": "hk-building-codes"
+  },
+  "GS": {
+    "English": "General Specification — technical specification for government/institutional works",
+    "Chinese": "一般規格",
+    "Sub-skill": "hk-construction-documentation"
+  },
+  "HA": {
+    "English": "Hong Kong Housing Authority — public rental and subsidized housing developer",
+    "Chinese": "香港房屋委員會",
+    "Sub-skill": "hk-building-typology"
+  },
+  "HD": {
+    "English": "Housing Department — HA executive arm; Harmony block standards",
+    "Chinese": "房屋署",
+    "Sub-skill": "hk-building-typology"
+  },
+  "HIA": {
+    "English": "Heritage Impact Assessment — required for graded sites and sensitive proposals",
+    "Chinese": "文物影響評估",
+    "Sub-skill": "hk-heritage-conservation"
+  },
+  "HKIA": {
+    "English": "Hong Kong Institute of Architects — professional body; publishes SFBC",
+    "Chinese": "香港建築師學會",
+    "Sub-skill": "hk-professional-conduct"
+  },
+  "HKICM": {
+    "English": "Hong Kong Institute of Construction Managers — construction management profession",
+    "Chinese": "香港營造師學會",
+    "Sub-skill": "hk-tender-contract-administration"
+  },
+  "HKIS": {
+    "English": "Hong Kong Institute of Surveyors — quantity surveying and property professions",
+    "Chinese": "香港測量師學會",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "HKPSG": {
+    "English": "Hong Kong Planning Standards and Guidelines — PlanD development standards",
+    "Chinese": "香港規劃標準與準則",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "HKWC": {
+    "English": "Hong Kong Wind Code — wind actions for structural and facade design",
+    "Chinese": "香港風力效應守則",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "HKE": {
+    "English": "Hongkong Electric — electricity supply undertaker (Hong Kong Island and Lamma)",
+    "Chinese": "港燈",
+    "Sub-skill": "hk-building-services"
+  },
+  "HyD": {
+    "English": "Highways Department — roads, slopes interfaces, highway-related submissions",
+    "Chinese": "路政署",
+    "Sub-skill": "hk-traffic-coordination"
+  },
+  "IC": {
+    "English": "Interim Certificate — periodic payment certificate under building contract",
+    "Chinese": "中期付款證書",
+    "Sub-skill": "hk-tender-contract-administration"
+  },
+  "LandsD": {
+    "English": "Lands Department — lease conditions, modifications, CC, Consent to Assign",
+    "Chinese": "地政總署",
+    "Sub-skill": "hk-lease-compliance"
+  },
+  "LD": {
+    "English": "Labour Department — occupational safety and health enforcement on sites",
+    "Chinese": "勞工處",
+    "Sub-skill": "hk-construction-health-safety"
+  },
+  "MiC": {
+    "English": "Modular Integrated Construction — pre-fabricated volumetric modules",
+    "Chinese": "組裝合成建築法",
+    "Sub-skill": "hk-mic-dfma"
+  },
+  "MLP": {
+    "English": "Master Layout Plan — lease plan showing building footprint and setbacks",
+    "Chinese": "總綱發展藍圖",
+    "Sub-skill": "hk-lease-compliance"
+  },
+  "MOD": {
+    "English": "Modification of Lease — LandsD application to vary lease conditions",
+    "Chinese": "契約修訂",
+    "Sub-skill": "hk-lease-compliance"
+  },
+  "MOE": {
+    "English": "Means of Escape — exit routes, travel distance, exit widths (BO Reg. 41, FS Code)",
+    "Chinese": "逃生途徑",
+    "Sub-skill": "hk-building-codes"
+  },
+  "MTR": {
+    "English": "Mass Transit Railway Corporation — TOD developments and railway protection",
+    "Chinese": "港鐵公司",
+    "Sub-skill": "hk-building-typology"
+  },
+  "MW01": {
+    "English": "Minor works form — Class I notification before commencement",
+    "Chinese": "小型工程第I級展開前通知表格",
+    "Sub-skill": "hk-minor-works"
+  },
+  "MW03": {
+    "English": "Minor works form — Class II notification before commencement",
+    "Chinese": "小型工程第II級展開前通知表格",
+    "Sub-skill": "hk-minor-works"
+  },
+  "MW05": {
+    "English": "Minor works form — Class III completion notification",
+    "Chinese": "小型工程第III級完工通知表格",
+    "Sub-skill": "hk-minor-works"
+  },
+  "MWCS": {
+    "English": "Minor Works Control System under Building (Minor Works) Regulation",
+    "Chinese": "小型工程監管制度",
+    "Sub-skill": "hk-minor-works"
+  },
+  "NEC4": {
+    "English": "New Engineering Contract fourth edition — collaborative contract suite (ECC)",
+    "Chinese": "新工程合同第四版",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "NTEH": {
+    "English": "New Territories Exempted House — village house policy (small house)",
+    "Chinese": "新界豁免管制屋宇",
+    "Sub-skill": "hk-building-typology"
+  },
+  "OC": {
+    "English": "Owners Corporation — incorporated body managing common parts under BMO Cap. 344",
+    "Chinese": "業主立案法團",
+    "Sub-skill": "hk-alterations-additions"
+  },
+  "OFCA": {
+    "English": "Office of the Communications Authority — telecommunications licensing and undertaker regulation",
+    "Chinese": "通訊事務管理局辦公室",
+    "Sub-skill": "hk-telecom-coordination"
+  },
+  "OP": {
+    "English": "Occupation Permit — BD certification that building is fit for occupation",
+    "Chinese": "佔用許可證",
+    "Sub-skill": "hk-op-submission-strategy"
+  },
+  "OTTV": {
+    "English": "Overall Thermal Transfer Value — facade heat gain metric (W/m²)",
+    "Chinese": "整體熱傳送值",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "PC": {
+    "English": "Practical Completion — contractual milestone; risk often transfers to employer",
+    "Chinese": "實際竣工",
+    "Sub-skill": "hk-practical-completion-snagging"
+  },
+  "PCI": {
+    "English": "Pre-construction information — H&S and site information pack for contractor mobilisation",
+    "Chinese": "施工前資料",
+    "Sub-skill": "hk-construction-health-safety"
+  },
+  "PC Sum": {
+    "English": "Prime Cost Sum — provisional sum for nominated sub-contract work",
+    "Chinese": "基本成本款",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "PD": {
+    "English": "Principal Datum — Hong Kong height reference system (mPD)",
+    "Chinese": "主水平基準",
+    "Sub-skill": "hk-building-codes"
+  },
+  "PI": {
+    "English": "Professional Indemnity insurance — design liability cover",
+    "Chinese": "專業彌償保險",
+    "Sub-skill": "hk-professional-indemnity"
+  },
+  "PlanD": {
+    "English": "Planning Department — OZP, planning applications under Town Planning Ordinance",
+    "Chinese": "規劃署",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "PNAP": {
+    "English": "Practice Notes for Authorized Persons, Registered Structural Engineers and Registered Geotechnical Engineers",
+    "Chinese": "認可人士、註冊結構工程師及註冊岩土工程師作業備考",
+    "Sub-skill": "hk-building-codes"
+  },
+  "PPE": {
+    "English": "Place of Public Entertainment — assembly occupancy under FS Code / licensing",
+    "Chinese": "公眾娛樂場所",
+    "Sub-skill": "hk-fsd-licensing-compliance"
+  },
+  "PR": {
+    "English": "Plot Ratio — permissible GFA divided by site area per OZP/lease",
+    "Chinese": "地積比率",
+    "Sub-skill": "hk-building-codes"
+  },
+  "QS": {
+    "English": "Quantity Surveyor — cost planning, BoQ, valuations, final account",
+    "Chinese": "工料測量師",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "RC": {
+    "English": "Registered Contractor — BO contractor registration for building works",
+    "Chinese": "註冊承建商",
+    "Sub-skill": "hk-consent-scheduling"
+  },
+  "RGE": {
+    "English": "Registered Geotechnical Engineer — geotechnical design and certification",
+    "Chinese": "註冊岩土工程師",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "RMWC": {
+    "English": "Registered Minor Works Contractor — MWCS contractor registration",
+    "Chinese": "註冊小型工程承建商",
+    "Sub-skill": "hk-minor-works"
+  },
+  "RSE": {
+    "English": "Registered Structural Engineer — structural design and certification",
+    "Chinese": "註冊結構工程師",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "RTTV": {
+    "English": "Roof Thermal Transfer Value — roof heat gain metric (W/m²)",
+    "Chinese": "屋頂熱傳送值",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "RV": {
+    "English": "Rateable Value — basis for some government fees and charges",
+    "Chinese": "應課差餉租值",
+    "Sub-skill": "hk-fee-proposal-strategy"
+  },
+  "SFBC": {
+    "English": "Standard Form of Building Contract — HKIA/HKIS/HKICM private sector forms",
+    "Chinese": "標準建築合約",
+    "Sub-skill": "hk-tender-contract-administration"
+  },
+  "SUC": {
+    "English": "Code of Practice for Structural Use of Concrete 2013",
+    "Chinese": "混凝土結構作業守則2013",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "SUS": {
+    "English": "Code of Practice for Structural Use of Steel 2011",
+    "Chinese": "鋼結構作業守則2011",
+    "Sub-skill": "hk-structural-systems"
+  },
+  "T8": {
+    "English": "Typhoon signal No. 8 — inclement weather stand-down in HK contracts",
+    "Chinese": "八號颱風信號",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "TD": {
+    "English": "Transport Department — traffic impact assessment and temporary traffic management on public roads",
+    "Chinese": "運輸署",
+    "Sub-skill": "hk-traffic-coordination"
+  },
+  "TIA": {
+    "English": "Traffic Impact Assessment — planning-stage traffic study, often a s.16 condition",
+    "Chinese": "交通影響評估",
+    "Sub-skill": "hk-traffic-coordination"
+  },
+  "TMP": {
+    "English": "Temporary Traffic Management Plan — construction-phase traffic accommodation on public roads",
+    "Chinese": "臨時交通管理計劃",
+    "Sub-skill": "hk-traffic-coordination"
+  },
+  "TPB": {
+    "English": "Town Planning Board — decides planning applications and plan amendments",
+    "Chinese": "城市規劃委員會",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "TPO": {
+    "English": "Town Planning Ordinance Cap. 131 — planning permission framework",
+    "Chinese": "城市規劃條例",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "TPO s.12A": {
+    "English": "Application for review of planning decision",
+    "Chinese": "規劃決定覆核申請",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "TPO s.16": {
+    "English": "Application for planning permission",
+    "Chinese": "規劃許可申請",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "UBW": {
+    "English": "Unauthorized Building Works — works not approved under BO; enforcement risk",
+    "Chinese": "僭建物",
+    "Sub-skill": "hk-unauthorised-building-works"
+  },
+  "URA": {
+    "English": "Urban Renewal Authority — redevelopment and compensation frameworks",
+    "Chinese": "市區重建局",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "VM": {
+    "English": "Value Management — structured workshop to optimize scope, cost, programme",
+    "Chinese": "價值管理",
+    "Sub-skill": "hk-deliverables-workstages"
+  },
+  "WSD": {
+    "English": "Water Supplies Department — plumbing, fire mains, WWO 46 inspection",
+    "Chinese": "水務署",
+    "Sub-skill": "hk-building-services"
+  },
+  "假設工程": {
+    "English": "Site establishment works — hoarding, utilities, survey, mobilisation before main construction",
+    "Chinese": "假設工程",
+    "Sub-skill": "hk-site-establishment"
+  },
+  "OZP": {
+    "English": "Outline Zoning Plan — statutory zoning plan under the Town Planning Ordinance",
+    "Chinese": "分區計劃大綱圖",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "OU": {
+    "English": "Other Specified Uses — outline zoning plan zone for annotated special uses",
+    "Chinese": "其他指定用途地帶",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "NT": {
+    "English": "New Territories — region of Hong Kong outside Hong Kong Island and Kowloon",
+    "Chinese": "新界",
+    "Sub-skill": "hk-spatial-planning"
+  },
+  "DMC": {
+    "English": "Deed of Mutual Covenant — document allocating ownership, common parts, and management duties",
+    "Chinese": "公契",
+    "Sub-skill": "hk-alterations-additions"
+  },
+  "JPN": {
+    "English": "Joint Practice Note — joint Buildings Department, Lands Department, and Planning Department note",
+    "Chinese": "聯合作業備考",
+    "Sub-skill": "hk-building-codes"
+  },
+  "BA8": {
+    "English": "BD form — application for consent to commence building works",
+    "Chinese": "同意展開建築工程申請表",
+    "Sub-skill": "hk-consent-scheduling"
+  },
+  "SSP": {
+    "English": "Site Supervision Plan — supervision plan accepted by Buildings Department before consent",
+    "Chinese": "地盤監督計劃",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "RGBC": {
+    "English": "Registered General Building Contractor — BO registration for general building works",
+    "Chinese": "註冊一般建築承建商",
+    "Sub-skill": "hk-consent-scheduling"
+  },
+  "RSC": {
+    "English": "Registered Specialist Contractor — BO registration for specialist works such as demolition or foundation",
+    "Chinese": "註冊專門承建商",
+    "Sub-skill": "hk-consent-scheduling"
+  },
+  "MBIS": {
+    "English": "Mandatory Building Inspection Scheme — prescribed inspection and repair of older buildings under Cap. 123",
+    "Chinese": "強制驗樓計劃",
+    "Sub-skill": "hk-mandatory-inspection"
+  },
+  "MWIS": {
+    "English": "Mandatory Window Inspection Scheme — prescribed inspection and repair of windows under Cap. 123",
+    "Chinese": "強制驗窗計劃",
+    "Sub-skill": "hk-mandatory-inspection"
+  },
+  "ARB": {
+    "English": "Architects Registration Board — statutory board registering architects in Hong Kong",
+    "Chinese": "建築師註冊管理局",
+    "Sub-skill": "hk-professional-conduct"
+  },
+  "PM": {
+    "English": "Project manager — client delivery lead in this glossary",
+    "Chinese": "項目經理",
+    "Sub-skill": "hk-project-management"
+  },
+  "BFA": {
+    "English": "Barrier-free access — accessible route and facilities design",
+    "Chinese": "無障礙通道",
+    "Sub-skill": "hk-accessibility-design"
+  },
+  "AFL": {
+    "English": "Above finished floor level — vertical dimension reference for fittings and grab rails",
+    "Chinese": "完成地面以上高度",
+    "Sub-skill": "hk-accessibility-design"
+  },
+  "MEP": {
+    "English": "Mechanical, electrical, and plumbing — building services coordinated with structure and architecture",
+    "Chinese": "機電及水管",
+    "Sub-skill": "hk-building-services"
+  },
+  "HVAC": {
+    "English": "Heating, ventilation, and air-conditioning — mechanical climate-control systems",
+    "Chinese": "暖通空調",
+    "Sub-skill": "hk-building-services"
+  },
+  "DSD": {
+    "English": "Drainage Services Department — public drainage and sewerage authority",
+    "Chinese": "渠務署",
+    "Sub-skill": "hk-building-services"
+  },
+  "BEC": {
+    "English": "Building Energy Code — energy efficiency code administered by EMSD",
+    "Chinese": "建築物能源效益守則",
+    "Sub-skill": "hk-building-services"
+  },
+  "CIBSE": {
+    "English": "Chartered Institution of Building Services Engineers — building-services design reference used on HK projects",
+    "Chinese": "英國屋宇裝備工程師學會",
+    "Sub-skill": "hk-building-services"
+  },
+  "WC": {
+    "English": "Water closet — sanitary fitting; flush volume is a BEAM Plus water-use input",
+    "Chinese": "坐廁",
+    "Sub-skill": "hk-building-services"
+  },
+  "IEQ": {
+    "English": "Indoor environmental quality — air, light, thermal, and acoustic conditions inside a building",
+    "Chinese": "室內環境質素",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "BEAM": {
+    "English": "Short form of BEAM Plus — Hong Kong green building rating tool",
+    "Chinese": "綠建環評",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "HKGBC": {
+    "English": "Hong Kong Green Building Council — body that operates BEAM Plus",
+    "Chinese": "香港綠色建築議會",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "EIA": {
+    "English": "Environmental impact assessment — statutory study of a project's environmental effects",
+    "Chinese": "環境影響評估",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "ASHRAE": {
+    "English": "American Society of Heating, Refrigerating and Air-Conditioning Engineers — energy and comfort reference standards",
+    "Chinese": "美國供暖製冷及空調工程師學會",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "CZ": {
+    "English": "Climate zone — in this suite, ASHRAE zone 1A subtropical Hong Kong",
+    "Chinese": "氣候區",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "SC": {
+    "English": "Shading coefficient — glass solar performance used in OTTV; not site coverage",
+    "Chinese": "遮陽系數",
+    "Sub-skill": "hk-building-sustainability"
+  },
+  "WWR": {
+    "English": "Window-to-wall ratio — glazed area divided by facade area",
+    "Chinese": "窗牆比",
+    "Sub-skill": "hk-building-envelope"
+  },
+  "SHGC": {
+    "English": "Solar heat gain coefficient — fraction of solar radiation admitted through glazing",
+    "Chinese": "太陽得熱系數",
+    "Sub-skill": "hk-building-envelope"
+  },
+  "SRI": {
+    "English": "Solar reflectance index — surface solar reflectance used for roof and facade heat gain",
+    "Chinese": "太陽反射指數",
+    "Sub-skill": "hk-building-envelope"
+  },
+  "DF": {
+    "English": "Daylight factor — indoor daylight as a percentage of unobstructed outdoor illuminance",
+    "Chinese": "採光系數",
+    "Sub-skill": "hk-daylighting-design"
+  },
+  "STC": {
+    "English": "Sound transmission class — single-number rating of airborne sound insulation",
+    "Chinese": "隔聲等級",
+    "Sub-skill": "hk-acoustic-design"
+  },
+  "VOC": {
+    "English": "Volatile organic compounds — indoor air pollutant from finishes and adhesives",
+    "Chinese": "揮發性有機化合物",
+    "Sub-skill": "hk-material-selection"
+  },
+  "FSC": {
+    "English": "Forest Stewardship Council — timber chain-of-custody certification; not a Fire Services certificate",
+    "Chinese": "森林管理委員會認證",
+    "Sub-skill": "hk-material-selection"
+  },
+  "GRC": {
+    "English": "Glassfibre-reinforced concrete — thin cladding and facade material",
+    "Chinese": "玻璃纖維混凝土",
+    "Sub-skill": "hk-material-selection"
+  },
+  "NFA": {
+    "English": "Net floor area — usable area inside gross floor area, used for efficiency and cost per square metre",
+    "Chinese": "實用面積",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "OOM": {
+    "English": "Order-of-magnitude estimate — early cost range before a measured cost plan",
+    "Chinese": "量級造價估算",
+    "Sub-skill": "hk-cost-consultancy"
+  },
+  "RFI": {
+    "English": "Request for information — formal question on drawings or site conditions",
+    "Chinese": "資料查詢",
+    "Sub-skill": "hk-site-supervision"
+  },
+  "RACI": {
+    "English": "Responsible, Accountable, Consulted, Informed — responsibility matrix for deliverables",
+    "Chinese": "職責矩陣",
+    "Sub-skill": "hk-project-management"
+  },
+  "FM": {
+    "English": "Facilities management — operation and maintenance after handover",
+    "Chinese": "設施管理",
+    "Sub-skill": "hk-practical-completion-snagging"
+  },
+  "POE": {
+    "English": "Post-occupancy evaluation — review of building performance after occupation",
+    "Chinese": "用後評估",
+    "Sub-skill": "hk-design-theory"
+  },
+  "TOD": {
+    "English": "Transit-oriented development — dense mixed use organised around a railway station",
+    "Chinese": "軌道交通導向發展",
+    "Sub-skill": "hk-building-typology"
+  },
+  "OSH": {
+    "English": "Occupational safety and health — site safety duties enforced by the Labour Department",
+    "Chinese": "職業安全及健康",
+    "Sub-skill": "hk-construction-health-safety"
+  },
+  "NEC": {
+    "English": "New Engineering Contract — collaborative contract family; Hong Kong public works commonly use NEC4",
+    "Chinese": "新工程合同",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "ECC": {
+    "English": "Engineering and Construction Contract — NEC contract for building and engineering works",
+    "Chinese": "新工程合同工程施工合同",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "EW": {
+    "English": "Early Warning — NEC notice of a matter that could affect cost, time, or quality",
+    "Chinese": "預警",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "HKO": {
+    "English": "Hong Kong Observatory — official weather records used for typhoon delay assessment",
+    "Chinese": "香港天文台",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "MC": {
+    "English": "Management contracting — contractor manages trade packages under a management agreement",
+    "Chinese": "管理承包",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "CM": {
+    "English": "Construction management — trade contractors contract with the employer; a construction manager coordinates",
+    "Chinese": "建造管理",
+    "Sub-skill": "hk-procurement-strategy"
+  },
+  "LCSD": {
+    "English": "Leisure and Cultural Services Department — landscape and open-space handover authority",
+    "Chinese": "康樂及文化事務署",
+    "Sub-skill": "hk-certificate-of-compliance"
+  },
+  "EDB": {
+    "English": "Education Bureau — school briefing and area standards",
+    "Chinese": "教育局",
+    "Sub-skill": "hk-building-programming"
+  }
 }

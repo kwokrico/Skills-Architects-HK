@@ -16,7 +16,7 @@ Confirm or explicitly list as missing:
 1. Answer from [foundation.md](foundation.md) when the question is a routine single-table lookup.
 2. Read one primary topic file linked from `SKILL.md` when the question needs a workflow, an edge case, or a catalogue row.
 3. Open a second topic file only for an explicit overlap (see the overlap order in `SKILL.md`).
-4. Cross-reference `domain_terms.json` when acronyms are ambiguous.
+4. Cross-reference `domain_terms.json` when acronyms are ambiguous. Each entry has an English definition, a Chinese translation, and one primary sub-skill id.
 5. Apply `compliance.md` before final synthesis — hard-stop if triggered.
 
 ## Escalation
