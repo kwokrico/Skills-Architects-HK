@@ -165,13 +165,14 @@ Open these when the job names them. They are saved so a clause can be found. The
 
 ## Still outside this folder
 
-The graded list, with official links, is [`STATUTORY_GAPS.md`](STATUTORY_GAPS.md). Checked on 5 October 2026. Cap 123A to Cap 123Q and the current Buildings Department codes of practice are already in this folder. The six items below are still outside it.
+The graded list is [`STATUTORY_GAPS.md`](STATUTORY_GAPS.md). On 5 October 2026 the priority PDFs were saved and now have critical summaries, including the Hong Kong Planning Standards and Guidelines chapters, Cap 301 and Cap 301D, and Cap 610 with the 2024 Building Energy Code and Energy Audit Code. A later pass the same day saved the remaining free official PDFs, without critical summaries. Cap 123M in this folder remains the overall thermal transfer value regime.
 
-- Architects Registration Board code of professional conduct, effective 14 May 2024. Cap 408 has no subsidiary legislation. This code is a Board instrument under section 9.
-- Hong Kong Institute of Architects (HKIA) Code of Professional Conduct, and the Standard Form of Agreement between Client and Architect. The professional-assessment syllabus still calls the appointment terms conditions of engagement.
-- Hong Kong Planning Standards and Guidelines, all 12 chapters. Chapter 1 says the standards are not themselves statutory.
-- Cap 301 Hong Kong Airport (Control of Obstructions) Ordinance, the height order Cap 301D, and the Airport Height Restriction Plans. The practice note is saved: [APP-32 Airport Height Restrictions](Building%20Department%20(BD)/Practice%20Notes%20for%20Authorized%20Persons%20(PNAP)/summaries/APP-32%20Hong%20Kong%20Airport%20%28Control%20of%20Obstructions%29%20Ordinance%20%28Cap.%20301%29%20%E2%80%94%20Airport%20Height%20Restrictions.md).
-- Cap 610 Buildings Energy Efficiency Ordinance, and the 2024 Building Energy Code and Energy Audit Code. Cap 123M in this folder is the overall thermal transfer value regime.
+Still outside:
+
+- The Airport Height Restriction Plan sheets. Cap 301 and Cap 301D are saved. The practice note is [APP-32 Airport Height Restrictions](Building%20Department%20(BD)/Practice%20Notes%20for%20Authorized%20Persons%20(PNAP)/summaries/APP-32%20Hong%20Kong%20Airport%20%28Control%20of%20Obstructions%29%20Ordinance%20%28Cap.%20301%29%20%E2%80%94%20Airport%20Height%20Restrictions.md). The sheets are sold by the Map Publications Centre.
+- The EMSD code on the design and construction of lifts and escalators (2021 Edition). It is sold. The free lift-works code is saved.
+- Emission-allowance technical memoranda six to ten. The EPD page links the gazette, and that download returned a captcha page rather than a PDF. Memoranda one to five are saved.
+- The HKIA Standard Form of Agreement between Client and Architect. The HKIA code of conduct is saved and names the agreement. The official pages that were opened do not link a PDF of it.
 - The site Outline Zoning Plan and the government lease.
 
-On a real site, the site OZP and the lease control the envelope. The master schedules and practice notes in this folder state the general rules those two documents can tighten. The same gap file lists the fire-services installation code, Cap 618, the Waterworks Ordinance, and the environmental technical memoranda, which are also unsaved.
+On a real site, the site OZP and the lease control the envelope. The master schedules and practice notes in this folder state the general rules those two documents can tighten.

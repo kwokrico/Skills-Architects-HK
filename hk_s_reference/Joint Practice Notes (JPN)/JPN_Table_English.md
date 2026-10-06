@@ -1,7 +1,7 @@
 # Joint Practice Notes Index (English)
 
 **Issued by:** Buildings Department, Lands Department, and Planning Department
-**Scope:** JPN 1 to JPN 8 (8 joint practice notes in this library). This library was not checked against the live departmental websites.
+**Scope:** JPN 1 to JPN 9 (9 joint practice notes in this library). This library was not checked against the live departmental websites.
 **How to use:** The number links to the critical summary in `summaries/`. The PDF is in `source_reference/` under the same filename stem.
 **Titles:** The official title is the PDF cover heading where the text layer has one. Two-line cover headings are joined with an em dash. For JPN 1 and JPN 7 the text layer does not print the subtitle as a cover heading, so those rows use the library title.
 **Caveat:** Desk reference only. Before a submission, check the current joint note, the outline zoning plan, and the lease.
@@ -10,6 +10,7 @@
 
 - [Green and innovative buildings](#green-and-innovative-buildings)
 - [Development control parameters](#development-control-parameters)
+- [Bonus plot ratio](#bonus-plot-ratio)
 - [Landscape and sustainable building design](#landscape-and-sustainable-building-design)
 
 ## Green and innovative buildings
@@ -27,6 +28,12 @@
 | [JPN 4](<./summaries/Joint Practice Note No. 4 Development Control Parameters Plot Ratio Gross Floor Area_CS.md>) | Development Control Parameters — Plot Ratio / Gross Floor Area | This revision October 2021; effective 18 October 2021 | Aligns the maximum plot ratio and gross floor area, how floor area is counted, and how the three departments check compliance, for new general building plans and major revisions submitted on or after 18 October 2021. |
 | [JPN 5](<./summaries/Joint Practice Note No. 5 Development Control Parameters Building Height Restriction_CS.md>) | Development Control Parameters — Building Height Restriction | First issued April 2019; effective 15 May 2019 | Streamlines building-height control on statutory town plans, measured to the main roof unless the plan or lease says otherwise, and does not change the Buildings Department's reading of building height for development intensity and fire safety. |
 | [JPN 7](<./summaries/Joint Practice Note No. 7 Development Control Parameters Site Coverage Restriction_CS.md>) | Development Control Parameters — Site Coverage Restriction | First issue August 2021; effective 23 August 2021 | Keeps the Building (Planning) Regulations First Schedule as the default site-coverage limit, allows a more stringent outline zoning plan restriction, and makes the Buildings Department the single agency for how facilities and features count toward site coverage. |
+
+## Bonus plot ratio
+
+| No. | Official title | This revision / effective | In one sentence |
+| --- | --- | --- | --- |
+| [JPN 9](<./summaries/Joint Practice Note No. 9 Bonus Plot Ratio Pilot Scheme_CS.md>) | Bonus Plot Ratio Pilot Scheme | First issued August 2026; pilot 1 September 2026 to 31 August 2031 | During that five-year pilot, an owner who pulls down an eligible old building with residential elements and redevelops it mainly for residential use may obtain an additional 20% land-premium-free plot ratio or gross floor area, either built in situ with Town Planning Board approval or encashed to offset premium. |
 
 ## Landscape and sustainable building design
 

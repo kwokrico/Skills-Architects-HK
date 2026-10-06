@@ -577,4 +577,6 @@ AP · BA · BD · BO · B(I&R)R · B(MW)R · CCTV · FSP · FS(B)O · FS(CP)O ·
 
 ---
 
-*Source: Buildings Department, Code of Practice for Mandatory Building Inspection Scheme and Mandatory Window Inspection Scheme 2012 (2023 Edition). This summary is for schematic design briefing only — verify against the full CoP, Cap. 123P and current PNBI before certification or tender.*
+### Source
+
+`CoP MBIS MWIS 2012 (2023 Edition).pdf` (source_reference). Buildings Department, Code of Practice for the Mandatory Building Inspection Scheme and the Mandatory Window Inspection Scheme 2012 (2023 Edition). Read with Cap. 123 sections 30B–30E, Cap. 123P, Cap. 123N, and the current PNBI series.

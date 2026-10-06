@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parent.parent
 HK_REF = ROOT / "hk_s_reference"
 DOC_EXTS = {".pdf", ".md", ".doc", ".docx", ".txt"}
 AMENDMENT_RE = re.compile(r"amendment|_amend|amend\d", re.I)
+_PNAP_NOTE_RE = re.compile(r"\b(APP|ADM|ADV)[-_\s]?0*(\d+)\b", re.I)
 
 
 REPORT_FILES = {"DOCUMENTS_WITHOUT_CS.md", "_CS_INVENTORY.md"}
@@ -29,17 +30,77 @@ def is_cs_file(path: Path) -> bool:
     return "Architect Critical Summary" in name or name.endswith("_CS.md")
 
 
+_LAYOUT_DIRS = {"summaries", "source_md", "source_reference"}
+
+
+def topic_dir(path: Path) -> Path:
+    """Topic folder that owns both summaries/ and the sibling source_reference/."""
+    if path.parent.name in _LAYOUT_DIRS:
+        return path.parent.parent
+    return path.parent
+
+
 def cs_parent_for_doc(doc: Path) -> Path:
     """Parent folder that owns a source document (handles source_reference/ subfolder)."""
-    if doc.parent.name == "source_reference":
-        return doc.parent.parent
-    return doc.parent
+    return topic_dir(doc)
+
+
+def topic_dir_for_cs(cs: CsEntry) -> Path:
+    """Folder a CS covers. A file in summaries/ covers the sibling source_reference/."""
+    return topic_dir(cs.path)
+
+
+def is_index_table(path: Path) -> bool:
+    """Topic index tables are not source documents that need their own CS."""
+    name = path.name
+    return name.endswith("_Table_English.md") or name.endswith("_Table_Traditional_Chinese.md")
+
+
+_GAP_NOTE_NAMES = {
+    "STATUTORY_GAPS.md",
+    "STATUTORY_READING_GUIDE.md",
+    "critical summary prompt.md",
+}
+
+
+def _is_gap_exempt(path: Path) -> bool:
+    """Indexes, compilations, and working notes do not need their own CS."""
+    if path.name in REPORT_FILES or path.name in _GAP_NOTE_NAMES:
+        return True
+    if is_index_table(path) or "_extract_tmp" in path.parts:
+        return True
+    name = path.name
+    if name.endswith("_Technical_Summaries.md") or "TOC" in name:
+        return True
+    return (
+        name.startswith("batch_")
+        and name.endswith(".md")
+        and "Practice Notes for Authorized Persons (PNAP)" in path.parts
+        and "source_reference" in path.parts
+    )
+
+
+def _pnap_note_id(name: str) -> tuple[str, int] | None:
+    """APP/ADM/ADV number, ignoring leading zeros. APP-005 and APP-5 are one note."""
+    match = _PNAP_NOTE_RE.search(Path(name).stem)
+    if not match:
+        return None
+    return match.group(1).upper(), int(match.group(2))
+
+
+def _topic_owning_source(path: Path) -> Path | None:
+    """Topic folder for a file under source_reference/, including nested series folders."""
+    for parent in path.parents:
+        if parent.name == "source_reference":
+            return parent.parent
+    return None
 
 
 def doc_matches_cs_entry(doc: Path, cs: CsEntry) -> bool:
-    if cs_parent_for_doc(doc) != cs.parent:
+    if cs_parent_for_doc(doc) != topic_dir_for_cs(cs):
         return False
-    if is_amendment(doc.name):
+    # A base-code CS must not swallow a later amendment PDF. An amendment CS may.
+    if is_amendment(doc.name) and not is_amendment(cs.path.name):
         return False
     dkey = norm_key(doc.name)
     if dkey == cs.key or dkey.startswith(cs.key) or cs.key.startswith(dkey):
@@ -208,17 +269,49 @@ def match_doc_to_any_cs(doc: Path, cs_entries: list[CsEntry]) -> bool:
     return any(doc_matches_cs_entry(doc, cs) for cs in cs_entries)
 
 
+def _covered_source_files(cs: CsEntry, text: str) -> list[Path]:
+    """Files this CS accounts for.
+
+    Backtick names in ### Source cover cryptic amendment PDFs and PDFs nested
+    under source_reference/. A companion named elsewhere in the CS does not.
+    A folder-level link (more than _MAX_MATCH_HITS) does not cover every PDF.
+    A markdown or text extract with the same stem as a named PDF is included.
+    Matcher hits still refuse an unnamed amendment/base cross-pair.
+    """
+    sr = nearest_source_dir(cs)
+    named_in_source = _named_source_files(text, sr)
+    if named_in_source:
+        return _with_text_twins(named_in_source, sr)
+    explicit = _explicit_filename_source(cs, text)
+    if explicit is not None:
+        return [explicit]
+    docs = _listable_docs(sr)
+    if not docs:
+        return []
+    hits = _matcher_hits(cs, docs, sr)
+    if 1 <= len(hits) <= _MAX_MATCH_HITS:
+        return hits
+    ident = _id_hit(cs.title, docs)
+    if ident is not None:
+        return [ident]
+    stemmed = _stem_hit(cs.title, docs)
+    if stemmed is not None:
+        return [stemmed]
+    return []
+
+
 def collect_without_cs(cs_entries: list[CsEntry]) -> list[Path]:
     named: set[Path] = set()
+    note_ids: dict[Path, set[tuple[str, int]]] = defaultdict(set)
     for cs in cs_entries:
-        hit = _explicit_filename_source(cs, _read_cs(cs.path))
-        if hit is not None:
-            named.add(hit)
+        text = _read_cs(cs.path)
+        named.update(_covered_source_files(cs, text))
+        ident = _pnap_note_id(cs.path.name)
+        if ident is not None:
+            note_ids[topic_dir_for_cs(cs)].add(ident)
     without: list[Path] = []
     for path in sorted(HK_REF.rglob("*")):
-        if not path.is_file():
-            continue
-        if path.name in REPORT_FILES:
+        if not path.is_file() or _is_gap_exempt(path):
             continue
         if path.suffix.lower() not in {".pdf", ".md"}:
             continue
@@ -226,8 +319,24 @@ def collect_without_cs(cs_entries: list[CsEntry]) -> list[Path]:
             continue
         if path in named or match_doc_to_any_cs(path, cs_entries):
             continue
+        if _note_extract_covered(path, note_ids):
+            continue
         without.append(path)
     return without
+
+
+def _note_extract_covered(path: Path, note_ids: dict[Path, set[tuple[str, int]]]) -> bool:
+    """Cover a text extract whose APP/ADM/ADV number matches a CS in that topic.
+
+    A PDF is not covered by number alone. The summary has to name that filename.
+    """
+    if path.suffix.lower() not in {".md", ".txt"} or "source_reference" not in path.parts:
+        return False
+    ident = _pnap_note_id(path.name)
+    if ident is None:
+        return False
+    topic = _topic_owning_source(path)
+    return topic is not None and ident in note_ids.get(topic, ())
 
 
 _URL_RE = re.compile(r"https?://[^\s)>\]]+")
@@ -270,23 +379,67 @@ def _read_cs(path: Path) -> str:
     return path.read_text(encoding="utf-8", errors="replace")
 
 
+_SOURCE_TREE_CACHE: dict[Path, list[Path]] = {}
+
+
+def _source_tree_files(sr: Path) -> list[Path]:
+    """Every file under source_reference/, including series subfolders such as PNAP_APPa_e."""
+    cached = _SOURCE_TREE_CACHE.get(sr)
+    if cached is None:
+        cached = [path for path in sr.rglob("*") if path.is_file()] if sr.is_dir() else []
+        _SOURCE_TREE_CACHE[sr] = cached
+    return cached
+
+
+def _files_by_basename(sr: Path) -> dict[str, list[Path]]:
+    grouped: dict[str, list[Path]] = defaultdict(list)
+    for path in _source_tree_files(sr):
+        grouped[path.name.lower()].append(path)
+    return grouped
+
+
+def _basename_hits(grouped: dict[str, list[Path]], token: str) -> list[Path]:
+    token = token.strip().replace("\\", "/")
+    if not token or "*" in token:
+        return []
+    hits = grouped.get(Path(token).name.lower(), [])
+    if "/" not in token.strip("/"):
+        return hits
+    suffix = token.lower().rstrip("/")
+    narrowed = [path for path in hits if path.as_posix().lower().endswith(suffix)]
+    return narrowed or hits
+
+
+def _with_text_twins(named: list[Path], sr: Path) -> list[Path]:
+    """Markdown or text extracts that share a stem with a PDF named in ### Source."""
+    stems = {path.stem.lower() for path in named if path.suffix.lower() == ".pdf"}
+    if not stems:
+        return named
+    found = list(named)
+    seen = set(named)
+    for path in _source_tree_files(sr):
+        if path in seen or path.suffix.lower() not in {".md", ".txt"}:
+            continue
+        if path.stem.lower() in stems:
+            seen.add(path)
+            found.append(path)
+    return found
+
+
 def _cited_files(text: str, sr: Path) -> list[Path]:
     if not sr.is_dir():
         return []
-    by_name = {p.name.lower(): p for p in sr.iterdir() if p.is_file()}
+    grouped = _files_by_basename(sr)
     found: list[Path] = []
     seen: set[Path] = set()
     for line in text.splitlines():
         if "source_reference" not in line.replace("\\", "/"):
             continue
         for token in _BACKTICK_RE.findall(line):
-            token = token.strip().replace("\\", "/")
-            if not token or "*" in token:
-                continue
-            hit = by_name.get(token.split("/")[-1].lower())
-            if hit is not None and hit not in seen:
-                seen.add(hit)
-                found.append(hit)
+            for hit in _basename_hits(grouped, token):
+                if hit not in seen:
+                    seen.add(hit)
+                    found.append(hit)
     return found
 
 
@@ -440,21 +593,51 @@ def _source_section(text: str) -> str:
     return rest[: nxt.start()] if nxt else rest
 
 
+def _filename_mentioned(section: str, name: str) -> bool:
+    """True when name appears as its own filename, not inside a longer filename."""
+    low = section.lower()
+    needle = name.lower()
+    start = 0
+    while True:
+        index = low.find(needle, start)
+        if index < 0:
+            return False
+        before = low[index - 1] if index else ""
+        if before.isalnum() or before in "._-":
+            start = index + 1
+            continue
+        return True
+
+
 def _named_source_files(text: str, sr: Path) -> list[Path]:
-    """Backtick filenames in ### Source that exist in this source_reference/."""
+    """Filenames in ### Source that exist anywhere under this source_reference/.
+
+    A PDF in a series subfolder counts. The file does not have to sit directly
+    in source_reference/. Backticks win. A bare filename is accepted when it
+    is not glued to a longer name, so 'Chapter 10 (English).pdf' pairs and
+    '1.pdf' does not hide inside 'Chapter 11 (English).pdf'.
+    """
     if not sr.is_dir():
         return []
-    by_name = {path.name.lower(): path for path in sr.iterdir() if path.is_file()}
+    files = _source_tree_files(sr)
+    grouped = _files_by_basename(sr)
     found: list[Path] = []
     seen: set[Path] = set()
-    for token in _BACKTICK_RE.findall(_source_section(text)):
-        token = token.strip().replace("\\", "/")
-        if not token or "*" in token:
+    section = _source_section(text)
+    for token in _BACKTICK_RE.findall(section):
+        for hit in _basename_hits(grouped, token):
+            if hit not in seen:
+                seen.add(hit)
+                found.append(hit)
+    # Longer names first so a short filename cannot claim a longer one's text.
+    for path in sorted(files, key=lambda item: len(item.name), reverse=True):
+        if path in seen or len(path.name) < 8:
             continue
-        hit = by_name.get(Path(token).name.lower())
-        if hit is not None and hit not in seen:
-            seen.add(hit)
-            found.append(hit)
+        if path.suffix.lower() not in _INV_EXTS and path.suffix.lower() != ".pdf":
+            continue
+        if _filename_mentioned(section, path.name):
+            seen.add(path)
+            found.append(path)
     return found
 
 
@@ -525,6 +708,77 @@ def _assert_inventory_samples(cells: dict[str, str]) -> None:
     ]
     if "Cap 123A" in cap:
         raise AssertionError(f"Cap 123 row also linked Cap 123A: {cap}")
+
+
+def _assert_gap_pairing(without: list[Path]) -> None:
+    """A summaries/*_CS.md covers its source PDF, including one nested under source_reference/."""
+    rels = {path.relative_to(HK_REF).as_posix() for path in without}
+    covered = [
+        "Joint Practice Notes (JPN)/source_reference/Joint Practice Note No. 1 Green and Innovative Buildings.pdf",
+        "Joint Practice Notes (JPN)/JPN_Table_English.md",
+        "Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/CoP_SUC2013e_amendment202306.pdf",
+        "Building Department (BD)/Codes of Practice and Design Manuals/Structure/Structure_Table_English.md",
+        "Building Department (BD)/Practice Notes for Registered Contractors (PNRC)/source_reference/Pnrc02.pdf",
+        "Planning Department (PlanD)/Hong Kong Planning Standards and Guidelines/source_reference/Chapter 10 (English).pdf",
+        "Building Department (BD)/Codes of Practice and Design Manuals/Miscellaneous/source_reference/CoP MBIS MWIS 2012 (2023 Edition).pdf",
+        "Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/EMSUOS2011e.pdf",
+        "Building Department (BD)/Codes of Practice and Design Manuals/Structure/source_reference/ExplanatoryNotesWindEffects2019e.pdf",
+        "Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_APPa_e/APP-005 Height of Storeys - Regulations 3(3) & 24 of Building (Planning).pdf",
+        "Building Department (BD)/Practice Notes for Authorized Persons (PNAP)/source_reference/PNAP_APPb_e/_extracted_txt/APP-101 Podium Height Restriction under Building (Planning).md",
+    ]
+    still = [item for item in covered if item in rels]
+    if still:
+        raise AssertionError("expected these to leave the gap list:\n" + "\n".join(still))
+    still_open: list[str] = [
+        "Building Department (BD)/Minor Works (MWCS)/Additional Documents/MW33 Submission of Supplementary Documents or Information.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW07 Notice of Change in Appointment of RSE RGE or PRC.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW08 Notice of Change in Appointment of AP or RI.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW09 Notice of Nomination of Temporary PBP.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW10 Notice of Cessation of Appointment of PRC.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Change Cessation of Appointment of Prescribed Building Professional Contractor/MW31 Notice of PBP Ceasing to be Appointed or Nominated.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW01 Notice of Commencement of Minor Works (with PBP Appointed).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW02 Certificate of Completion of Minor Works (with PBP Appointed).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class I Minor Works/MW11 Notice of Commencement of Additional Class I Minor Works (with PBP).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class II Minor Works/MW03 Notice of Commencement of Minor Works (without PBP).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class II Minor Works/MW04 Certificate of Completion of Minor Works (without PBP).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class II Minor Works/MW12 Notice of Commencement of Additional Class II Minor Works (without PBP).pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class III Minor Works/MW05 Notice and Certificate of Completion of Class III Minor Works.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Class III Minor Works/MW32 Request for Submission Number for Class III Signboard.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Household Minor Works Validation Scheme/MW06-3 Certificate for Household Minor Works Validation Scheme.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Minor Amenity Feature Validation Scheme/MW06-1 Certificate of Completion of Associated Alteration or Strengthening Works Class I.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Minor Amenity Feature Validation Scheme/MW06-2 Certificate of Completion of Associated Alteration or Strengthening Works Class II.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Minor Amenity Feature Validation Scheme/MW06-3 Certificate of Completion of Associated Alteration or Strengthening Works Class III.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR1 Attachment of Photographs.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR2 Attachment of A3 Plans.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR3 Attachment of A4 Plans.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR4 Attachment of Structural Calculations.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR5 Attachment of Supervision Plan Class I.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/PR6 Attachment of Safety Inspection Report or Related Documents.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/SP Supervision Plan.pdf",
+        "Building Department (BD)/Minor Works (MWCS)/Supporting Information/VSR Safety Inspection Checklist for Validation Scheme.pdf",
+        "Water Authority (WSD)/Figure.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P1.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P2.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P3.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4A.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P4B.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P5.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/P5A.pdf",
+        "Environmental Protection Department (EPD)/Cap. 311 Air Pollution Control Ordinance/source_reference/document_1.pdf",
+        "Environmental Protection Department (EPD)/Cap. 358 Water Pollution Control Ordinance/source_reference/document_1.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P1.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P2.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P3.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P4.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P5.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P6.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/document_1.pdf",
+        "Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/sch0.pdf",
+    ]
+    missing = [item for item in still_open if item not in rels]
+    if missing:
+        raise AssertionError("expected these to stay on the gap list:\n" + "\n".join(missing))
 
 
 def write_cs_inventory(cs_entries: list[CsEntry]) -> Path:
@@ -646,6 +900,7 @@ def run(execute: bool, report_only: bool) -> int:
             cs_entries = collect_cs_files()
 
     without = collect_without_cs(cs_entries)
+    _assert_gap_pairing(without)
     inv = write_cs_inventory(cs_entries)
     report = write_without_cs_report(without)
     print(f"Wrote {inv.relative_to(ROOT)}")
