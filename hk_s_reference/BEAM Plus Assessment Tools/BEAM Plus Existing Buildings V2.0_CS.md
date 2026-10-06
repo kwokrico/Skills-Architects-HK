@@ -107,4 +107,4 @@ Comprehensive = overall performance by aspect weighting. Selective = individual 
 
 ### Source
 
-`BEAM Plus Existing Buildings V2.0 Brochure.pdf` (HKGBC / BSL). Companion: current **BEAM Plus EB V2.0 Assessment Manual**; **BEAM Plus New Buildings V2.0** (if works are major A&A / conversion); **BEAM Plus Existing Buildings Global V1.0** for overseas stock. Brochure does not replace EMSD BEC, Cap. 123, or lease / DMC constraints on green-lease and plant upgrades.
+`BEAM Plus Existing Buildings V2.0 Brochure.pdf` (HKGBC / BSL). For the current Assessment Manual credit criteria, use [BEAM Plus Existing Buildings V3.0 Assessment Manual_CS.md](BEAM%20Plus%20Existing%20Buildings%20V3.0%20Assessment%20Manual_CS.md) and its source PDF. Also read **BEAM Plus New Buildings V2.0** for major A&A / conversion, and **BEAM Plus Existing Buildings Global V1.0** for overseas stock. These files do not replace EMSD BEC, Cap. 123, or lease / DMC constraints on green-lease and plant upgrades.

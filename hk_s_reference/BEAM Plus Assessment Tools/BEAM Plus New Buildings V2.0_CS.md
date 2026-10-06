@@ -78,4 +78,4 @@ Overall rating = weighted % of applicable credits under each aspect. **All appli
 
 ### Source
 
-`BEAM Plus New Buildings V2.0 Brochure.pdf` (HKGBC / BSL). Companion: current **BEAM Plus New Buildings V2.0 Assessment Manual** (credit language, prerequisites, typology-specific applicable credits); lifecycle neighbours **BEAM Plus Neighbourhood** (masterplan) and **BEAM Plus Existing Buildings V2.0** (post-FA). Brochure does not replace EMSD BEC, Cap. 123, or lease / OZP controls.
+`BEAM Plus New Buildings V2.0 Brochure.pdf` (HKGBC / BSL). For credit language, prerequisites, and typology-specific applicable credits, use [BEAM Plus New Buildings V2.0 Assessment Manual (2025.02)_CS.md](BEAM%20Plus%20New%20Buildings%20V2.0%20Assessment%20Manual%20(2025.02)_CS.md) and its source PDF. Lifecycle neighbours: **BEAM Plus Neighbourhood** (masterplan) and **BEAM Plus Existing Buildings** (post-FA). Neither file replaces EMSD BEC, Cap. 123, or lease / OZP controls.

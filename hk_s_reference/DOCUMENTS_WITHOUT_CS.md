@@ -1,6 +1,6 @@
 # Documents Without Critical Summary
 
-Total: **117** files (PDF and MD)
+Total: **127** files (PDF and MD)
 
 ## Summary by department
 
@@ -8,6 +8,8 @@ Total: **117** files (PDF and MD)
 |------------|------:|
 | Building Department (BD) | 98 |
 | Environmental Protection Department (EPD) | 18 |
+| HKIA-ARB PA | 6 |
+| HKIA | 4 |
 | Water Authority (WSD) | 1 |
 
 ---
@@ -133,6 +135,22 @@ Total: **117** files (PDF and MD)
 - `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/P6.pdf`
 - `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/document_1.pdf`
 - `Environmental Protection Department (EPD)/Cap. 400 Noise Control Ordinance/source_reference/sch0.pdf`
+
+## HKIA (4)
+
+- `HKIA/2025_08_29-_-Main-Contract-_Pre_launching_.pdf`
+- `HKIA/2025_08_29-_-Nominated-Sub_Contract-_Pre_launching_.pdf`
+- `HKIA/2025_08_29-_-Nominated-Supply-Contract-_Pre_launching_.pdf`
+- `HKIA/Application Handbook_v9_202604.pdf`
+
+## HKIA-ARB PA (6)
+
+- `HKIA-ARB PA/HKIA-ARB PA Paper 1 Study Guide_2022.pdf`
+- `HKIA-ARB PA/HKIA-ARB PA Paper 2 Study Guide_2021.pdf`
+- `HKIA-ARB PA/HKIA-ARB PA Paper 3 Study Guide_2025.pdf`
+- `HKIA-ARB PA/HKIA-ARB PA Paper 4 Study Guide_2023.pdf`
+- `HKIA-ARB PA/HKIA-ARB PA Paper 5 Study Guide_2023.pdf`
+- `HKIA-ARB PA/PA Handbook_revised_2025 July.pdf`
 
 ## Water Authority (WSD) (1)
 

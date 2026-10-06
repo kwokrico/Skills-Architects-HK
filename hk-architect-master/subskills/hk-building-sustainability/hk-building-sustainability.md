@@ -25,8 +25,8 @@ BEAM Plus, OTTV/RTTV, greenery, EIA interfaces, green building credits. Sustaina
 
 | Scheme | Scope | Certifier |
 |---|---|---|
-| NB (New Buildings) v2.0 | New construction; Provisional → Final | HKGBC |
-| EB (Existing Buildings) v2.0 | In-use buildings | HKGBC |
+| NB (New Buildings) v2.0 | New construction; PA → CA → RFA (Assessment Manual Feb 2025) | HKGBC |
+| EB (Existing Buildings) v3.0 | In-use buildings; Comprehensive Scheme A or B (Assessment Manual 2025). Brochure V2.0 remains a separate summary | HKGBC |
 | Interiors (older v1.0 label) | Use the non-residential v2.0 or residential tool in the rows below for a current fit-out | HKGBC |
 | Neighbourhood | Master plan / district scale. A Neighbourhood certificate is not a New Buildings certificate; reassess under NB when the project moves from planning to building design | HKGBC |
 | Data Centres (NDC / EDC) | Data-centre area at least 500 m², and data halls plus related plant a significant majority of floor area. New construction or major alteration uses NDC; operations use EDC | HKGBC |
@@ -136,6 +136,6 @@ Design locks that most often catch a building or site brief include the road cla
 
 ---
 
-*Sources: BEAM Plus NB v2.0, EB v2.0, EB Global v1.0, Data Centres, Existing Schools, Interiors (non-residential v2.0 and residential), and Neighbourhood brochures (HKGBC); Cap. 123M; PNAP APP-67 (September 2025 amendment); Buildings Energy Efficiency Ordinance Cap. 610 (20 September 2026) and Cap. 610A / 610B; Environmental Impact Assessment Ordinance Cap. 499 (11 April 2025) and its Technical Memorandum; EMSD Building Energy Code; ASHRAE 90.1-2022 (CZ 1A).*
+*Sources: BEAM Plus NB v2.0 Assessment Manual (2025.02) and EB v3.0 Assessment Manual (BSL/HKGBC); NB/EB/Neighbourhood/Interiors/Data Centres/Existing Schools brochures (HKGBC); Cap. 123M; PNAP APP-67 (September 2025 amendment); Buildings Energy Efficiency Ordinance Cap. 610 (20 September 2026) and Cap. 610A / 610B; Environmental Impact Assessment Ordinance Cap. 499 (11 April 2025) and its Technical Memorandum; EMSD Building Energy Code; ASHRAE 90.1-2022 (CZ 1A).*
 
-Catalogue detail for this topic is in `references/catalogues/pnap-hk-building-sustainability.md`. The master router links these files directly.
+Assessment Manual Critical Summaries: `references/catalogues/beam-plus.md` and `references/statutory/beam-plus/`. PNAP energy gates: `references/catalogues/pnap-hk-building-sustainability.md`. Library copies and PDFs: `hk_s_reference/BEAM Plus Assessment Tools/`.

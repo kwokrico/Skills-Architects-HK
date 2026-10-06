@@ -1,6 +1,6 @@
 ---
 name: hk-professional-conduct
-description: Activate for Hong Kong architect registration and professional conduct, including Cap. 408 title and supervision rules, the Architects Registration Board code, and the HKIA Code of Professional Conduct.
+description: Activate for Hong Kong architect registration and professional conduct, including Cap. 408 title and supervision rules, the Architects Registration Board code, the HKIA Code of Professional Conduct, and the HKIA Rules of the Institute.
 disable-model-invocation: true
 ---
 
@@ -87,7 +87,7 @@ Established under section 9 as mandatory rules. Five aspects: competence, integr
 
 ## 5. HKIA Code of Professional Conduct (18 August 2017)
 
-Governs Members, and the code says a Member includes Fellow, Member, Associate, and Graduate. It is not Cap. 408.
+Governs Members, and the code says a Member includes Fellow, Member, Associate, and Graduate. It is not Cap. 408. Critical Summary: `references/statutory/hkia/HKIA Code of Professional Conduct (18-08-2017)_CS.md`.
 
 - A Graduate cannot carry a commission without guidance from a Member who is not a Graduate.
 - Work cannot be subcommissioned without the client’s prior agreement and a definition of responsibilities.
@@ -99,7 +99,20 @@ Governs Members, and the code says a Member includes Fellow, Member, Associate, 
 
 ---
 
-## 6. Practice checks
+## 6. HKIA Rules of the Institute (17 June 2021)
+
+Internal membership, Council, meeting, and disciplinary rules under Cap. 1147. Not Cap. 408 and not themselves the Code — Rule 63 includes the Code and Conditions of Engagement within “Rules.” Critical Summary: `references/statutory/hkia/HKIA Rules of the Institute (17-06-2021)_CS.md`.
+
+- Members (Rule 5A) need recognised qualification plus two years’ post-graduate experience and the HKIA/ARB Professional Assessment (or approved equivalents); Fellows need 15 years’ standing and practice (or significant contribution).
+- Only Fellows and Members vote; Corporate Members do not vote or hold Institute office.
+- Titles: FHKIA (Fellows), HKIA (Members); Associates and Affiliates use their own prescribed titles.
+- Corporate Membership needs at least one Foundation Member/Member/Fellow director and ≥30% directors or voting rights held by those classes.
+- Council may reprimand, suspend, expel, notify ARB, and/or award costs after the hearing/appeal process in Rules 24A–25C.
+- CPD requirements may be set for Members, Non-Resident Members, Affiliates, and Graduate Members; failure after reminder can terminate membership.
+
+---
+
+## 7. Practice checks
 
 1. Name the registered architect who supervises each office, and, if multidisciplinary, the registered architect in full-time control of the architecture work.
 2. Diary the 28-day-before-expiry renewal cutoff before describing the person, or a practice relying on that person, as architect.
@@ -108,4 +121,6 @@ Governs Members, and the code says a Member includes Fellow, Member, Associate, 
 
 ---
 
-*Sources: Architects Registration Ordinance Cap. 408 (consolidated 30 September 2020), ARB Code of Professional Conduct (5 March 2024), HKIA Code of Professional Conduct (18 August 2017).*
+*Sources: Architects Registration Ordinance Cap. 408 (consolidated 30 September 2020), ARB Code of Professional Conduct (5 March 2024), HKIA Code of Professional Conduct (18 August 2017), HKIA Rules of the Institute (17 June 2021).*
+
+Institute catalogue: `references/catalogues/hkia.md`. Library copies and PDFs: `hk_s_reference/HKIA/`.

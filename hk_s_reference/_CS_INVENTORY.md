@@ -1,11 +1,11 @@
 # Critical Summary Inventory
 
-Total: **1284** files
+Total: **1287** files
 
 | Folder | CS | With source |
 |---|---:|---:|
 | Antiquities and Monuments Office (AMO)/Cap 53 Antiquities and Monuments Ordinance/summaries | 1 | 1 |
-| BEAM Plus Assessment Tools | 9 | 8 |
+| BEAM Plus Assessment Tools | 11 | 10 |
 | Building Department (BD)/BD Website | 1 | 1 |
 | Building Department (BD)/BD Website/Alterations and additions | 1 | 1 |
 | Building Department (BD)/BD Website/Minor works | 33 | 33 |
@@ -59,7 +59,7 @@ Total: **1284** files
 | Food and Environmental Hygiene Department (FEHD)/Cap 172 Places of Public Entertainment Ordinance/summaries | 1 | 1 |
 | HKARB/Cap 408 Architects Registration Ordinance | 1 | 1 |
 | HKARB/Cap 408 Architects Registration Ordinance/summaries | 1 | 1 |
-| HKIA/summaries | 1 | 1 |
+| HKIA/summaries | 2 | 2 |
 | Home Affairs Department (HAD)/Cap 349 Hotel and Guesthouse Accommodation Ordinance/summaries | 1 | 1 |
 | Joint Practice Notes (JPN)/summaries | 9 | 9 |
 | Labour Department (LD)/Cap 509 Occupational Safety and Health Ordinance/summaries | 1 | 1 |
@@ -82,7 +82,7 @@ Total: **1284** files
 |---|---|
 | [Cap 53 (12-12-2019)_Antiquities and Monuments Ordinance_CS.md](Antiquities%20and%20Monuments%20Office%20%28AMO%29/Cap%2053%20Antiquities%20and%20Monuments%20Ordinance/summaries/Cap%2053%20%2812-12-2019%29_Antiquities%20and%20Monuments%20Ordinance_CS.md) | [Cap 53 Antiquities and Monuments Ordinance (English).pdf](Antiquities%20and%20Monuments%20Office%20%28AMO%29/Cap%2053%20Antiquities%20and%20Monuments%20Ordinance/source_reference/Cap%2053%20Antiquities%20and%20Monuments%20Ordinance%20%28English%29.pdf) |
 
-## BEAM Plus Assessment Tools (9)
+## BEAM Plus Assessment Tools (11)
 
 | CS | Source |
 |---|---|
@@ -90,11 +90,13 @@ Total: **1284** files
 | [BEAM Plus Data Centres_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Data%20Centres_CS.md) | [BEAM Plus Data Centres Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Data%20Centres%20Brochure.pdf) |
 | [BEAM Plus Existing Buildings Global Version 1.0_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Existing%20Buildings%20Global%20Version%201.0_CS.md) | [BEAM Plus Existing Buildings Global Version 1.0 Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Existing%20Buildings%20Global%20Version%201.0%20Brochure.pdf) |
 | [BEAM Plus Existing Buildings V2.0_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Existing%20Buildings%20V2.0_CS.md) | [BEAM Plus Existing Buildings V2.0 Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Existing%20Buildings%20V2.0%20Brochure.pdf) |
+| [BEAM Plus Existing Buildings V3.0 Assessment Manual_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Existing%20Buildings%20V3.0%20Assessment%20Manual_CS.md) | [BEAM Plus Existing Buildings V3.0 Assessment Manual.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Existing%20Buildings%20V3.0%20Assessment%20Manual.pdf) |
 | [BEAM Plus Existing Schools_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Existing%20Schools_CS.md) | [BEAM Plus Existing Schools Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Existing%20Schools%20Brochure.pdf) |
 | [BEAM Plus Interiors Non-Residential Version 2.0_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Interiors%20Non-Residential%20Version%202.0_CS.md) | [BEAM Plus Interiors Non-Residential Version 2.0 Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Interiors%20Non-Residential%20Version%202.0%20Brochure.pdf) |
 | [BEAM Plus Interiors Residential_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Interiors%20Residential_CS.md) | [BEAM Plus Interiors Residential Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Interiors%20Residential%20Brochure.pdf) |
 | [BEAM Plus Neighbourhood_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20Neighbourhood_CS.md) | [BEAM Plus Neighbourhood Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20Neighbourhood%20Brochure.pdf) |
-| [BEAM Plus New Buildings V2.0_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20New%20Buildings%20V2.0_CS.md) | [BEAM Plus New Buildings V2.0 Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20New%20Buildings%20V2.0%20Brochure.pdf) |
+| [BEAM Plus New Buildings V2.0 Assessment Manual (2025.02)_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20New%20Buildings%20V2.0%20Assessment%20Manual%20%282025.02%29_CS.md) | [BEAM Plus New Buildings V2.0 Assessment Manual (2025.02).pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20New%20Buildings%20V2.0%20Assessment%20Manual%20%282025.02%29.pdf) |
+| [BEAM Plus New Buildings V2.0_CS.md](BEAM%20Plus%20Assessment%20Tools/BEAM%20Plus%20New%20Buildings%20V2.0_CS.md) | [BEAM Plus New Buildings V2.0 Assessment Manual (2025.02).pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20New%20Buildings%20V2.0%20Assessment%20Manual%20%282025.02%29.pdf)<br>[BEAM Plus New Buildings V2.0 Brochure.pdf](BEAM%20Plus%20Assessment%20Tools/source_reference/BEAM%20Plus%20New%20Buildings%20V2.0%20Brochure.pdf) |
 
 ## Building Department (BD)/BD Website (1)
 
@@ -1301,11 +1303,12 @@ Total: **1284** files
 |---|---|
 | [ARB Code of Professional Conduct (05-03-2024)_CS.md](HKARB/Cap%20408%20Architects%20Registration%20Ordinance/summaries/ARB%20Code%20of%20Professional%20Conduct%20%2805-03-2024%29_CS.md) | [ARB Code of Professional Conduct.pdf](HKARB/Cap%20408%20Architects%20Registration%20Ordinance/source_reference/ARB%20Code%20of%20Professional%20Conduct.pdf) |
 
-## HKIA/summaries (1)
+## HKIA/summaries (2)
 
 | CS | Source |
 |---|---|
 | [HKIA Code of Professional Conduct (18-08-2017)_CS.md](HKIA/summaries/HKIA%20Code%20of%20Professional%20Conduct%20%2818-08-2017%29_CS.md) | [code_of_professional_conduct.pdf](HKIA/source_reference/code_of_professional_conduct.pdf) |
+| [HKIA Rules of the Institute (17-06-2021)_CS.md](HKIA/summaries/HKIA%20Rules%20of%20the%20Institute%20%2817-06-2021%29_CS.md) | [rules_of_the_institute.pdf](HKIA/source_reference/rules_of_the_institute.pdf) |
 
 ## Home Affairs Department (HAD)/Cap 349 Hotel and Guesthouse Accommodation Ordinance/summaries (1)
 

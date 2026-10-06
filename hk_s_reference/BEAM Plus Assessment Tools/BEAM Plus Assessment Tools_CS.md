@@ -18,9 +18,9 @@ BEAM Plus covers Hong Kong new construction, major renovation / A&A / conversion
 
 | Project situation | Use this tool | Critical Summary |
 |---|---|---|
-| New build / major renovation / A&A / wholesale or partial conversion | **New Buildings (NB) V2.0** | [BEAM Plus New Buildings V2.0_CS.md](BEAM%20Plus%20New%20Buildings%20V2.0_CS.md) |
+| New build / major renovation / A&A / wholesale or partial conversion | **New Buildings (NB) V2.0** | Brochure: [BEAM Plus New Buildings V2.0_CS.md](BEAM%20Plus%20New%20Buildings%20V2.0_CS.md) · Assessment Manual (2025.02): [BEAM Plus New Buildings V2.0 Assessment Manual (2025.02)_CS.md](BEAM%20Plus%20New%20Buildings%20V2.0%20Assessment%20Manual%20(2025.02)_CS.md) |
 | Masterplan / early inception / space between buildings / public realm | **Neighbourhood (ND)** first → then NB | [BEAM Plus Neighbourhood_CS.md](BEAM%20Plus%20Neighbourhood_CS.md) |
-| Operating building of any age/type | **Existing Buildings (EB) V2.0** | [BEAM Plus Existing Buildings V2.0_CS.md](BEAM%20Plus%20Existing%20Buildings%20V2.0_CS.md) |
+| Operating building of any age/type | **Existing Buildings (EB) V3.0** (current Manual) / brochure V2.0 | Assessment Manual: [BEAM Plus Existing Buildings V3.0 Assessment Manual_CS.md](BEAM%20Plus%20Existing%20Buildings%20V3.0%20Assessment%20Manual_CS.md) · Brochure V2.0: [BEAM Plus Existing Buildings V2.0_CS.md](BEAM%20Plus%20Existing%20Buildings%20V2.0_CS.md) |
 | Existing **primary / secondary school** — O&M plus education | **Existing Schools (ES) V1.0** | [BEAM Plus Existing Schools_CS.md](BEAM%20Plus%20Existing%20Schools_CS.md) |
 | Commercial / institutional **fit-out** | **Interiors — Non-Residential v2.0** | [BEAM Plus Interiors Non-Residential Version 2.0_CS.md](BEAM%20Plus%20Interiors%20Non-Residential%20Version%202.0_CS.md) |
 | Home / flat **fit-out** | **Interiors — Residential** | [BEAM Plus Interiors Residential_CS.md](BEAM%20Plus%20Interiors%20Residential_CS.md) |

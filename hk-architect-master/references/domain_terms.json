@@ -50,7 +50,7 @@
     "Sub-skill": "hk-building-codes"
   },
   "BEAM Plus": {
-    "English": "Hong Kong green building rating tool (NB, EB, Interiors, Neighbourhood)",
+    "English": "Hong Kong green building rating tool (NB, EB, Interiors, Neighbourhood); Assessment Manuals in references/statutory/beam-plus/",
     "Chinese": "綠建環評",
     "Sub-skill": "hk-building-sustainability"
   },
@@ -270,7 +270,7 @@
     "Sub-skill": "hk-heritage-conservation"
   },
   "HKIA": {
-    "English": "Hong Kong Institute of Architects — professional body; publishes SFBC",
+    "English": "Hong Kong Institute of Architects — professional body; Rules and Code in references/statutory/hkia/; publishes SFBC",
     "Chinese": "香港建築師學會",
     "Sub-skill": "hk-professional-conduct"
   },

@@ -62,14 +62,24 @@ The minor-works technical guidelines (2024 edition) and the August 2026 and Octo
 
 - Airport Height Restriction Plan sheets. Cap 301 and Cap 301D are saved. [CAD](https://www.cad.gov.hk/english/obstructions.html).
 - Code of Practice on the Design and Construction of Lifts and Escalators (2021 Edition). EMSD sells it. Cap 618, its two regulations, and the free lift-works code (2021 Edition) are saved.
+- HKIA / HKIS / HKICM Standard Form of Building Contract Private Edition (With Quantities and Without Quantities), Nominated Supply Contract, and Nominated Sub-Contract. The 15th open-book list allows the 2023 and 2025 editions. Hard copies are sold; official e-copies of the launched 2025 edition were not released when this note was written. Pre-launch draft e-copies were not saved as exam texts.
 
 ### Gazette copies that were not a PDF
 
 The EPD statutory page lists the sixth through tenth Technical Memoranda for Allocation of Emission Allowances. Those title links open `egazette.gld.gov.hk`, which returned an important-notices page with a captcha, not a PDF. The older `gld.gov.hk/egazette/pdf/` paths also returned HTML. Memoranda one to five, which EPD hosts as files, are saved. The page does list a tenth memorandum. That listing is not treated as a design rule, and the PDF was not retrieved.
 
-### HKIA agreement
+### HKIA publications with no public PDF
 
-The HKIA Code of Professional Conduct names the Standard Form of Agreement between Client and Architect. The code page, the Board of Practices page, and the Rules of the Institute page do not link a PDF of that agreement. No address was guessed.
+- Standard Form of Agreement between Client and Architect. Named in Rule 3.1 of the HKIA Code of Professional Conduct. The code page, the Board of Practices page, and the Rules of the Institute page do not link a PDF. No address was guessed.
+- HKIA Rules for the Conduct of Architectural Competitions. Named on the HKIA professional-assessment pages. No public PDF was found.
+
+### Saved for the 15th open-book list (7 October 2026)
+
+- HKIA Rules of the Institute PDF: `HKIA/source_reference/rules_of_the_institute.pdf`
+- BEAM Plus New Buildings V2.0 Assessment Manual (2025.02): `BEAM Plus Assessment Tools/source_reference/BEAM Plus New Buildings V2.0 Assessment Manual (2025.02).pdf`
+- BEAM Plus Existing Buildings V3.0 Assessment Manual: `BEAM Plus Assessment Tools/source_reference/BEAM Plus Existing Buildings V3.0 Assessment Manual.pdf`
+
+The Cap. 123 family PDFs on that list were already in `Building Department (BD)/Cap 123 Building Ordience/source_reference/` and were not re-downloaded.
 
 ## Present, and easy to miss
 
