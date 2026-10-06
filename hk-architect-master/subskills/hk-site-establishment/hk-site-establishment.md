@@ -8,9 +8,9 @@ disable-model-invocation: true
 
 Execution playbook for **lane 1** — site mobilisation before main excavation and structure. Distinct from statutory consent timing (`hk-consent-scheduling`), programme sequencing (`hk-construction-programme`), and client governance (`hk-project-management`).
 
-**Deep references** (load via dispatcher `references_available`):
-- `hk-site-establishment-checklist.md`
-- `hk-construction-stakeholder-register.md`
+**Deep references** (also linked from the master router):
+- [hk-site-establishment-checklist.md](../../references/hk-site-establishment-checklist.md)
+- [hk-construction-stakeholder-register.md](../../references/hk-construction-stakeholder-register.md)
 
 For **site establishment and hoarding**, use `hk-site-establishment`. For other topics, see the routing table below.
 

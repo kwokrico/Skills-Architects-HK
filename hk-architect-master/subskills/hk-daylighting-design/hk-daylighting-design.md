@@ -82,3 +82,5 @@ HK typical street H/W ratios of 3:1 to 8:1 severely limit sky component. Simulat
 ---
 
 *Sources: Buildings Ordinance Cap. 123 Reg. 30/30A, BEAM Plus NB v2.0 IEQ credits, CIBSE LG10, HK Observatory solar data.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-daylighting-design.md`. The master router links these files directly.

@@ -28,6 +28,8 @@ Curtain wall, cladding, typhoon wind, weatherproofing, facade OTTV optimisation.
 | OTTV (non-domestic walls) | ≤ 20 W/m² | ≤ 35 W/m² |
 | RTTV (roof) | ≤ 25 W/m² | ≤ 35 W/m² |
 
+Statutory OTTV under Cap. 123M / APP-67, for plans submitted on or after 31 December 2025, is tower ≤ 20 W/m² and podium ≤ 40 W/m². That is the Building Authority floor. The BEAM Plus and BEC columns above are separate targets. See `hk-building-sustainability`.
+
 ### 1.1 OTTV Formula
 
 ```
@@ -106,3 +108,5 @@ OTTV = Σ [Uw × (1-WWR) × TDeq] + Σ [Uf × WWR × ΔT] + Σ [SC × WWR × SF]
 ---
 
 *Sources: EMSD Building Energy Code 2021, BEAM Plus NB v2.0, Code of Practice on Wind Effects in Hong Kong 2004 (HKWC), ASHRAE 90.1-2022 (CZ 1A), AAMA 501.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-building-envelope.md`. The master router links these files directly.

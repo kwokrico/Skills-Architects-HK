@@ -125,4 +125,22 @@ Design for summer ventilation (S/SE) while providing shelter from winter NE wind
 
 ---
 
-*Sources: Town Planning Ordinance Cap. 131, HKPSG 2023, TPB Guidelines, PlanD Practice Notes, PNAP APP-40, HK Observatory wind data.*
+## 7. Airport height (Cap. 301 and Cap. 301D)
+
+Cap. 301 does not print a building height in metres. Height limits and prohibited areas exist only in an order under section 3, with a plan deposited at the Land Registry. Cap. 301D sets the restricted height as the height above Hong Kong Principal Datum shown in red on the Airport Height Restriction Plan 2021 sheet for that area. Do not take a metre figure from the Order. There is none in the text.
+
+A mast, pole, pile driver, scaffold, hoist, crane, or other structure projecting skywards is a building for this Ordinance. Test roof plant, signage, and site cranes against the height order, not only the occupied floors. A section 3(1)(a) area prohibits all such buildings. A section 3(4) exemption is a short notice (2 months, extendable by further periods of 2 months), not a permanent design approval.
+
+Plans approved on or after **31 May 2022** are outside the Order’s paragraph (a) saving for earlier approvals. Minor works or designated exempted works completed on or after that date are outside paragraphs (e) and (f). An existing building that exceeds a later height order can be ordered down on dates set by the Director-General after consultation with the Director of Buildings.
+
+In Kowloon, New Kowloon, and any further area prescribed by a Gazette order, do not design facade, roof, or feature lighting that flashes, cuts off, or appears suddenly or intermittently and is exposed to the sky, unless it is a navigational or signal light, under 200 cd, or covered by written authority or a Gazette exemption. Reserve structure, power, and access for warning lights and aircraft beacons. Do not rely on a retained tree or a green roof to sit in front of a warning light; the occupier can be required to remove it.
+
+Cap. 404, the Temporary Control of Density of Building Development (Kowloon and New Kowloon) Ordinance, is omitted as expired. Do not use it as a density cap.
+
+Outline zoning plan Notes and the lease can be stricter than the master schedule of notes and the Town Planning Board guidelines. Read the site plan.
+
+---
+
+*Sources: Town Planning Ordinance Cap. 131, HKPSG chapters 1–12, Town Planning Board guidelines, OZP Master Schedule of Notes, PNAP APP-40, Hong Kong Airport (Control of Obstructions) Ordinance Cap. 301 (15 October 2020) and Cap. 301D (31 May 2022), Cap. 404 (expired).*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-spatial-planning.md`. The master router links these files directly.

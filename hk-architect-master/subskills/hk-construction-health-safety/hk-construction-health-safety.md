@@ -185,4 +185,20 @@ Review focus: adequacy, alignment with design intent, interface risks, not dupli
 
 ---
 
-*This framework supports Hong Kong construction safety practice. Confirm legal notification duties and contract-specific H&S obligations on each project. Not a substitute for qualified safety officers or legal advice.*
+## 10. Construction Sites (Safety) Regulations (Cap. 59I)
+
+These regulations set site duties. They are not a structural design code and they do not print working-platform member sizes.
+
+- Draw the site boundary to include the immediate storage area. The principal contractor carries the site-wide duties. Any contractor with direct control of the work carries the same fall, excavation, and electricity duties for that work.
+- Any edge or opening from which a person can fall **2 metres** or more needs a working platform, guard-rail, barrier, toe-board, fence, covering, gangway, or run that meets the Third Schedule, unless the work can be done safely from the ground or from part of a permanent structure.
+- An excavation into which a person can fall more than **2 metres** needs a barrier at the edge or a secure cover. Side support is required unless a fall cannot bury someone or strike someone from more than **1.2 metres**.
+- Keep existing means of escape and fire-fighting appliances clear for the whole of the works. Set crane and scaffold zones off live overhead cables unless the cable is dead or a barrier keeps the lifting appliance clear.
+- Reserve site area for separate latrines where both sexes will be employed, and for a covered shelter with drinking water, before the programme assumes the whole site is building footprint.
+
+The parent ordinances are the Factories and Industrial Undertakings Ordinance (Cap. 59) and the Occupational Safety and Health Ordinance (Cap. 509).
+
+---
+
+*This framework supports Hong Kong construction safety practice. Confirm legal notification duties and contract-specific H&S obligations on each project. Not a substitute for qualified safety officers or legal advice. Cap. 59I figures above are from the regulations consolidated to 17 July 2026.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-construction-health-safety.md`, `references/catalogues/pnrc-hk-construction-health-safety.md`. The master router links these files directly.

@@ -90,3 +90,5 @@ EPD noise, railway/MTR vibration, construction noise permits, and building acous
 ---
 
 *Sources: EPD Technical Memorandum on Noise (TME), EIAO Technical Memorandum, Noise Control Ordinance Cap. 400, BEAM Plus NB v2.0 IEQ, EPD Railway Noise Impact Assessment guidelines.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-acoustic-design.md`. The master router links these files directly.

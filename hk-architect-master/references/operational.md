@@ -13,9 +13,9 @@ Confirm or explicitly list as missing:
 
 ## Routing SOP
 
-1. Answer from **SKILL.md §1 Foundation Quick Reference** when the question is routine (single lookup table).
-2. Load **one primary** sub-skill via `load_sub_skill` when depth, edge cases, or workflow steps are needed.
-3. Add **secondary** sub-skills only for explicit overlap (see master §2 Multi-Skill Priority).
+1. Answer from [foundation.md](foundation.md) when the question is a routine single-table lookup.
+2. Read one primary topic file linked from `SKILL.md` when the question needs a workflow, an edge case, or a catalogue row.
+3. Open a second topic file only for an explicit overlap (see the overlap order in `SKILL.md`).
 4. Cross-reference `domain_terms.json` when acronyms are ambiguous.
 5. Apply `compliance.md` before final synthesis — hard-stop if triggered.
 
@@ -41,7 +41,7 @@ Confirm or explicitly list as missing:
 
 Use `templates/` when the user requests a standard output format.
 
-## Dispatcher usage
+## File reads and calculators
 
-- `load_sub_skill(skill_id)` — path `subskills/<id>/<id>.md`; check `references_available` for one-hop deep refs.
-- `run_hk_calculator(calc_type, data)` — types: `egress_1004_7`, `gfa_aggregator`, `layout_sort` only.
+- Topic files are `subskills/<id>/<id>.md`. Catalogue rows are `references/catalogues/`. Both are linked from `SKILL.md`. Read the linked file. Do not inject it through a dispatcher.
+- `run_hk_calculator(calc_type, data)` — types: `egress_1004_7`, `gfa_aggregator`, `layout_sort` only. Implementation: `scripts/calculators.py`.

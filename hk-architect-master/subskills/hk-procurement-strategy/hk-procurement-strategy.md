@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Strategic procurement advice for Hong Kong building projects (typically RIBA Stages 0–2 / brief freeze). For **tender documents, CA procedures, and contract administration**, use `hk-tender-contract-administration`. For **valuations and claim quantum**, use `hk-cost-consultancy`.
 
-**Deep references** (load via dispatcher `references_available`):
+**Deep references** (also linked from the master router):
 - `../../references/hk-procurement-routes-comparison.md` — full narrative for all four routes
 - `../../references/hk-typhoon-eot-by-procurement.md` — typhoon / weather delay entitlement by procurement route
 

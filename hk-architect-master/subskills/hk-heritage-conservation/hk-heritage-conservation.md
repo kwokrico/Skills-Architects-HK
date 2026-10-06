@@ -39,6 +39,14 @@ Important distinction:
 - **Declared Monument / Proposed Monument** status is statutory.
 - **AAB grading (Grade 1/2/3)** is administrative guidance and policy-significant, but not itself automatic statutory monument protection.
 
+### 1.3 Cap. 53 controls that bind design
+
+Before freezing demolition, alteration, or site formation, check the Land Registry for a section 2A or section 3 plan. A proposed monument on private land is already a **12-month** control, and adjoining land needed for fencing or access can be inside the declared area.
+
+Building works, excavation, tree felling, and deposit of earth on a proposed monument or monument need an Authority permit unless that monument has been gazetted as exempt from section 6. Foundation and site excavation that searches for antiquities, and any metal detector on a proposed monument or monument, need a section 13 licence. A find in the fabric or foundations must be reported forthwith and protected. A monument declaration does not of itself shut the owner or lawful occupier out.
+
+The BD Practice Guidebook for Adaptive Re-use of Heritage Buildings (2021) is the submission companion for reuse. It does not replace Cap. 53 permits or Cap. 123 approval.
+
 ---
 
 ## 2. AAB Grading and Project Implications
@@ -154,4 +162,4 @@ Route related topics:
 
 ---
 
-*Reference baseline: Antiquities and Monuments Ordinance (Cap. 53), Buildings Ordinance (Cap. 123), Town Planning Ordinance (Cap. 131), current AMO technical guidance, current AAB grading list, and project-specific OZP/lease constraints.*
+*Reference baseline: Antiquities and Monuments Ordinance (Cap. 53, consolidated 12 December 2019), Practice Guidebook for Adaptive Re-use of Heritage Buildings 2021, Buildings Ordinance (Cap. 123), Town Planning Ordinance (Cap. 131), current AMO technical guidance, current AAB grading list, and project-specific OZP/lease constraints.*

@@ -82,4 +82,16 @@ A&A works often trigger a "Change of Use" or "Material Alteration" which necessi
 | **ADV-33** | Essential Services and Facilities for A&A Works |
 
 ---
-*Sources: Buildings Ordinance Cap. 123, PNAP APP-117, PNAP APP-147, Fire Safety Code 2011 (2012 Version), Practice Note for Mandatory Building Inspection Scheme (MBIS).*
+## 6. Multi-owned buildings (Cap. 344)
+
+The Building Management Ordinance is not a design code. It locks flat versus common parts, deed-of-mutual-covenant overrides, and owners’ corporation powers. From 13 July 2025 it also sets procurement gates for high-value or large-scale maintenance.
+
+Enclosing a corridor, roof, external wall, light well, or podium garden into a flat, shop, or exclusive terrace needs the statutory and deed approval path before the general arrangement is frozen. An exclusive roof, balcony, garden, or shopfront still carries a duty to maintain. Design common risers, stacks, and fire service installations inside flats knowing the corporation will need access rights. Once a management committee is appointed, it is the owners’ committee for deed purposes.
+
+Prescribed inspection and repair under MBIS/MWIS is `hk-mandatory-inspection`, not a substitute for this alteration path. Fire-safety directions on pre-1987 stock are `hk-fire-life-safety`.
+
+---
+
+*Sources: Buildings Ordinance Cap. 123, PNAP APP-117, PNAP APP-147, Fire Safety Code 2011, Building Management Ordinance Cap. 344 (13 July 2025), Practice Notes for Mandatory Building Inspection (route to `hk-mandatory-inspection`).*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-alterations-additions.md`. The master router links these files directly.

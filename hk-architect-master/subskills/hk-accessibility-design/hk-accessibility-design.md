@@ -86,4 +86,27 @@ Required at: all public entrances, lift lobbies, pedestrian crossings, MTR/publi
 
 ---
 
-*Sources: Design Manual: Barrier Free Access 2008 (BD), PNAP APP-41, Buildings Ordinance Cap. 123.*
+## 6. Design Manual on Universal Accessibility 2026
+
+The 2026 manual revamps the Design Manual: Barrier Free Access 2008 (2025 Edition). Except for provisions already in regulations 72 and 73 and the Third and Fourth Schedules of the Building (Planning) Regulations, the manual states that its requirements are at present **advisory**. The Buildings Department intends to propose making obligatory provisions later. Until that change is in force, do not describe a 2026-only dimension as a current statutory minimum. The dimensions below are the manual’s own figures.
+
+| Item | Figure in the 2026 manual |
+|---|---|
+| Domestic coverage | Full common-area package above four domestic storeys. Size every residential entrance door and every bathroom, kitchen, and toilet floor even in a building of four storeys or fewer |
+| Tactile guide path | From the lot boundary for shopping, schools, hospitals, sports complexes, elderly homes, and transport buildings. Hotels and banks need an accessible counter and a visual fire alarm; Table 2 does not require a tactile guide path for them |
+| Accessible car bay | At least one bay of 3,500 mm × 5,000 mm (or 4,000 mm × 6,000 mm if it has electric-vehicle charging) on an accessible route to an accessible lift, using the lot-wide ratio, and a higher ratio only when the premises exceed 10,000 occupants |
+| Corridors | 1,200 mm clear, with 1,500 mm × 1,500 mm turn near every dead end. Every residential entrance door is 850 mm clear |
+| Circulation ramp | 1,200 mm wide, not steeper than 1 in 12, with 1,500 mm square landings |
+| Main circulation stair | 300 mm tread / 150 mm riser, rather than the required-stair 225 mm / 175 mm |
+| Accessible lift | At least one of 1,200 mm × 1,400 mm with an 850 mm door on every floor. If there are more than three lifts, one of them is 1,500 mm × 1,400 mm to every floor |
+| Auditorium | Four wheelchair spaces (800 mm × 1,300 mm) up to 800 seats, then two per 400 seats, on a 1,500 mm passage |
+| Hotel | Two accessible guest rooms per 100 rooms, with bathrooms to paragraph 9.3 |
+| Sanitary | On each non-domestic floor, one accessible cubicle of at least 1,500 mm × 1,750 mm when there are 20 or fewer water closets, and two when there are more, plus one accessible unisex toilet. The one-per-15 ratio is an advisory rule inside specified premises |
+
+Access for external maintenance is a separate code (2021, 2024 edition) and PNAP ADV-14, not this manual.
+
+---
+
+*Sources: Design Manual: Barrier Free Access 2008 (2025 Edition), Design Manual on Universal Accessibility 2026, PNAP APP-41, Buildings Ordinance Cap. 123, Building (Planning) Regulations 72 and 73.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-accessibility-design.md`. The master router links these files directly.

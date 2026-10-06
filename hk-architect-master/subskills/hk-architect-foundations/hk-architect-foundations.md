@@ -274,8 +274,16 @@ START
 |   YES --> [hk-design-theory]
 |   NO  --> continue
 |
-+-- Is the query about fire strategy, FSD, FS Code 2011, MOE, sprinklers, or scissor stairs?
++-- Is the query about fire strategy, FSD, FS Code 2011, MOE, sprinklers, scissor stairs, or Cap. 502 / 572 / 636 upgrades?
 |   YES --> [hk-fire-life-safety]
+|   NO  --> continue
+|
++-- Is the query about MBIS, MWIS, Cap. 123P, or a prescribed building or window inspection?
+|   YES --> [hk-mandatory-inspection]
+|   NO  --> continue
+|
++-- Is the query about architect registration, the title “architect”, or the ARB or HKIA code of conduct?
+|   YES --> [hk-professional-conduct]
 |   NO  --> continue
 |
 +-- Is the query about materials, cladding durability, BEAM Plus materials, or typhoon resistance?

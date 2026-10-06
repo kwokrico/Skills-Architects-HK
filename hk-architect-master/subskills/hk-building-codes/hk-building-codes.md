@@ -155,11 +155,61 @@ Domestic GFA + Non-domestic GFA ≤ Permissible GFA
 | APP-2 | Gross floor area and non-accountable gross floor area |
 | APP-40 | Sustainable building design guidelines (setback, greenery) |
 | APP-41 | Barrier-free access (Design Manual: Barrier Free Access 2008) |
-| APP-130 | Means of escape — general principles |
+| APP-130 | Lighting and ventilation — performance-based approach (operative rule in hk-daylighting-design) |
 | APP-152 | Sustainable Building Design Guidelines |
 | ADV-36 | Amenity features (balconies, utility platforms) |
 | ADV-49 | Green and innovative buildings |
 
 ---
 
-*Sources: Buildings Ordinance Cap. 123 (2023 ed.), BO (Building Planning) Regulations, PNAP APP-2, APP-40, APP-130, APP-152, Code of Practice for Fire Safety in Buildings 2011, Design Manual: Barrier Free Access 2008, HKPSG 2023.*
+## 7. Cap. 123 family an architect actually opens
+
+| Instrument | What it controls |
+|---|---|
+| Cap. 123 | Parent ordinance, including approval, consent, orders, and the MBIS/MWIS notice powers in ss.30B–30E |
+| Cap. 123A | Administration, forms, and plan processing |
+| Cap. 123F | Planning regulations: plot ratio, site coverage, projections, lighting and ventilation, means of escape hooks |
+| Cap. 123G | Private streets, cul-de-sacs, access roads, pedestrian ways, and service lanes. Not public-road standards and not Cap. 123F intensity |
+| Cap. 123H | Refuse and material-recovery chambers and chutes — `hk-building-services` |
+| Cap. 123I | Sanitary fitments, plumbing, drainage works, and latrines |
+| Cap. 123J | Ventilating systems |
+| Cap. 123K | Oil storage installations, with the 1992 oil-storage code |
+| Cap. 123L | Appeals |
+| Cap. 123M | Statutory OTTV hook for commercial buildings and hotels — numbers in APP-67, see `hk-building-sustainability` |
+| Cap. 123N / 123O | Minor works, and the fees regulation |
+| Cap. 123P | Mandatory building and window inspection — `hk-mandatory-inspection` |
+| Cap. 123Q | Operative construction-performance regulation. It replaced repealed Cap. 123B. It is performance-based; hard numbers live in codes accepted under PNAP APP-53 |
+| Cap. 123C | Demolition works |
+| Cap. 123D / 123E | Older lift and escalator building regulations, kept as repealed texts. Live control is Cap. 618 |
+
+Cap. 123B is repealed. Do not cite it as the current construction regulation.
+
+### 7.1 Private streets (Cap. 123G) — schematic locks
+
+Measure a dead-end along the carriageway centre line from the thoroughfare junction, not along the lot boundary. Keep dead-ends at or under **120 m**, or budget private-street widths from the start. Reduced access roads are for small low-rise clusters. Estate spines generally need the default **5.0 m** carriageway plus at least one **1.6 m** footpath. A pedestrian way must keep **3.5 m** clear after bollards and other protection. Phased estates must show a continuous street chain from day-one occupation.
+
+### 7.2 New Territories application (Cap. 121)
+
+Cap. 121 applies Cap. 123 to the New Territories (excluding New Kowloon), then allows a Lands Department certificate of exemption that switches off named Cap. 123 controls only if the finished building stays inside the Schedule dimensional envelopes and the certificate conditions are met. Building exemption is not automatic site-formation or drainage exemption. Three certificates may be needed (building, site formation, and drainage). Joint Practice Notes 4, 5, and 7 do not apply to Cap. 121 exempted buildings.
+
+## 8. Joint Practice Notes 1 to 9
+
+Optional or streamlining notes. They are not a grant of planning permission, lease modification, or Buildings Ordinance approval.
+
+| Note | Architect lock |
+|---|---|
+| JPN 1 | Optional GFA and site-coverage exemptions for listed green features on new projects that do not yet have an occupation permit. Hotels and non-domestic portions of composite buildings are not “residential”. All concessions sit under PNAP APP-151. Budget the APP-151 cap before stacking balcony, corridor, and sky garden. A sky-garden void connected to a residents’ recreational facility can sit outside that cap on tall residential |
+| JPN 2 | Second incentive package. Modular integrated construction was removed in July 2022; use JPN 8. Hotels have no utility-platform concession. Utility-platform re-entrant limit is **1,500 mm** (a balcony’s limit is 2,300 mm). Prefabricated external wall of 150 mm and a utility platform of 0.75 m² both sit under the APP-151 overall cap |
+| JPN 3 | Who processes the landscape submission, as against site coverage of greenery under APP-152. The Buildings Ordinance gives the Building Authority no power to impose landscape. Protect ground-level planting, podium gardens, and tree zones on the landscape layout plan |
+| JPN 4 | Aligns maximum plot ratio and GFA, accountability, and checking across Buildings Department, Lands Department, and Planning Department. Applies to new general building plans or major revisions submitted on or after **18 October 2021**. Not for Cap. 121 exempted buildings |
+| JPN 5 | Building-height restriction as a statutory-plan parameter (Planning Department lead). Does not change the Building Authority’s interpretation of building height for intensity or fire safety. Applies to new general building plans or major revisions on or after **15 May 2019**. Not for Cap. 121 exempted buildings |
+| JPN 6 | Checking of building separation and building setback. The dimensions are in PNAP APP-152. Site coverage of greenery is JPN 3 |
+| JPN 7 | Site-coverage restriction across the Buildings Ordinance, the outline zoning plan, and the lease. Not for Cap. 121 exempted buildings. Read with Lands Administration Office Practice Note 3/2020A where the lease contains a maximum GFA or plot ratio |
+| JPN 8 | Modular integrated construction — `hk-mic-dfma` |
+| JPN 9 | Bonus plot ratio pilot for private redevelopment in seven old districts named in the 2025 Policy Address. Administrative only. Freeze the path first: if “Flat” is not always permitted, section 16 permission has to exist before the lease-modification file, and the letter must still be executed inside three years. Test **700 m²** and the bonus base as two different areas. Government land, non-building area, and pre-pilot demolition or sale drop out of the 20% even when they help the size test; a retained graded historic building stays in both. Bonus GFA is 0.2 times the plan maximum (or the “R(A)” / over-61 m First Schedule fallback) on the bonus base only, never on a higher existing-building plot ratio. Encashment is a 10-year premium credit, not extra floor area. Do not stack this 20% on a receiving site under a transfer-of-plot-ratio cap without checking that scheme’s maximum GFA |
+
+---
+
+*Sources: Buildings Ordinance Cap. 123 (consolidated 1 March 2026) and Cap. 123A–123Q, Cap. 121 (2 August 2012), Joint Practice Notes Nos. 1–9, PNAP APP-2, APP-40, APP-67, APP-130, APP-151, APP-152, Code of Practice for Fire Safety in Buildings 2011, Design Manual: Barrier Free Access 2008, HKPSG.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-building-codes.md`, `references/catalogues/pnap-index.md`. The master router links these files directly.

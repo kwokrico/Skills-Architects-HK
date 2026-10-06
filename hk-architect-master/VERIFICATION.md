@@ -4,25 +4,19 @@ Run after changes to the HK Architect Master Suite. Expected behaviours referenc
 
 ## Prerequisites
 
-Install the dispatcher module before running tool tests (4, 5, 10):
+Calculator test 5 needs the package:
 
 ```bash
 pip install -e .
 ```
 
-Dispatcher tests can also be run via stdin:
+Topic text is read from the files linked in `SKILL.md`. It is not injected by `load_sub_skill`.
 
-```bash
-echo '{"tool":"load_sub_skill","arguments":{"skill_id":"hk-minor-works"}}' | python hk-architect-master/main.py
-```
-
-Programmatic use: `from hk_architect_skills.dispatcher import HKSkillsDispatcher`.
-
-## 1. Quick reference only (no sub-skill load)
+## 1. Quick reference only (no topic file)
 
 **Prompt:** "What is the maximum travel distance for a sprinklered domestic corridor in Hong Kong?"
 
-**Expected:** Answer from master §1.5 (45 m) with BO Reg. 41 / FS Code citation. Do not load `hk-fire-life-safety` unless the user asks for edge cases or a full fire strategy.
+**Expected:** Answer from [references/foundation.md](references/foundation.md) section 1.5 (45 m) with a Buildings Ordinance regulation 41 / Fire Safety Code citation. Do not open `hk-fire-life-safety` unless the user asks for edge cases or a full fire strategy.
 
 ## 2. Correct sub-skill routing
 
@@ -36,11 +30,11 @@ Programmatic use: `from hk_architect_skills.dispatcher import HKSkillsDispatcher
 
 **Expected:** **Halt** per `references/compliance.md` — list required inspections (BD BA14, FSD FSI/501, WSD, EMSD, UBW check). Do not certify OP. Offer `references/templates/op-readiness-matrix.md` structure.
 
-## 4. Dispatcher — minor works path
+## 4. Minor works file
 
-**Tool:** `load_sub_skill` with `skill_id`: `hk-minor-works`
+**Read:** `subskills/hk-minor-works/hk-minor-works.md`, linked from `SKILL.md`.
 
-**Expected:** `status: success`; file `subskills/hk-minor-works/hk-minor-works.md` loads (not `hk-minor-work.md`).
+**Expected:** The procedure file exists and does not contain the item-gate table. Item gates are in `references/catalogues/minor-works-items.md`, also linked from `SKILL.md`.
 
 ## 5. Calculator — GFA aggregator
 
@@ -72,8 +66,8 @@ Programmatic use: `from hk_architect_skills.dispatcher import HKSkillsDispatcher
 
 **Expected:** Lane 9 in construction sequence reference + `hk-procurement-strategy` for route context. Long-lead items on critical path from award.
 
-## 10. Dispatcher — construction programme
+## 10. Construction programme file
 
-**Tool:** `load_sub_skill` with `skill_id`: `hk-construction-programme`
+**Read:** `subskills/hk-construction-programme/hk-construction-programme.md` and `references/hk-construction-sequence-swimlanes.md`.
 
-**Expected:** `status: success`; `references_available` includes `hk-construction-sequence-swimlanes.md`.
+**Expected:** Both paths are linked from `SKILL.md`.

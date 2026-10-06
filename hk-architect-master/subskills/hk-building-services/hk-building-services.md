@@ -97,4 +97,37 @@ HVAC, plumbing, drainage, electrical, and FSD installation coordination.
 
 ---
 
-*Sources: CoP EE 2021 (EMSD), HK Wiring Regulations (EMSD), WSD Waterworks Regulations, DSD Stormwater Drainage Manual, BEAM Plus NB v2.0, Noise Control Ordinance Cap. 400, APCO Cap. 311.*
+## 7. Lifts and escalators (Cap. 618)
+
+Shaft, pit, and machine-room dimensions are not numbered in the Ordinance. Lock them to the current safety code of practice issued under section 145, and keep the use-permit duties on top of that code. Building works for lifts and escalators are also in the BD code of practice (2011, 2020 edition).
+
+| Point | Rule |
+|---|---|
+| What is a lift | A passenger lift, a larger goods lift, and a mechanized car-parking system are lifts and need the use-permit path. A service lift is inside Cap. 618 only while it stays at or below 250 kg, 1 m², and 1.2 m |
+| Travel | A goods or vehicle lift that travels more than 3.5 m, or that passes through a floor, is inside Cap. 618 even if it never carries passengers |
+| No passengers | Goods lifts, service lifts, and mechanized parking systems are the Schedule 4 list. Passenger travel in them is prohibited |
+| Permit display | Conspicuous in-car position on every passenger lift. A goods lift, service lift, or mechanized parking system has the permit at the main landing, not in the car |
+| Major alteration | Changing travel, rated load, rated speed, control type, guide-rail size, door interlocks, or the driving machine stops normal use until a resumption permit is issued |
+| Repealed building regulations | Cap. 123D (escalators) and Cap. 123E (lifts) are the older building regulations. Live lift and escalator safety control is Cap. 618 |
+
+Energy efficiency of lift and escalator installations is a Cap. 610 installation, not a Cap. 618 dimension.
+
+## 8. Electricity and gas (space-planning gates)
+
+**Cap. 406** regulates who may do electrical work and when a supply may be connected. It does not set switchroom clearances or bathroom zones; those sit in the wiring regulations (Cap. 406E) and the wiring code. Draw the fixed installation only up to the socket. Name a registered electrical contractor. A standby generator or photovoltaic system that supplies only the owner's own installation is not registered under section 21, but it must be maintained in continuous safe working order and is still a fixed installation under Cap. 406E. Allow time for the supplier's safety inspection before energising.
+
+**Cap. 51** regulates town gas, liquefied petroleum gas, natural gas, and mixtures. Cylinder storage whose aggregated nominal water capacity is more than **130 litres** is a store. A vessel of more than **150 litres** water capacity is bulk liquefied petroleum gas. An LPG store, including the pipework that leaves it, is a notifiable gas installation, as is a pressure-regulating installation of **30 standard cubic metres per hour** or more fed from intermediate or high pressure. Approved gas codes are the practical test of the regulations they support.
+
+## 9. Water supply (Cap. 102 and Cap. 102A)
+
+Draw the fire service and the inside service as separate systems. The consumer's pipe stops at the connexion: the control valve nearest the main, and everything between that valve and the main, is part of the main. A shared riser is a communal service and cannot be connected until there is an approved consumer and an approved agent. An unapproved installation or alteration, or a layout in which waste or pollution of the supply is likely, is a ground for a repair notice and for disconnection of both the fire service and the inside service. New construction and any alteration that could affect a reliable and adequate supply, or water quality, needs written Water Authority permission and a designated person. On leased land, confirm against the section 23 map in the Land Registry whether the lot is a gathering ground before freezing site drainage. Use a fire service only for fire fighting.
+
+## 10. Refuse chambers (Cap. 123H)
+
+Cap. 123H sizes refuse storage and material recovery chambers, vehicular-access triggers, floor-by-floor recovery rooms, and refuse-chute geometry. A single-staircase building, a single-family building, or a site of 500 m² or less is the early exemption path. A multi-stair domestic tower needs a refuse storage and material recovery room on every typical floor from the first core diagram. The chamber door must be in an outer wall. Reserve a vertical exhaust duct and roof terminal. A hopper lobby on a typical floor needs a permanent open-air ventilation strategy; do not place hoppers in a pressurised or fully enclosed air-conditioned common area without that open-air solution.
+
+---
+
+*Sources: CoP EE 2021 (EMSD), Electricity Ordinance Cap. 406 and Cap. 406E, Gas Safety Ordinance Cap. 51 and Cap. 51B / 51C, Lifts and Escalators Ordinance Cap. 618, Code of Practice for Lift Works and Escalator Works (2021 Edition), Code of Practice for Building Works for Lifts and Escalators 2011 (2020 Edition), Waterworks Ordinance Cap. 102 and Cap. 102A, Building (Refuse Storage and Material Recovery Chambers and Refuse Chutes) Regulations Cap. 123H, Noise Control Ordinance Cap. 400, Air Pollution Control Ordinance Cap. 311.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-building-services.md`. The master router links these files directly.

@@ -92,3 +92,5 @@ The final step after the Occupation Permit (OP) is issued by BD.
 ---
 *Sources: Lands Department Practice Notes (LDPN), Joint Practice Notes (JPN), Lands Department Legal Advisory and Conveyancing Office (LACO) Circular Memoranda.*
 ---
+
+Catalogue detail for this topic is in `references/catalogues/lands-documents.md`. The master router links these files directly.

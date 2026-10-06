@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Covers **planning-stage TIA** and **construction-stage TMP** coordination with Transport Department (TD) and Highways Department (HyD). Distinct from acoustic/EPD noise (`hk-acoustic-design`) and highway **handover** at CC (`hk-certificate-of-compliance`).
 
-**Deep reference:** `hk-td-submission-types.md` (via dispatcher `references_available`).
+**Deep reference:** read [hk-td-submission-types.md](../../references/hk-td-submission-types.md). The master router links this file directly.
 
 For **traffic consultant / TD / TMP / TIA**, use `hk-traffic-coordination`. For other topics, see the routing table below.
 

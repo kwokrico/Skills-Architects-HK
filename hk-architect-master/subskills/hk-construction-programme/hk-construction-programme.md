@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Contractor-side **construction sequencing and fast-tracking** for Hong Kong high-rise projects (archetype: B2/G15 RC residential tower). Distinct from client **programme governance** (`hk-project-management`), **AP/RSE statutory supervision** (`hk-site-supervision`), and **EOT/claims** (`hk-tender-contract-administration`).
 
-**Deep reference** (load via dispatcher `references_available`):
+**Deep reference** (also linked from the master router):
 - `../../references/hk-construction-sequence-swimlanes.md` — full 10-lane diagram (Traditional Chinese source) + HK mapping + RIBA Stage 5 bridge
 
 ---

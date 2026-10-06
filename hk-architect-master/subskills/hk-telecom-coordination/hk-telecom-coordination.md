@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Covers **licensed telecommunications works** and undertaker coordination during site establishment and construction. Distinct from **EMSD** (lifts/electrical), **CLP/HKE** (power), and **BD** building approval.
 
-**Deep reference:** `hk-ofca-licensed-works.md` (via dispatcher `references_available`).
+**Deep reference:** read [hk-ofca-licensed-works.md](../../references/hk-ofca-licensed-works.md). The master router links this file directly.
 
 **Halt:** Do not certify undertaker approval or excavation clearance without written undertaker confirmation. Verify current OFCA codes and undertaker requirements at project inception.
 

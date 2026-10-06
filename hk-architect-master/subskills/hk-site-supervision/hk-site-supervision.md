@@ -115,3 +115,5 @@ Program tip: include explicit float between practical completion and BA12/BA13 m
 ---
 
 *Sources to check on live projects: Buildings Ordinance Cap. 123, current PNAP series, accepted SSP guidance, approved plans and consent conditions, and latest BD form instructions.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-site-supervision.md`, `references/catalogues/pnrc-hk-site-supervision.md`, `references/catalogues/pnrc-index.md`. The master router links these files directly.

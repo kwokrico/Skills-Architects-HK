@@ -2,7 +2,7 @@
 
 ### A Tier 2 professional skill suite for Hong Kong architectural practice
 
-`Skills-Architects-HK` is a localized architecture plugin built around one master router (`hk-architect-master`) and **42** specialist subskills. It follows the [FUNC_Skills_Guideline](FUNC_Skills_Guideline/GUIDELINE.md) canonical layout: `subskills/`, `references/`, `scripts/`, and `evals/`.
+`Skills-Architects-HK` is a localized architecture skill built around one master router (`hk-architect-master`) and **47** specialist topic files. It follows the [FUNC_Skills_Guideline](FUNC_Skills_Guideline/GUIDELINE.md) canonical layout: `SKILL.md`, `subskills/`, `references/`, `scripts/`, and `evals/`.
 
 ---
 
@@ -25,30 +25,31 @@
 
 ## Quick Start
 
-### Option 1: Install as Python module (recommended)
+### Option 1: Claude Code or Cursor skill
+
+The entrance is `hk-architect-master/SKILL.md`. The agent reads a linked topic or catalogue file. It does not load topic text through `load_sub_skill`.
+
+Claude Code discovers a skill only when `SKILL.md` sits in `.claude/skills/<name>/` or `~/.claude/skills/<name>/`. This repo links the skill folder rather than copying it:
+
+```powershell
+New-Item -ItemType Directory -Force -Path .claude/skills
+New-Item -ItemType Junction -Path .claude/skills/hk-architect-master -Target (Resolve-Path ./hk-architect-master)
+```
+
+For a user-wide install, point the junction at the same folder from `~/.claude/skills/hk-architect-master`. Recreate the junction on a machine where it is missing. Do not copy the folder.
+
+### Option 2: Calculator package
 
 From the repo root:
 
 ```bash
 pip install -e .
+echo '{"tool":"run_hk_calculator","arguments":{"calc_type":"gfa_aggregator","data":{"floors":[{"area":500,"is_exempt":false}]}}}' | python hk-architect-master/main.py
 ```
 
-Dispatch skills tools from any host (Claude Desktop plugin, Architect Desk, scripts):
+Override the content root with `HK_ARCHITECT_SKILLS_ROOT` if needed. An older `load_sub_skill` call still returns a topic file for existing scripts. The skill instructions do not use that call.
 
-```bash
-echo '{"tool":"load_sub_skill","arguments":{"skill_id":"hk-building-codes"}}' | python hk-architect-master/main.py
-```
-
-Or programmatically:
-
-```python
-from hk_architect_skills.dispatcher import HKSkillsDispatcher
-HKSkillsDispatcher().dispatch("load_sub_skill", {"skill_id": "hk-building-codes"})
-```
-
-Override the content root with `HK_ARCHITECT_SKILLS_ROOT` if needed.
-
-### Option 2: Use directly in Claude Desktop
+### Option 3: Use directly in Claude Desktop
 
 1. Install the module: `pip install -e .`
 2. Point Claude at the plugin folder:
@@ -59,7 +60,7 @@ claude --plugin-dir "./hk-architect-master"
 
 3. Plugin `main.py` delegates to `hk_architect_skills`.
 
-### Option 3: Full HK Architect Desk (vault + RAG)
+### Option 4: Full HK Architect Desk (vault + RAG)
 
 Use the separate **Architect Desk-HK** application repo, which installs this package as a dependency:
 
@@ -73,10 +74,10 @@ pip install -e /path/to/Architect-Desk-HK
 ## What You Get
 
 - **1 master router skill**: `hk-architect-master` in `hk-architect-master/SKILL.md`
-- **42 subskills** across compliance, design, engineering, and delivery
-- **Built-in quick-reference layer** for common HK metrics and code checks
+- **47 subskills** across compliance, design, engineering, and delivery
+- **Built-in quick-reference layer** in `hk-architect-master/references/foundation.md`
 - **Calculation support** via `hk-architect-master/scripts/calculators.py`
-- **Structured routing** through `load_sub_skill` and calculator dispatch via `HKSkillsDispatcher`
+- **Routing by file link** from `SKILL.md` to one topic file and, when needed, one catalogue file
 
 ---
 
@@ -85,13 +86,13 @@ pip install -e /path/to/Architect-Desk-HK
 The system follows a progressive flow:
 
 1. **Quick answer first**  
-   The master skill checks if your question can be answered from built-in HK quick references (e.g., PNAP snapshots, travel distances, baseline zoning and envelope rules).
+   The master skill reads `references/foundation.md` for a routine table (travel distances, baseline zoning, envelope rules).
 
-2. **Route to a specialist when needed**  
-   For deeper queries, it dispatches to `subskills/<slug>/<slug>.md` via `load_sub_skill`.
+2. **Open one topic file**  
+   For a workflow or an edge case, it reads the `subskills/<slug>/<slug>.md` file linked from `SKILL.md`. Catalogue rows (minor-works items, practice notes, Lands documents, Fire Services Department circulars) stay in `references/catalogues/` and are opened only when a row is needed. `references/statutory/` is a copy of those Critical Summaries, and `hk_s_reference` remains the archive. These copies are not updated automatically.
 
 3. **Run computations for numeric checks**  
-   For calculation tasks, it calls calculator workflows through `run_hk_calculator`.
+   For calculation tasks, it calls `run_hk_calculator`, implemented in `scripts/calculators.py`.
 
 This keeps routine queries fast while preserving deep, domain-specific responses for complex work.
 
@@ -106,6 +107,7 @@ This keeps routine queries fast while preserving deep, domain-specific responses
 - `hk-fire-life-safety`
 - `hk-accessibility-design`
 - `hk-minor-works`
+- `hk-mandatory-inspection`
 - `hk-consent-scheduling`
 - `hk-alterations-additions`
 - `hk-lease-compliance`
@@ -142,6 +144,7 @@ This keeps routine queries fast while preserving deep, domain-specific responses
 - `hk-cashflow-debt-recovery`
 - `hk-project-resource-levelling`
 - `hk-professional-indemnity`
+- `hk-professional-conduct`
 - `hk-op-submission-strategy`
 - `hk-practical-completion-snagging`
 - `hk-heritage-conservation`
@@ -180,12 +183,14 @@ Skills-Architects-HK/
 ├── hk-architect-master/           # Tier 2 skill (GUIDELINE.md layout)
 │   ├── SKILL.md                   # Master router: hk-architect-master
 │   ├── main.py                    # Claude plugin stdin entry
-│   ├── subskills/                 # 42 specialist modules
+│   ├── subskills/                 # specialist modules
 │   ├── references/
+│   │   ├── foundation.md          # Routine lookup tables
 │   │   ├── compliance.md
 │   │   ├── operational.md
 │   │   ├── domain_terms.json
 │   │   ├── config.json
+│   │   ├── catalogues/            # Item, practice-note, and circular rows
 │   │   ├── templates/
 │   │   └── hk-*.md                # Module deep-dives
 │   ├── scripts/
@@ -200,6 +205,8 @@ Skills-Architects-HK/
 │   └── core/calculators.py        # Re-export shim → scripts/
 └── hk-architect-master-workspace/ # Eval outputs (gitignored)
 ```
+
+`.claude/skills/hk-architect-master` is a directory junction to `hk-architect-master/` so Claude Code can discover `SKILL.md`. Recreate it with the Quick Start command if it is missing.
 
 For **Cursor**, optional activation rule: [`.cursor/rules/hk-architect-skills.mdc`](.cursor/rules/hk-architect-skills.mdc).
 

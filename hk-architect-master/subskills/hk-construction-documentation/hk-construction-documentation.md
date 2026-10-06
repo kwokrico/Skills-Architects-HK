@@ -82,3 +82,5 @@ BD submission packages, AP/RSE drawings, GS, compliance documentation.
 ---
 
 *Sources: Buildings Ordinance Cap. 123, Building (Minor Works) Regulation Cap. 123N, PNAP APP-2/APP-40/APP-130/APP-152/ADV-36/ADV-49, General Specification for Building (DEVB), HA Standard Specification.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-construction-documentation.md`. The master router links these files directly.

@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 Process **checklists** for Hong Kong building projects aligned to the RIBA Plan of Work. For **what to issue** at each stage (drawings, transmittals, scales), use `hk-deliverables-workstages`. For **client PM governance**, use `hk-project-management`.
 
-**Full checklists:** load `../../references/hk-pow-stages-0-7.md` (available via dispatcher `references_available`).
+**Full checklists:** read [hk-pow-stages-0-7.md](../../references/hk-pow-stages-0-7.md). The master router links this file directly.
 
 ---
 

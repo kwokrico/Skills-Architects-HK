@@ -82,8 +82,31 @@ Selection of frequently used items in Hong Kong commercial and residential proje
 
 ---
 
-## 5. Reference Materials
+## 5. Signboard Control System
+
+Erection of a signboard is building works. Unless it falls inside the minor-works specifications, approval of plans and consent are required before it is erected or altered. The Buildings Department’s fast-track processing service may give approval and consent within **30 days**. A very small signboard fixed to an external wall needs neither prior approval nor appointment of a building professional or registered contractor only where the published page’s conditions are all met, including no additional load to any cantilevered slab and no alteration of any other structural element.
+
+| Type | Positional rule printed on the BD page |
+|---|---|
+| Wall signboard | Fixed to the external wall; no part projects more than **600 mm** |
+| Projecting signboard | Fixed to the external wall and projects **more than 600 mm** |
+| Roof signboard | No portion within **1.5 m** of the inside face of the roof parapet or curb |
+
+Unauthorised signboards can be the subject of a section 24(2)(c) removal order. Failure to comply is an offence (maximum imprisonment of one year, maximum fine of HK$200,000, and a daily fine of HK$20,000).
+
+### 5.1 Validation of an existing unauthorised signboard
+
+Validation is a way to retain an existing unauthorised signboard. It is not a consent path for a new signboard. Date the signboard before **2 September 2013** and match it to a row of the eligible-items table before offering validation. Class I validation needs an authorized person and, unless the signboard is a specified construction, a registered structural engineer. Strengthening of a Class I or Class II signboard is notified at least **7 days** before it starts. File the inspection certificate within **14 days**. The inspection date on the form, where no strengthening is involved, starts the **5-year** validation period. The owner undertakes to keep the signboard structurally safe and to remove it and notify the Buildings Department when the business ceases. A signboard on common parts needs liaison with the co-owners, the owners’ corporation, or the manager about the right to use those parts.
+
+Keep projecting signboards within the published diagram: **4.2 m** projection, **2.4 m** lateral spacing, **3 m** opposite-side spacing, **3.5 m** over the footway, and **5.8 m** over the carriageway. A spread footing eligible for validation is display area ≤ 1 m², thickness ≤ 300 mm, height ≤ 3 m, and footing excavation ≤ 500 mm. Leave a face for a **35 mm** validation number.
+
+Abandoned or dangerous signboards (a blank panel, a sign for a shop no longer in the building, rust, a loose anchor, a crack at the fixing, or a torn face) are identified for a dangerous-structure removal notice. That notice is not a sizing guide for a new signboard.
+
+## 6. Reference Materials
 * **PNAP APP-147:** Technical Guidelines on Minor Works Control System (The primary reference).
 * **PNAP APP-148:** Validation Scheme for Unauthorised Minor Works.
 * **PNAP APP-110:** Requirements for Windows and Glass Walls.
-* **Building (Minor Works) Regulation:** Subsidiary legislation of Cap. 123.
+* **Building (Minor Works) Regulation (Cap. 123N)** and the fees regulation (Cap. 123O).
+* **PNRC-75** and the signboard-validation addendum for the five-year validation procedure.
+
+Catalogue detail for this topic is in `references/catalogues/minor-works-items.md`, `references/catalogues/minor-works-categories.md`, `references/catalogues/minor-works-designated-exempted.md`, `references/catalogues/pnap-hk-minor-works.md`, `references/catalogues/pnrc-hk-minor-works.md`. The master router links these files directly.

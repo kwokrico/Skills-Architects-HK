@@ -97,4 +97,16 @@ Use this as early-stage feasibility logic before detailed BD/Lands submissions.
 
 ---
 
-*Reference basis: Hong Kong MiC implementation practice, PNAP ADV-36 context, project-specific land-sale MiC conditions, and standard BD/Lands submission workflows. Confirm latest circulars and site conditions at project inception.*
+## 6. Joint Practice Note No. 8
+
+JPN 8 is the MiC incentive note for new general building plans or major revisions submitted on or after **1 August 2022**. It supersedes the MiC content formerly in JPN 2 and in repealed PNAP APP-161. Plans the Building Authority approved before JPN 8 may still be read against the September 2019 JPN 2 and repealed APP-161, which disregarded **6%** of MiC floor area.
+
+For a current submission, JPN 8 disregards **10%** of MiC floor area from gross floor area, and **10%** of MiC floor area at each floor from site coverage. That GFA disregard is **outside** the 10% overall cap in PNAP APP-151. The note also supports up to **4%** additional building height based on the total storey height of qualifying MiC floors, across the Buildings Ordinance, a section 16 minor-relaxation path, and a fast-track lease modification. Areas already exempt as green or amenity features (balcony, utility platform, common corridor or lobby, non-structural prefabricated external wall) may still be included in MiC floor area when working out the 10%.
+
+The 6% to 10% sensitivity band in Section 2 remains a screening range for older approvals and for lease conditions that do not adopt JPN 8. Do not apply the 6% legacy figure to a general building plan submitted on or after 1 August 2022.
+
+---
+
+*Reference basis: Joint Practice Note No. 8 (submissions on or after 1 August 2022), PNAP APP-151, repealed PNAP APP-161 for pre-JPN 8 approvals, project-specific land-sale MiC conditions, and standard BD/Lands submission workflows.*
+
+Catalogue detail for this topic is in `references/catalogues/pnap-hk-mic-dfma.md`. The master router links these files directly.
