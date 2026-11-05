@@ -8,6 +8,7 @@ alwaysApply: false
 When the user's request involves Hong Kong architecture, Buildings Ordinance, PNAP, OZP, fire safety (FS Code), BEAM Plus, BD/FSD submissions, procurement, construction sequencing (工序穿插, fast-tracking, hold points), or HK contract administration:
 
 1. Read and follow `hk-architect-master/SKILL.md` (master router) and `hk-architect-master/references/compliance.md` halt rules.
+   Before recalling or saving context with an authorized memory tool, follow `hk-architect-master/references/memory-writing.md`, including before routine lookups. SQL-backed adapters also use `hk-architect-master/references/memory-sql.md`. Memory is optional; this suite provides no store.
 2. Read the topic or catalogue file the router links. Do not load topic text through `load_sub_skill`.
 3. For a supported numeric check, run `run_hk_calculator` via `hk-architect-master/main.py`. The functions live in `hk-architect-master/scripts/calculators.py`.
 4. For **Project Vault**, site facts, or massing briefs — use the separate **Architect Desk-HK** app (`architect_desk` package), not this repo.
