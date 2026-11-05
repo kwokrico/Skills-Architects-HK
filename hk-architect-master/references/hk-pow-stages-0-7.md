@@ -98,7 +98,7 @@ Bilingual task checklists localised for Hong Kong. Apply substitutions in `hk-pl
 
 ## STAGE 1 — Preparation and Briefing | 準備與簡介
 
-**HK reminders:** RACI (`hk-project-management`); statutory obligations — BD, PlanD, LandsD, EPD, FSD; procurement options.
+**HK reminders:** RACI (`hk-project-management`); statutory obligations — BD, PlanD, LandsD, EPD, FSD; procurement options. Ordinances on the F1_2A list that are not yet in the suite: `references/catalogues/f1-2a-legislation-pending.md`.
 
 ### 1.1 Client Team | 客戶團隊
 

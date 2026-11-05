@@ -20,6 +20,7 @@ Hard stops are in [references/compliance.md](references/compliance.md). Intake a
 ## Read order
 
 1. Apply [references/compliance.md](references/compliance.md). Stop when a hard-stop rule matches.
+   Before recalling or saving context with an authorized memory tool, read [references/memory-writing.md](references/memory-writing.md), including before routine lookups. Memory is optional; this suite provides no store. SQL-backed adapters also use [references/memory-sql.md](references/memory-sql.md).
 2. For a routine single-table lookup, read [references/foundation.md](references/foundation.md) and stop if that table answers the question.
 3. Open one topic file from the list below. Open a catalogue on the same line only when the question needs an item gate, practice note, circular, or index row. Open one Critical Summary in the linked statutory folder only when that catalogue row is too thin.
 4. For a requested deliverable shell, use [references/templates/](references/templates/).
@@ -73,6 +74,7 @@ Hard stops are in [references/compliance.md](references/compliance.md). Intake a
 - Cost and quantity surveying: [hk-cost-consultancy](subskills/hk-cost-consultancy/hk-cost-consultancy.md).
 - Site health and safety (not the building fire code): [hk-construction-health-safety](subskills/hk-construction-health-safety/hk-construction-health-safety.md). Practice-note rows: [pnap-hk-construction-health-safety](references/catalogues/pnap-hk-construction-health-safety.md). Source summaries: [pnap](references/statutory/pnap/). Contractor notes: [pnrc-hk-construction-health-safety](references/catalogues/pnrc-hk-construction-health-safety.md). Source contractor notes: [pnrc](references/statutory/pnrc/).
 - Project management and client delivery: [hk-project-management](subskills/hk-project-management/hk-project-management.md).
+- Project-planning ordinances still without a source: [f1-2a-legislation-pending](references/catalogues/f1-2a-legislation-pending.md).
 - Broad regulatory overview before a specialist topic: [hk-architect-foundations](subskills/hk-architect-foundations/hk-architect-foundations.md).
 
 When two topics overlap, open the earlier one in this order and use the later one only for the extra duty:
