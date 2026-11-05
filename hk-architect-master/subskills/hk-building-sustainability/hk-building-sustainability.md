@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Building Sustainability
 
+For **Cap. 403 refrigerant selection, replacement, recovery and scheduled-HFC supply controls**, use [environmental site controls](../../references/hk-environmental-site-controls.md#cap-403--ozone-layer-protection-ordinance). Cap. 311 air/process/asbestos, Cap. 358 discharge and Cap. 354 waste gates are in the same reference; read only the applicable section. BEAM Plus or an EIA environmental permit does not establish those separate approvals.
+
 Covers BEAM Plus rating system, OTTV/RTTV compliance, energy codes, and climate-responsive design for Hong Kong (ASHRAE CZ 1A — hot-humid subtropical).
 
 For **BEAM Plus / energy performance strategy**, use `hk-building-sustainability`. For other topics, see the routing table below.

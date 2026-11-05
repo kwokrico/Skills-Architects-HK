@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Acoustic Design
 
+For **worker hearing loss or Cap. 469 Occupational Deafness (Compensation)**, route to `hk-construction-health-safety` and the [Cap. 469 workflow](../../references/hk-labour-safety-legislation.md#cap-469--occupational-deafness-compensation-ordinance). Community/building noise under Cap. 400, occupational noise prevention under Cap. 59 and compensation eligibility are separate assessments.
+
 Primary references: EPD Technical Memorandum on Noise (TME), EIAO Technical Memorandum, Noise Control Ordinance Cap. 400. BEAM Plus NB IEQ acoustic credits.
 
 For **Facade or room acoustic specification**, use `hk-acoustic-design`. For other topics, see the routing table below.

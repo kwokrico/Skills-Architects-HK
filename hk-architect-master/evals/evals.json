@@ -72,6 +72,132 @@
         "The response mentions protection or diversion of telecom plant before excavation",
         "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts"
       ]
+    },
+    {
+      "id": 7,
+      "slug": "eval-subcontract-wages-and-dispute",
+      "prompt": "A subcontractor stopped paying workers and they threaten to stop work. The main contractor says our latest payment certificate proves wages were paid. What should the architect do?",
+      "expected_output": "Apply Caps. 55 and 57: identify employer/subcontract chain, preserve wage/attendance and notice evidence, refer to LD conciliation and assess statutory upstream wage liability and deadlines separately from contract certification.",
+      "assertions": [
+        "Does not treat a payment certificate as evidence of payment to workers",
+        "Identifies potential principal/superior-contractor wage liability and checks written notice deadlines",
+        "Separates labour-dispute resolution from contract deductions and extension-of-time entitlement"
+      ],
+      "files": []
+    },
+    {
+      "id": 8,
+      "slug": "eval-overseas-employment-scope",
+      "prompt": "Our Hong Kong practice is sending an architect to a Mainland project for two weeks. Does Cap. 78 automatically require contract attestation? What facts are needed?",
+      "expected_output": "Check employer presence/business in Hong Kong, employee category and wages; distinguish every overseas assignment from the specific external-employer arrangement; attestation is before departure if applicable.",
+      "assertions": [
+        "Does not apply Cap. 78 automatically to an overseas assignment",
+        "Asks for or identifies actual employer location/business and employee category/pay",
+        "Explains pre-departure written-contract attestation for covered arrangements"
+      ],
+      "files": []
+    },
+    {
+      "id": 9,
+      "slug": "eval-work-injury-two-reporting-regimes",
+      "prompt": "A subcontract worker was admitted to hospital after falling during A&A in an occupied office. The contractor proposes to wait 14 days and send Form 2 only. The landlord controls the access stairs. Is that sufficient?",
+      "expected_output": "Identify separate Cap. 282 compensation and Cap. 509 workplace reporting, urgent serious-injury notification, employer and occupier control of access, and insurance evidence; no blanket conclusion that Form 2 discharges all duties.",
+      "assertions": [
+        "Flags urgent Cap. 509 notification rather than waiting 14 days",
+        "Distinguishes compensation reporting from workplace notification and checks overlap conditions",
+        "Addresses employer and landlord/occupier control of access",
+        "Requires incident/medical and insurance records without certifying liability"
+      ],
+      "files": []
+    },
+    {
+      "id": 10,
+      "slug": "eval-occupational-disease-and-oshc",
+      "prompt": "An asbestos-removal worker reports lung disease and another worker reports hearing loss after years of noisy work. Does our Cap. 400 noise assessment and OSHC training settle their compensation entitlement?",
+      "expected_output": "Separate Caps. 360 and 469 disease compensation and medical/occupational assessment from Cap. 400 community noise and Cap. 398 OSHC training; retain exposure/employment history and refer to the relevant claim bodies.",
+      "assertions": [
+        "Separates pneumoconiosis/mesothelioma and occupational deafness compensation pathways",
+        "Does not use Cap. 400 compliance or OSHC training as proof of claim eligibility",
+        "Retains exposure/employment evidence and refers diagnosis/eligibility to relevant specialists or boards"
+      ],
+      "files": []
+    },
+    {
+      "id": 11,
+      "slug": "eval-temporary-builders-lift",
+      "prompt": "The contractor wants to use a newly installed builders' lift tomorrow, citing our permanent lift's Cap. 618 permit. What evidence do we need?",
+      "expected_output": "Classify temporary equipment under Cap. 470, distinguish builders' lift/tower platform from Cap. 618 lift, material hoist and suspended platform, and obtain installation examination/testing and EMSD endorsement plus owner/registered-party evidence.",
+      "assertions": [
+        "Does not accept a permanent lift permit as authorisation for temporary builders' lift use",
+        "Identifies EMSD/Cap. 470 registered-party and examination evidence",
+        "Checks the required endorsement before use and continuing records"
+      ],
+      "files": []
+    },
+    {
+      "id": 12,
+      "slug": "eval-pressure-and-radiation-plant",
+      "prompt": "A hospital fit-out includes a steam boiler and X-ray suite. We have EPD fuel-burning approval and want to order the apparatus now. What other gates affect the layout and programme?",
+      "expected_output": "Cap. 56 registration and Certificate of Fitness remain separate from Cap. 311 approval; Cap. 303 licence is required before relevant possession/activity, with specialist shielding and access/maintenance coordination.",
+      "assertions": [
+        "Separates pressure-equipment registration/fitness from fuel-burning approval",
+        "Identifies Radiation Board licensing before relevant possession/activity",
+        "Requires specialist shielding and equipment-specific design rather than inventing clearances or lead thickness"
+      ],
+      "files": []
+    },
+    {
+      "id": 13,
+      "slug": "eval-asbestos-runoff-and-waste",
+      "prompt": "For an A&A contract worth HK$2 million, we plan to strip suspect asbestos, pump muddy water to a storm drain and send all waste to a public fill facility. Our EIA permit is approved. What needs changing?",
+      "expected_output": "Apply Caps. 311, 354 and 358 independently: investigate suspect asbestos with registered specialists, identify chemical waste/authorised destinations, open the contract-specific waste account, and license/treat controlled runoff before discharge.",
+      "assertions": [
+        "Does not treat the EIA permit as replacing air/asbestos, waste or discharge controls",
+        "Does not assume muddy runoff is exempt unpolluted water",
+        "Separates asbestos/chemical waste from inert public fill and requires appropriate disposal evidence",
+        "Identifies the contract-specific construction-waste account requirement"
+      ],
+      "files": []
+    },
+    {
+      "id": 14,
+      "slug": "eval-marine-wetland-mobilisation",
+      "prompt": "A waterfront project near Deep Bay includes an outfall, dredging, sea disposal and temporary barge anchoring possibly inside a marine park. Is planning permission enough to mobilise?",
+      "expected_output": "Screen Cap. 127 authorisation, Cap. 313A navigation notice/directions, Cap. 466 dumping permit distinct from allocation, Cap. 476 activity controls, Ramsar/WCA/WBA boundaries and local planning/EIA requirements; verify actual designation and permits.",
+      "assertions": [
+        "Separates foreshore, navigation and dumping gates from planning permission",
+        "Does not treat disposal allocation as a dumping permit",
+        "Checks marine-park activity restrictions rather than assuming a general permit authorises dredging",
+        "Distinguishes Ramsar treaty context from local statutory controls and checks actual boundaries",
+        "Qualifies old PNAP ADV-21 detail by source date"
+      ],
+      "files": []
+    },
+    {
+      "id": 15,
+      "slug": "eval-hfc-dangerous-goods-transition",
+      "prompt": "We are replacing chillers with an imported HFC system, storing refrigerants and removing old CFC plant. Can we use the old Category 5 tank exemption and assume low ozone impact means the alternative is safe?",
+      "expected_output": "Apply Cap. 403 scheduled-HFC import/export and quota controls, controlled-refrigerant recovery rules, and current Cap. 295E/G classification and authority/exemption assessment; separately screen flammable/toxic alternatives and Cap. 51 gases.",
+      "assertions": [
+        "Recognises scheduled-HFC controls effective from December 2025",
+        "Does not apply historical Category 5 exemptions as the current DG classification test",
+        "Requires substance/inventory and authority assessment including the Cap. 51 boundary",
+        "Checks applicable approved recovery equipment and separate refrigerant safety"
+      ],
+      "files": []
+    },
+    {
+      "id": 16,
+      "slug": "eval-road-load-and-watercourse",
+      "prompt": "A MiC delivery will cross a rural watercourse on a new temporary culvert. We have a TMP and a TD 298 movement permit. Can the loaded wide vehicle go ahead?",
+      "expected_output": "Check Cap. 374 loading/route and relevant long/wide-load permits separately from TD 298/TMP; establish Cap. 446 main-watercourse designation and DSD consent before culvert works, plus Cap. 28 excavation permission where public road opening is involved.",
+      "assertions": [
+        "Does not treat TMP or movement permit as a universal wide-load authorisation",
+        "Identifies TD long/wide-load permit assessment and actual route conditions",
+        "Checks designated main-watercourse plans and Drainage Authority consent independently",
+        "Separates any road excavation permission from Cap. 374 vehicle controls"
+      ],
+      "files": []
     }
   ]
 }

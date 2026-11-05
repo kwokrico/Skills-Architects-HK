@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Site Establishment (假設工程)
 
+For **Cap. 354 construction/chemical waste, Cap. 358 runoff/dewatering, Cap. 311 dust/asbestos or Cap. 466 marine disposal**, apply the relevant [environmental site controls](../../references/hk-environmental-site-controls.md) before the activity starts. For marine mobilisation, use [coastal and wetland controls](../../references/hk-coastal-wetland-controls.md), especially Cap. 313/313A navigation notices; foreshore authorisation, dumping permits and navigation requirements are independent gates. Labour/insurance and temporary access plant: [labour and safety legislation](../../references/hk-labour-safety-legislation.md).
+
 Execution playbook for **lane 1** — site mobilisation before main excavation and structure. Distinct from statutory consent timing (`hk-consent-scheduling`), programme sequencing (`hk-construction-programme`), and client governance (`hk-project-management`).
 
 **Deep references** (also linked from the master router):

@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Spatial Planning
 
+For **Cap. 127 foreshore/sea-bed undertakings, Cap. 476 marine parks/reserves and Ramsar wetlands**, read [coastal and wetland controls](../../references/hk-coastal-wetland-controls.md) at feasibility stage. Map temporary as well as permanent works and keep planning, Lands, AFCD, MD and EPD decisions separate. For a designated main watercourse, also read [Cap. 446 land drainage](../../references/hk-specialist-plant-drainage.md#cap-446--land-drainage-ordinance).
+
 Covers Outline Zoning Plans, HKPSG, planning applications, AVA, and urban design development control.
 
 For **Planning application / zoning**, use `hk-spatial-planning`. For other topics, see the routing table below.

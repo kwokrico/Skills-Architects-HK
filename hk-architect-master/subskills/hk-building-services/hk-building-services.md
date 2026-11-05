@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Building Services
 
+For **Cap. 56 pressure equipment, Cap. 303 radiation apparatus or Cap. 446 main watercourses**, read [specialist plant and drainage](../../references/hk-specialist-plant-drainage.md) before fixing plant rooms or drainage layouts. For **Caps. 311/311A air and fuel-burning plant, 358 discharge and 403 refrigerants**, read the relevant section of [environmental site controls](../../references/hk-environmental-site-controls.md), which links the integrated statutory summaries. These approvals are separate from ordinary services coordination. For fuel/chemical inventories also check [Cap. 295 dangerous goods](../../references/hk-dangerous-goods-controls.md).
+
 Key authorities: EMSD (electrical/energy), WSD (water supply), DSD (drainage), EPD (environment), FSD (fire services). Primary codes: CoP EE 2021, HK Wiring Regulations, WSD Waterworks Regulations, DSD Stormwater Drainage Manual.
 
 For **MEP systems and BD/FSD interfaces**, use `hk-building-services`. For other topics, see the routing table below.

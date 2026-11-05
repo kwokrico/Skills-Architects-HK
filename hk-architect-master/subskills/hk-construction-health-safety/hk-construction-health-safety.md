@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Construction Health & Safety
 
+For labour disputes, wages, overseas employment, injury/disease compensation, occupational deafness, OSHC, temporary builders' lifts and employer/occupier duties, read the relevant chapter in [labour and safety legislation](../../references/hk-labour-safety-legislation.md): Caps. 55, 57, 78, 282, 360, 398, 469, 470 and 509. For asbestos, contaminated runoff and waste, use [environmental site controls](../../references/hk-environmental-site-controls.md). Cap. 59 coverage below is principally Cap. 59I site precautions, not the whole subsidiary-legislation suite.
+
 Execution playbook for the **Health & Safety Advisor** role on Hong Kong building projects. Distinct from building fire/life-safety code (`hk-fire-life-safety`) — this skill covers **site construction safety**, CDM-style coordination, and occupational health interfaces.
 
 For **Construction site safety plan / accidents**, use `hk-construction-health-safety`. For other topics, see the routing table below.
@@ -195,7 +197,7 @@ These regulations set site duties. They are not a structural design code and the
 - Keep existing means of escape and fire-fighting appliances clear for the whole of the works. Set crane and scaffold zones off live overhead cables unless the cable is dead or a barrier keeps the lifting appliance clear.
 - Reserve site area for separate latrines where both sexes will be employed, and for a covered shelter with drinking water, before the programme assumes the whole site is building footprint.
 
-The parent ordinances are the Factories and Industrial Undertakings Ordinance (Cap. 59) and the Occupational Safety and Health Ordinance (Cap. 509).
+Cap. 59I is subsidiary legislation under the Factories and Industrial Undertakings Ordinance (Cap. 59). The Occupational Safety and Health Ordinance (Cap. 509) adds its own workplace duties and reporting/enforcement provisions; use the linked chapter workflow rather than treating it as another parent of Cap. 59I.
 
 ---
 

@@ -109,6 +109,16 @@ Load `hk-td-submission-types.md` for submission type table.
 - **HyD:** design and **handover** of public highway assets (roads, footpaths) under grant — `hk-certificate-of-compliance` §4.
 - Private internal roads vs public highway: confirm boundary on lease plan and survey.
 
+### 7.1 Road Traffic Ordinance (Cap. 374)
+
+**Trigger:** construction vehicles, abnormal deliveries or changes affecting traffic on a road. **Authority:** TD for relevant traffic/licensing controls, with Police and HyD interfaces. Identify the vehicle operator, haulage contractor and works permit holder.
+
+**Action:** verify vehicle/loading restrictions, route, time windows and the required permits under Cap. 374 and its subsidiary legislation before dispatch. TD lists **TD 290** for long/wide loads and **TD 298** for vehicle movement permits; they serve different purposes, and a movement permit must not be assumed to authorise an oversized loaded delivery. Coordinate the actual permit conditions with the TMP/TTA.
+
+**Evidence:** vehicle/load dimensions and weights, route assessment, applicable permits, traffic arrangements and written authority conditions. A TIA or TMP is not itself a vehicle/load permit. Highway excavation permission is a separate **Cap. 28** regime; check the HyD excavation-permit process where the road is to be opened.
+
+Sources checked 6 November 2026: [TD permit forms](https://www.td.gov.hk/en/public_forms/td_forms/permit/), [TD 298 conditions](https://www.td.gov.hk/filemanager/en/content_5118/td298_eng.pdf), [HyD Excavation Permit Processing Manual](https://www.hyd.gov.hk/en/technical_references/technical_document/xppm/manual/doc/consolidated_version.pdf). Confirm current form, restrictions and authority conditions for the actual movement.
+
 ---
 
 ## 8. Programme and Risk

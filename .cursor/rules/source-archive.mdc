@@ -1,0 +1,18 @@
+---
+description: Archive sources in hk_s_reference/SS after they are cross-checked and integrated into hk-architect-master
+alwaysApply: true
+---
+
+# Source archive after skill integration
+
+When the user asks to cross-check a source and integrate it into `hk-architect-master`:
+
+1. Finish extraction and skill integration first, including compliance checks.
+2. Then archive every source file used for that request (pdf, txt, md, and any other format) under `hk_s_reference/SS`.
+3. Move a file that is already in the repo and outside both `hk_s_reference/SS` and the standing topic library. Copy a file that lives outside the repo. Leave a file that is already under `hk_s_reference/SS`.
+4. Keep the original filename. A folder of files keeps its folder name: `hk_s_reference/SS/<source-folder>/...`. A single file goes to `hk_s_reference/SS/<filename>`, or `hk_s_reference/SS/<short-name>/<filename>` only when that filename is already taken.
+5. Point new citations in `hk-architect-master` (references, catalogues, and subskill source lines) at the archived path. This repo has no `source-register.md`; do not create one.
+6. Do not archive skill files, indexes (`_CS_INVENTORY.md`, `DOCUMENTS_WITHOUT_CS.md`, `STATUTORY_GAPS.md`, table markdown), scripts, audit notes, or files already filed in a topic folder under `hk_s_reference` (including existing `source_reference` trees). Those stay where the catalogues already link them.
+7. Report the archived path once the move or copy is done.
+
+Example: a PDF dropped at the repo root for a cross-check ends at `hk_s_reference/SS/example-note.pdf`, and the new skill citation links to that path.

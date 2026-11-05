@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # HK Fire Life Safety
 
+For **Cap. 295 dangerous-goods storage, use, manufacture or conveyance**, read [dangerous-goods controls](../../references/hk-dangerous-goods-controls.md). Classify the substance/activity and establish the current Cap. 295E/295G exemption or licence position before freezing the store or tank layout. Older Category 5 circulars and blasting practice notes have narrower scopes and do not replace that assessment.
+
 Primary codes: Code of Practice for Fire Safety in Buildings 2011 (FS Code) + Buildings Ordinance Cap. 123 Reg. 41. Approving authorities: FSD (fire services installations) + BD (means of escape).
 
 For **Fire strategy and travel distance**, use `hk-fire-life-safety`. For other topics, see the routing table below.
