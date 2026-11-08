@@ -33,7 +33,7 @@ Pre-construction, hoarding, temporary works, utility diversion, mobilisation.
 ## 1. Scope and Position
 
 - **This skill:** What must be in place on the ground before excavation and bulk works — hoarding, utilities, permits, neighbours, PCI.
-- **Not this skill:** AP site inspection hold points during superstructure (`hk-site-supervision`); OP/BA14 completion certification (`hk-op-submission-strategy`).
+- **Not this skill:** AP site inspection hold points during superstructure (`hk-site-supervision`); OP and completion certification (`hk-op-submission-strategy`).
 - **Stakeholder index:** Load `hk-construction-stakeholder-register.md` for the full party map by phase.
 
 ---
@@ -45,7 +45,7 @@ Before hoarding erection or bulk excavation, confirm:
 | Gate | Requirement | Cross-reference |
 |------|-------------|-----------------|
 | Plans | Approved E&S / hoarding drawings | `hk-construction-documentation` |
-| Consent | Form BA8 granted (or concurrent path active) | `hk-consent-scheduling` |
+| Consent | Applicable consent granted following BA8 application; concurrent submission alone is not consent | `hk-consent-scheduling` |
 | Supervision | SSP accepted by BD | `hk-site-supervision` |
 | Contractor | RGBC / RSC appointed | `hk-consent-scheduling` §2.1 |
 | Insurance | CAR, third-party, PI as per contract | `hk-professional-indemnity` |
@@ -74,7 +74,7 @@ Use `hk-site-establishment-checklist.md` with N/A / Pending / Cleared status per
 
 ### 3.2 Permits and approvals
 
-- Hoarding/scaffolding approval is tied to **approved plans and land conditions**, not to **Form BA14** (completion certificate for finished works packages / OP pathway).
+- Check the applicable hoarding/covered-walkway/gantry permit under Building (Planning) Regulations Part IX (BA19 / APP-23), approved plans and land conditions. BA14 is a completion form, not a hoarding permit or new-building OP application.
 - Coordinate hoarding footprint with **TMP** before erection (`hk-traffic-coordination`).
 - LandsD DLO may impose additional conditions on government grant sites.
 
@@ -142,7 +142,7 @@ Contractor mobilisation documents (review, not duplicate): safety plan, method s
 - Align with swimlane **lane 1** (`hk-construction-sequence-swimlanes.md`).
 - Typical lane 1 duration: **4–12 weeks** depending on diversions and permits (verify per site).
 - Critical path candidates: telecom/power diversion, TD TMP approval, EPD CNP, LandsD hoarding clearance.
-- Do not start lane 2 (excavation) until gate checklist cleared or client accepts documented residual risk.
+- Do not start excavation until applicable consent, permit and safety gates are cleared. Client acceptance of residual risk cannot waive statutory permission or engineering protections.
 
 ---
 

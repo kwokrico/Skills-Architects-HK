@@ -31,8 +31,7 @@ Halt synthesis and request human review when:
 
 | Metric | Threshold | Source |
 |--------|-----------|--------|
-| Domestic travel distance (sprinklered) | ≤ 45 m | BO Reg. 41 / FS Code 2011 |
-| Domestic travel distance (unsprinklered) | ≤ 30 m | BO Reg. 41 / FS Code 2011 |
+| Domestic travel distance | Depends on path and exit arrangement; see [travel-distance guidance](hk-travel-distance.md) | FS Code B11 |
 | OTTV (non-domestic, BEAM Plus target) | ≤ 20 W/m² | BEAM Plus NB |
 | RTTV (roof, BEAM Plus target) | ≤ 25 W/m² | BEAM Plus NB |
 | Podium greenery (typical PNAP APP-40) | ≥ 20–30% site area | PNAP APP-40 (verify site) |

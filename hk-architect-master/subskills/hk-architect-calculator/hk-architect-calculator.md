@@ -94,18 +94,9 @@ Target: RTTV ≤ 25 W/m² (BEAM Plus); ≤ 35 W/m² (BEC baseline)
 
 ## 5. Means of Escape Calculator (BO Reg. 41 + FS Code)
 
-```
-Required exit width (mm) = 
-  ≤ 50 persons:   750 mm
-  51–200 persons: 1050 mm
-  > 200 persons:  1050 + (persons − 200) / 50 × 150 mm
+Exit capacity is not implemented by the executable helper. Establish the applicable FS Code Table B2 row, exit count, individual door/route widths and aggregate widths; do not substitute a single width formula. A room with fewer than 50 occupants does not automatically qualify for a 750 mm exit.
 
-Max travel distance:
-  Residential (sprinklered):     45 m
-  Residential (unsprinklered):   30 m
-  Non-domestic (sprinklered):    60 m
-  Non-domestic (unsprinklered):  45 m
-```
+Travel limits require the use, route and measurement conditions in [travel-distance guidance](../../references/hk-travel-distance.md). The executable geometry check does not select a statutory limit, even if sprinkler status is supplied.
 
 ---
 
@@ -130,7 +121,7 @@ Markdown formulas above are for reasoning; numeric checks use `main.py`:
 
 | `calc_type` | Input `data` | Output |
 |---|---|---|
-| `egress_1004_7` | `{"length": m, "width": m, "sprinklered": bool}` | Diagonal vs FS Code travel-distance limit (simplified room only) |
+| `egress_1004_7` | Positive finite `length`, `width` in metres; optional positive `distance_limit` | Rectangular diagonal; `Not assessed` without a benchmark, otherwise `Within supplied limit` / `Exceeds supplied limit`. Neither is statutory compliance. Legacy `sprinklered` is ignored for limit selection. |
 | `gfa_aggregator` | `{"floors": [{"area": float, "is_exempt": bool}, ...]}` or a list of floor dicts | `total_gfa`, `exempt_gfa`, `accountable_gfa` |
 | `layout_sort` | `{"items": [{"x": n, "y": n}, ...]}` or a list of items | Items sorted top-to-bottom, left-to-right |
 

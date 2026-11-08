@@ -168,7 +168,7 @@ See [hk-architect-master/VERIFICATION.md](hk-architect-master/VERIFICATION.md) f
 
 The calculator module supports (via `run_hk_calculator`):
 
-- **Egress check** (`egress_1004_7`): simplified rectangular-room check vs FS Code travel limits (not full remotest-point path)
+- **Egress geometry** (`egress_1004_7`): requires positive `length` and `width`; optional caller-supplied `distance_limit`. No automatic FS Code limit or compliance Pass/Fail; legacy sprinkler status no longer chooses a limit.
 - **GFA aggregation** (`gfa_aggregator`): accountable vs exempt GFA roll-up (`floors` array in JSON)
 - **Layout sorting** (`layout_sort`): OCR/layout ordering helper by X/Y coordinates
 

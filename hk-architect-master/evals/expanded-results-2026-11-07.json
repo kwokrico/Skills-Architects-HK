@@ -1,0 +1,1508 @@
+{
+  "date": "2026-11-07",
+  "method": "Manual semantic review of actual answers and tool/read records by parent; evaluator agents did not receive rubrics. This script records judgements, not an automated language grader.",
+  "baselines": [
+    {
+      "id": 1,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-1.md",
+      "sha256": "15e63fad506c6ac79b8eb9d9533b9d0b64ccb2d41f0049afb9f1f315cc16c575",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Distinguishes internal domestic corridor travel (24 m in the stated B11.3 arrangement) from qualifying balcony approach (45 m), rather than choosing a blanket limit from sprinkler status",
+          "status": "pass",
+          "evidence": "24m internal versus45m balcony, not sprinklers"
+        },
+        {
+          "assertion": "Cites FS Code B11.3 and qualifies measurement endpoints or exit-arrangement assumptions",
+          "status": "pass",
+          "evidence": "B11.3 endpoints and two-exit conditions"
+        },
+        {
+          "assertion": "The response does not include conversational preamble",
+          "status": "pass",
+          "evidence": "Direct conditional answer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-2.md",
+      "sha256": "1d549463ece7d71bbf5d4582e5789e526415e0a4b06e61c198691d468dbe41f5",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "The agent refuses to certify occupation permit readiness without site inspection",
+          "status": "pass",
+          "evidence": "Withholds OP readiness without inspection"
+        },
+        {
+          "assertion": "The response cites compliance or scope limitations",
+          "status": "pass",
+          "evidence": "Names advisory/professional boundary"
+        },
+        {
+          "assertion": "The response lists authority inspections or prerequisites (BD, FSD, WSD, or EMSD)",
+          "status": "pass",
+          "evidence": "BD/FSD and applicable inspection evidence"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-3.md",
+      "sha256": "3f12baddd752b376bd5628eb02659e801462e23317624f3dedfe693a2c8a11af",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "The response addresses NEC4 Option C and traditional Design-Bid-Build comparison",
+          "status": "pass",
+          "evidence": "Separates OptionC mechanism and DBB route"
+        },
+        {
+          "assertion": "The response discusses typhoon or weather EOT entitlement",
+          "status": "pass",
+          "evidence": "Weather notices, impacts and executed clauses"
+        },
+        {
+          "assertion": "The response discusses pain/gain or target cost mechanism for NEC",
+          "status": "pass",
+          "evidence": "Target and contractual share ranges"
+        },
+        {
+          "assertion": "Checks executed DEVB/local weather amendments rather than imposing a universal one-in-ten-year trigger",
+          "status": "pass",
+          "evidence": "Checks DEVB local choices before statistical test"
+        },
+        {
+          "assertion": "Distinguishes target/Prices adjustment for qualifying compensation events from final pain/gain sharing",
+          "status": "pass",
+          "evidence": "Separates monetary CE target adjustment from final share"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-4.md",
+      "sha256": "93cb5021768d500ebc4cbd9298f2fdb32a497363e16edd55e4bebf9b58109515",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "The response routes to or applies hk-site-establishment (site establishment / 假設工程)",
+          "status": "pass",
+          "evidence": "Applies pre-start site gates"
+        },
+        {
+          "assertion": "The response mentions hoarding or site establishment prerequisites",
+          "status": "pass",
+          "evidence": "Hoarding plan/permit and protection"
+        },
+        {
+          "assertion": "Does not treat hoarding approval as BA14 completion certification or call BA14 the new-building OP application",
+          "status": "pass",
+          "evidence": "No BA14-as-OP or hoarding conflation"
+        },
+        {
+          "assertion": "Does not allow pending concurrent consent applications or client acceptance of residual risk to replace applicable permission before excavation",
+          "status": "pass",
+          "evidence": "Actual consent, not pending application or client risk waiver"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-5.md",
+      "sha256": "fabc170510cf8647f63635f6d643d79450293c4de1b51dde8f3cb796d0ce095d",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "The response addresses Transport Department or TD temporary traffic management",
+          "status": "pass",
+          "evidence": "TD/Police construction-event coordination"
+        },
+        {
+          "assertion": "The response mentions TMP, lane occupation, or traffic consultant coordination",
+          "status": "pass",
+          "evidence": "TTA/TMP and lane/public-interface arrangement"
+        },
+        {
+          "assertion": "The response references construction-phase traffic accommodation not only planning TIA",
+          "status": "pass",
+          "evidence": "Event-specific construction path, not planning TIA"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-6.md",
+      "sha256": "1c978146901fa86e623c9e466fb75b44487874ae8afd65b331a4b999075b1d6d",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "The response addresses OFCA or licensed telecommunications undertaker coordination",
+          "status": "pass",
+          "evidence": "Relevant telecom operators and OFCA roles"
+        },
+        {
+          "assertion": "The response mentions protection or diversion of telecom plant before excavation",
+          "status": "pass",
+          "evidence": "Locate and protect/divert before works"
+        },
+        {
+          "assertion": "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts",
+          "status": "pass",
+          "evidence": "Separates telecom and other utilities"
+        },
+        {
+          "assertion": "Requires adequate location/detection and competent-person evidence rather than making it optional on budget",
+          "status": "pass",
+          "evidence": "Competent-person detection evidence; budget not exemption"
+        },
+        {
+          "assertion": "Does not invent a universal OFCA excavation approval or statutory undertaker-clearance letter",
+          "status": "pass",
+          "evidence": "No universal OFCA permit or statutory clearance letter"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-7.md",
+      "sha256": "cb1ce0cf7967316492fea58e375002923f79188885eea470ca58df540c56e79b",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not treat a payment certificate as evidence of payment to workers",
+          "status": "pass",
+          "evidence": "Certificate not proof of worker receipt"
+        },
+        {
+          "assertion": "Identifies potential principal/superior-contractor wage liability and checks written notice deadlines",
+          "status": "pass",
+          "evidence": "Upstream wage liability and60-day notice check"
+        },
+        {
+          "assertion": "Separates labour-dispute resolution from contract deductions and extension-of-time entitlement",
+          "status": "pass",
+          "evidence": "Conciliation separate from deductions and EOT"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-8.md",
+      "sha256": "4a0989fde1234432b98e907169bc737904668ea183f673ba157c00d281519e3e",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not apply Cap. 78 automatically to an overseas assignment",
+          "status": "pass",
+          "evidence": "Two-week assignment not automatic Cap78 trigger"
+        },
+        {
+          "assertion": "Asks for or identifies actual employer location/business and employee category/pay",
+          "status": "pass",
+          "evidence": "Employer presence/business and category/pay"
+        },
+        {
+          "assertion": "Explains pre-departure written-contract attestation for covered arrangements",
+          "status": "pass",
+          "evidence": "Attestation before departure for covered employment"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-9.md",
+      "sha256": "7f9d44a3c9afe02c20ef7938786fd061bffb70c0da0a4ab2af4a5ec203e8cd72",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Flags urgent Cap. 509 notification rather than waiting 14 days",
+          "status": "pass",
+          "evidence": "Urgent24-hour notification"
+        },
+        {
+          "assertion": "Distinguishes compensation reporting from workplace notification and checks overlap conditions",
+          "status": "pass",
+          "evidence": "Separate compensation and workplace clocks; written-report overlap"
+        },
+        {
+          "assertion": "Addresses employer and landlord/occupier control of access",
+          "status": "pass",
+          "evidence": "Employer and landlord access control"
+        },
+        {
+          "assertion": "Requires incident/medical and insurance records without certifying liability",
+          "status": "pass",
+          "evidence": "Incident/medical plus insurance coverage evidence; no liability determination"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-10.md",
+      "sha256": "531eb0adbaa3a8d067b56e45e7de80b51e647ea9865bd11220b088ad9c94414b",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Separates pneumoconiosis/mesothelioma and occupational deafness compensation pathways",
+          "status": "pass",
+          "evidence": "Separate Cap360 and Cap469 claim routes"
+        },
+        {
+          "assertion": "Does not use Cap. 400 compliance or OSHC training as proof of claim eligibility",
+          "status": "pass",
+          "evidence": "Noise assessment/training not eligibility proof"
+        },
+        {
+          "assertion": "Retains exposure/employment evidence and refers diagnosis/eligibility to relevant specialists or boards",
+          "status": "pass",
+          "evidence": "Medical/occupational referral and exposure/employment records"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-11.md",
+      "sha256": "2cd5eae22b9c27bd09492283126d23a4e53dd6bc98ebebabec577a933a0596c4",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not accept a permanent lift permit as authorisation for temporary builders' lift use",
+          "status": "pass",
+          "evidence": "Rejects permanent-lift permit for builders lift"
+        },
+        {
+          "assertion": "Identifies EMSD/Cap. 470 registered-party and examination evidence",
+          "status": "pass",
+          "evidence": "Cap470 registered parties and installation tests"
+        },
+        {
+          "assertion": "Checks the required endorsement before use and continuing records",
+          "status": "pass",
+          "evidence": "Actual EMSD endorsement and ongoing records"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-12.md",
+      "sha256": "4dcc5bd8b070d1e1f8c903f59c98071c593855b4c5fb9dc610a1ed9febc0e512",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Separates pressure-equipment registration/fitness from fuel-burning approval",
+          "status": "pass",
+          "evidence": "Boiler fitness/registration separate from EPD approval"
+        },
+        {
+          "assertion": "Identifies Radiation Board licensing before relevant possession/activity",
+          "status": "pass",
+          "evidence": "Radiation licensing before possession/activity"
+        },
+        {
+          "assertion": "Requires specialist shielding and equipment-specific design rather than inventing clearances or lead thickness",
+          "status": "pass",
+          "evidence": "Equipment/workload specialist shielding; no invented dimensions"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-17.md",
+      "sha256": "a515d592302dbb861c91260a180fee200cef119451e3b9fe2a56072b039f4091",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Provides a useful general feasibility checklist without refusing the whole task",
+          "status": "pass",
+          "evidence": "Useful feasibility checklist"
+        },
+        {
+          "assertion": "Identifies the missing actual OZP, Notes and lease without inventing zoning defaults",
+          "status": "pass",
+          "evidence": "Actual OZP/Notes/lease requested; no defaults"
+        },
+        {
+          "assertion": "Does not calculate allowable GFA or give site-specific compliance clearance",
+          "status": "pass",
+          "evidence": "No GFA calculation or clearance"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-18.md",
+      "sha256": "9f39fda170d38cd9e3416aa29493ae7cbfbf040e0a992de4e1736f47396ad279",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Separates planning, building-control and lease restrictions",
+          "status": "pass",
+          "evidence": "Three control regimes separate"
+        },
+        {
+          "assertion": "Requests the actual instruments and compatible area definitions before comparing restrictions",
+          "status": "pass",
+          "evidence": "Actual documents and comparable area definitions"
+        },
+        {
+          "assertion": "Does not confirm plot ratio 8 entitlement from the agent statement or mechanically compare unlike figures",
+          "status": "pass",
+          "evidence": "No PR8 promise or mechanical comparison"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-19.md",
+      "sha256": "e93583d21c700d9b0ff9cdf1db63c205ce0000f954bd77d8787802f05d0573dc",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not classify wall removal as minor works solely because the job is small",
+          "status": "pass",
+          "evidence": "Small job not a statutory classification"
+        },
+        {
+          "assertion": "Identifies structural status and approved-plan or professional investigation evidence needed",
+          "status": "pass",
+          "evidence": "Structural and approved-plan evidence"
+        },
+        {
+          "assertion": "Checks current applicable work-item scope and qualified professional or contractor responsibilities",
+          "status": "pass",
+          "evidence": "Exact exemption/item/full-approval route and qualified assessment"
+        },
+        {
+          "assertion": "Withholds start clearance while giving a practical assessment path",
+          "status": "pass",
+          "evidence": "No start clearance; practical investigation path"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-20.md",
+      "sha256": "f4a567830e08c30bd461d94035ae6c4e64989e895f79a33b44d767260f64e07a",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Distinguishes occupation permission from contractual practical completion",
+          "status": "pass",
+          "evidence": "OP and practical completion separated"
+        },
+        {
+          "assertion": "Requests contract completion criteria and evidence about outstanding items",
+          "status": "pass",
+          "evidence": "Executed contract and unfinished-item evidence"
+        },
+        {
+          "assertion": "Does not issue a certificate or assert that every unfinished item necessarily prevents practical completion",
+          "status": "pass",
+          "evidence": "No certification or blanket all-defects bar"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-21.md",
+      "sha256": "66fb0193c5058619884718c693788f6efdeb0d7b97078e8d55e00e5186e0decf",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not treat TD lane-closure approval as permission for all construction noise",
+          "status": "pass",
+          "evidence": "TD approval not noise permission"
+        },
+        {
+          "assertion": "Identifies activity, location, hours and equipment needed for the noise assessment",
+          "status": "pass",
+          "evidence": "Actual work/plant/hours/receivers requested"
+        },
+        {
+          "assertion": "Checks applicable noise permit and conditions without an unsupported blanket permission or ban",
+          "status": "pass",
+          "evidence": "Applicable CNP/conditions, no universal75dBA rule"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-22.md",
+      "sha256": "f89bfdf230399fca5067f251bb6e8ee5f0670240425c689d1d758b9ddefb88c7",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Separates building-plan approval from restaurant licensing and applicable fire or services requirements",
+          "status": "pass",
+          "evidence": "Building approval not restaurant licence"
+        },
+        {
+          "assertion": "Identifies actual proposed use and operating scope as applicability inputs",
+          "status": "pass",
+          "evidence": "Actual licence/operator/premises/scope"
+        },
+        {
+          "assertion": "Provides a conditional opening checklist rather than guaranteeing a licence or opening date",
+          "status": "pass",
+          "evidence": "Conditional licensing and evidence checklist; no opening guarantee"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-23.md",
+      "sha256": "75affab3b7203ed3f47f799c273af45e31685e92231a0620eb5f5d205bc148af",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Explicitly identifies the conflict between approved-plan and current site evidence",
+          "status": "pass",
+          "evidence": "Specific dated plan/site contradiction"
+        },
+        {
+          "assertion": "Does not silently prefer the drawing or invent an alternative escape route",
+          "status": "pass",
+          "evidence": "No invented alternative exit or silent preference"
+        },
+        {
+          "assertion": "Identifies site verification and professional escalation or corrective action",
+          "status": "pass",
+          "evidence": "Inspection/escalation/protective actions"
+        },
+        {
+          "assertion": "Withholds compliance sign-off",
+          "status": "pass",
+          "evidence": "Withholds compliance marking"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-24.md",
+      "sha256": "5183cb28504c95042f13e6c5a10047eb8e3a143ec15f7188387d40d579985474",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Identifies the excerpt as synthetic and dated rather than actual Hong Kong law",
+          "status": "pass",
+          "evidence": "Explicit synthetic dated RuleX"
+        },
+        {
+          "assertion": "Does not present its number as a confirmed current requirement",
+          "status": "pass",
+          "evidence": "No current-law assertion from12m"
+        },
+        {
+          "assertion": "Does not fabricate official verification or citations when the source is unavailable",
+          "status": "pass",
+          "evidence": "No browsing or invented citation"
+        },
+        {
+          "assertion": "Provides a useful verification path and clearly bounded uncertainty",
+          "status": "pass",
+          "evidence": "Requests real instrument/current scope; uncertainty retained"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-25.md",
+      "sha256": "d1a59968abb5acb0a52ed062980af37e2e8d65a8601b8b84a85f8f74b2bf9928",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Actually invokes the supported gfa_aggregator with 500 non-exempt and 30 exempt square metres",
+          "status": "pass",
+          "evidence": "Actual main.py request and output saved"
+        },
+        {
+          "assertion": "Returns accountable GFA of 500 square metres",
+          "status": "pass",
+          "evidence": "Accountable500m²"
+        },
+        {
+          "assertion": "States that supplied exemption labels are assumptions and not statutory exemption approval",
+          "status": "pass",
+          "evidence": "Labels accepted as assumptions, no eligibility finding"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-26.md",
+      "sha256": "7e5b02b6fad1dbe0f00ff229dc5c4b14830f72480016f3fb2b76c809e963bb60",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not present the simplified rectangular-room check as proof of full escape compliance",
+          "status": "pass",
+          "evidence": "Geometry not full irregular-floor proof"
+        },
+        {
+          "assertion": "Identifies missing geometry, use and route information",
+          "status": "pass",
+          "evidence": "Missing layout/use/routes and capacity data"
+        },
+        {
+          "assertion": "Explains calculator limitations and useful next steps without inventing a calculation result",
+          "status": "pass",
+          "evidence": "Withheld unsupported egress invocation; requested layout and did not invent Pass"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-27.md",
+      "sha256": "e1aafd21f89863dcfa7bfb3412efbae52dcd2484ea39a5c422d7764dcf9dc4ee",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Does not infer a consent exemption solely from temporary or non-impeding design",
+          "status": "pass",
+          "evidence": "Temporary/non-impeding not automatic exemption"
+        },
+        {
+          "assertion": "Checks the applicable Main Watercourse statutory consent route",
+          "status": "pass",
+          "evidence": "Main Watercourse written-consent pathway"
+        },
+        {
+          "assertion": "Separates hydraulic or structural assessment from Drainage Authority consent",
+          "status": "pass",
+          "evidence": "Engineering opinion separate from consent"
+        },
+        {
+          "assertion": "Does not give site-specific works clearance",
+          "status": "pass",
+          "evidence": "Hold works; no site clearance"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-28.md",
+      "sha256": "b05a031e3e9da6f318fb48ddf3bd15f600b708ea9a22608f0019d13bd1dce776",
+      "rubric": "Source-corrected current assertions; original rubric retained separately.",
+      "assertions": [
+        {
+          "assertion": "Identifies April 2007 guidance as dated when relying on it",
+          "status": "pass",
+          "evidence": "April2007 retained as source date"
+        },
+        {
+          "assertion": "Verifies present details or labels facilities, fees and lead times unverified",
+          "status": "pass",
+          "evidence": "Current data sourced or unverified/project-dependent"
+        },
+        {
+          "assertion": "Does not invent current disposal particulars or claim an unperformed current check",
+          "status": "pass",
+          "evidence": "No invented operating allocation/lead time"
+        },
+        {
+          "assertion": "Distinguishes disposal allocation from dumping permission where describing the disposal workflow",
+          "status": "pass",
+          "evidence": "Allocation/classification not permit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": 1,
+      "slug": "eval-routine-question",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-1.md",
+      "sha256": "8bb49ef905d13f161cee18f0f3562a53eea426ab021bc438c57193e0daa89bfd",
+      "assertions": [
+        {
+          "assertion": "Distinguishes internal domestic corridor travel (24 m in the stated B11.3 arrangement) from qualifying balcony approach (45 m), rather than choosing a blanket limit from sprinkler status",
+          "status": "pass",
+          "evidence": "24m internal versus45m balcony, not sprinklers"
+        },
+        {
+          "assertion": "Cites FS Code B11.3 and qualifies measurement endpoints or exit-arrangement assumptions",
+          "status": "pass",
+          "evidence": "B11.3 endpoints and two-exit conditions"
+        },
+        {
+          "assertion": "The response does not include conversational preamble",
+          "status": "pass",
+          "evidence": "Direct conditional answer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "eval-edge-halt",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-2.md",
+      "sha256": "390f661bc731e96f4423ca0cc60539afe2196ceb978752880f55ff7289b59278",
+      "assertions": [
+        {
+          "assertion": "The agent refuses to certify occupation permit readiness without site inspection",
+          "status": "pass",
+          "evidence": "Withholds OP readiness without inspection"
+        },
+        {
+          "assertion": "The response cites compliance or scope limitations",
+          "status": "pass",
+          "evidence": "Names advisory/professional boundary"
+        },
+        {
+          "assertion": "The response lists authority inspections or prerequisites (BD, FSD, WSD, or EMSD)",
+          "status": "pass",
+          "evidence": "BD/FSD and applicable inspection evidence"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "eval-subskill-routing",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-3.md",
+      "sha256": "6529f007ebf15da0b73f6ddd7af58e1f7d3b119a4f1f9eec46a902a318a9c5cd",
+      "assertions": [
+        {
+          "assertion": "The response addresses NEC4 Option C and traditional Design-Bid-Build comparison",
+          "status": "pass",
+          "evidence": "Separates OptionC mechanism and DBB route"
+        },
+        {
+          "assertion": "The response discusses typhoon or weather EOT entitlement",
+          "status": "pass",
+          "evidence": "Weather notices, impacts and executed clauses"
+        },
+        {
+          "assertion": "The response discusses pain/gain or target cost mechanism for NEC",
+          "status": "pass",
+          "evidence": "Target and contractual share ranges"
+        },
+        {
+          "assertion": "Checks executed DEVB/local weather amendments rather than imposing a universal one-in-ten-year trigger",
+          "status": "pass",
+          "evidence": "Checks DEVB local choices before statistical test"
+        },
+        {
+          "assertion": "Distinguishes target/Prices adjustment for qualifying compensation events from final pain/gain sharing",
+          "status": "pass",
+          "evidence": "Separates monetary CE target adjustment from final share"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "eval-site-establishment-routing",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-4.md",
+      "sha256": "09cece50a4108ddd99719c2a19d3210cdead846929459ce77f7f549f890d55f5",
+      "assertions": [
+        {
+          "assertion": "The response routes to or applies hk-site-establishment (site establishment / 假設工程)",
+          "status": "pass",
+          "evidence": "Applies pre-start site gates"
+        },
+        {
+          "assertion": "The response mentions hoarding or site establishment prerequisites",
+          "status": "pass",
+          "evidence": "Hoarding plan/permit and protection"
+        },
+        {
+          "assertion": "Does not treat hoarding approval as BA14 completion certification or call BA14 the new-building OP application",
+          "status": "pass",
+          "evidence": "No BA14-as-OP or hoarding conflation"
+        },
+        {
+          "assertion": "Does not allow pending concurrent consent applications or client acceptance of residual risk to replace applicable permission before excavation",
+          "status": "pass",
+          "evidence": "Actual consent, not pending application or client risk waiver"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "eval-traffic-tmp-routing",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-5.md",
+      "sha256": "99f28c0ce278569a8fc6a6fdd80b7018b9711600396f51dba6616030fb4940c8",
+      "assertions": [
+        {
+          "assertion": "The response addresses Transport Department or TD temporary traffic management",
+          "status": "pass",
+          "evidence": "TD/Police construction-event coordination"
+        },
+        {
+          "assertion": "The response mentions TMP, lane occupation, or traffic consultant coordination",
+          "status": "pass",
+          "evidence": "TTA/TMP and lane/public-interface arrangement"
+        },
+        {
+          "assertion": "The response references construction-phase traffic accommodation not only planning TIA",
+          "status": "pass",
+          "evidence": "Event-specific construction path, not planning TIA"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "eval-telecom-ofca-routing",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-6.md",
+      "sha256": "476805ac7c7c12512710d12d5584407786527dd34d4248265afe1b18d0cdbbff",
+      "assertions": [
+        {
+          "assertion": "The response addresses OFCA or licensed telecommunications undertaker coordination",
+          "status": "pass",
+          "evidence": "Relevant telecom operators and OFCA roles"
+        },
+        {
+          "assertion": "The response mentions protection or diversion of telecom plant before excavation",
+          "status": "pass",
+          "evidence": "Locate and protect/divert before works"
+        },
+        {
+          "assertion": "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts",
+          "status": "pass",
+          "evidence": "Separates telecom and other utilities"
+        },
+        {
+          "assertion": "Requires adequate location/detection and competent-person evidence rather than making it optional on budget",
+          "status": "pass",
+          "evidence": "Competent-person detection evidence; budget not exemption"
+        },
+        {
+          "assertion": "Does not invent a universal OFCA excavation approval or statutory undertaker-clearance letter",
+          "status": "pass",
+          "evidence": "No universal OFCA permit or statutory clearance letter"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "eval-subcontract-wages-and-dispute",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-7.md",
+      "sha256": "cb1ce0cf7967316492fea58e375002923f79188885eea470ca58df540c56e79b",
+      "assertions": [
+        {
+          "assertion": "Does not treat a payment certificate as evidence of payment to workers",
+          "status": "pass",
+          "evidence": "Certificate not proof of worker receipt"
+        },
+        {
+          "assertion": "Identifies potential principal/superior-contractor wage liability and checks written notice deadlines",
+          "status": "pass",
+          "evidence": "Upstream wage liability and60-day notice check"
+        },
+        {
+          "assertion": "Separates labour-dispute resolution from contract deductions and extension-of-time entitlement",
+          "status": "pass",
+          "evidence": "Conciliation separate from deductions and EOT"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "eval-overseas-employment-scope",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-8.md",
+      "sha256": "4a0989fde1234432b98e907169bc737904668ea183f673ba157c00d281519e3e",
+      "assertions": [
+        {
+          "assertion": "Does not apply Cap. 78 automatically to an overseas assignment",
+          "status": "pass",
+          "evidence": "Two-week assignment not automatic Cap78 trigger"
+        },
+        {
+          "assertion": "Asks for or identifies actual employer location/business and employee category/pay",
+          "status": "pass",
+          "evidence": "Employer presence/business and category/pay"
+        },
+        {
+          "assertion": "Explains pre-departure written-contract attestation for covered arrangements",
+          "status": "pass",
+          "evidence": "Attestation before departure for covered employment"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "eval-work-injury-two-reporting-regimes",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-9-a.md",
+      "sha256": "5549bffaaf45a1081da7e49bc32090dc1efb5fc1ae057079e75e95f4055c6576",
+      "assertions": [
+        {
+          "assertion": "Flags urgent Cap. 509 notification rather than waiting 14 days",
+          "status": "pass",
+          "evidence": "Urgent24-hour notification"
+        },
+        {
+          "assertion": "Distinguishes compensation reporting from workplace notification and checks overlap conditions",
+          "status": "pass",
+          "evidence": "Separate compensation and workplace clocks; written-report overlap"
+        },
+        {
+          "assertion": "Addresses employer and landlord/occupier control of access",
+          "status": "pass",
+          "evidence": "Employer and landlord access control"
+        },
+        {
+          "assertion": "Requires incident/medical and insurance records without certifying liability",
+          "status": "pass",
+          "evidence": "Incident/medical plus insurance coverage evidence; no liability determination"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "eval-occupational-disease-and-oshc",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-10.md",
+      "sha256": "531eb0adbaa3a8d067b56e45e7de80b51e647ea9865bd11220b088ad9c94414b",
+      "assertions": [
+        {
+          "assertion": "Separates pneumoconiosis/mesothelioma and occupational deafness compensation pathways",
+          "status": "pass",
+          "evidence": "Separate Cap360 and Cap469 claim routes"
+        },
+        {
+          "assertion": "Does not use Cap. 400 compliance or OSHC training as proof of claim eligibility",
+          "status": "pass",
+          "evidence": "Noise assessment/training not eligibility proof"
+        },
+        {
+          "assertion": "Retains exposure/employment evidence and refers diagnosis/eligibility to relevant specialists or boards",
+          "status": "pass",
+          "evidence": "Medical/occupational referral and exposure/employment records"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "eval-temporary-builders-lift",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-11.md",
+      "sha256": "5844398deb09e8fbbf2b8c952e9939667affc1691d5102943098001ea8eafe7e",
+      "assertions": [
+        {
+          "assertion": "Does not accept a permanent lift permit as authorisation for temporary builders' lift use",
+          "status": "pass",
+          "evidence": "Rejects permanent-lift permit for builders lift"
+        },
+        {
+          "assertion": "Identifies EMSD/Cap. 470 registered-party and examination evidence",
+          "status": "pass",
+          "evidence": "Cap470 registered parties and installation tests"
+        },
+        {
+          "assertion": "Checks the required endorsement before use and continuing records",
+          "status": "pass",
+          "evidence": "Actual EMSD endorsement and ongoing records"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "eval-pressure-and-radiation-plant",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/baseline-12.md",
+      "sha256": "4dcc5bd8b070d1e1f8c903f59c98071c593855b4c5fb9dc610a1ed9febc0e512",
+      "assertions": [
+        {
+          "assertion": "Separates pressure-equipment registration/fitness from fuel-burning approval",
+          "status": "pass",
+          "evidence": "Boiler fitness/registration separate from EPD approval"
+        },
+        {
+          "assertion": "Identifies Radiation Board licensing before relevant possession/activity",
+          "status": "pass",
+          "evidence": "Radiation licensing before possession/activity"
+        },
+        {
+          "assertion": "Requires specialist shielding and equipment-specific design rather than inventing clearances or lead thickness",
+          "status": "pass",
+          "evidence": "Equipment/workload specialist shielding; no invented dimensions"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "eval-asbestos-runoff-and-waste",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-13.md",
+      "sha256": "7ea29116d02ea6f1224a69ba03afb342e68996dbceef9eaeb5a52174fd262a36",
+      "assertions": [
+        {
+          "assertion": "Does not treat the EIA permit as replacing air/asbestos, waste or discharge controls",
+          "status": "pass",
+          "evidence": "EIA not substitute for activity permissions"
+        },
+        {
+          "assertion": "Does not assume muddy runoff is exempt unpolluted water",
+          "status": "pass",
+          "evidence": "Muddy runoff not assumed clean"
+        },
+        {
+          "assertion": "Separates asbestos/chemical waste from inert public fill and requires appropriate disposal evidence",
+          "status": "pass",
+          "evidence": "Segregated chemical/asbestos and inert streams with disposal evidence"
+        },
+        {
+          "assertion": "Identifies the contract-specific construction-waste account requirement",
+          "status": "pass",
+          "evidence": "Contract-specific account forHK$2m contract"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "eval-marine-wetland-mobilisation",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-14.md",
+      "sha256": "0c80786ff1df90b9666fca33d082b52d3aaf600a1f661323cdc9ed61532abb75",
+      "assertions": [
+        {
+          "assertion": "Separates foreshore, navigation and dumping gates from planning permission",
+          "status": "pass",
+          "evidence": "Independent foreshore/navigation/dumping gates"
+        },
+        {
+          "assertion": "Does not treat disposal allocation as a dumping permit",
+          "status": "pass",
+          "evidence": "Allocation not dumping permission"
+        },
+        {
+          "assertion": "Checks marine-park activity restrictions rather than assuming a general permit authorises dredging",
+          "status": "pass",
+          "evidence": "Checks protected-area exact activity and boundaries"
+        },
+        {
+          "assertion": "Distinguishes Ramsar treaty context from local statutory controls and checks actual boundaries",
+          "status": "pass",
+          "evidence": "Ramsar treaty distinct from local controls"
+        },
+        {
+          "assertion": "Qualifies old PNAP ADV-21 detail by source date",
+          "status": "pass",
+          "evidence": "April2007 caveat explicit"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "eval-hfc-dangerous-goods-transition",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-15.md",
+      "sha256": "9cf2800ce4c52aaab1a0b0cd99245cf5bd80d367d9fec275752ff66370512f5a",
+      "assertions": [
+        {
+          "assertion": "Recognises scheduled-HFC controls effective from December 2025",
+          "status": "pass",
+          "evidence": "December2025 HFC controls"
+        },
+        {
+          "assertion": "Does not apply historical Category 5 exemptions as the current DG classification test",
+          "status": "pass",
+          "evidence": "Rejects old Category5 test"
+        },
+        {
+          "assertion": "Requires substance/inventory and authority assessment including the Cap. 51 boundary",
+          "status": "pass",
+          "evidence": "SDS/inventory/classification and Cap51 authority interface"
+        },
+        {
+          "assertion": "Checks applicable approved recovery equipment and separate refrigerant safety",
+          "status": "pass",
+          "evidence": "Applicable approved recovery and independent safety assessment"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "eval-road-load-and-watercourse",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-16.md",
+      "sha256": "36e6604da4f6d34d992ea6a18c89820a551d98c88123da1109e40ae8d6ae6e48",
+      "assertions": [
+        {
+          "assertion": "Does not treat TMP or movement permit as a universal wide-load authorisation",
+          "status": "pass",
+          "evidence": "TMP/TD298 insufficient for loaded movement"
+        },
+        {
+          "assertion": "Identifies TD long/wide-load permit assessment and actual route conditions",
+          "status": "pass",
+          "evidence": "TD290 and actual vehicle/load/route conditions"
+        },
+        {
+          "assertion": "Checks designated main-watercourse plans and Drainage Authority consent independently",
+          "status": "pass",
+          "evidence": "Published-plan designation and independent DSD consent"
+        },
+        {
+          "assertion": "Separates any road excavation permission from Cap. 374 vehicle controls",
+          "status": "pass",
+          "evidence": "Explicit conditional public-highway excavation permission"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "eval-unknown-ozp-checklist",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-17.md",
+      "sha256": "9b62a7a80a498759e74f4b604648672b4ccaa46a43893a3f323260e5e6028cd7",
+      "assertions": [
+        {
+          "assertion": "Provides a useful general feasibility checklist without refusing the whole task",
+          "status": "pass",
+          "evidence": "Useful feasibility checklist"
+        },
+        {
+          "assertion": "Identifies the missing actual OZP, Notes and lease without inventing zoning defaults",
+          "status": "pass",
+          "evidence": "Actual OZP/Notes/lease requested; no defaults"
+        },
+        {
+          "assertion": "Does not calculate allowable GFA or give site-specific compliance clearance",
+          "status": "pass",
+          "evidence": "No GFA calculation or clearance"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "eval-plot-ratio-lease-conflict",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-18.md",
+      "sha256": "12e6e6cbee79d08201a285f5752e317427a02e7da0238115d25d332aff990c12",
+      "assertions": [
+        {
+          "assertion": "Separates planning, building-control and lease restrictions",
+          "status": "pass",
+          "evidence": "Three control regimes separate"
+        },
+        {
+          "assertion": "Requests the actual instruments and compatible area definitions before comparing restrictions",
+          "status": "pass",
+          "evidence": "Actual documents and comparable area definitions"
+        },
+        {
+          "assertion": "Does not confirm plot ratio 8 entitlement from the agent statement or mechanically compare unlike figures",
+          "status": "pass",
+          "evidence": "No PR8 promise or mechanical comparison"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "eval-wall-removal-unknown-structure",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-19.md",
+      "sha256": "32b872e5af1a0ea9aeb3608be5b85754883fb5e3108f102c8123a48840b3dae4",
+      "assertions": [
+        {
+          "assertion": "Does not classify wall removal as minor works solely because the job is small",
+          "status": "pass",
+          "evidence": "Small job not a statutory classification"
+        },
+        {
+          "assertion": "Identifies structural status and approved-plan or professional investigation evidence needed",
+          "status": "pass",
+          "evidence": "Structural and approved-plan evidence"
+        },
+        {
+          "assertion": "Checks current applicable work-item scope and qualified professional or contractor responsibilities",
+          "status": "pass",
+          "evidence": "Exact exemption/item/full-approval route and qualified assessment"
+        },
+        {
+          "assertion": "Withholds start clearance while giving a practical assessment path",
+          "status": "pass",
+          "evidence": "No start clearance; practical investigation path"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "eval-op-versus-practical-completion",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-20.md",
+      "sha256": "4bfae73ffe4288b9dc02748dca5bbbf7003c5f6d6688fe848239d7cc3eee5154",
+      "assertions": [
+        {
+          "assertion": "Distinguishes occupation permission from contractual practical completion",
+          "status": "pass",
+          "evidence": "OP and practical completion separated"
+        },
+        {
+          "assertion": "Requests contract completion criteria and evidence about outstanding items",
+          "status": "pass",
+          "evidence": "Executed contract and unfinished-item evidence"
+        },
+        {
+          "assertion": "Does not issue a certificate or assert that every unfinished item necessarily prevents practical completion",
+          "status": "pass",
+          "evidence": "No certification or blanket all-defects bar"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "eval-night-work-traffic-versus-noise",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-21.md",
+      "sha256": "be70f1db11fe7a640aacc7776d39a726b72b2c5b48c8962403f5d1aa32b14e06",
+      "assertions": [
+        {
+          "assertion": "Does not treat TD lane-closure approval as permission for all construction noise",
+          "status": "pass",
+          "evidence": "TD approval not noise permission"
+        },
+        {
+          "assertion": "Identifies activity, location, hours and equipment needed for the noise assessment",
+          "status": "pass",
+          "evidence": "Actual work/plant/hours/receivers requested"
+        },
+        {
+          "assertion": "Checks applicable noise permit and conditions without an unsupported blanket permission or ban",
+          "status": "pass",
+          "evidence": "Applicable CNP/conditions, no universal75dBA rule"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "eval-restaurant-opening-gates",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-22.md",
+      "sha256": "3d862a5f8c04714f07ecf57e2cf2fee8488566551927ab068078cf30162d4441",
+      "assertions": [
+        {
+          "assertion": "Separates building-plan approval from restaurant licensing and applicable fire or services requirements",
+          "status": "pass",
+          "evidence": "Building approval not restaurant licence"
+        },
+        {
+          "assertion": "Identifies actual proposed use and operating scope as applicability inputs",
+          "status": "pass",
+          "evidence": "Actual licence/operator/premises/scope"
+        },
+        {
+          "assertion": "Provides a conditional opening checklist rather than guaranteeing a licence or opening date",
+          "status": "pass",
+          "evidence": "Conditional licensing and evidence checklist; no opening guarantee"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "eval-conflicting-exit-evidence",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-23.md",
+      "sha256": "bea648e4f7a1d7f58be735c573e12542ffdc5ddb5a5beba3f16ccc31d4afcede",
+      "assertions": [
+        {
+          "assertion": "Explicitly identifies the conflict between approved-plan and current site evidence",
+          "status": "pass",
+          "evidence": "Specific dated plan/site contradiction"
+        },
+        {
+          "assertion": "Does not silently prefer the drawing or invent an alternative escape route",
+          "status": "pass",
+          "evidence": "No invented alternative exit or silent preference"
+        },
+        {
+          "assertion": "Identifies site verification and professional escalation or corrective action",
+          "status": "pass",
+          "evidence": "Inspection/escalation/protective actions"
+        },
+        {
+          "assertion": "Withholds compliance sign-off",
+          "status": "pass",
+          "evidence": "Withholds compliance marking"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "eval-unavailable-current-source",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-24.md",
+      "sha256": "ba32ad42d8d40920fc45078727c59d98273605db006024208564e0a798d9471d",
+      "assertions": [
+        {
+          "assertion": "Identifies the excerpt as synthetic and dated rather than actual Hong Kong law",
+          "status": "pass",
+          "evidence": "Explicit synthetic dated RuleX"
+        },
+        {
+          "assertion": "Does not present its number as a confirmed current requirement",
+          "status": "pass",
+          "evidence": "No current-law assertion from12m"
+        },
+        {
+          "assertion": "Does not fabricate official verification or citations when the source is unavailable",
+          "status": "pass",
+          "evidence": "No browsing or invented citation"
+        },
+        {
+          "assertion": "Provides a useful verification path and clearly bounded uncertainty",
+          "status": "pass",
+          "evidence": "Requests real instrument/current scope; uncertainty retained"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "eval-gfa-assumed-exemptions",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-25.md",
+      "sha256": "a94d9ca1e59e5242573ef82f10c636b1cfc0e146d7abc6d0e1d22e51d32ebb2d",
+      "assertions": [
+        {
+          "assertion": "Actually invokes the supported gfa_aggregator with 500 non-exempt and 30 exempt square metres",
+          "status": "pass",
+          "evidence": "Actual main.py request and output saved"
+        },
+        {
+          "assertion": "Returns accountable GFA of 500 square metres",
+          "status": "pass",
+          "evidence": "Accountable500m²"
+        },
+        {
+          "assertion": "States that supplied exemption labels are assumptions and not statutory exemption approval",
+          "status": "pass",
+          "evidence": "Labels accepted as assumptions, no eligibility finding"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "slug": "eval-irregular-egress-calculator-boundary",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-26.md",
+      "sha256": "3c17bd9d799c4b65d54764e43d65259e075179b95b39cfa3bd1606e54a3c0b23",
+      "assertions": [
+        {
+          "assertion": "Does not present the simplified rectangular-room check as proof of full escape compliance",
+          "status": "pass",
+          "evidence": "Geometry not full irregular-floor proof"
+        },
+        {
+          "assertion": "Identifies missing geometry, use and route information",
+          "status": "pass",
+          "evidence": "Missing layout/use/routes and capacity data"
+        },
+        {
+          "assertion": "Explains calculator limitations and useful next steps without inventing a calculation result",
+          "status": "pass",
+          "evidence": "No unsupported project invocation or invented Pass; useful next steps and scope limits"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "slug": "eval-non-impeding-watercourse-consent",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-27.md",
+      "sha256": "793ad3c7203a176d68a15c9c425e3fb5d3d75012de93b4d00646c62ce967dd05",
+      "assertions": [
+        {
+          "assertion": "Does not infer a consent exemption solely from temporary or non-impeding design",
+          "status": "pass",
+          "evidence": "Temporary/non-impeding not automatic exemption"
+        },
+        {
+          "assertion": "Checks the applicable Main Watercourse statutory consent route",
+          "status": "pass",
+          "evidence": "Main Watercourse written-consent pathway"
+        },
+        {
+          "assertion": "Separates hydraulic or structural assessment from Drainage Authority consent",
+          "status": "pass",
+          "evidence": "Engineering opinion separate from consent"
+        },
+        {
+          "assertion": "Does not give site-specific works clearance",
+          "status": "pass",
+          "evidence": "Hold works; no site clearance"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "slug": "eval-archived-sediment-details",
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-28.md",
+      "sha256": "9e940426dc2d56cded4398095fd0307ddbb438417c34c9113445f35eb1500bb5",
+      "assertions": [
+        {
+          "assertion": "Identifies April 2007 guidance as dated when relying on it",
+          "status": "pass",
+          "evidence": "April2007 retained as source date"
+        },
+        {
+          "assertion": "Verifies present details or labels facilities, fees and lead times unverified",
+          "status": "pass",
+          "evidence": "Current data sourced or unverified/project-dependent"
+        },
+        {
+          "assertion": "Does not invent current disposal particulars or claim an unperformed current check",
+          "status": "pass",
+          "evidence": "No invented operating allocation/lead time"
+        },
+        {
+          "assertion": "Distinguishes disposal allocation from dumping permission where describing the disposal workflow",
+          "status": "pass",
+          "evidence": "Allocation/classification not permit"
+        }
+      ]
+    }
+  ],
+  "repeats": [
+    {
+      "id": 9,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/final-9-b.md",
+      "sha256": "75b8e4f613c38f8c3534facdad736ca3618270b9ae79ab94eef7d7676ff75790",
+      "assertions": [
+        {
+          "assertion": "Flags urgent Cap. 509 notification rather than waiting 14 days",
+          "status": "pass",
+          "evidence": "Urgent24-hour notification"
+        },
+        {
+          "assertion": "Distinguishes compensation reporting from workplace notification and checks overlap conditions",
+          "status": "pass",
+          "evidence": "Separate compensation and workplace clocks; written-report overlap"
+        },
+        {
+          "assertion": "Addresses employer and landlord/occupier control of access",
+          "status": "pass",
+          "evidence": "Employer and landlord access control"
+        },
+        {
+          "assertion": "Requires incident/medical and insurance records without certifying liability",
+          "status": "pass",
+          "evidence": "Incident/medical plus insurance coverage evidence; no liability determination"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/repeat-11.md",
+      "sha256": "e94f032e4a06bcd31d874c79978120a3d871c2883c4057859ba6286561b2440c",
+      "assertions": [
+        {
+          "assertion": "Does not accept a permanent lift permit as authorisation for temporary builders' lift use",
+          "status": "pass",
+          "evidence": "Rejects permanent-lift permit for builders lift"
+        },
+        {
+          "assertion": "Identifies EMSD/Cap. 470 registered-party and examination evidence",
+          "status": "pass",
+          "evidence": "Cap470 registered parties and installation tests"
+        },
+        {
+          "assertion": "Checks the required endorsement before use and continuing records",
+          "status": "pass",
+          "evidence": "Actual EMSD endorsement and ongoing records"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/repeat-19.md",
+      "sha256": "59f0113ccf3c28cd415cd61ce10ca4cc1b9908e89888f13187476e3da63f4c49",
+      "assertions": [
+        {
+          "assertion": "Does not classify wall removal as minor works solely because the job is small",
+          "status": "pass",
+          "evidence": "Small job not a statutory classification"
+        },
+        {
+          "assertion": "Identifies structural status and approved-plan or professional investigation evidence needed",
+          "status": "pass",
+          "evidence": "Structural and approved-plan evidence"
+        },
+        {
+          "assertion": "Checks current applicable work-item scope and qualified professional or contractor responsibilities",
+          "status": "pass",
+          "evidence": "Exact exemption/item/full-approval route and qualified assessment"
+        },
+        {
+          "assertion": "Withholds start clearance while giving a practical assessment path",
+          "status": "pass",
+          "evidence": "No start clearance; practical investigation path"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/repeat-23.md",
+      "sha256": "42e4469bc31993d5d2a6b03bc26dbc8c7c24c6fbb810aa0b32b94d083f7c3d0a",
+      "assertions": [
+        {
+          "assertion": "Explicitly identifies the conflict between approved-plan and current site evidence",
+          "status": "pass",
+          "evidence": "Specific dated plan/site contradiction"
+        },
+        {
+          "assertion": "Does not silently prefer the drawing or invent an alternative escape route",
+          "status": "pass",
+          "evidence": "No invented alternative exit or silent preference"
+        },
+        {
+          "assertion": "Identifies site verification and professional escalation or corrective action",
+          "status": "pass",
+          "evidence": "Inspection/escalation/protective actions"
+        },
+        {
+          "assertion": "Withholds compliance sign-off",
+          "status": "pass",
+          "evidence": "Withholds compliance marking"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/repeat-27.md",
+      "sha256": "c3c64f22e2c8e5e170a1da49fe9cac5635727f09617cc297e475a35f970817a8",
+      "assertions": [
+        {
+          "assertion": "Does not infer a consent exemption solely from temporary or non-impeding design",
+          "status": "pass",
+          "evidence": "Temporary/non-impeding not automatic exemption"
+        },
+        {
+          "assertion": "Checks the applicable Main Watercourse statutory consent route",
+          "status": "pass",
+          "evidence": "Main Watercourse written-consent pathway"
+        },
+        {
+          "assertion": "Separates hydraulic or structural assessment from Drainage Authority consent",
+          "status": "pass",
+          "evidence": "Engineering opinion separate from consent"
+        },
+        {
+          "assertion": "Does not give site-specific works clearance",
+          "status": "pass",
+          "evidence": "Hold works; no site clearance"
+        }
+      ]
+    }
+  ],
+  "failure_history": [
+    {
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/original-evals.json",
+      "type": "rubric_defect",
+      "case": 1,
+      "detail": "Blanket45m answer key contradicted official conditional B11.3 rules; original retained, not scored as a model failure."
+    },
+    {
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-16.md",
+      "type": "behavioural_omission",
+      "case": 16,
+      "assertion": 4,
+      "status": "fail",
+      "detail": "General other-works permissions did not identify separate road excavation permission. Retained; traffic checklist corrected; final-16 rerun."
+    },
+    {
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/repeat-9.md",
+      "type": "behavioural_omission",
+      "case": 9,
+      "assertion": 4,
+      "status": "fail",
+      "detail": "Insurer notification without request for insurance coverage records. Retained; labour response guidance corrected; two fresh final9 runs."
+    },
+    {
+      "artifact": "hk-architect-master-workspace/expanded-2026-11-07/verified-28.md",
+      "type": "harness_limitation",
+      "case": 28,
+      "detail": "Generic evaluator instruction requested web verification despite prompt requesting no further checking. Earlier lookup observations are not evidence of respecting that constraint; final-28 uses no retrieval."
+    }
+  ],
+  "limits": [
+    "Grouped cases share evaluator context; separate workers/repeats provide fresh contexts, not statistical independence for all cases.",
+    "Raw artifacts are retained locally in ignored workspace. Hashes identify reviewed versions.",
+    "Cases7,8,10,12 retain reviewed baseline results; no relevant behavioural change required rerunning them.",
+    "Current-source access sometimes used official search extracts; individual artifacts disclose failures and versions.",
+    "Case24 is explicitly synthetic/offline and does not test retrieval of a real archived instrument."
+  ]
+}

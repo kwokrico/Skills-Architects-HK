@@ -36,24 +36,17 @@ Core principle: OP success is mostly a records-and-sequence discipline problem, 
 
 ---
 
-## 2. OP Form Workflow (BA12 / BA13 / BA14)
-Treat the forms as a linked control chain:
+## 2. Select the Form for the Actual Works
 
-1. **BA14 readiness gate (works completion evidence):**
-   - Confirm works package completion status against approved/accepted submissions.
-   - Close material non-conformities and unresolved statutory comments.
-   - Lock revision index for record drawing issue.
+These are distinct applications/certificates, not a BA14 → BA12 → BA13 approval chain:
 
-2. **BA12 application package (OP application stage):**
-   - Submit OP application with structured document index.
-   - Cross-reference record drawings, test certificates, supervision records, and outstanding concession status.
-   - Ensure all claimed compliances can be demonstrated physically on site.
+- **BA13:** completion certificate for a new building and application for an occupation permit.
+- **BA12:** certificate and application for a temporary occupation permit.
+- **BA14:** completion certification for building works not resulting in a new building, or street works; check applicable variants and work-package requirements.
 
-3. **BA13 outcome management (OP issuance / partial OP path):**
-   - Track BD comments, rectification actions, and resubmission timing.
-   - Maintain traceability between comments, corrective actions, and revised evidence.
+Assemble inspection evidence, record plans and tests against the appropriate form; resolve BD comments and conditions. Submission does not itself establish permit issue. Earlier package completion records may support a new-building application without replacing BA13.
 
-Always verify current BD circulars and latest form notes before submission.
+Verify the current forms and [BD APP-13](https://www.bd.gov.hk/doc/en/resources/codes-and-references/practice-notes-and-circular-letters/pnap/APP/APP013.pdf).
 
 ---
 
@@ -139,7 +132,7 @@ Red flags to eliminate:
 1. **W-8 to W-6:** gap audit (site vs approved drawings), deviation register freeze.
 2. **W-6 to W-4:** close critical deviations, finalize draft record set and test report index.
 3. **W-4 to W-3:** internal mock OP inspection and rectification sprint.
-4. **W-3 to W-2:** finalize BA12 package and supporting compliance matrix.
+4. **W-3 to W-2:** finalize the appropriate BA13 OP package (BA12 only for the temporary OP route) and supporting compliance matrix.
 5. **W-2 to W-1:** leadership review, sign-off checks, and inspection rehearsal.
 6. **W-0 onward:** BD inspection response cycle with 24-hour action tracking.
 

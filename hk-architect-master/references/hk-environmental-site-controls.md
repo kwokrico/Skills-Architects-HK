@@ -48,4 +48,6 @@ Use the relevant section only: **311** air/asbestos; **354** waste; **358** runo
 
 **Action:** first test whether sediment can remain in place; if removal is required, commission characterisation and arrange disposal allocation and permit sequencing before tender/mobilisation. Reuse [PNAP ADV-21](statutory/pnap/ADV-21%20Management%20Framework%20for%20Disposal%20of%20Dredged-Excavated%20Sediment_CS.md) for the detailed sediment workflow; it is an **April 2007 source**, so verify current sampling, facilities, fees and programme assumptions with EPD/CEDD rather than treating its tables as current permits.
 
+When presenting this sediment workflow, state that the linked PNAP ADV-21 is dated April 2007 and distinguish its historical detail from current EPD/CEDD requirements. Carry that source-date caveat into the answer; do not leave it only in this reference.
+
 **Evidence:** sediment reports, allocation, permit and conditions, vessel monitoring and disposal records. Cap. 358 discharge control, Cap. 313 navigation requirements and Cap. 127 foreshore authorisation remain separate gates.

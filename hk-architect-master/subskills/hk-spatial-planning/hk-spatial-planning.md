@@ -24,7 +24,7 @@ OZP, s.16/s.12A, TPB, AVA, HKPSG development control.
 
 ## Halt criteria
 
-- Halt if OZP for site unknown — do not assume zone defaults.
+- If the site's OZP is unknown, withhold site-specific planning or compliance conclusions and identify the missing plan and Notes. Continue with a general approvals checklist where useful; do not assume zone defaults.
 ---
 
 ## 1. Statutory Planning Framework

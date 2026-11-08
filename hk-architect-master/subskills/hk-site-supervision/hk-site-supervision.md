@@ -75,9 +75,9 @@ High-risk triggers that usually need prior formal action:
 
 ## 5. Completion Forms and Certification Path
 Key completion instruments:
-- **Form BA14:** Certification/acknowledgment route for completed works packages.
-- **Form BA12:** Application associated with Occupation Permit process.
-- **Form BA13:** Occupation Permit issuance outcome.
+- **Form BA14:** Completion certificate for works not resulting in a new building, or street works; check applicable variants.
+- **Form BA12:** Certificate and application for a temporary occupation permit.
+- **Form BA13:** New-building completion certificate and OP application, not the issued permit. See [OP form guidance](../hk-op-submission-strategy/hk-op-submission-strategy.md#2-select-the-form-for-the-actual-works).
 
 Typical sequence logic:
 1. Complete works and close non-conformities.

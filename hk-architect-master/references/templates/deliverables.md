@@ -104,7 +104,7 @@ Use in transmittal PDF **and** machine-editable register (Excel/Sheets). One row
 | 4 Technical design | D — Statutory submissions | BD general plans; FSD/WSD/EMSD parallel | Authorities + client |
 | 4 Technical design | E — Tender documentation | BoQ/pricing docs; tender issue freeze | Tenderers + client |
 | 5 Manufacturing & construction | F — Construction (IFC) | BA7 commence; site SI/RFI | Contractor |
-| 6 Handover | G — Completion / OP readiness | BA14; FSI/501; OP matrix | Authorities + client |
+| 6 Handover | G — Completion / OP readiness | BA13 for new-building OP; applicable FSI evidence; OP matrix | Authorities + client |
 | 6 Handover | H — Handover | O&M; as-builts; training | Client / FM |
 | 7 Use | I — Defects liability | DLP log; final account support | Client / FM |
 
@@ -269,7 +269,7 @@ Use in transmittal PDF **and** machine-editable register (Excel/Sheets). One row
 
 | Authority | Typical evidence pack |
 |-----------|------------------------|
-| BD | BA14 pathway; works per approved plans; UBW cleared |
+| BD | BA13 OP application or BA12 temporary OP as applicable; relevant package BA14 records; works per approved plans; discrepancies resolved |
 | FSD | FSI/501; FS 172; 100% FSI tested |
 | WSD | WWO 46 |
 | EMSD | Form 5 (lifts/escalators) |

@@ -141,6 +141,7 @@ Interface: lane 1 (`hk-site-establishment`), lane 4 concrete pours (`hk-construc
 - [ ] TMP approved by TD before hoarding on public interface
 - [ ] Lane occupation approvals for crane/lift events
 - [ ] HyD scope separated from TD TMP where both apply
+- [ ] For a delivery requiring a new crossing or access works, explicitly check whether public highway opening triggers a separate Cap. 28 excavation permit; if the road boundary is unknown, identify that gap rather than subsuming it under vehicle/load permissions
 - [ ] Emergency access and bus routes maintained per approval
 
 ---

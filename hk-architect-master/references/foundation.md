@@ -51,23 +51,10 @@ Routine Hong Kong lookup tables. Read this file when the master router sends a s
 | **ADV-36** | Amenity features (balconies, utility platforms) | `hk-building-codes` |
 | **ADV-49** | Green and innovative buildings | `hk-building-sustainability` |
  
-### 1.5 Means of Escape — Quick Numbers (BO Reg. 41 + FS Code 2011)
- 
-| Parameter | Value |
-|---|---|
-| Max travel distance — domestic, sprinklered | 45 m |
-| Max travel distance — domestic, unsprinklered | 30 m |
-| Max travel distance — non-domestic, sprinklered | 60 m |
-| Max travel distance — non-domestic, unsprinklered | 45 m |
-| Min exit width — ≤ 50 persons | 750 mm |
-| Min exit width — 51–200 persons | 1,050 mm |
-| Min exit width — > 200 persons | 1,050 mm + 150 mm per 50 persons above 200 |
-| Min corridor width — residential common | 1,050 mm |
-| Min corridor width — non-domestic | 1,200 mm |
-| Max dead-end corridor (sprinklered) | 15 m |
-| Max dead-end corridor (unsprinklered) | 6 m |
-| Staircase pressurisation threshold | > 30 m building height |
- 
+### 1.5 Means of Escape — Conditional Lookup
+
+Use [travel-distance guidance](hk-travel-distance.md) for the measurement and exit conditions. An internal domestic common corridor is not automatically allowed 45 m because it is sprinklered. Check the actual FS Code provisions for travel, dead ends, exit widths and staircase arrangements; do not select them from a generic sprinklered/unsprinklered table.
+
 ### 1.6 Building Height Restriction (BHR)
  
 - BHR is defined in the OZP in metres above **Principal Datum (mPD)** or by storey count.
@@ -125,7 +112,7 @@ Routine Hong Kong lookup tables. Read this file when the master router sends a s
 | Milestone | Authority / Form | Critical Requirement |
 |---|---|---|
 | FSD Inspection | Form FSI/501 | All Fire Services Installations (FSI) must be 100% functional and tested. |
-| BD OP Inspection | Form BA14 | Building must be "rendered fit for occupation." No "Unauthorized Building Works" (UBW) vs. approved plans. |
+| BD completion / OP application | Form BA13 (BA12 for temporary OP) | Building must be "rendered fit for occupation." No "Unauthorized Building Works" (UBW) vs. approved plans. |
 | Water Supply | WSD Form WWO 46 | Final inspection of plumbing and fire mains by Water Supplies Dept. |
 | Lifts/Escalators | EMSD Form 5 | "Permit to Use and Operate" from Electrical and Mechanical Services Dept. |
 | Practical Completion | HKIA PC Cert | Building is functionally complete; minor snags only. Transfer of insurance/risk to Client. |

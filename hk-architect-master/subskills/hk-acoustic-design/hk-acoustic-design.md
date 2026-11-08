@@ -72,10 +72,11 @@ EPD noise, railway/MTR vibration, construction noise permits, and building acous
 
 | Aspect | Requirement |
 |---|---|
-| Construction Noise Permit (CNP) | Required for percussive piling and powered mechanical equipment |
-| Percussion piling | Restricted hours: 07:00–19:00 Mon–Sat; prohibited Sundays/PH |
-| Non-percussive piling | Bored piling preferred in noise-sensitive areas |
-| Noise limit (CNP) | 75 dB(A) at nearest NSR (noise sensitive receiver) |
+| General construction using powered mechanical equipment | Check CNP requirements for 19:00–07:00 and general holidays, including Sundays; designated-area prescribed construction work has additional controls |
+| Percussive piling | Separate permit regime; prohibited during restricted hours rather than made permissible by an ordinary night-work CNP |
+| Noise assessment | Use the applicable Technical Memorandum, receiver/location, equipment, hours and actual permit conditions; no universal 75 dB(A) CNP limit |
+
+TD lane-closure approval does not establish noise permission. Confirm the activity and conditions before advising that night work can proceed. [EPD construction-noise guidance](https://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m3/ordinance_7.html).
 
 ---
 

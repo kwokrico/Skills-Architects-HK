@@ -2,7 +2,7 @@
 
 | Authority | Form / certificate | Prerequisite | Owner | Status |
 |-----------|-------------------|--------------|-------|--------|
-| BD | BA14 / OP | Works per approved plans; no outstanding UBW | AP | |
+| BD | BA13 / OP (BA12 for temporary OP) | Works per approved plans; no outstanding UBW | AP | |
 | FSD | FSI/501, FS 172 | 100% FSI tested | Contractor + AP | |
 | WSD | WWO 46 | Plumbing / fire mains | Contractor | |
 | EMSD | Form 5 | Lifts / escalators | Contractor | |

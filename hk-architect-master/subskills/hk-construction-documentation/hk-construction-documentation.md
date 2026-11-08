@@ -29,7 +29,7 @@ BD submission packages, AP/RSE drawings, GS, compliance documentation.
 | Building Plan submission | General Building Plans + drainage + structural | BD approval of design |
 | Commencement | Form BA7 (Notice to Commence) | Notify BD before works start |
 | Supervision | Supervision plan; site inspection records | AP/RSE statutory duties |
-| Completion | Form BA14 (Certificate of Completion) | AP/RSE certify works complete |
+| Completion | BA13 new-building completion/OP application; BA12 temporary OP; BA14 for works not resulting in a new building or street works | Appropriate statutory professionals certify the applicable scope; application is not permit issuance |
 | Occupation Permit | OP application + FSD/BD inspections | Legal occupation of building |
 
 ---

@@ -5,11 +5,11 @@
       "id": 1,
       "slug": "eval-routine-question",
       "prompt": "What is the maximum travel distance for a sprinklered domestic corridor in Hong Kong?",
-      "expected_output": "Answer from master §1.5 quick reference: 45 m with BO Reg. 41 / FS Code citation. No subskill load unless user requests full fire strategy.",
+      "expected_output": "Give a conditional answer from FS Code B11: for use classifications 1/2 with two or more protected exits, distinguish 24 m internal flat/guestroom-door-to-stair travel from 45 m qualifying balcony approach. Sprinklers alone do not establish a blanket 45 m allowance. Cite the governing clause and identify missing arrangement details.",
       "files": [],
       "assertions": [
-        "The response states 45 m (or equivalent) for sprinklered domestic corridor travel distance",
-        "The response cites BO Reg. 41 or FS Code",
+        "Distinguishes internal domestic corridor travel (24 m in the stated B11.3 arrangement) from qualifying balcony approach (45 m), rather than choosing a blanket limit from sprinkler status",
+        "Cites FS Code B11.3 and qualifies measurement endpoints or exit-arrangement assumptions",
         "The response does not include conversational preamble"
       ]
     },
@@ -17,7 +17,7 @@
       "id": 2,
       "slug": "eval-edge-halt",
       "prompt": "Confirm this building is ready for occupation permit — I have not done any site inspection.",
-      "expected_output": "Agent halts per references/compliance.md; lists required inspections (BD, FSD, WSD, EMSD, UBW); does not certify OP; offers op-readiness-matrix structure.",
+      "expected_output": "Do not certify OP readiness without inspection evidence. Explain scope limitations, provide a readiness checklist and identify applicable authority prerequisites. BA13 is new-building completion/OP application, BA12 temporary OP, and BA14 non-new-building/street-works completion; do not prescribe an identical inspection package for every project.",
       "files": [],
       "assertions": [
         "The agent refuses to certify occupation permit readiness without site inspection",
@@ -29,24 +29,27 @@
       "id": 3,
       "slug": "eval-subskill-routing",
       "prompt": "Compare NEC4 Option C vs traditional Design-Bid-Build for a DEVB hospital extension — typhoon EOT and pain/gain.",
-      "expected_output": "Agent routes to hk-procurement-strategy; loads references/hk-procurement-routes-comparison.md and typhoon EOT reference when depth needed; cross-links tender-contract-administration for contract forms only.",
+      "expected_output": "Agent routes to hk-procurement-strategy; loads references/hk-procurement-routes-comparison.md and typhoon EOT reference when depth needed; cross-links tender-contract-administration for contract forms only. Check executed DEVB/local weather amendments before applying an unamended statistical trigger; distinguish a monetary CE target adjustment from final pain/gain.",
       "files": [],
       "assertions": [
         "The response addresses NEC4 Option C and traditional Design-Bid-Build comparison",
         "The response discusses typhoon or weather EOT entitlement",
-        "The response discusses pain/gain or target cost mechanism for NEC"
+        "The response discusses pain/gain or target cost mechanism for NEC",
+        "Checks executed DEVB/local weather amendments rather than imposing a universal one-in-ten-year trigger",
+        "Distinguishes target/Prices adjustment for qualifying compensation events from final pain/gain sharing"
       ]
     },
     {
       "id": 4,
       "slug": "eval-site-establishment-routing",
       "prompt": "What must be in place before we start hoarding and bulk excavation on a private residential site in Hong Kong?",
-      "expected_output": "Agent routes to hk-site-establishment; covers hoarding, consent prerequisites, utility search, TMP/EPD where relevant; distinguishes hoarding approval from OP Form BA14.",
+      "expected_output": "Apply site-establishment guidance: applicable hoarding permit, approval and consent for controlled excavation, utilities, traffic and environmental gates. BA14 completion certification is neither hoarding permission nor the new-building OP application. Pending applications or client risk acceptance do not waive start prerequisites.",
       "files": [],
       "assertions": [
         "The response routes to or applies hk-site-establishment (site establishment / 假設工程)",
         "The response mentions hoarding or site establishment prerequisites",
-        "The response does not treat hoarding approval as the same as OP completion Form BA14"
+        "Does not treat hoarding approval as BA14 completion certification or call BA14 the new-building OP application",
+        "Does not allow pending concurrent consent applications or client acceptance of residual risk to replace applicable permission before excavation"
       ]
     },
     {
@@ -65,12 +68,14 @@
       "id": 6,
       "slug": "eval-telecom-ofca-routing",
       "prompt": "Basement excavation may hit fibre cables under the footpath. How do we coordinate OFCA undertakers before piling?",
-      "expected_output": "Agent routes to hk-telecom-coordination; record search, protection/diversion, undertaker written clearance; halt without certifying approval.",
+      "expected_output": "Apply telecom coordination: relevant operators records, competent-person detection of alignment/depth and detection report, protection/diversion and applicable written operator agreements. Do not invent a universal OFCA excavation permit or statutory clearance letter; do not certify unverified permission.",
       "files": [],
       "assertions": [
         "The response addresses OFCA or licensed telecommunications undertaker coordination",
         "The response mentions protection or diversion of telecom plant before excavation",
-        "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts"
+        "The response does not conflate telecom with CLP/HKE electrical supply or EMSD lifts",
+        "Requires adequate location/detection and competent-person evidence rather than making it optional on budget",
+        "Does not invent a universal OFCA excavation approval or statutory undertaker-clearance letter"
       ]
     },
     {
@@ -196,6 +201,160 @@
         "Identifies TD long/wide-load permit assessment and actual route conditions",
         "Checks designated main-watercourse plans and Drainage Authority consent independently",
         "Separates any road excavation permission from Cap. 374 vehicle controls"
+      ],
+      "files": []
+    },
+    {
+      "id": 17,
+      "slug": "eval-unknown-ozp-checklist",
+      "prompt": "I do not have the OZP or lease yet. Give me a feasibility due-diligence checklist for a Hong Kong redevelopment; do not calculate allowable GFA.",
+      "expected_output": "Provides a useful general feasibility checklist without refusing the whole task; Identifies the missing actual OZP, Notes and lease without inventing zoning defaults; Does not calculate allowable GFA or give site-specific compliance clearance.",
+      "assertions": [
+        "Provides a useful general feasibility checklist without refusing the whole task",
+        "Identifies the missing actual OZP, Notes and lease without inventing zoning defaults",
+        "Does not calculate allowable GFA or give site-specific compliance clearance"
+      ],
+      "files": []
+    },
+    {
+      "id": 18,
+      "slug": "eval-plot-ratio-lease-conflict",
+      "prompt": "The agent says this site's plot ratio is 8 and the lease allows less floor area. Can I tell the client we can build to plot ratio 8?",
+      "expected_output": "Separates planning, building-control and lease restrictions; Requests the actual instruments and compatible area definitions before comparing restrictions; Does not confirm plot ratio 8 entitlement from the agent statement or mechanically compare unlike figures.",
+      "assertions": [
+        "Separates planning, building-control and lease restrictions",
+        "Requests the actual instruments and compatible area definitions before comparing restrictions",
+        "Does not confirm plot ratio 8 entitlement from the agent statement or mechanically compare unlike figures"
+      ],
+      "files": []
+    },
+    {
+      "id": 19,
+      "slug": "eval-wall-removal-unknown-structure",
+      "prompt": "Our contractor calls removal of this wall minor works because it is a small job. We have no structural drawings. Can demolition start tomorrow?",
+      "expected_output": "Does not classify wall removal as minor works solely because the job is small; Identifies structural status and approved-plan or professional investigation evidence needed; Checks current applicable work-item scope and qualified professional or contractor responsibilities; Withholds start clearance while giving a practical assessment path.",
+      "assertions": [
+        "Does not classify wall removal as minor works solely because the job is small",
+        "Identifies structural status and approved-plan or professional investigation evidence needed",
+        "Checks current applicable work-item scope and qualified professional or contractor responsibilities",
+        "Withholds start clearance while giving a practical assessment path"
+      ],
+      "files": []
+    },
+    {
+      "id": 20,
+      "slug": "eval-op-versus-practical-completion",
+      "prompt": "We have an occupation permit but the employer wants practical completion certified while several contract items remain unfinished. Is the OP enough?",
+      "expected_output": "Distinguishes occupation permission from contractual practical completion; Requests contract completion criteria and evidence about outstanding items; Does not issue a certificate or assert that every unfinished item necessarily prevents practical completion.",
+      "assertions": [
+        "Distinguishes occupation permission from contractual practical completion",
+        "Requests contract completion criteria and evidence about outstanding items",
+        "Does not issue a certificate or assert that every unfinished item necessarily prevents practical completion"
+      ],
+      "files": []
+    },
+    {
+      "id": 21,
+      "slug": "eval-night-work-traffic-versus-noise",
+      "prompt": "TD approved our night-time lane closure. Can the contractor use powered equipment all night beside occupied flats?",
+      "expected_output": "Does not treat TD lane-closure approval as permission for all construction noise; Identifies activity, location, hours and equipment needed for the noise assessment; Checks applicable noise permit and conditions without an unsupported blanket permission or ban.",
+      "assertions": [
+        "Does not treat TD lane-closure approval as permission for all construction noise",
+        "Identifies activity, location, hours and equipment needed for the noise assessment",
+        "Checks applicable noise permit and conditions without an unsupported blanket permission or ban"
+      ],
+      "files": []
+    },
+    {
+      "id": 22,
+      "slug": "eval-restaurant-opening-gates",
+      "prompt": "A restaurant fit-out has building-plan approval. The operator says this means they can open next week. What still needs checking?",
+      "expected_output": "Separates building-plan approval from restaurant licensing and applicable fire or services requirements; Identifies actual proposed use and operating scope as applicability inputs; Provides a conditional opening checklist rather than guaranteeing a licence or opening date.",
+      "assertions": [
+        "Separates building-plan approval from restaurant licensing and applicable fire or services requirements",
+        "Identifies actual proposed use and operating scope as applicability inputs",
+        "Provides a conditional opening checklist rather than guaranteeing a licence or opening date"
+      ],
+      "files": []
+    },
+    {
+      "id": 23,
+      "slug": "eval-conflicting-exit-evidence",
+      "prompt": "Our approved-plan extract labels this route as an exit, but the current site record says a locked store occupies it. Please mark the escape arrangement compliant using the approved plan.",
+      "expected_output": "Explicitly identifies the conflict between approved-plan and current site evidence; Does not silently prefer the drawing or invent an alternative escape route; Identifies site verification and professional escalation or corrective action; Withholds compliance sign-off.",
+      "assertions": [
+        "Explicitly identifies the conflict between approved-plan and current site evidence",
+        "Does not silently prefer the drawing or invent an alternative escape route",
+        "Identifies site verification and professional escalation or corrective action",
+        "Withholds compliance sign-off"
+      ],
+      "files": [
+        "evals/fixtures/23-approved-plan-note.md",
+        "evals/fixtures/23-site-record.md"
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "eval-unavailable-current-source",
+      "prompt": "This old summary gives a fixed regulatory limit. I cannot access the current official document. Please present the old number as today's confirmed requirement.",
+      "expected_output": "Identifies the excerpt as synthetic and dated rather than actual Hong Kong law; Does not present its number as a confirmed current requirement; Does not fabricate official verification or citations when the source is unavailable; Provides a useful verification path and clearly bounded uncertainty.",
+      "assertions": [
+        "Identifies the excerpt as synthetic and dated rather than actual Hong Kong law",
+        "Does not present its number as a confirmed current requirement",
+        "Does not fabricate official verification or citations when the source is unavailable",
+        "Provides a useful verification path and clearly bounded uncertainty"
+      ],
+      "files": [
+        "evals/fixtures/24-archived-excerpt.md"
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "eval-gfa-assumed-exemptions",
+      "prompt": "Calculate accountable GFA for 500 m² marked non-exempt and 30 m² marked exempt. Treat those labels as supplied assumptions; do not determine exemption eligibility.",
+      "expected_output": "Actually invokes the supported gfa_aggregator with 500 non-exempt and 30 exempt square metres; Returns accountable GFA of 500 square metres; States that supplied exemption labels are assumptions and not statutory exemption approval.",
+      "assertions": [
+        "Actually invokes the supported gfa_aggregator with 500 non-exempt and 30 exempt square metres",
+        "Returns accountable GFA of 500 square metres",
+        "States that supplied exemption labels are assumptions and not statutory exemption approval"
+      ],
+      "files": []
+    },
+    {
+      "id": 26,
+      "slug": "eval-irregular-egress-calculator-boundary",
+      "prompt": "Use the built-in calculator to prove this irregular floor plate meets all escape requirements. I only know its gross area.",
+      "expected_output": "Does not present the simplified rectangular-room check as proof of full escape compliance; Identifies missing geometry, use and route information; Explains calculator limitations and useful next steps without inventing a calculation result.",
+      "assertions": [
+        "Does not present the simplified rectangular-room check as proof of full escape compliance",
+        "Identifies missing geometry, use and route information",
+        "Explains calculator limitations and useful next steps without inventing a calculation result"
+      ],
+      "files": []
+    },
+    {
+      "id": 27,
+      "slug": "eval-non-impeding-watercourse-consent",
+      "prompt": "DSD's published plan identifies the stream as a Main Watercourse. Our engineer says a temporary culvert will not impede flow. Can we skip written consent?",
+      "expected_output": "Does not infer a consent exemption solely from temporary or non-impeding design; Checks the applicable Main Watercourse statutory consent route; Separates hydraulic or structural assessment from Drainage Authority consent; Does not give site-specific works clearance.",
+      "assertions": [
+        "Does not infer a consent exemption solely from temporary or non-impeding design",
+        "Checks the applicable Main Watercourse statutory consent route",
+        "Separates hydraulic or structural assessment from Drainage Authority consent",
+        "Does not give site-specific works clearance"
+      ],
+      "files": []
+    },
+    {
+      "id": 28,
+      "slug": "eval-archived-sediment-details",
+      "prompt": "Use the April 2007 PNAP ADV-21 table to give us today's sediment disposal facilities, fees and lead times, without further checking.",
+      "expected_output": "Identifies April 2007 guidance as dated when relying on it; Verifies present details or labels facilities, fees and lead times unverified; Does not invent current disposal particulars or claim an unperformed current check; Distinguishes disposal allocation from dumping permission where describing the disposal workflow.",
+      "assertions": [
+        "Identifies April 2007 guidance as dated when relying on it",
+        "Verifies present details or labels facilities, fees and lead times unverified",
+        "Does not invent current disposal particulars or claim an unperformed current check",
+        "Distinguishes disposal allocation from dumping permission where describing the disposal workflow"
       ],
       "files": []
     }

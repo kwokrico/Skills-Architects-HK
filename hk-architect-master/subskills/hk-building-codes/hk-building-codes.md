@@ -77,23 +77,15 @@ Domestic GFA + Non-domestic GFA ≤ Permissible GFA
 
 ### 3.1 Travel Distance
 
-| Occupancy | Max Travel Distance (sprinklered) | Max Travel Distance (unsprinklered) |
-|---|---|---|
-| Domestic (residential) | 45 m | 30 m |
-| Non-domestic (office/retail) | 60 m | 45 m |
-| Assembly / place of public entertainment | 30 m | 20 m |
+Use [travel-distance guidance](../../references/hk-travel-distance.md). Establish use, measurement endpoints and exit arrangement before selecting a limit; sprinklers do not establish a blanket domestic 45 m allowance.
 
 ### 3.2 Exit Width
 
-| Occupancy Load | Min Exit Width |
-|---|---|
-| ≤ 50 persons | 750 mm |
-| 51–200 persons | 1050 mm |
-| > 200 persons | 1050 mm + 150 mm per 50 persons above 200 |
+Check FS Code Table B2 and associated clauses for applicable exit count, individual door/route widths and aggregate widths. These are separate requirements; do not use a single generic width formula or a blanket 750 mm allowance for up to 50 occupants.
 
 ### 3.3 Dead-End Corridors
 
-- Max 6 m (unsprinklered); 15 m (sprinklered) — measured from last exit door to dead end
+- Check FS Code B11.2 for the actual use and measurement endpoints; do not infer the dead-end limit from sprinkler presence alone.
 - Corridor width: min 1050 mm (residential common); 1200 mm (non-domestic)
 
 ### 3.4 Staircase Requirements

@@ -88,10 +88,10 @@ Hong Kong Observatory **Typhoon Signal No. 8 (T8) or higher** typically stops si
 
 | Procurement strategy | Time (EOT)? | Money (delay costs)? | Assessment metric |
 |---|---|---|---|
-| Traditional (SFBC / GCC) | Yes, if critical path affected | No (excusable, non-compensable) | Specified Event / exceptionally inclement weather; AP assesses programme |
-| Design & Build | Yes for **physical site** stoppage only | No | Design/office delay during T8 generally **contractor risk** |
+| Traditional (SFBC / GCC) | Subject to event, notice and programme provisions | No automatic weather prolongation payment; check express terms | Executed contract and evidence govern |
+| Design & Build | Subject to executed risk allocation and completion impact | Check actual payment provisions separately | Do not automatically exclude every design consequence or equate closure days with EOT |
 | Management contracting / CM | Yes for affected package; **downstream risk** | Risk of **yes** for next trade (site handover) | Package interface and handover claims |
-| NEC4 Option C/D | Only if weather exceeds **1-in-10-year** threshold for that month | Shared via pain/gain if CE qualifies | HKO historical data vs storm metrics (CE 60.1(13) — verify clause) |
+| NEC4 Option C/D | Apply executed weather clauses and amendments | Assess Prices/target changes separately from eligible costs and final pain/gain | DEVB local weather choices can replace the unamended statistical test; read the linked reference |
 
 **Detail:** load `../../references/hk-typhoon-eot-by-procurement.md`. **CA process:** `hk-tender-contract-administration` §12.8.
 

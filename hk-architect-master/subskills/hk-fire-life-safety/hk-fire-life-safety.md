@@ -31,20 +31,11 @@ FS Code 2011, MOE, sprinklers, compartmentation, smoke control — building fire
 
 ### 1.1 Travel Distance
 
-| Occupancy | Sprinklered | Unsprinklered |
-|---|---|---|
-| Domestic (residential) | 45 m | 30 m |
-| Non-domestic (office/retail) | 60 m | 45 m |
-| Assembly / PPE | 30 m | 20 m |
-| Industrial | 45 m | 30 m |
+Use [travel-distance guidance](../../references/hk-travel-distance.md). Establish the use, measurement endpoints and exit arrangement before applying a limit; there is no universal sprinklered domestic 45 m rule.
 
 ### 1.2 Exit Width
 
-| Occupant Load | Min Exit Width |
-|---|---|
-| ≤ 50 persons | 750 mm |
-| 51–200 persons | 1050 mm |
-| > 200 persons | 1050 mm + 150 mm per 50 persons above 200 |
+Use the applicable FS Code Table B2 row and associated clauses to establish exit count, individual door/route widths and aggregate widths. Do not reduce these distinct requirements to one width formula or a blanket 750 mm allowance for up to 50 occupants. See [the current BD Code](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf).
 
 ### 1.3 Corridor Width
 
@@ -52,8 +43,7 @@ FS Code 2011, MOE, sprinklers, compartmentation, smoke control — building fire
 |---|---|
 | Residential common corridor | 1050 mm |
 | Non-domestic corridor | 1200 mm |
-| Dead-end corridor (sprinklered) | Max 15 m |
-| Dead-end corridor (unsprinklered) | Max 6 m |
+| Dead-end corridor | Check FS Code B11.2 for the actual use and path; sprinkler presence alone does not select the limit |
 
 ---
 

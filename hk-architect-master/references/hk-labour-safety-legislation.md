@@ -36,6 +36,8 @@ For each applicable item, record the duty holder, trigger, authority, submission
 
 **Action/evidence:** verify policy period, work locations, activities and subcontract-worker cover before mobilisation; preserve incident, medical and wage records; record LD submission and separate insurer notification. Also apply Cap. 509 reporting below: the compensation-reporting clock does not replace urgent workplace notification. [LD insurance and reporting FAQ](https://www.labour.gov.hk/eng/faq/cap282a_whole.htm).
 
+In an injury-response checklist, explicitly request the applicable insurance policy/coverage evidence as well as incident and medical records. Notifying an insurer does not establish that the policy covers the worker, activity, location and accident date; keep those evidence checks separate from liability conclusions.
+
 ## Cap. 360 — Pneumoconiosis and Mesothelioma (Compensation) Ordinance
 
 **Trigger:** suspected disease associated with dust or asbestos exposure. This chapter provides disease compensation, including relevant incapacity and death benefits. Prevention and asbestos works controls arise under other instruments, including Caps. 59 and 311.

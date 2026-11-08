@@ -37,7 +37,7 @@ OFCA, telecom undertakers, fibre/cable protection and diversion.
 | **CLP / HKE** | Electricity supply cables and substations |
 | **BD** | Coordinated utility drawings in GBP referral |
 
-Telecom clearance is a **separate approval chain** from BD plan approval.
+Telecom protection duties and operator coordination are separate from BD plan approval; do not describe them as a universal OFCA excavation-permit process.
 
 ---
 
@@ -55,7 +55,7 @@ Telecom clearance is a **separate approval chain** from BD plan approval.
 
 High-level workflow (verify live undertaker procedures):
 
-1. **Record search** — undertaker plans; supplement with trial holes / GPR if records uncertain.
+1. **Locate before work** — collect relevant operator plans, arrange competent-person detection to establish alignment/depth, and retain the detection report. Use appropriate verification methods; plans alone are insufficient.
 2. **Protection proposal** — if plant remains in place during works.
 3. **Diversion application** — if reroute required; negotiate programme and cost.
 4. **Witness and inspection** — undertaker attendance for critical exposures.
@@ -75,7 +75,7 @@ Before hoarding or bulk excavation:
 | Mark-up | Show plant on hoarding/piling drawings |
 | Protect | Install protection per undertaker spec before dig |
 | Sequence | Align diversion with `hk-construction-programme` lane 1–4 |
-| Sign-off | Written clearance before excavation in protection zone |
+| Hold point | Detection report, implemented protection and applicable operator agreements before affected excavation |
 
 Coordinate with PM and MEP; architect ensures design drawings and PCI reflect search results.
 
@@ -125,7 +125,7 @@ Coordinate with PM and MEP; architect ensures design drawings and PCI reflect se
 
 - [ ] Telecom record search completed and filed
 - [ ] Protection or diversion proposal submitted to undertaker
-- [ ] Written undertaker approval before excavation in zone
+- [ ] Competent-person detection report and applicable operator protection/diversion agreements retained
 - [ ] PCI updated with telecom constraints
 - [ ] Diversion sequenced on master programme
 - [ ] As-built / completion records for handover

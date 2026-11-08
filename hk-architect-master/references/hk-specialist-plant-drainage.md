@@ -26,7 +26,7 @@ Read from `hk-building-services` when the brief includes pressure equipment, rad
 
 **Trigger:** a rural site or works affecting a main watercourse in a Drainage Authority Area. **Authority:** Director of Drainage Services as Drainage Authority.
 
-**Gate:** establish the applicable published plan and designated main watercourse; ordinary internal drainage design and a drainage impact assessment do not establish statutory consent. Section 26 controls engineering works, filling or obstructions in a main watercourse that impede its flow: check written Drainage Authority consent before committing to a crossing, culvert, diversion or fill.
+**Gate:** establish the applicable published plan and designated main watercourse; ordinary internal drainage design and a drainage impact assessment do not establish statutory consent. DSD's guide requires written application for Drainage Authority consent before erecting structures or carrying out engineering, filling or repair works within a Main Watercourse. Check section 26 and obtain the applicable consent before a crossing, culvert, diversion or fill; do not assume that temporary works or a design claimed not to impede flow are exempt.
 
 **Architect action:** overlay the watercourse and works on the surveyed site; ask the civil/drainage engineer to confirm applicability with DSD, protect maintenance access and resolve any notices or consent conditions. Do not infer a universal setback from Cap. 446.
 

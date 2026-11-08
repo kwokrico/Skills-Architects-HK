@@ -21,6 +21,8 @@ FSI/314, FSI/501, FSD inspection, hydrant/hose reel tests, Fire Certificate FS 1
 | Building fire strategy design | `—` | `hk-fire-life-safety` |
 | MEP design coordination | `—` | `hk-building-services` |
 ## 1. Scope and Outcome
+First identify new-building FSI acceptance, alterations to existing installations, or licensed-premises requirements. The new-building sequence below is not a universal restaurant-licensing checklist: use the actual FEHD/FSD requirement letters and current applicable certification route. Building-plan approval is not a food-business licence.
+
 - This sub-skill focuses on the practical route from installed fire systems to authority sign-off.
 - It centers on:
   - Form `FSI/314` and form `FSI/501` certifications.
@@ -30,14 +32,14 @@ FSI/314, FSI/501, FSD inspection, hydrant/hose reel tests, Fire Certificate FS 1
 
 ---
 
-## 2. Typical Handover Sequence
+## 2. New-building FSI Acceptance Sequence
 1. Confirm as-built fire services installation matches approved submissions.
 2. Complete pre-test and witness test planning with specialist contractor.
-3. Prepare certification package (`FSI/314`, `FSI/501`, test logs, as-built drawings).
+3. Prepare the applicable package: `FSI/314` drawings, `FSI/501` inspection application, `FSI/501a` completion certificate and required tests/records.
 4. Submit for FSD inspection booking.
 5. Conduct inspection and close comments/punch items immediately.
 6. Re-submit rectification evidence where required.
-7. Finalize Fire Certificate (`FS 172`) documentation and issuance process.
+7. Obtain FSD's actual acceptance outcome: FS 172 for non-government buildings or the applicable government acceptance memo/letter; submission is not issuance.
 
 ---
 
@@ -48,14 +50,17 @@ FSI/314, FSI/501, FSD inspection, hydrant/hose reel tests, Fire Certificate FS 1
 - Keep signer details, registration references, and dates consistent across all forms.
 
 ### `FSI/501`
-- Use for completion/certification stage submission tied to final acceptance workflow.
+- Application for inspection and testing of FSI. Distinguish `FSI/501a`, the certificate of completion of FSI installation in new buildings.
 - Ensure all referenced test sheets and annexes are attached and clearly indexed.
 - Any discrepancy between `FSI/501` and test records is a high-probability inspection issue.
 
 ### `FS 172` (Fire Certificate)
+- FSD-issued acceptance outcome for the applicable non-government new-building route, not a universal licence application form.
 - Build the submission pack only after all inspection comments are closed out.
 - Include latest approved/as-built records and complete testing evidence.
 - Keep document naming and revision control clean to avoid administrative rejection.
+
+Sources checked 7 November 2026: [FSD new facilities acceptance and forms](https://www.hkfsd.gov.hk/eng/fire_protection/offa/), [FSD practical guide](https://www.hkfsd.gov.hk/eng/source/licensing/Practical_Guide.pdf). Check current [food-premises requirements](https://www.hkfsd.gov.hk/eng/fire_protection/licensing/premises_food.html) separately.
 
 ---
 

@@ -131,7 +131,7 @@ Shift from adversarial contracting (claims, variations, liquidated damages as pr
 | Change | Compensation Events (CEs), not only variations |
 | Risk | Early Warning (EW) register + risk reduction meetings |
 | Cost (Option C) | Target cost, defined cost, pain/gain share |
-| Weather (typhoon) | CE only if statistical threshold met — not traditional force majeure wording |
+| Weather (typhoon) | Check executed edition and DEVB/local amendments before choosing the trigger; see [weather assessment](hk-typhoon-eot-by-procurement.md). Monetary CE assessment can adjust the target, separately from final pain/gain. |
 
 ### Hong Kong context and fit
 

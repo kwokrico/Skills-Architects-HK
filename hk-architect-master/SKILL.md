@@ -113,7 +113,7 @@ Supported checks live in [scripts/calculators.py](scripts/calculators.py). Other
 
 | calc_type | data |
 |---|---|
-| `egress_1004_7` | `length`, `width`, `sprinklered` — simplified room check |
+| `egress_1004_7` | Positive `length`, `width` in metres; optional `distance_limit` supplied by the caller. Geometry only; no statutory Pass/Fail. Legacy `sprinklered` does not select a limit. |
 | `gfa_aggregator` | `floors`: list of `{area, is_exempt}` |
 | `layout_sort` | `items`: list of `{x, y}` |
 

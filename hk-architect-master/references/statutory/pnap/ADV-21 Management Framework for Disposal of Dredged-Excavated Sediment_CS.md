@@ -79,7 +79,7 @@ For nickel and tributyltin, the upper level is exceeded if the result is greater
 | East Sha Chau plant | A trailer suction hopper dredger must use a down-a-pipe method, the design of which is approved in advance by the Director of Civil Engineering, and the contractor provides the equipment |
 | Fill database | Send fill and disposal requirements, and later updates, to the Marine Fill Committee Secretariat, copied to the Buildings Department |
 
-**SD takeaway:** Category L can go to open sea; Category M and Category H need a confined site or special treatment, and the contractor cannot dump until the permit is issued.
+**SD takeaway:** In this dated framework, Category M passing biological screening can use Type 1 disposal at dedicated sites; other M/H outcomes follow the table's Type 2 or Type 3 conditions. Do not collapse all Category M into confined disposal. Current facility availability and allocation must be verified, and the contractor needs the applicable dumping permit.
 
 ### Source
 `ADV-021 Management Framework for Disposal of Dredged-Excavated Sediment.pdf` (source_reference/PNAP_ADV_e/).

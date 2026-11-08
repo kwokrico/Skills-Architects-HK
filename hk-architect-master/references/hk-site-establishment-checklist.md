@@ -5,7 +5,7 @@ Use at **pre-hoarding / pre-excavation** gate. Status: **N/A** | **Pending** | *
 | # | Item | Party | Status | Owner | Evidence / notes |
 |---|------|-------|--------|-------|------------------|
 | 1 | Approved E&S / hoarding plans (BD) | BD | | AP | Approved plan ref. |
-| 2 | Consent to commence (Form BA8) or concurrent path | BD | | AP | `hk-consent-scheduling` |
+| 2 | Consent granted following BA8 application; not merely concurrent submission | BD | | AP | `hk-consent-scheduling` |
 | 3 | Site Supervision Plan accepted | BD | | AP/RSE | `hk-site-supervision` |
 | 4 | RGBC / RSC appointed | BD | | Client | Appointment letter |
 | 5 | Lease / land-grant hoarding conditions | LandsD DLO | | Client/AP | `hk-lease-compliance` |
@@ -25,4 +25,4 @@ Use at **pre-hoarding / pre-excavation** gate. Status: **N/A** | **Pending** | *
 | 19 | Contractor mobilisation — insurance, safety plan | RC / LD | | Contractor | |
 | 20 | Survey control and site logistics plan | Contractor | | RC | |
 
-**Halt:** Do not certify "ready to excavate" until items marked **Cleared** for the site-specific scope, or client accepts documented residual risk.
+**Halt:** Do not certify readiness. Hold excavation until the applicable statutory and safety gates are cleared with evidence; client risk acceptance cannot replace consent, permits or engineering protections.

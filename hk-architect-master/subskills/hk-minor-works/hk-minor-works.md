@@ -45,18 +45,11 @@ Contractors must be registered for specific types:
 
 ---
 
-## 2. Common Minor Works Items (PNAP APP-147)
-Selection of frequently used items in Hong Kong commercial and residential projects:
+## 2. Classify the Actual Works
 
-| Item ID | Class | Description | Key Technical Constraint |
-|---|---|---|---|
-| **1.1** | I | Internal staircase | Linking 2 floors only; non-structural slab opening |
-| **1.23** | I | Removal of load-bearing wall | Max 10% of total length of wall on that floor |
-| **2.1** | II | External wall rendering/wall tiles | Repairing area > 40m² |
-| **2.16** | II | Ventilation ductwork | Max 1.2m diameter; projection < 600mm from wall |
-| **3.1** | III | External wall rendering/wall tiles | Repairing area ≤ 40m² |
-| **3.6** | III | Window / Glass block | Replacement of existing window in original opening |
-| **3.27** | III | AC supporting frame | Max 100kg load; projection < 600mm from wall |
+Use the [item catalogue](../../references/catalogues/minor-works-items.md) and current [BD minor-works items](https://www.bd.gov.hk/en/building-works/minor-works/minor-works-items/index.html) to match the exact work, dimensions and conditions. Do not classify a job by cost or size alone.
+
+For wall removal, establish structural function, approved arrangement and fire-separation implications through records and professional investigation before selecting exempted works, MWCS or full approval/consent. Item 1.23 is not a general permission to remove a load-bearing wall; do not use the former “10% of wall length” shortcut. If structural status is unknown, withhold start clearance and obtain the appropriate professional assessment.
 
 ---
 

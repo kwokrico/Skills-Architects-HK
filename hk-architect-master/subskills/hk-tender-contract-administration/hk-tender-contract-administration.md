@@ -354,16 +354,16 @@ Issue report within agreed days after meeting; distribute to client, QS, consult
 4. CA issues decision: grant EOT (with revision to completion date), reject, or grant in part.
 5. Record reasons; maintain **EOT/Claim Register**.
 
-**NEC**: use Compensation Event and Early Warning registers (see Section 10). Weather (including typhoon) may only be a CE if contract measurement rules exceed the **1-in-10-year** threshold for that month — see `hk-procurement-strategy` → `../../references/hk-typhoon-eot-by-procurement.md`.
+**NEC**: use Compensation Event and Early Warning registers (see Section 10). Select the executed edition and amendments before assessing weather: DEVB local clauses may replace the unamended statistical trigger. See [weather assessment](../../references/hk-typhoon-eot-by-procurement.md).
 
 **Typhoon / inclement weather — quick reference by procurement route**
 
 | Route | Time (EOT)? | Money? | Notes |
 |---|---|---|---|
-| Traditional (SFBC / GCC) | Yes, if critical path | No (excusable, non-compensable) | AP assesses programme; verify Specified Event / inclement weather clauses |
-| Design & Build | Yes, site stoppage only | No | Design or BD submission delay during T8 usually contractor risk |
+| Traditional (SFBC / GCC) | Subject to event, notices and programme evidence | No automatic weather payment; check express terms | Verify executed clauses |
+| Design & Build | Subject to actual design/construction risk allocation | Check executed terms separately | Do not assume all design consequences are excluded |
 | MC / CM | Yes per package; downstream risk | Risk of yes on handover delay | Interface claims between trade packages |
-| NEC4 target cost | Only if > 1-in-10-year weather CE | Shared via pain/gain if CE qualifies | HKO data comparison per contract |
+| NEC4 target cost | Executed weather clauses and amendments govern | Assess target/Prices changes separately from cost payment and final share | Check selected DEVB/local weather provisions before a statistical test |
 
 Full route-specific logic: load **`hk-procurement-strategy`** → `../../references/hk-typhoon-eot-by-procurement.md`.
 

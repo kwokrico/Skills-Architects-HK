@@ -41,10 +41,10 @@ Consent is the legal "green light" to start physical works on-site after plans a
 * **AP/RSE/RGE Appointment:** Valid appointments must be in place.
 * **Site Supervision Plan (SSP):** Submitted and accepted by BD.
 * **Contractor Appointment:** Registered General Building Contractor (RGBC) or Specialist Contractor (RSC) must be appointed.
-* **Land Conditions:** Hoarding/scaffolding approval per BD approved plans and land-grant conditions (not Form BA14 completion certification — see `hk-site-establishment` for hoarding design and `hk-op-submission-strategy` for OP-stage BA14).
+* **Land Conditions:** Hoarding/scaffolding approval per BD approved plans and land-grant conditions (not Form BA14 completion certification — see `hk-site-establishment` for hoarding design and `hk-op-submission-strategy` for BA12/BA13 OP applications).
 
 ### 2.2 Concurrent Approval and Consent (PNAP ADM-19)
-To fast-track programs, an AP may apply for plan approval and consent *simultaneously*.
+An AP may apply for plan approval and consent concurrently where the procedure allows. This is a submission arrangement, not permission to start while either decision is pending. Obtain the applicable approval and consent and satisfy conditions before commencing the controlled works.
 * **Benefit:** Shaves ~28 days off the critical path.
 * **Risk:** If plans are disapproved, the consent application is automatically rejected.
 * **Common Use:** Standard foundation works or simple A&A.

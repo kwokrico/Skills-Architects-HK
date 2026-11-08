@@ -2,21 +2,38 @@ import math
 
 
 class EgressCalculator:
-    """Logic for HK Buildings Ordinance / FS Code Egress Analysis."""
+    """Rectangular geometry only, not a statutory escape-route assessment."""
 
     def calculate_remotest_point(self, data):
-        length = data.get("length", 0)
-        width = data.get("width", 0)
-        diagonal = math.sqrt(length ** 2 + width ** 2)
-        limit = 45 if data.get("sprinklered") else 30
-        status = "Pass" if diagonal <= limit else "Fail"
+        if not isinstance(data, dict):
+            return {"error": "Supply length and width as positive finite numbers in metres."}
+        length, width = data.get("length"), data.get("width")
+        limit = data.get("distance_limit")
+        for name, value in (("length", length), ("width", width), ("distance_limit", limit)):
+            if name == "distance_limit" and value is None:
+                continue
+            if isinstance(value, bool) or not isinstance(value, (int, float)):
+                return {"error": f"{name} must be a positive finite number in metres."}
+            try:
+                valid = math.isfinite(value) and value > 0
+            except OverflowError:
+                valid = False
+            if not valid:
+                return {"error": f"{name} must be a positive finite number in metres."}
+        diagonal = math.hypot(length, width)
+        if not math.isfinite(diagonal):
+            return {"error": "Dimensions exceed the supported numeric range."}
+        status = "Not assessed" if limit is None else (
+            "Within supplied limit" if diagonal <= limit else "Exceeds supplied limit"
+        )
         return {
             "diagonal_distance": round(diagonal, 2),
             "limit": limit,
             "status": status,
             "note": (
-                "Simplified rectangular-room check only; full FS Code remotest-point "
-                "path analysis requires manual/AP review — not statutory sign-off."
+                "Rectangular diagonal only, not the actual escape path or compliance. "
+                "Any distance_limit is a caller-supplied benchmark whose applicability "
+                "requires separate verification; sprinkler status does not select a limit."
             ),
         }
 

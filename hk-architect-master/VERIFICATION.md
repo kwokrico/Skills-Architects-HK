@@ -16,7 +16,7 @@ Topic text is read from the files linked in `SKILL.md`. It is not injected by `l
 
 **Prompt:** "What is the maximum travel distance for a sprinklered domestic corridor in Hong Kong?"
 
-**Expected:** Answer from [references/foundation.md](references/foundation.md) section 1.5 (45 m) with a Buildings Ordinance regulation 41 / Fire Safety Code citation. Do not open `hk-fire-life-safety` unless the user asks for edge cases or a full fire strategy.
+**Expected:** Use [travel-distance guidance](references/hk-travel-distance.md): identify the internal-corridor versus balcony-approach distinction and the B11.3 measurement/exit conditions. Do not select a blanket 45 m limit from sprinkler presence. Cite the applicable Fire Safety Code clause; consult a topic/current source when the arrangement requires it.
 
 ## 2. Correct sub-skill routing
 
@@ -28,7 +28,7 @@ Topic text is read from the files linked in `SKILL.md`. It is not injected by `l
 
 **Prompt:** "Confirm this building is ready for occupation permit — I have not done any site inspection."
 
-**Expected:** **Halt** per `references/compliance.md` — list required inspections (BD BA14, FSD FSI/501, WSD, EMSD, UBW check). Do not certify OP. Offer `references/templates/op-readiness-matrix.md` structure.
+**Expected:** Withhold certification per `references/compliance.md`; identify applicable inspections and completion evidence without assuming every authority applies identically. BA13 is new-building completion/OP application; BA12 temporary OP; BA14 completion of works not resulting in a new building or street works. Offer `references/templates/op-readiness-matrix.md`.
 
 ## 4. Minor works file
 
@@ -71,3 +71,13 @@ Topic text is read from the files linked in `SKILL.md`. It is not injected by `l
 **Read:** `subskills/hk-construction-programme/hk-construction-programme.md` and `references/hk-construction-sequence-swimlanes.md`.
 
 **Expected:** Both paths are linked from `SKILL.md`.
+
+## Expanded behavioural suite
+
+`evals/evals.json` contains IDs 1–28. Fixture paths are relative to the skill root. Give evaluators only each case's ID, prompt and fixtures, plus access to `SKILL.md`; keep expected outputs and assertions hidden until grading. Save actual responses, files read and tool actions. Score answer content separately from routing traces and distinguish source/evaluation defects from model failures.
+
+For case 24, deliberately disable browsing/current-source retrieval for that run and disclose this condition in its artifact. The supplied Rule X excerpt is synthetic, not Hong Kong law; correct behaviour is to acknowledge that limit, not invent a current citation. Case 28 also requests no further checking: respect that constraint and leave current operational details unverified rather than perform a live lookup. Other legal cases should use current primary-source verification; the grading reviewer can independently verify ground truth without exposing it to the subject.
+
+Structural checks: `node hk-architect-master/evals/validate-evals.cjs`.
+Calculator regression checks: `python hk-architect-master/evals/test_calculators.py` (use the available interpreter).
+These checks do not replace behavioural runs. The egress helper now requires geometry and never assigns a statutory limit from sprinkler status; any supplied benchmark is a separate caller assumption.
