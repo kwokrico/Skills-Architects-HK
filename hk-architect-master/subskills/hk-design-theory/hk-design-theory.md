@@ -17,6 +17,7 @@ HK architects, critical regionalism, urban design discourse, heritage theory.
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
 | Design theory / cultural context | `hk-design-theory` | `—` |
+| Lynch, Jacobs, Gehl, Cullen, Rowe, Alexander, Bentley, or street-and-square research as a way of seeing the city | `—` | `hk-urban-planning-theory` |
 | Statutory compliance numbers | `—` | `hk-building-codes` |
 | Heritage grading process | `—` | `hk-heritage-conservation` |
 ---
@@ -28,6 +29,8 @@ HK design theory is only useful when it lands in **human-scale** decisions: what
 When you make *any* design suggestion, include a **Human scale check** with at least **1–3 dimensions (mm)** relevant to the suggestion (width/height/riser+tread/turning/guard height), using the reference table:
 
 - `../../references/hk-human-scale-dimensions.md`
+
+Panero and Zelnik supply method only. Keep the millimetres in that table, and keep submission sizes in the Design Manual: Barrier Free Access. See `../../references/hk-foreign-design-handbooks.md`.
 
 If you can’t justify the suggestion with human-scale numbers and experience (comfort, effort, crowding, fear-of-height, heat/rain exposure), revise the suggestion until you can.
 

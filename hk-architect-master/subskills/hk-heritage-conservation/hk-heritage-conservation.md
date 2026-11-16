@@ -19,6 +19,7 @@ Graded buildings, AMO/AAB, HIA, adaptive reuse submissions.
 | Heritage grading / HIA / reuse | `hk-heritage-conservation` | `—` |
 | Design theory only | `—` | `hk-design-theory` |
 | Standard GFA for new build | `—` | `hk-building-codes` |
+| Country park, site of special scientific interest, or a presumption against development in Coastal Protection Area, Site of Special Scientific Interest, Conservation Area, or Green Belt | `—` | HKPSG Chapter 10, via [hkpsg](../../references/catalogues/hkpsg.md). The chapter prints no buffer width |
 ---
 
 ## 1. Conservation Governance in Hong Kong

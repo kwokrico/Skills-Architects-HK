@@ -9,6 +9,7 @@ notes: "Verify with suppliers/manufacturers and project specs. Availability vari
 - **Design to modules early**: set grids, opening sizes, and panelization to common board/block sizes to minimize cutting/wastage.
 - **Prefer repeatable bays**: facade, ceiling, partitions, and tiling layouts should align to stock dimensions (or integer fractions).
 - **Confirm “real” sizes**: many products have **nominal** vs **actual** sizes (e.g., timber, blocks, boards). Always confirm datasheets.
+- **Do not import foreign stock sizes.** Board, brick, and timber sizes in Guthrie (2003) and Neufert (1980) are United States or European supply. Use this table, then confirm the supplier datasheet. See [hk-foreign-design-handbooks.md](hk-foreign-design-handbooks.md).
 
 ---
 

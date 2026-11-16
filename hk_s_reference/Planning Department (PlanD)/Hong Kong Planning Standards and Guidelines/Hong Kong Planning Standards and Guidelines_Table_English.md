@@ -1,8 +1,8 @@
 # Hong Kong Planning Standards and Guidelines Index (English)
 
 **Issued by:** Planning Department
-**Scope:** Chapters 1 to 12 (12 chapters in this library). This library was not checked against the live departmental website.
-**How to use:** The chapter number links to the critical summary in `summaries/`. The PDF link in the same cell opens `source_reference/Chapter N (English).pdf`.
+**Scope:** Chapters 1 to 12 (12 full English chapters in this library). Checked against the Planning Department page on 15 November 2026. That page was last updated in December 2025. The full-chapter PDFs were already on file. The summary pamphlets and the key-amendments page were downloaded the same day into `source_reference/`.
+**How to use:** The chapter number links to the critical summary in `summaries/`. The PDF link in the same cell opens `source_reference/Chapter N (English).pdf`. The summary pamphlet for chapter N is `source_reference/sum_chN_en.pdf`. The combined pamphlet is `source_reference/sum_en.pdf`. The amendments page is `source_reference/hkpsg_amend.html`.
 **Titles:** The official title is the chapter subject in the summary heading.
 **Caveat:** Desk reference only. Chapter 1 states that the standards and guidelines are neither statutory nor rigid. Before a submission, check the current Planning Department text, the outline zoning plan, and the lease.
 

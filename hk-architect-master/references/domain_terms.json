@@ -434,6 +434,11 @@
     "Chinese": "公眾娛樂場所",
     "Sub-skill": "hk-fsd-licensing-compliance"
   },
+  "POSPD": {
+    "English": "Public open space in a private development — public access on private or adjoining government land",
+    "Chinese": "私人發展公眾休憩空間",
+    "Sub-skill": "hk-urban-space-statutory"
+  },
   "PR": {
     "English": "Plot Ratio — permissible GFA divided by site area per OZP/lease",
     "Chinese": "地積比率",
@@ -494,6 +499,11 @@
     "Chinese": "八號颱風信號",
     "Sub-skill": "hk-procurement-strategy"
   },
+  "SVP": {
+    "English": "Strategic viewing point — one of eight Planning Department viewpoints for the ridgeline test",
+    "Chinese": "策略性觀景點",
+    "Sub-skill": "hk-urban-space-statutory"
+  },
   "TD": {
     "English": "Transport Department — traffic impact assessment and temporary traffic management on public roads",
     "Chinese": "運輸署",
@@ -508,6 +518,11 @@
     "English": "Temporary Traffic Management Plan — construction-phase traffic accommodation on public roads",
     "Chinese": "臨時交通管理計劃",
     "Sub-skill": "hk-traffic-coordination"
+  },
+  "TPDM": {
+    "English": "Transport Planning and Design Manual — Transport Department street and pedestrian geometry",
+    "Chinese": "運輸策劃及設計手冊",
+    "Sub-skill": "hk-urban-space-statutory"
   },
   "TPB": {
     "English": "Town Planning Board — decides planning applications and plan amendments",
@@ -529,6 +544,11 @@
     "Chinese": "規劃許可申請",
     "Sub-skill": "hk-spatial-planning"
   },
+  "UDG": {
+    "English": "Urban Design Guidelines — HKPSG Chapter 11, a design brief rather than a dimension code",
+    "Chinese": "城市設計指引",
+    "Sub-skill": "hk-urban-space-statutory"
+  },
   "UBW": {
     "English": "Unauthorized Building Works — works not approved under BO; enforcement risk",
     "Chinese": "僭建物",
@@ -538,6 +558,11 @@
     "English": "Urban Renewal Authority — redevelopment and compensation frameworks",
     "Chinese": "市區重建局",
     "Sub-skill": "hk-spatial-planning"
+  },
+  "VIA": {
+    "English": "Visual impact assessment — Town Planning Board guideline PG-No. 41A",
+    "Chinese": "視覺影響評估",
+    "Sub-skill": "hk-urban-space-statutory"
   },
   "VM": {
     "English": "Value Management — structured workshop to optimize scope, cost, programme",

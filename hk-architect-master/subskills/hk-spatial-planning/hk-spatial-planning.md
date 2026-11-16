@@ -19,6 +19,7 @@ OZP, s.16/s.12A, TPB, AVA, HKPSG development control.
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
 | Planning application / zoning | `hk-spatial-planning` | `—` |
+| Street, harbour edge, ridgeline, visual impact | `—` | `hk-urban-space-statutory` |
 | BO GFA after planning permission | `—` | `hk-building-codes` |
 | Lands lease modifications | `—` | `hk-lease-compliance` |
 
@@ -52,7 +53,7 @@ OZP, s.16/s.12A, TPB, AVA, HKPSG development control.
 | O | Open space | — | — |
 | V | Village type development | NTEH policy | — |
 
-> Always read the OZP Notes and Explanatory Statement — site-specific restrictions override HKPSG defaults.
+> Always read the OZP Notes and Explanatory Statement. The rows above are outline-zoning-plan shorthand, not the HKPSG Chapter 2 density zones. Chapter 2 uses zones R1 to R4. Its Main Urban Area table includes 8/9/10, 7.5, 6.5, 6 and 3.6. New Town and New Development Area R1 is 6.5, with a figure up to 8 only where the area is comprehensively planned and has no infrastructure constraint. Rural rows run down to 0.4. Domestic plot ratio is on net site area. Apply the more stringent of the statutory plan and the First Schedule. Catalogue: [hkpsg](../../references/catalogues/hkpsg.md).
 
 ---
 
@@ -81,37 +82,15 @@ Common conditions attached to s.16 approvals:
 
 ---
 
-## 4. Air Ventilation Assessment (AVA)
+## 4. Air ventilation assessment
 
-| Aspect | Requirement |
-|---|---|
-| When required | Major development in urban areas; PlanD may require as planning condition |
-| Method | Pedestrian Wind Environment (PWE) study; CFD or wind tunnel |
-| Metric | Pedestrian-level wind speed; Lawson comfort criteria |
-| Key concern | Podium wall effect blocking sea breeze corridors |
-| Mitigation | Building gaps ≥ 20% of site frontage; podium setbacks; permeable ground floor |
-
-### 4.1 Prevailing Wind Directions (HK)
-
-| Season | Dominant Wind |
-|---|---|
-| Summer (Apr–Sep) | S / SE (sea breeze); typhoon risk |
-| Winter (Oct–Mar) | NE / N (continental; cooler) |
-
-Design for summer ventilation (S/SE) while providing shelter from winter NE winds.
+Joint Technical Circular No. 1/06 (19 July 2006) compares options by wind velocity ratio. It prints no pass/fail benchmark, no Lawson comfort criterion, and no gap as a percentage of site frontage. The local average velocity ratio takes precedence over the site average. Permeability dimensions are PNAP APP-152. Align blocks within 30 degrees of the prevailing wind when applying HKPSG Chapter 11. The design response is in `hk-urban-space-statutory`.
 
 ---
 
-## 5. HKPSG Urban Design Guidelines (Chapter 11)
+## 5. Urban design
 
-| Guideline | Requirement |
-|---|---|
-| Ridgeline protection | No development to visually intrude on natural ridgelines from key vantage points |
-| Harbour view corridors | Maintain visual corridors to Victoria Harbour per HKPSG Fig. 11.1 |
-| Building separation | Min 15 m between residential towers (HKPSG recommendation) |
-| Podium height | ≤ 15 m to maintain human scale at street level |
-| Greenery ratio | Site greenery coverage ≥ 20–30% (PNAP APP-40) |
-| Active frontage | Ground floor commercial/community use along primary streets |
+Street, footpath, ridgeline, harbour edge, visual impact, and public open space in a private development are in `hk-urban-space-statutory`. Chapter 11 does not print a podium height, a 15 m tower gap, a Figure 11.1 corridor width, or a greenery percentage. PNAP APP-40 is hotel development. Greenery percentages are PNAP APP-152.
 
 ---
 
@@ -119,7 +98,8 @@ Design for summer ventilation (S/SE) while providing shelter from winter NE wind
 
 - [ ] OZP confirmed: zone, PR, site coverage, BHR, special restrictions, s.16 required?
 - [ ] Lease conditions checked (Lands Dept): permitted use, gross floor area cap, height restriction
-- [ ] HKPSG Chapter 11 urban design guidelines reviewed
+- [ ] Urban-space rules reviewed in `hk-urban-space-statutory` (Chapter 11 is guidance only)
+- [ ] Chapter 5 industry, Chapter 10 conservation, and Chapter 12 miscellaneous uses checked when the site is industrial, a conservation zone, a cavern, a petrol filling station, a potentially hazardous installation, a vehicle workshop, port back-up, or land under a flyover. Street widths in Chapter 5 refer to Chapter 8. Chapter 10 prints no buffer width. Chapter 12 prints no under-flyover clearance. Catalogue: [hkpsg](../../references/catalogues/hkpsg.md)
 - [ ] AVA required? Commission at feasibility stage
 - [ ] TIA required? Engage TD/HyD early — execution: `hk-traffic-coordination`
 - [ ] Drainage impact assessment: DSD consultation
@@ -143,6 +123,6 @@ Outline zoning plan Notes and the lease can be stricter than the master schedule
 
 ---
 
-*Sources: Town Planning Ordinance Cap. 131, HKPSG chapters 1–12, Town Planning Board guidelines, OZP Master Schedule of Notes, PNAP APP-40, Hong Kong Airport (Control of Obstructions) Ordinance Cap. 301 (15 October 2020) and Cap. 301D (31 May 2022), Cap. 404 (expired).*
+*Sources: Town Planning Ordinance Cap. 131, HKPSG chapters 1–12, Town Planning Board guidelines, OZP Master Schedule of Notes, PNAP APP-152, Technical Circular No. 1/06, Hong Kong Airport (Control of Obstructions) Ordinance Cap. 301 (15 October 2020) and Cap. 301D (31 May 2022), Cap. 404 (expired).*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-spatial-planning.md`. The master router links these files directly.

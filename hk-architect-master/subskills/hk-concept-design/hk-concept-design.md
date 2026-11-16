@@ -45,16 +45,9 @@ Massing, schematic design, BHR compliance, BD submission concept stage.
 
 ---
 
-## 3. Urban Design Drivers (HKPSG Ch. 11)
+## 3. Urban design at concept
 
-| Driver | Guidance |
-|---|---|
-| Ridgeline protection | No visual intrusion on natural ridgelines from key vantage points |
-| Harbour view corridors | Maintain corridors to Victoria Harbour per HKPSG Fig. 11.1 |
-| Podium height | ≤ 15 m to maintain street-level human scale |
-| Building separation | Min 15 m between residential towers (HKPSG recommendation) |
-| Air ventilation | AVA required for major urban sites; design for S/SE summer breeze |
-| Active frontage | Ground floor commercial/community use along primary streets |
+Open `hk-urban-space-statutory` for the street, the ridgeline, the harbour edge, and visual impact. Chapter 11 does not print a podium height, a tower separation, or a view-corridor width. The full-site-coverage podium test is PNAP APP-101. Separation and greenery are PNAP APP-152.
 
 ---
 
@@ -76,7 +69,7 @@ Massing, schematic design, BHR compliance, BD submission concept stage.
 |---|---|
 | Appoint BEAM Pro | At concept stage (before BP submission) |
 | Target credit level | Confirm Bronze/Silver/Gold/Platinum at concept |
-| SA credits | Site orientation, AVA, greenery ratio (PNAP APP-40) |
+| SA credits | Site orientation, air ventilation, greenery under PNAP APP-152 |
 | EU credits | Fix OTTV strategy: orientation, shading, glazing spec |
 | IEQ credits | Natural ventilation feasibility; dual-aspect unit layout |
 

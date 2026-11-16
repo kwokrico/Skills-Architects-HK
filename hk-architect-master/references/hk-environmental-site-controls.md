@@ -1,5 +1,7 @@
 # Environmental controls for building and site works
 
+Planning buffers for industry, roads, rail, water and landfill gas are in HKPSG Chapter 9. Catalogue: [hkpsg](catalogues/hkpsg.md). A buffer distance stays in that chapter. It is not a figure in the urban-planning theory file. The sections below are the environmental ordinances.
+
 Use the relevant section only: **311** air/asbestos; **354** waste; **358** runoff/discharge; **403** refrigerants; **466** marine dumping. EPD guidance checked **6 November 2026**. Treat layout recommendations below as coordination actions, rather than dimensions prescribed by a parent ordinance. Each permit controls its own activity; an EIA environmental permit does not replace separate licences.
 
 ## Cap. 311 — Air Pollution Control Ordinance

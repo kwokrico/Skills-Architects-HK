@@ -44,7 +44,7 @@ Routine Hong Kong lookup tables. Read this file when the master router sends a s
 | PNAP | Subject | Sub-skill for deep detail |
 |---|---|---|
 | **APP-2** | GFA and non-accountable GFA (exemptions) | `hk-building-codes` |
-| **APP-40** | Sustainable building design (setback, greenery ratio ≥ 20–30%) | `hk-building-sustainability` |
+| **APP-40** | Hotel development | `hk-building-codes` |
 | **APP-41** | Barrier-free access (Design Manual: Barrier Free Access 2008) | `hk-accessibility-design` |
 | **APP-130** | Means of escape — general principles | `hk-fire-life-safety` |
 | **APP-152** | Sustainable Building Design Guidelines | `hk-building-sustainability` |
@@ -60,8 +60,7 @@ Use [travel-distance guidance](hk-travel-distance.md) for the measurement and ex
 - BHR is defined in the OZP in metres above **Principal Datum (mPD)** or by storey count.
 - Check the OZP annotation and Explanatory Statement for the specific site before any massing study.
 - **Aviation restrictions** (CAAS): mandatory consultation for Kowloon, Lantau, and airport environs.
-- **Ridgeline protection**: refer to HKPSG Chapter 11 and relevant OZP; no development to intrude visually on natural ridgelines from designated vantage points.
-- **Harbour view corridors**: maintain per HKPSG Fig. 11.1.
+- **Ridgeline and harbour edge**: `hk-urban-space-statutory`. Chapter 11 prints a 20% to 30% building-free zone from the strategic viewing points. It does not print a Figure 11.1 corridor width or a podium height.
 
 ### 1.7 Sprinkler Thresholds (FS Code 2011)
  
@@ -92,7 +91,7 @@ Use [travel-distance guidance](hk-travel-distance.md) for the measurement and ex
 | Window-to-wall ratio, N/S facade (residential) | 25–35% | BEAM Plus / OTTV compliance |
 | Window-to-wall ratio, E/W facade (residential) | 15–25% | Limit solar gain |
 | Natural ventilation depth (cross-ventilated unit) | ≤ 12 m per side | BEAM Plus IEQ |
-| Podium greenery ratio | ≥ 20–30% site area | PNAP APP-40 |
+| Site coverage of greenery | PNAP APP-152, not a single 20–30% from APP-40 | PNAP APP-152 |
  
 ### 1.10 Key HK Architects (Quick Reference)
  

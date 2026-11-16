@@ -8,6 +8,8 @@ disable-model-invocation: true
 
 Area benchmarks and facility ratios for HK building types. BO use classifications govern plot ratio calculations. HKPSG provides community facility provision standards.
 
+Neufert, *Architect's Data* (Second International English Edition, 1980), may suggest which rooms adjoin. Do not import its areas, stairs, parking, fire, or services figures. Benchmarks in this file remain the area source. See `../../references/hk-foreign-design-handbooks.md`.
+
 For **Schedule of accommodation / unit mix**, use `hk-building-programming`. For other topics, see the routing table below.
 
 ## When to Use This Skill
@@ -64,15 +66,22 @@ Area schedules, HKPSG ratios, HA/HD unit mix, FEHD licensing constraints.
 
 ---
 
-## 3. HKPSG Facility Provision Ratios
+## 3. HKPSG provision the architect locks
 
-| Facility | Provision Standard |
-|---|---|
-| Local open space | 1 m²/person (district); 2 m²/person (regional) |
-| Car parking (residential) | 1 space per 3–5 units (varies by district; check OZP/TPB) |
-| Car parking (office) | 1 space per 200–300 m² GFA |
-| Kindergarten | 1 class per 1,000 children aged 3–5 |
-| Primary school | 1 class per 1,000 children aged 6–11 |
+Catalogue: [hkpsg](../../references/catalogues/hkpsg.md). These are guidelines until the statutory plan, the lease, or a Town Planning Board permission writes them in.
+
+| Subject | What to lock | Chapter |
+|---|---|---|
+| Open space | 3.5 m² per person for the territory; 1 m² per person inside public housing and private comprehensive residential development; 0.5 m² per worker in an employment node | 4 |
+| Primary school | A 30-classroom reservation at 6,200 m² with a 65 m width, plus a 10% site reserve in a new development area | 3 |
+| Secondary school | A 30-classroom reservation at 6,950 m² with a 65 m width | 3 |
+| Kindergarten | Within a 0.4 km radius, without relying on an uncontrolled major-road crossing | 3 |
+| Elderly care | 17.2 community-care places and 21.3 residential-care beds per 1,000 persons aged 65 or above | 3 |
+| Rehabilitation | 23 pre-school places per 1,000 children aged 0–6; 23 vocational places per 10,000 persons aged 15 or above; 36 residential places per 10,000 persons aged 15 or above | 3 |
+| Retail | Do not apply a retail gross-floor-area ratio from Chapter 6. Place district retail at a rail station or a bus terminal | 6 |
+| Parking | Do not use a generic space-per-flat or space-per-office ratio. Chapter 8 and the lease set the provision | 8 |
+
+Public-housing green coverage and soft-landscaping percentages are design tests in `hk-urban-space-statutory`, not population standards.
 
 ---
 
@@ -102,4 +111,4 @@ Section 4 states space ratios used in practice. The parent ordinances below do n
 
 ---
 
-*Sources: HA Schedule of Accommodation, HKPSG 2023, Cap. 132 (10 July 2026), Cap. 172 (1 July 2022), Cap. 279 (1 August 2026), Cap. 349 (1 September 2023), Cap. 459 and Cap. 613 (26 July 2024), Buildings Ordinance Cap. 123.*
+*Sources: HA Schedule of Accommodation, HKPSG Chapters 3, 4, 6 and 8 (Chapter 4 and Chapter 8 December 2025), Cap. 132 (10 July 2026), Cap. 172 (1 July 2022), Cap. 279 (1 August 2026), Cap. 349 (1 September 2023), Cap. 459 and Cap. 613 (26 July 2024), Buildings Ordinance Cap. 123.*

@@ -23,6 +23,7 @@ SUC 2013, SUS, HKWC wind, transfer structures, foundations.
 ## Halt criteria
 
 - Structural design certification is RSE-only.
+- Do not size members from Guthrie span ratios or from Neufert structure chapters. Those are United States and European preliminary figures, not the Hong Kong concrete, steel, or wind codes. See `../../references/hk-foreign-design-handbooks.md`.
 ---
 
 ## 1. Lateral Design

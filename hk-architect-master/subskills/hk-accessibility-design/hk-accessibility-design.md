@@ -23,6 +23,7 @@ Barrier-free access under DMBA 2008 and PNAP APP-41.
 ## Halt criteria
 
 - Do not certify BD barrier-free approval without AP submission.
+- Do not replace these dimensions with Panero wheelchair data, Neufert disabled-access figures, or Americans with Disabilities Act sizes in Guthrie. See `../../references/hk-foreign-design-handbooks.md`.
 ---
 
 ## 1. Key Dimensional Requirements (DMBA 2008)

@@ -51,7 +51,7 @@ BD submission packages, AP/RSE drawings, GS, compliance documentation.
 | PNAP | Subject | When to Reference |
 |---|---|---|
 | APP-2 | GFA and non-accountable GFA | All submissions; GFA schedule |
-| APP-40 | Sustainable building design (setback, greenery) | Concept and BP stage |
+| APP-40 | Hotel development | Hotel submissions |
 | APP-41 | Barrier-free access (Design Manual: Barrier Free Access 2008) | Accessibility drawings |
 | APP-130 | Means of escape | MOE drawings |
 | APP-152 | Sustainable Building Design Guidelines | Concept and GBP when separation, setback, or greenery is in play |

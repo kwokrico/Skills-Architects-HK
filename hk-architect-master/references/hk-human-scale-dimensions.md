@@ -2,6 +2,8 @@
 
 Use this as a **minimum human-scale sanity check** for any design suggestion. Always verify against **current** Hong Kong statutory requirements and Codes of Practice (e.g., Buildings Ordinance, Fire Services requirements, Barrier Free Access, relevant PNAP/CoP) and project brief.
 
+Foreign handbooks do not supply the millimetres in this table. Panero and Zelnik, *Human Dimension and Interior Space* (1979), may inform method only: design for a range of bodies, and keep reach, clearance, and adjustability apart. Submission sizes for access, doors, ramps, stairs, and turning come from the Design Manual: Barrier Free Access and the other Hong Kong instruments named in [hk-foreign-design-handbooks.md](hk-foreign-design-handbooks.md). Where this table and the Design Manual differ, the Design Manual is the submission figure and this table is the comfort check.
+
 ## A) Anthropometrics & reach (typical adults)
 
 | Item | Rule of thumb (mm) | Why it matters |

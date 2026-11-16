@@ -21,6 +21,7 @@ HVAC, plumbing, drainage, electrical, and FSD installation coordination.
 | MEP systems and BD/FSD interfaces | `hk-building-services` | `—` |
 | FSI testing and Fire Certificate | `—` | `hk-fsd-licensing-compliance` |
 | Fire compartmentation / MOE | `—` | `hk-fire-life-safety` |
+| Utility reserves and district cooling in a new development area | `—` | HKPSG Chapter 7, via [hkpsg](../../references/catalogues/hkpsg.md). Do not treat that chapter as a building-services code |
 ---
 
 ## 1. HVAC (CoP EE 2021 + BEAM Plus)

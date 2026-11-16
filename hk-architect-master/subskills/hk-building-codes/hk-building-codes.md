@@ -35,7 +35,7 @@ BO Cap. 123, PNAP, GFA/plot ratio, MOE quick rules, and statutory development pa
 | Reg. 41 | Means of escape | Travel distance, exit widths, dead-end corridors |
 | Reg. 46 | Car parking headroom | Min 2.0 m clear (2.3 m practical) |
 | Reg. 72 | Projections over streets | Max 1.5 m canopy; no projection below 3.5 m AFL |
-| Reg. 23 | Site coverage | Per OZP / HKPSG; measured at ground level |
+| Reg. 23 | Site coverage | First Schedule, the outline zoning plan, and the lease. HKPSG Chapter 2 guides domestic plot ratio and is not this site-coverage schedule |
 | Reg. 20 | Plot ratio | Domestic + non-domestic PR per OZP annotation |
 
 ---
@@ -145,7 +145,7 @@ Check FS Code Table B2 and associated clauses for applicable exit count, individ
 | PNAP | Subject |
 |---|---|
 | APP-2 | Gross floor area and non-accountable gross floor area |
-| APP-40 | Sustainable building design guidelines (setback, greenery) |
+| APP-40 | Hotel development |
 | APP-41 | Barrier-free access (Design Manual: Barrier Free Access 2008) |
 | APP-130 | Lighting and ventilation — performance-based approach (operative rule in hk-daylighting-design) |
 | APP-152 | Sustainable Building Design Guidelines |

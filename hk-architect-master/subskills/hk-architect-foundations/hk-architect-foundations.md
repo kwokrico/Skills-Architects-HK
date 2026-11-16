@@ -68,13 +68,15 @@ Broad HK practice overview, PNAP index, and regulatory map before specialist rou
 
 | Zone / Use | Domestic Plot Ratio | Non-Domestic Plot Ratio | Site Coverage | Source |
 |---|---|---|---|---|
-| R(A) Residential | 5.0 | — | 33% (tower), 66% (podium ≤15m) | HKPSG / OZP |
-| R(B) Residential | 3.0 | — | 33% | HKPSG |
-| R(C) Residential | 1.0 | — | 25% | HKPSG |
-| C(1) Commercial | — | 9.5 | 100% (podium) | HKPSG |
-| C(2) Commercial | — | 6.5 | 100% (podium) | HKPSG |
+| R(A) Residential | 5.0 | — | 33% (tower), 66% (podium ≤15m) | Outline zoning plan shorthand, not HKPSG Chapter 2 |
+| R(B) Residential | 3.0 | — | 33% | Outline zoning plan shorthand, not HKPSG Chapter 2 |
+| R(C) Residential | 1.0 | — | 25% | Outline zoning plan shorthand, not HKPSG Chapter 2 |
+| C(1) Commercial | — | 9.5 | 100% (podium) | Outline zoning plan shorthand |
+| C(2) Commercial | — | 6.5 | 100% (podium) | Outline zoning plan shorthand |
 | OU (Other Specified Uses) | Per OZP | Per OZP | Per OZP | OZP annotation |
 | Village house (NT) | — | — | 66.7% max | NTEH Policy |
+
+HKPSG Chapter 2 density zones are a separate table. Domestic plot ratio is on net site area. The figures and the instruction to use the more stringent of the statutory plan and the First Schedule are in `hk-spatial-planning`. Catalogue: [hkpsg](../../references/catalogues/hkpsg.md).
 
 ### 2.3 GFA Exemptions (PNAP APP-2 key items)
 
@@ -92,7 +94,7 @@ Broad HK practice overview, PNAP index, and regulatory map before specialist rou
 - BHR defined in OZP in metres above Principal Datum (mPD) or storeys
 - Check OZP annotation for site-specific BHR before any massing study
 - Aviation height restrictions (CAAS): consult for Kowloon, Lantau, airport environs
-- Ridgeline protection: consult HKPSG Chapter 11 and relevant OZP
+- Ridgeline protection: `hk-urban-space-statutory` and the relevant outline zoning plan. Chapter 11 does not print a podium height or a tower separation
 
 ### 2.5 Structural Grid (HK High-Density Residential)
 
@@ -188,10 +190,10 @@ Broad HK practice overview, PNAP index, and regulatory map before specialist rou
 
 ### 4.3 Urban Design & Context
 
-- [ ] Air ventilation assessment (AVA) commissioned if required by PlanD
-- [ ] Building setback and permeability per HKPSG urban design guidelines
-- [ ] Podium height ≤ 15 m to maintain street-level human scale
-- [ ] View corridor to harbour or ridgeline not obstructed (check OZP/HKPSG Ch.11)
+- [ ] Air ventilation assessed under Technical Circular No. 1/06 when the project is in that scope; no Lawson pass/fail from that circular
+- [ ] Building separation, setback, and greenery taken from PNAP APP-152, not from HKPSG Chapter 11
+- [ ] Full-site-coverage podium tested under PNAP APP-101, not as a Chapter 11 human-scale rule
+- [ ] Ridgeline and harbour edge checked in `hk-urban-space-statutory`
 - [ ] Active frontage at ground floor; blank walls minimised
 
 ---

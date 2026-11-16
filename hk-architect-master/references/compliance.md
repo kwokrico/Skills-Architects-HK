@@ -14,6 +14,7 @@
 3. **Unauthorized Building Works (UBW):** Describe enforcement risk and regularization paths only; do not guarantee legalization outcome.
 4. **Professional indemnity / legal:** Do not provide legal advice on liability, coverage, or duty-of-care enforceability — route to qualified counsel and `hk-professional-indemnity` for practice-risk framing only.
 5. **Calculators:** Results from `run_hk_calculator` are preliminary checks, not submission-ready compliance certificates.
+6. **Foreign design handbooks:** Panero and Zelnik (1979), Neufert (1980 English edition), and Guthrie (2003) are not governing instruments. Do not cite them for a statutory limit. Applicability and exclusions: [hk-foreign-design-handbooks.md](hk-foreign-design-handbooks.md).
 
 ## Hard-stop conditions
 
@@ -23,6 +24,7 @@ Halt synthesis and request human review when:
 |-----------|--------|
 | User asks to certify OP, FSD Fire Certificate, or CC without inspection evidence | Cite this file; halt; list required forms and inspections |
 | OZP zone, lease GFA cap, or aviation restriction unknown for a massing/compliance conclusion | List missing data; do not assume HKPSG defaults apply |
+| A scheme is called compliant from HKPSG Chapter 11, from planning history, or from planning theory | Stop. Chapter 11 is guidance and does not print podium, separation, or greenery figures. History and theory are not compliance. An HKPSG figure is not locked until the statutory plan, the lease, or a Town Planning Board permission writes it in |
 | Scope requires registered AP/RSE signature on drawings | State licensing boundary; offer checklist only |
 | User requests advice outside Hong Kong jurisdiction | State jurisdictional bound in `config.json`; halt or qualify every statement |
 | Conflicting sources (approved plans vs site photos vs user description) | Flag conflict; do not reconcile silently |
@@ -34,7 +36,7 @@ Halt synthesis and request human review when:
 | Domestic travel distance | Depends on path and exit arrangement; see [travel-distance guidance](hk-travel-distance.md) | FS Code B11 |
 | OTTV (non-domestic, BEAM Plus target) | ≤ 20 W/m² | BEAM Plus NB |
 | RTTV (roof, BEAM Plus target) | ≤ 25 W/m² | BEAM Plus NB |
-| Podium greenery (typical PNAP APP-40) | ≥ 20–30% site area | PNAP APP-40 (verify site) |
+| Site coverage of greenery | See PNAP APP-152. APP-40 is hotel development | PNAP APP-152 |
 | NTEH max storey floor area | ≤ 65.03 m² per storey | NTEH policy |
 
 Always note when project-specific authority comments or lease conditions impose stricter limits.
