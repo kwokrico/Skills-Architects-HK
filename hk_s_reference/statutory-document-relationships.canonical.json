@@ -1,0 +1,259 @@
+{
+  "version": 2,
+  "title": "Relationships between Hong Kong statutory documents for architects",
+  "description": "How the instruments in hk_s_reference relate. Legal force runs from ordinance to regulation to an accepted code of practice to a practice note. A government lease and the site outline zoning plan can be stricter than the Buildings Ordinance. Practice notes state how the authority applies the law. They do not replace it.",
+  "diagrams": [
+    {
+      "id": "legal_force",
+      "title": "Legal force",
+      "description": "Strongest instrument first. A Code of Practice is a method the Building Authority has accepted. A practice note explains that application. BEAM Plus (Building Environmental Assessment Method Plus) is a voluntary assessment and sits outside this chain.",
+      "accessibility": "Ordinance authorizes a subsidiary regulation, which an accepted code of practice applies, which a practice note explains. A government lease and a site outline zoning plan can be stricter than the Buildings Ordinance. BEAM Plus is voluntary.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "code", "definition": "fill:#e0e7ff,stroke:#4338ca,color:#312e81"},
+        {"name": "practice", "definition": "fill:#fef3c7,stroke:#b45309,color:#78350f"},
+        {"name": "control", "definition": "fill:#ffedd5,stroke:#c2410c,color:#7c2d12"},
+        {"name": "voluntary", "definition": "fill:#ecfdf5,stroke:#047857,color:#064e3b"}
+      ],
+      "data": {
+        "direction": "TB",
+        "nodes": [
+          {"id": "ordinance", "label": "Ordinance", "class": "statute"},
+          {"id": "regulation", "label": "Subsidiary regulation", "class": "statute"},
+          {"id": "code", "label": "Code of Practice accepted by the Building Authority", "class": "code"},
+          {"id": "note", "label": "Practice note", "class": "practice"},
+          {"id": "lease", "label": "Government lease", "class": "control"},
+          {"id": "ozp", "label": "Site Outline Zoning Plan", "class": "control"},
+          {"id": "beam", "label": "BEAM Plus", "class": "voluntary"}
+        ],
+        "edges": [
+          {"from": "ordinance", "to": "regulation", "label": "authorizes"},
+          {"from": "regulation", "to": "code", "label": "accepted method"},
+          {"from": "code", "to": "note", "label": "note explains the application"},
+          {"from": "lease", "to": "ordinance", "label": "can be stricter than the Buildings Ordinance", "arrow": "-.->"},
+          {"from": "ozp", "to": "ordinance", "label": "can be stricter than the Buildings Ordinance", "arrow": "-.->"},
+          {"from": "beam", "to": "ordinance", "label": "voluntary, outside the statutory core", "arrow": "-.->"}
+        ]
+      }
+    },
+    {
+      "id": "two_licences",
+      "title": "Two different licences",
+      "description": "Cap 408, the Architects Registration Ordinance, controls the title Registered Architect through the Architects Registration Board. It does not approve building plans. An Authorized Person is a separate registration with the Building Authority under Cap 123, the Buildings Ordinance.",
+      "accessibility": "Cap 408 leads to the Registered Architect title and does not approve plans. Separate Building Authority registration creates an Authorized Person, who submits and supervises under Cap 123.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "person", "definition": "fill:#f3e8ff,stroke:#7e22ce,color:#581c87"},
+        {"name": "gate", "definition": "fill:#ffe4e6,stroke:#be123c,color:#881337"}
+      ],
+      "data": {
+        "direction": "LR",
+        "nodes": [
+          {"id": "cap408", "label": "Cap 408 Architects Registration Ordinance", "class": "statute"},
+          {"id": "ra", "label": "Registered Architect", "class": "person"},
+          {"id": "ba_reg", "label": "Building Authority registration", "class": "statute"},
+          {"id": "ap", "label": "Authorized Person", "class": "person"},
+          {"id": "cap123", "label": "Cap 123 Buildings Ordinance", "class": "statute"},
+          {"id": "plans", "label": "Building plan approval", "class": "gate"}
+        ],
+        "edges": [
+          {"from": "cap408", "to": "ra", "label": "controls the title"},
+          {"from": "ra", "to": "plans", "label": "title does not approve plans", "arrow": "-.->"},
+          {"from": "ra", "to": "ba_reg", "label": "separate registration"},
+          {"from": "ba_reg", "to": "ap", "label": "creates the statutory role"},
+          {"from": "ap", "to": "cap123", "label": "submits, supervises, occupation permit"},
+          {"from": "ap", "to": "plans", "label": "submits the plans"}
+        ]
+      }
+    },
+    {
+      "id": "cap123_family",
+      "title": "Cap 123 and its subsidiary regulations",
+      "description": "Cap 121, the Buildings Ordinance (Application to the New Territories) Ordinance, decides how Cap 123 applies in the New Territories. Cap 123B, the Building (Construction) Regulations, is the earlier construction text. Use it when a project still cites that text. Cap 123Q, the Building (Construction) Regulation, is the later construction regulation.",
+      "accessibility": "Cap 123 is the parent ordinance. Cap 121 limits its application in the New Territories. The lettered regulations cover administration, planning, construction, energy, sanitation, refuse, minor works, inspection, and other specialist duties.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "older", "definition": "fill:#f1f5f9,stroke:#475569,color:#0f172a"}
+      ],
+      "data": {
+        "direction": "TB",
+        "nodes": [
+          {"id": "cap123", "label": "Cap 123 Buildings Ordinance", "class": "statute"},
+          {"id": "cap121", "label": "Cap 121 New Territories application", "class": "statute"},
+          {"id": "cap123a", "label": "Cap 123A Administration", "class": "statute"},
+          {"id": "cap123f", "label": "Cap 123F Planning", "class": "statute"},
+          {"id": "cap123q", "label": "Cap 123Q Construction", "class": "statute"},
+          {"id": "cap123b", "label": "Cap 123B earlier construction text", "class": "older"},
+          {"id": "cap123m", "label": "Cap 123M Energy efficiency", "class": "statute"},
+          {"id": "cap123i", "label": "Cap 123I Sanitary fitments, plumbing and drainage", "class": "statute"},
+          {"id": "cap123h", "label": "Cap 123H Refuse storage", "class": "statute"},
+          {"id": "cap123n", "label": "Cap 123N Minor works", "class": "statute"},
+          {"id": "cap123p", "label": "Cap 123P Inspection and repair", "class": "statute"},
+          {"id": "cap123other", "label": "Cap 123C, D, E, G, J, K, L and O", "class": "statute"}
+        ],
+        "edges": [
+          {"from": "cap121", "to": "cap123", "label": "Cap 123 applies in the New Territories only as Cap 121 provides", "arrow": "-.->"},
+          {"from": "cap123", "to": "cap123a", "label": "plan packages and forms"},
+          {"from": "cap123", "to": "cap123f", "label": "site coverage, plot ratio, streets, light, projections, escape"},
+          {"from": "cap123", "to": "cap123q", "label": "materials and construction"},
+          {"from": "cap123b", "to": "cap123q", "label": "use the earlier text only when the project cites it", "arrow": "-.->"},
+          {"from": "cap123", "to": "cap123m", "label": "overall thermal transfer value"},
+          {"from": "cap123", "to": "cap123i", "label": "sanitary and drainage"},
+          {"from": "cap123", "to": "cap123h", "label": "refuse"},
+          {"from": "cap123", "to": "cap123n", "label": "minor works instead of full approval"},
+          {"from": "cap123", "to": "cap123p", "label": "mandatory inspection of existing buildings"},
+          {"from": "cap123", "to": "cap123other", "label": "demolition, escalators, lifts, streets, ventilation, oil, appeals, fees"}
+        ]
+      }
+    },
+    {
+      "id": "how_applied",
+      "title": "How the Building Authority applies Cap 123",
+      "description": "Practice Notes for Authorized Persons and Joint Practice Notes state how the Building Authority applies the ordinance. Joint Practice Notes 4, 5, 6 and 7 change gross floor area, height, setback and site coverage. Joint Practice Note 8 is the statutory gross floor area effect of modular integrated construction.",
+      "accessibility": "Administration notes govern submission. Planning notes and joint practice notes govern area and form. The fire, access, supervision and energy codes are the accepted methods under the matching regulation.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "code", "definition": "fill:#e0e7ff,stroke:#4338ca,color:#312e81"},
+        {"name": "practice", "definition": "fill:#fef3c7,stroke:#b45309,color:#78350f"}
+      ],
+      "data": {
+        "direction": "LR",
+        "nodes": [
+          {"id": "cap123", "label": "Cap 123 Buildings Ordinance", "class": "statute"},
+          {"id": "cap123f", "label": "Cap 123F Planning", "class": "statute"},
+          {"id": "cap123m", "label": "Cap 123M Energy efficiency", "class": "statute"},
+          {"id": "adm", "label": "PNAP ADM-2, ADM-5, ADM-14, ADM-19", "class": "practice"},
+          {"id": "gfa", "label": "APP-2, APP-19, APP-42, APP-104, APP-132", "class": "practice"},
+          {"id": "jpn", "label": "Joint Practice Notes 1 to 8", "class": "practice"},
+          {"id": "jpn_params", "label": "JPN 4, 5, 6 and 7", "class": "practice"},
+          {"id": "jpn8", "label": "JPN 8 modular integrated construction", "class": "practice"},
+          {"id": "fire", "label": "Fire Safety in Buildings Code 2011", "class": "code"},
+          {"id": "bfa", "label": "Barrier Free Access design manual", "class": "code"},
+          {"id": "site", "label": "Site Supervision Code and supervision-plan memorandum", "class": "code"},
+          {"id": "energy", "label": "OTTV code, APP-67 and APP-156", "class": "code"}
+        ],
+        "edges": [
+          {"from": "cap123", "to": "adm", "label": "submission and approval process"},
+          {"from": "cap123", "to": "site", "label": "supervision duty"},
+          {"from": "cap123f", "to": "gfa", "label": "gross floor area and site coverage"},
+          {"from": "cap123f", "to": "jpn", "label": "design incentives and controls"},
+          {"from": "jpn", "to": "jpn_params", "label": "area, height, setback, coverage"},
+          {"from": "jpn", "to": "jpn8", "label": "statutory area effect of modular construction"},
+          {"from": "cap123f", "to": "fire", "label": "accepted method for escape and fire safety"},
+          {"from": "cap123f", "to": "bfa", "label": "accepted method for access"},
+          {"from": "cap123m", "to": "energy", "label": "thermal transfer and residential energy"}
+        ]
+      }
+    },
+    {
+      "id": "site_envelope",
+      "title": "What actually limits the site",
+      "description": "A master schedule of Notes is a standard form. It is not the site Outline Zoning Plan. The Hong Kong Planning Standards and Guidelines are guidance. On a real site, the site plan, its Notes, and the government lease control the envelope and can be tighter than Cap 123.",
+      "accessibility": "Cap 123, the site outline zoning plan, and the government lease all feed the site envelope. The master schedule and the planning standards do not replace the site plan.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "practice", "definition": "fill:#fef3c7,stroke:#b45309,color:#78350f"},
+        {"name": "control", "definition": "fill:#ffedd5,stroke:#c2410c,color:#7c2d12"},
+        {"name": "guidance", "definition": "fill:#ecfdf5,stroke:#047857,color:#064e3b"}
+      ],
+      "data": {
+        "direction": "LR",
+        "nodes": [
+          {"id": "cap131", "label": "Cap 131 Town Planning Ordinance", "class": "statute"},
+          {"id": "master", "label": "OZP master schedule of Notes", "class": "practice"},
+          {"id": "hkpsg", "label": "Hong Kong Planning Standards and Guidelines", "class": "guidance"},
+          {"id": "site_ozp", "label": "Site Outline Zoning Plan and its Notes", "class": "control"},
+          {"id": "lease", "label": "Government lease", "class": "control"},
+          {"id": "cap123", "label": "Cap 123 bulk and height rules", "class": "statute"},
+          {"id": "envelope", "label": "Development envelope on the site", "class": "control"}
+        ],
+        "edges": [
+          {"from": "cap131", "to": "site_ozp", "label": "the plan that applies to the lot"},
+          {"from": "master", "to": "site_ozp", "label": "standard wording, not the site plan", "arrow": "-.->"},
+          {"from": "hkpsg", "to": "site_ozp", "label": "guidance, not the statutory plan", "arrow": "-.->"},
+          {"from": "site_ozp", "to": "envelope", "label": "can be stricter than Cap 123"},
+          {"from": "lease", "to": "envelope", "label": "can be stricter than Cap 123"},
+          {"from": "cap123", "to": "envelope", "label": "building control"}
+        ]
+      }
+    },
+    {
+      "id": "beside_cap123",
+      "title": "Regimes that sit beside Cap 123",
+      "description": "These ordinances can still constrain a scheme after the Buildings Ordinance is satisfied. Lease control is in the previous diagram. Cap 610, the Buildings Energy Efficiency Ordinance, is the building-services energy code. It is not Cap 123M, which is the overall thermal transfer value regime. Cap 618, the Lifts and Escalators Ordinance, is administered with the Electrical and Mechanical Services Department, alongside Cap 123D and Cap 123E.",
+      "accessibility": "A scheme that meets Cap 123 still faces planning, fire services, pollution, airport height, existing-building fire safety, energy, lifts, water, labour safety, and antiquities controls.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "statute", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "hub", "definition": "fill:#ffe4e6,stroke:#be123c,color:#881337"}
+      ],
+      "data": {
+        "direction": "TB",
+        "nodes": [
+          {"id": "scheme", "label": "Scheme that meets Cap 123", "class": "hub"},
+          {"id": "pland", "label": "Cap 131 Town Planning Ordinance", "class": "statute"},
+          {"id": "fsd", "label": "Cap 95 and the fire service installation code", "class": "statute"},
+          {"id": "epd", "label": "Cap 311, Cap 358, Cap 400 and Cap 499", "class": "statute"},
+          {"id": "cad", "label": "Cap 301 airport height", "class": "statute"},
+          {"id": "exist", "label": "Cap 502, Cap 572 and Cap 636", "class": "statute"},
+          {"id": "energy", "label": "Cap 610 building energy code", "class": "statute"},
+          {"id": "lifts", "label": "Cap 618 lifts and escalators", "class": "statute"},
+          {"id": "water", "label": "Cap 102 waterworks", "class": "statute"},
+          {"id": "labour", "label": "Cap 59 and Cap 509", "class": "statute"},
+          {"id": "amo", "label": "Cap 53 antiquities", "class": "statute"}
+        ],
+        "edges": [
+          {"from": "scheme", "to": "pland", "label": "zoning can still block the use"},
+          {"from": "scheme", "to": "fsd", "label": "installation acceptance is separate from the occupation permit"},
+          {"from": "scheme", "to": "epd", "label": "pollution control and designated-project assessment"},
+          {"from": "scheme", "to": "cad", "label": "height limit near the airport"},
+          {"from": "scheme", "to": "exist", "label": "fire safety of existing buildings"},
+          {"from": "scheme", "to": "energy", "label": "services energy code, separate from Cap 123M"},
+          {"from": "scheme", "to": "lifts", "label": "alongside Cap 123D and Cap 123E"},
+          {"from": "scheme", "to": "water", "label": "supply connection and plumbing"},
+          {"from": "scheme", "to": "labour", "label": "site safety duty, not plan approval"},
+          {"from": "scheme", "to": "amo", "label": "when the site is a monument"}
+        ]
+      }
+    },
+    {
+      "id": "approval_path",
+      "title": "Path from appointment to occupation permit",
+      "description": "The statutory job under Cap 123. The Authorized Person, Registered Structural Engineer, Registered Geotechnical Engineer and registered contractor are appointed first. Section 14 is approval and consent. Section 16 is refusal. Section 21 is the occupation permit. Fire Services Department acceptance of fire service installations is a parallel gate. It is not itself the occupation permit.",
+      "accessibility": "Appointment leads to plan submission, then section 14 consent or section 16 refusal. Consent leads through supervision and completion to the section 21 occupation permit. Fire services acceptance runs beside completion.",
+      "kind": "flowchart",
+      "styles": [
+        {"name": "step", "definition": "fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a"},
+        {"name": "stop", "definition": "fill:#ffe4e6,stroke:#be123c,color:#881337"},
+        {"name": "parallel", "definition": "fill:#ffedd5,stroke:#c2410c,color:#7c2d12"}
+      ],
+      "data": {
+        "direction": "LR",
+        "nodes": [
+          {"id": "appoint", "label": "Appoint AP, RSE, RGE and registered contractor", "class": "step"},
+          {"id": "submit", "label": "Plan submission under Cap 123A", "class": "step"},
+          {"id": "s14", "label": "Section 14 approval and consent", "class": "step"},
+          {"id": "s16", "label": "Section 16 refusal", "class": "stop"},
+          {"id": "works", "label": "Supervision plan and site supervision code", "class": "step"},
+          {"id": "complete", "label": "Completion and record plans under APP-13", "class": "step"},
+          {"id": "op", "label": "Section 21 occupation permit", "class": "step"},
+          {"id": "fsd", "label": "FSD inspection of fire service installations", "class": "parallel"}
+        ],
+        "edges": [
+          {"from": "appoint", "to": "submit", "label": "statutory team in place"},
+          {"from": "submit", "to": "s14", "label": "Building Authority may approve"},
+          {"from": "submit", "to": "s16", "label": "Building Authority may refuse", "arrow": "-.->"},
+          {"from": "s14", "to": "works", "label": "consent to commence"},
+          {"from": "works", "to": "complete", "label": "works finished"},
+          {"from": "complete", "to": "op", "label": "occupation permit application"},
+          {"from": "complete", "to": "fsd", "label": "parallel acceptance, not the permit itself", "arrow": "-.->"}
+        ]
+      }
+    }
+  ]
+}
