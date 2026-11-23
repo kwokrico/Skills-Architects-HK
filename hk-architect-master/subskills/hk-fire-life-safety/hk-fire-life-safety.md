@@ -35,29 +35,17 @@ Use [travel-distance guidance](../../references/hk-travel-distance.md). Establis
 
 ### 1.2 Exit Width
 
-Use the applicable FS Code Table B2 row and associated clauses to establish exit count, individual door/route widths and aggregate widths. Do not reduce these distinct requirements to one width formula or a blanket 750 mm allowance for up to 50 occupants. See [the current BD Code](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf).
+Use the shared [exit doors, routes and required staircases reference](../../references/hk-exits-and-required-staircases.md). Distinguish B7 exit doors from B8 storey exit routes and select the corresponding Table B2 columns, including the change at 31 occupants.
 
 ### 1.3 Corridor Width
 
-| Use | Min Width |
-|---|---|
-| Residential common corridor | 1050 mm |
-| Non-domestic corridor | 1200 mm |
-| Dead-end corridor | Check FS Code B11.2 for the actual use and path; sprinkler presence alone does not select the limit |
+For corridors forming exit routes, use [B8 and Table B2](../../references/hk-exits-and-required-staircases.md), not a blanket residential/non-domestic width. Check dead-end travel separately under [B11.2](../../references/hk-travel-distance.md); width does not establish the permitted travel distance.
 
 ---
 
 ## 2. Staircases
 
-| Parameter | Requirement |
-|---|---|
-| Min width | 1050 mm (residential); 1200 mm (non-domestic) |
-| Max riser | 175 mm |
-| Min going | 250 mm |
-| Handrail height | 900–1000 mm |
-| Fire resistance | 2 hr (>25 storeys); 1 hr (others) |
-| Pressurisation | Required for buildings > 30 m height |
-| Scissor stairs | Accepted by FSD for HK high-rise residential; each flight must be a separate fire compartment |
+Use the shared [required-staircase checks](../../references/hk-exits-and-required-staircases.md). Establish whether the stair is a required escape stair or ordinary circulation stair; then check B14.2 geometry, B14.4 → B8.1/Table B2 clear width, and B12 discharge capacity independently. Straight flights without winders are required under the standard B14.2 provisions; width alone cannot qualify a spiral stair. Check the applicable code basis and approved escape layout for existing buildings or A&A under APP-153 before drawing project conclusions.
 
 ---
 

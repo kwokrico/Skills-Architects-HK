@@ -77,27 +77,19 @@ Domestic GFA + Non-domestic GFA ≤ Permissible GFA
 
 ### 3.1 Travel Distance
 
-Use [travel-distance guidance](../../references/hk-travel-distance.md). Establish use, measurement endpoints and exit arrangement before selecting a limit; sprinklers do not establish a blanket domestic 45 m allowance.
+Use [travel-distance guidance](../../references/hk-travel-distance.md). Establish use classification, actual exit layout, route measurement and point of choice. Check B11.2 dead-end travel separately from B11.3 overall travel, including the dead end where applicable. Balcony allowances require B10.6; sprinklers alone do not increase the standard B11 limits.
 
 ### 3.2 Exit Width
 
-Check FS Code Table B2 and associated clauses for applicable exit count, individual door/route widths and aggregate widths. These are separate requirements; do not use a single generic width formula or a blanket 750 mm allowance for up to 50 occupants.
+Use the shared [exit doors, routes and required staircases reference](../../references/hk-exits-and-required-staircases.md): B7 exit doors and B8 storey exit routes use different Table B2 columns. Check exit count, individual widths and total widths separately, including the change at 31 occupants.
 
 ### 3.3 Dead-End Corridors
 
-- Check FS Code B11.2 for the actual use and measurement endpoints; do not infer the dead-end limit from sprinkler presence alone.
-- Corridor width: min 1050 mm (residential common); 1200 mm (non-domestic)
+Use [travel-distance guidance](../../references/hk-travel-distance.md) for B11.2 and the B11.7 point-of-choice test. Meeting the overall limit does not excuse an excessive dead end. For corridor width as part of an exit route, use [B8 and Table B2](../../references/hk-exits-and-required-staircases.md), not a blanket residential/non-domestic width.
 
 ### 3.4 Staircase Requirements
 
-| Parameter | Requirement |
-|---|---|
-| Min width | 1050 mm (residential); 1200 mm (non-domestic) |
-| Max riser | 175 mm |
-| Min going | 250 mm |
-| Handrail height | 900 mm (min) – 1000 mm (max) |
-| Fire resistance | 2 hr (high-rise > 25 storeys); 1 hr (others) |
-| Pressurisation | Required for buildings > 30 m height |
+Use the shared [required-staircase checks](../../references/hk-exits-and-required-staircases.md): geometry under B14.2 (straight flights without winders), clear width under B14.4 → B8.1 and Table B2, and discharge capacity under B12 are separate tests. Do not count an ordinary circulation stair as a required escape stair. For existing buildings or A&A, establish the applicable code basis and approved escape layout under APP-153 before drawing project conclusions.
 
 ---
 

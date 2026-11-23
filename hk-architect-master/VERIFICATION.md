@@ -74,7 +74,7 @@ Topic text is read from the files linked in `SKILL.md`. It is not injected by `l
 
 ## Expanded behavioural suite
 
-`evals/evals.json` contains IDs 1–28. Fixture paths are relative to the skill root. Give evaluators only each case's ID, prompt and fixtures, plus access to `SKILL.md`; keep expected outputs and assertions hidden until grading. Save actual responses, files read and tool actions. Score answer content separately from routing traces and distinguish source/evaluation defects from model failures.
+`evals/evals.json` contains IDs 1–31. Cases 29–31 cover the fictional office overall/dead-end travel and spiral required-stair regressions. Fixture paths are relative to the skill root. Give evaluators only each case's ID, prompt and fixtures, plus access to `SKILL.md`; keep expected outputs and assertions hidden until grading. Save actual responses, files read and tool actions. Score answer content separately from routing traces and distinguish source/evaluation defects from model failures.
 
 For case 24, deliberately disable browsing/current-source retrieval for that run and disclose this condition in its artifact. The supplied Rule X excerpt is synthetic, not Hong Kong law; correct behaviour is to acknowledge that limit, not invent a current citation. Case 28 also requests no further checking: respect that constraint and leave current operational details unverified rather than perform a live lookup. Other legal cases should use current primary-source verification; the grading reviewer can independently verify ground truth without exposing it to the subject.
 

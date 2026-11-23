@@ -357,6 +357,44 @@
         "Distinguishes disposal allocation from dumping permission where describing the disposal workflow"
       ],
       "files": []
+    },
+    {
+      "id": 29,
+      "slug": "eval-office-overall-travel",
+      "prompt": "Fictional case: a sprinklered ordinary office (Use 4a) has two protected exits, no balcony approach, 40 m overall travel and 10 m dead-end travel. Are these travel distances acceptable under the FS Code 2011 (2024 Edition)?",
+      "expected_output": "Fails B11.3(a)(iii): overall travel of 40 m exceeds 36 m. The 10 m dead end is within the 18 m B11.2(c)(i) limit. Sprinklers do not extend these standard limits. Overall travel includes the dead-end portion.",
+      "assertions": [
+        "Rejects 40 m overall travel under B11.3(a)(iii), citing the 36 m limit",
+        "Separately checks the 10 m dead end against 18 m under B11.2(c)(i)",
+        "Does not increase B11 limits because of sprinklers or add dead-end allowance to overall allowance"
+      ],
+      "files": []
+    },
+    {
+      "id": 30,
+      "slug": "eval-office-dead-end-travel",
+      "prompt": "Fictional case: a sprinklered ordinary office (Use 4a) has two protected exits, no balcony approach, 30 m overall travel and 20 m dead-end travel. Are these travel distances acceptable under the FS Code 2011 (2024 Edition)?",
+      "expected_output": "Fails B11.2(c)(i): the 20 m dead end exceeds 18 m, although 30 m overall travel is within the 36 m B11.3(a)(iii) limit. Verify route measurement and a qualifying point of choice under B11.7; sprinklers do not cure the failure.",
+      "assertions": [
+        "Rejects 20 m dead-end travel under B11.2(c)(i), citing the 18 m limit",
+        "Separately identifies 30 m overall as within 36 m without declaring overall compliance",
+        "Checks actual route and qualifying point of choice rather than treating any second exit as sufficient",
+        "Does not apply a sprinkler-based or unqualified balcony allowance"
+      ],
+      "files": []
+    },
+    {
+      "id": 31,
+      "slug": "eval-spiral-required-exit",
+      "prompt": "Fictional case: a 900 mm spiral stair is proposed as a required exit under the FS Code 2011 (2024 Edition). Can its width qualify it as an escape stair? What must be checked if this is A&A in an existing building?",
+      "expected_output": "Fails the standard B14.2 geometry test: required stairs have straight flights without winders. Width alone cannot qualify it. Assess B14.4 through B8.1 and the exit-route columns of Table B2, and B12 discharge capacity separately. Do not equate an ordinary circulation stair with a required escape stair. Establish the applicable code basis and approved escape layout under APP-153 before project conclusions.",
+      "assertions": [
+        "Rejects the spiral required stair on B14.2 geometry, not width alone",
+        "Distinguishes B14.4/B8.1/Table B2 route width from B7 exit-door width and from B12 discharge capacity",
+        "Does not treat an ordinary circulation stair as a required escape stair",
+        "Checks APP-153 applicability and approved escape layout for existing buildings or A&A"
+      ],
+      "files": []
     }
   ]
 }
