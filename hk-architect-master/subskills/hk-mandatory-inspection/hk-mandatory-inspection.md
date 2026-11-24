@@ -93,3 +93,16 @@ Enclosing a balcony for kitchen or living expansion does not remove it from s.30
 ---
 
 *Sources: Building (Inspection and Repair) Regulation Cap. 123P (31 March 2022), Code of Practice for MBIS and MWIS (2023 Edition), PNBI-1 to PNBI-10.*
+
+## 7. Interface with general due diligence
+
+A purchase/refurbishment survey and prescribed MBIS/MWIS inspection have different purposes and appointments. Start general investigation in [A&A due diligence](../hk-alterations-additions/hk-alterations-additions.md#7-existing-building-due-diligence-and-diagnostic-survey); retain statutory scope and RI/QP responsibilities here.
+
+When due diligence finds an inspection notice or existing report:
+
+1. Obtain the actual record, dates, elements, appointed persons, exclusions and outstanding repair/investigation actions.
+2. Compare inspected scope/date with the proposed works and current condition. A prior report does not establish concealed conditions or suitability for a new loading/use proposal.
+3. Ask the appointed RI/QP to establish the prescribed inspection/repair position and evidence needed. Refer alteration feasibility/design to the AP/structural/services team as appropriate.
+4. Record physical completion, document submission and authority status separately. A quotation, appointment or submitted report does not establish closure of a notice.
+
+**Handoff:** record reference; element/location; inspected scope/date; outstanding actions; responsible RI/QP; required evidence; A&A interface; unresolved status. Missing records/access stay `Not established` in the due-diligence register, with a specific follow-up request.

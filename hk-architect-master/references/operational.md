@@ -13,6 +13,7 @@ Confirm or explicitly list as missing:
 
 ## Routing SOP
 
+0. Apply the master's [specialist role referrals](../SKILL.md#specialist-role-referrals) before any lookup. State the named role skill for out-of-scope tasks and do not answer the specialist part. Mixed tasks retain architectural coordination plus a handoff record; an unavailable specialist skill is not permission to improvise its result.
 1. Answer from [foundation.md](foundation.md) when the question is a routine single-table lookup.
 2. Read one primary topic file linked from `SKILL.md` when the question needs a workflow, an edge case, or a catalogue row.
 3. Open a second topic file only for an explicit overlap (see the overlap order in `SKILL.md`).

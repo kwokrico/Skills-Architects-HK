@@ -1,5 +1,11 @@
 import json
 import sys
+from pathlib import Path
+
+# Support the documented source-checkout command without an editable install.
+repository_root = Path(__file__).resolve().parent.parent
+if (repository_root / "hk_architect_skills").is_dir():
+    sys.path.insert(0, str(repository_root))
 
 from hk_architect_skills.dispatcher import HKSkillsDispatcher
 

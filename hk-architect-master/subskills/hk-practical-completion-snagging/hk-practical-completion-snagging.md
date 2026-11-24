@@ -13,6 +13,8 @@ For **PC / DLP / snagging workflow**, use `hk-practical-completion-snagging`. Fo
 
 ## When to Use This Skill
 
+Use section 11 for operational-readiness evidence and aftercare handoff, keeping PC, defects and statutory occupation separate. Apply the [master role-referral rule](../../SKILL.md#specialist-role-referrals), including referral of detailed interior finish design to **Skills-Interior-Designer-HK**.
+
 PC certification, DLP, snagging / de-snagging for premium finishes.
 
 | Question type | Use this skill | Use instead |
@@ -255,3 +257,22 @@ Pre-issue checklist:
 ---
 
 *Apply this framework alongside the executed HKIA/contract conditions, project specifications, and legal/professional advice where certificate entitlement or defect liability is disputed.*
+
+## 11. Operational readiness and aftercare handoff
+
+Use to coordinate occupation transition and the evidence handed to client/FM. Operational readiness, contractual PC/defect certification and statutory permission to occupy are separate decisions. Apply the executed contract and actual authority requirements; neither a handover meeting nor an OP automatically establishes all three. This workflow does not authorise occupation or waive outstanding duties.
+
+**Inputs:** scope/zone and proposed occupation sequence; actual statutory status; contract completion requirements; as-built register; agreed tests and outstanding results; O&M, warranties, spares and training evidence; access/replacement reviews; unresolved defects; named operator/maintenance responsibilities. Record missing records rather than marking a folder's existence as complete evidence.
+
+1. Match the handover pack to installed asset/space IDs and revisions. Identify incomplete, obsolete or inaccessible documents and assign their correction.
+2. Review [envelope access](../hk-building-envelope/hk-building-envelope.md#9-maintenance-access-and-replacement-review) and [services/FM interfaces](../hk-building-services/hk-building-services.md#13-fm-design-review-and-operational-handoff) against as-built conditions. Refer engineering and systems verification to **Skills-Structural-Engineer-HK** or **Skills-MEP-Engineer-HK**; refer asset-model configuration to **Skills-BIM Manager-HK**.
+3. Confirm relevant training/demonstrations occurred and record attendees, scope and limitations. Delivery of a manual does not prove operational capability. Specialist demonstration/test evidence is separate from an architectural walk-through.
+4. Allocate unresolved items to contract defects, missing documentation/training, operational tasks, design questions or new client requirements. Categories are provisional until evidence establishes cause and responsibility.
+5. Record zone-specific restrictions, dependencies, owners and verification dates. Do not label a safety-critical or essential unresolved function a minor snag solely to meet handover dates. Client acceptance of risk does not waive statutory requirements.
+6. Hand ongoing matters into the [POE/aftercare record](../hk-plan-of-work/hk-plan-of-work.md#9-post-occupancy-evaluation-and-aftercare-service) within the agreed appointment. Preserve contract notice/certification procedures; POE action closure does not automatically close a contractual defect.
+
+| Zone/asset | Required evidence and basis | Supplied/reviewed reference | Gap / operating consequence | Responsible owner / referral | Restriction or next action | Verification/status |
+|---|---|---|---|---|---|---|
+| Tenant meeting rooms | Agreed operation/training and system test record | Manual received; demonstration pending | After-hours controls not understood; functionality unverified | FM + MEP specialist | Arrange competent demonstration and resolve questions | Awaiting evidence; not automatically a defect or a ready system |
+
+**Boundary case:** PC is being discussed, manuals exist, but a plant replacement route is blocked and a commissioning result is missing. Record both gaps and their effects; obtain the relevant architectural/specialist assessment and contract decision. Do not assume manuals, client signature or a statutory permit alone resolves maintenance access or essential system performance.

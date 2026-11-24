@@ -11,7 +11,7 @@ description: >
 
 # HK Architect Master Suite
 
-Router for Hong Kong architectural practice. Read this file first. Then open only the linked file the question needs.
+Router for Hong Kong architectural practice. Read this file first. Check the role boundary before opening a topic or answering from a quick-reference table.
 
 Advisory only. Do not sign off as an authorized person, registered structural engineer, Buildings Department, or Fire Services Department. Do not state that a scheme is compliant without the outline zoning plan Notes and the lease. Do not invent practice-note or lease clauses. State the gap and the assumption.
 
@@ -19,6 +19,7 @@ Hard stops are in [references/compliance.md](references/compliance.md). Intake a
 
 ## Read order
 
+0. Apply [specialist role referrals](#specialist-role-referrals). For an out-of-scope specialist question, name the appropriate role skill and stop the specialist answer. For mixed questions, answer only the architectural part and state the handoff.
 1. Apply [references/compliance.md](references/compliance.md). Stop when a hard-stop rule matches.
    Before recalling or saving context with an authorized memory tool, read [references/memory-writing.md](references/memory-writing.md), including before routine lookups. Memory is optional; this suite provides no store. SQL-backed adapters also use [references/memory-sql.md](references/memory-sql.md).
 2. For a routine single-table lookup, read [references/foundation.md](references/foundation.md) and stop if that table answers the question.
@@ -26,7 +27,43 @@ Hard stops are in [references/compliance.md](references/compliance.md). Intake a
 4. For a requested deliverable shell, use [references/templates/](references/templates/).
 5. For a supported numeric check, run [scripts/calculators.py](scripts/calculators.py).
 
+## Specialist role referrals
+
+This suite is the architect's role, not a substitute for the user's other professional-role skills. Retain architectural design intent, building-level coordination, architectural documentation, statutory interfaces and appointed contract duties. The presence of structural, services, landscape, planning or interior-related material in a local topic does not authorise a specialist design or conclusion. This boundary takes precedence over broad topic triggers, quick-reference tables and embedded formulas.
+
+| Refer to the user's role skill | Specialist work to refer | Architect retains |
+|---|---|---|
+| **Skills-BIM Manager-HK** — `hk-professional-bim-manager` | BEP/EIR/CDE governance, federation/clash tooling, model health, software production, automation and model-data delivery | Architectural model/drawing intent, spatial design decisions, design-owner coordination and package release |
+| **Skills-Interior-Designer-HK** — `interior-designer-hk` | Interior-led layouts, FF&E, detailed joinery/millwork, decorative finishes, interior lighting and specialist fit-out detailing | Building shell/core, architectural access/fire interfaces and multidisciplinary coordination |
+| **Skills-Landscape-Architects-HK** — `hk-landscape-architect` | Plant/species selection, planting/soil/root design, arboriculture, landscape hardscape/irrigation design, ecology and establishment plans | Building/landscape geometry, structure/drainage/waterproofing interfaces, circulation and brief coordination |
+| **Skills-MEP-Engineer-HK** — HK Professional MEP Engineer | HVAC/ventilation sizing, electrical calculations, pipe/pump/drainage sizing, FSI engineering, control sequences/BMS integration and specialist commissioning design | Space, risers, plant/access allowances, user outcomes and coordination with architectural requirements |
+| **Skills-Structural-Engineer-HK** — HK Structural Engineer | Loads/capacity, member/foundation design, reinforcement/connection details, structural models, strengthening and temporary-works engineering | Architectural system options, geometry, openings, spatial constraints and obtaining engineer input |
+| **Skills-Urban-Planner-HK** — `urban-planner` | Planning-led masterplans, district/territorial strategy, specialist planning arguments/applications and impact studies | Architectural feasibility inputs, identifying applicable site constraints, building-scale massing and coordination of planning conditions |
+
+Identify the requested decision and deliverable, not just a keyword. For example, reserving plant space is architectural coordination; sizing the plant is MEP. Coordinating a planter with a doorway is architectural; selecting soil/species or proving slab capacity belongs to landscape/structural roles. Checking a building's supplied OZP constraints remains architectural feasibility; preparing a planning-led district strategy belongs to the urban planner.
+
+**Required response for an out-of-scope question:** “This requires [specialist task]. Refer to **[exact role repository name]**. The handoff should include [available inputs and missing evidence].” Do not then supply the specialist answer, calculation, dimensions or design under a disclaimer. For a mixed request, clearly separate the architectural answer and the unresolved specialist question. Where several roles are needed, name each task and owner.
+
+State a referral even if the specialist skill is unavailable. Do not claim to have invoked it, obtained its assessment or made a professional appointment. If the user requests use of that role, locate its available skill entry and follow it in that role; otherwise leave a concrete referral and coordination record. Specialist skill outputs remain advisory and do not replace professional appointments or statutory sign-off. For domains outside these six, identify the appropriate competent specialist without inventing a skill name.
+
+### Existing role entry points
+
+The following files were found in sibling repositories on 24 November 2026. Paths are relative to the common projects directory, not bundled dependencies of this skill. Prefer an available installed skill; verify file availability before reading a sibling entry. No sibling repository is modified by this suite.
+
+| Repository | Entry within that repository |
+|---|---|
+| `Skills-BIM Manager-HK` | `hk-professional-bim-manager/SKILL.md` |
+| `Skills-Interior-Designer-HK` | `interior-designer-hk/SKILL.md` |
+| `Skills-Landscape-Architects-HK` | `Claude Desktop/SKILL.md` |
+| `Skills-MEP-Engineer-HK` | `Claude Desktop/SKILL.md` |
+| `Skills-Structural-Engineer-HK` | `Claude Desktop/SKILL.md` |
+| `Skills-Urban-Planner-HK` | `urban-planner/SKILL.md` |
+
+**Handoff record:** question/decision; named role skill; project/use/stage; available drawings and revisions; known constraints; missing inputs; exact specialist deliverable required; architectural dependencies; status `Referred — not assessed`. Do not fill missing specialist results to complete the architectural report.
+
 ## Routing
+
+The routes below apply only to the architectural scope remaining after the role check. Specialist tasks go to the named external role skill even where the local topic covers related background.
 
 - Buildings Ordinance, practice notes, gross floor area, plot ratio, site coverage, building height, means of escape: [hk-building-codes](subskills/hk-building-codes/hk-building-codes.md). Practice-note rows: [pnap-hk-building-codes](references/catalogues/pnap-hk-building-codes.md). All practice-note ids: [pnap-index](references/catalogues/pnap-index.md). Source summaries: [pnap](references/statutory/pnap/).
 - Fire strategy, Fire Safety Code, Fire Services Department, sprinklers, compartmentation: [hk-fire-life-safety](subskills/hk-fire-life-safety/hk-fire-life-safety.md). Practice-note rows: [pnap-hk-fire-life-safety](references/catalogues/pnap-hk-fire-life-safety.md). Source summaries: [pnap](references/statutory/pnap/). Circulars: [fsd-circulars](references/catalogues/fsd-circulars.md). Source circulars: [fsd-circulars](references/statutory/fsd-circulars/).

@@ -14,6 +14,8 @@ Process **checklists** for Hong Kong building projects aligned to the RIBA Plan 
 
 ## When to Use This Skill
 
+Use section 9 for a scoped post-occupancy evaluation/aftercare brief, occupant questionnaire and findings report. Apply the [master role-referral rule](../../SKILL.md#specialist-role-referrals) before any specialist investigation.
+
 | Question type | Use this skill | Use instead |
 |---|---|---|
 | Stage 0–7 task checklist, stage gate, "what should be done at Stage 4?" | `hk-plan-of-work` | — |
@@ -125,3 +127,52 @@ Typical gate references in checklists: Stage 1 → 2 (1.1.12), Stage 2 → 3 (2.
 ---
 
 *Checklists follow RIBA Plan of Work structure localised for Hong Kong. Verify live project appointments, contract form, and authority requirements.*
+
+## 9. Post-occupancy evaluation and aftercare service
+
+Use for an agreed Stage 7 service on a Hong Kong project. Confirm appointment, fee, access, reporting recipients and duration before undertaking extra work. POE does not replace statutory inspections, contract defect procedures or professional certification. Apply the [role-referral rule](../../SKILL.md#specialist-role-referrals): retain architectural usability and coordination; refer specialist investigations rather than supplying their conclusions.
+
+### 9.1 Agree the service brief
+
+Record project/occupied areas, decision to inform, baseline brief/design revisions, occupancy dates and actual uses/hours, participant groups, survey methods, monitoring scope, review dates, responsible people and outputs. Agree early-use and follow-up reviews suited to actual occupancy and seasonal conditions; do not impose a universal review interval. Distinguish a representative review from an exhaustive survey.
+
+Request as-built information, handover/commissioning evidence, operational instructions, complaint/defect logs and available performance data. Mark missing or unreliable records. Agree accessible participation and appropriate languages, explain the purpose/use of responses, collect only necessary data and report without exposing identifiable occupants or sensitive tenant information. Obtain permissions for access, photographs and monitoring; do not enter occupied premises or change systems through this workflow.
+
+### 9.2 Conduct and interpret the review
+
+1. Compare the agreed brief with actual use, occupancy, layout and operating hours. Note changes since design/handover before attributing outcomes to the building.
+2. Conduct a scoped walk-through with users and FM; record location, date, conditions, observed facts and reported experiences separately. Flag immediate safety concerns promptly through the responsible site/FM/emergency channels rather than waiting for the POE report.
+3. Use the questionnaire below and relevant records. Record invited/responding groups and non-response; do not present a small convenience sample as representative of every occupant.
+4. Compare feedback and observations with the original criteria. A satisfaction response is not a statutory, medical or technical performance finding. Refer measurement/diagnosis to the competent role or specialist.
+5. Classify each issue provisionally using section 9.4; do not assign liability or label every complaint a contractor defect.
+6. Agree actions, owners and evidence for review. Recheck under stated conditions after an authorised change; record unresolved issues and scope limits.
+7. Feed anonymised lessons into the [brief-validation record](../hk-building-programming/hk-building-programming.md#7-user-research-and-functional-brief-validation), distinguishing project-specific findings from proposals for future briefs. Do not automatically change another project's requirements.
+
+### 9.3 Short occupant questionnaire
+
+Record room/zone, typical activity and time of use without requiring a person's name. Offer `Not applicable` and `Not experienced` responses. Suggested satisfaction scale: very dissatisfied / dissatisfied / neutral / satisfied / very satisfied; this is a survey convention, not a compliance threshold.
+
+- Can you reach, find and use the spaces you need? Where do routes, doors or shared facilities cause difficulty?
+- Does the layout support your activities, privacy and storage needs? Describe an example and when it occurs.
+- How do you experience light/glare, noise, temperature, draughts, stuffiness or odours? Identify location/time and frequency; avoid asking for medical diagnoses.
+- Can you understand and use the controls available to you? What happens outside normal hours?
+- Have leakage, cleaning, maintenance or closures affected use? What was observed and what action was reported?
+- What works well and should be retained? What single change would most improve use?
+
+### 9.4 Findings report and follow-up register
+
+| Finding type | Evidence needed before conclusion | Action owner / referral |
+|---|---|---|
+| Architectural design/usability mismatch | Brief, drawings, user journey and observed conditions | Architect; refer interior-led layout/detail design to **Skills-Interior-Designer-HK** |
+| Suspected construction defect | Installed condition versus contract/design baseline and inspection evidence | Contract administrator and relevant designer; use [PC/defects handoff](../hk-practical-completion-snagging/hk-practical-completion-snagging.md#11-operational-readiness-and-aftercare-handoff) |
+| Operating/maintenance issue | Actual schedules, instructions, maintenance/commissioning records | FM; refer technical services diagnosis to **Skills-MEP-Engineer-HK** |
+| Changed use or unmet new requirement | Original versus current activity/occupancy and authorised changes | Client/architect for revised brief; specialist feasibility referrals as needed |
+| Cause not established | Missing/conflicting records or measurements | Assign investigation; retain `Unresolved`, not presumed blame |
+
+**Report:** purpose/appointment; methods, participants and limitations; design-versus-use baseline; observations and reported feedback; specialist evidence/status; findings with confidence and alternative causes; prioritised actions; follow-up and lessons.
+
+**Action record:** finding ID/location; evidence/date/conditions; original requirement; provisional category; potential consequence; role referral; action/owner/date; verification method; status; lesson for future briefs. Multiple causes may apply. A closed complaint is not necessarily a repaired defect or corrected design.
+
+**Hypothetical review:** office users report afternoon glare and stuffiness after more desks were added. Record changed occupancy and blind/window operating patterns, compare the brief and layout, and refer ventilation diagnosis to **Skills-MEP-Engineer-HK**. If a revised interior layout is requested, refer **Skills-Interior-Designer-HK**. Do not prescribe airflow rates or assume either contractor fault or occupant misuse. Issue a conditional findings/action record and plan a repeat review after authorised changes.
+
+**HK context:** [ArchSD's POE teaching material](https://www.archsd.gov.hk/en/teachingkits/TK1/post_occupancy_evaluation.html) describes post-occupancy review of performance, design intent and user needs. Checked 24 November 2026. The service brief and questionnaire above are independently authored practice tools, not a mandatory scheme or rating-system assessment.

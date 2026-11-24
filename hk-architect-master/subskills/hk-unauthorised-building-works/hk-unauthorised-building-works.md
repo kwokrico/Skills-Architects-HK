@@ -121,3 +121,14 @@ Use this standard structure in advice notes:
 ---
 
 *Reference anchors for live projects: Buildings Ordinance Cap. 123 and current BD enforcement guidance, including applicable order language and latest procedural circulars.*
+
+## 8. Record discrepancies found during due diligence
+
+Use after [A&A due diligence](../hk-alterations-additions/hk-alterations-additions.md#7-existing-building-due-diligence-and-diagnostic-survey) identifies a difference between site and available records.
+
+- Record observed works, location, dated photos/measurements, compared records/revisions and missing information. An incomplete records set does not conclusively identify UBW.
+- Check later approved amendments, relevant minor-works/exemption evidence and actual notices/orders with the AP/advisers. Absence from one drawing triggers investigation; age or an owner's assurance is not proof of authorisation.
+- Separate safety, statutory status, lease/common-part rights and transaction consequences, with named owners. Refer title/conveyancing questions to the solicitor; do not guarantee mortgageability or a purchaser's remedy.
+- Record options/dependencies without promising regularisation. Verification of an existing condition does not authorise new works.
+
+**Output:** discrepancy ID; evidence/record coverage; suspected route and basis; missing checks; AP/specialist/legal referrals; interim precautions; next action/date; confirmed or unresolved status. Return findings to the original due-diligence register so two reports do not carry contradictory conclusions.

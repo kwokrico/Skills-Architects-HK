@@ -14,6 +14,8 @@ For **Planning application / zoning**, use `hk-spatial-planning`. For other topi
 
 ## When to Use This Skill
 
+**Role boundary:** Refer planning-led masterplans, specialist planning strategies/applications and impact studies to **Skills-Urban-Planner-HK**. Keep architectural feasibility inputs and coordination of supplied planning constraints here. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
 OZP, s.16/s.12A, TPB, AVA, HKPSG development control.
 
 | Question type | Use this skill | Use instead |

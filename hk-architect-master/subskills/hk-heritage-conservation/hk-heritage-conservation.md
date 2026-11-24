@@ -12,6 +12,8 @@ For **Heritage grading / HIA / reuse**, use `hk-heritage-conservation`. For othe
 
 ## When to Use This Skill
 
+Use section 8 for a hypothetical conservation intervention record linking evidence, decisions and maintenance. Apply the [master role-referral rule](../../SKILL.md#specialist-role-referrals); this topic does not supply specialist engineering or unverified repair specifications.
+
 Graded buildings, AMO/AAB, HIA, adaptive reuse submissions.
 
 | Question type | Use this skill | Use instead |
@@ -164,3 +166,22 @@ Route related topics:
 ---
 
 *Reference baseline: Antiquities and Monuments Ordinance (Cap. 53, consolidated 12 December 2019), Practice Guidebook for Adaptive Re-use of Heritage Buildings 2021, Buildings Ordinance (Cap. 123), Town Planning Ordinance (Cap. 131), current AMO technical guidance, current AAB grading list, and project-specific OZP/lease constraints.*
+
+## 8. Worked conservation intervention record
+
+Use this example to turn the existing conservation principles into an auditable project decision. It is hypothetical, not a recommended repair specification or an approval precedent. Confirm the actual heritage status, significance, applicable permissions and project conservation requirements before works. A heritage grade, grant or owner preference alone does not authorise intervention.
+
+**Scenario:** a Hong Kong historic building has staining beside a timber window and deteriorated adjacent finishes. The client requests wholesale replacement before reopening. Survey access is incomplete and the source of moisture is unknown.
+
+1. Record the element's significance and condition using drawings/photos and available conservation records. Separate original fabric, known later alterations and uncertain provenance; do not assume all old-looking material has equal significance.
+2. Record moisture/defect observations and access limits without concluding the window itself is the cause. Ask the appropriate conservation/material specialist for diagnostic advice and the architect coordinates non-destructive investigation first. Any opening-up requires an agreed scope, competent methods and applicable permissions.
+3. Compare retention with local repair, limited component replacement and larger intervention against significance, condition, use, access and maintenance. Retain uncertainty rather than choose a repair mortar, timber treatment or structural method without competent evidence.
+4. Refer structural deterioration/capacity to **Skills-Structural-Engineer-HK**, possible services leakage to **Skills-MEP-Engineer-HK**, interior-led redesign to **Skills-Interior-Designer-HK**, and planning-led reuse strategy to **Skills-Urban-Planner-HK**. Specialist conservation advice may require an appropriately qualified person; do not invent an additional installed skill.
+5. Prepare a conservation decision record with the responsible conservation professional/AP and relevant authority/owner process. Agree any trial/sample, hold point and documentation before irreversible work. A successful sample does not establish acceptance of every element.
+6. Record the actual intervention, retained/replaced fabric, inspection evidence, permissions and residual limitations. Give FM a project-specific monitoring/maintenance record with tasks/frequency set by the responsible specialists, and feed findings into the agreed aftercare review.
+
+| Element / significance basis | Condition/evidence and unknowns | Options and effect on significant fabric | Specialist/permission dependency | Decision and authority reference | Implementation evidence | Maintenance/review action |
+|---|---|---|---|---|---|---|
+| Window W-01 / significance to verify | Staining and finish loss; source and concealed condition unknown | Retain/repair versus replacement; impacts to assess | Conservation adviser; MEP/structural referral if indicated; applicable consent checks | Pending investigation; reopening deadline is not approval | No intervention released | Establish cause and safe access; assign owner and review date |
+
+Keep the immediate building-safety response separate from a long-term conservation solution. Do not delay urgent competent assistance for apparent danger, and do not assume it grants permission for unrelated irreversible alterations. Use [A&A due diligence](../hk-alterations-additions/hk-alterations-additions.md#7-existing-building-due-diligence-and-diagnostic-survey) for the shared evidence/investigation record and [POE](../hk-plan-of-work/hk-plan-of-work.md#9-post-occupancy-evaluation-and-aftercare-service) for scoped use-stage feedback.

@@ -1,6 +1,10 @@
 """Regression checks for misleading egress results; no statutory compliance test."""
 import importlib.util
+import json
 from pathlib import Path
+import subprocess
+import sys
+import tempfile
 import unittest
 
 spec = importlib.util.spec_from_file_location(
@@ -11,6 +15,21 @@ spec.loader.exec_module(calculators)
 
 
 class CalculatorBoundaries(unittest.TestCase):
+    def test_documented_entry_from_clean_working_directory(self):
+        entry = Path(__file__).resolve().parents[1] / "main.py"
+        payload = {"tool": "run_hk_calculator", "arguments": {
+            "calc_type": "gfa_aggregator", "data": {"floors": [
+                {"area": 500, "is_exempt": False},
+                {"area": 30, "is_exempt": True}]}}}
+        with tempfile.TemporaryDirectory() as workdir:
+            result = subprocess.run(
+                [sys.executable, "-I", str(entry)], input=json.dumps(payload),
+                text=True, capture_output=True, cwd=workdir, check=False)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(json.loads(result.stdout), {
+            "status": "success", "calc_type": "gfa_aggregator", "result": {
+                "total_gfa": 530, "exempt_gfa": 30, "accountable_gfa": 500}})
+
     def test_missing_geometry_cannot_pass(self):
         for data in ({}, {"area": 500}, {"length": 10}):
             with self.subTest(data=data):

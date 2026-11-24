@@ -12,6 +12,10 @@ For **Material spec and durability**, use `hk-material-selection`. For other top
 
 ## When to Use This Skill
 
+**Role boundary:** Refer detailed interior finishes/joinery to **Skills-Interior-Designer-HK**, landscape specifications to **Skills-Landscape-Architects-HK**, and structural/MEP performance design to the corresponding engineer skill. Keep architectural product comparison and interface review here. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
+Use section 7 for product evidence, comparative selections and technical substitution recommendations, including carbon-data handoffs. Commercial authorisation and installed-work inspection remain separate duties.
+
 Cladding durability, BEAM materials credits, typhoon-resistant specifications.
 
 | Question type | Use this skill | Use instead |
@@ -96,3 +100,20 @@ Reference table (typical HK / regional supply): `../../references/hk-common-mate
 ---
 
 *Sources: BEAM Plus NB v2.0 Materials credits, HKWC 2004, HKGBC material guidelines, EPD VOC guidelines.*
+
+## 7. Product evidence and substitution review
+
+**Inputs:** project specification/drawings and revisions; intended location/use; original selection; proposed product/manufacturer/system identity; reason for change; samples, declarations and complete test reports; installation/substrate details; maintenance/warranty terms; supply/lead-time and cost information. Identify missing inputs before recommending acceptance.
+
+1. Define the performance brief for the actual location: weather/moisture exposure, fire/acoustic/thermal needs where applicable, loading/movement interfaces, finish, cleaning and replacement. Confirm applicable requirements rather than adopting a catalogue slogan or generic table.
+2. Compare the exact proposed assembly and installation with the tested configuration: substrate, thickness, fixings, joints, accessories and limitations. Confirm report identity, issuer and scope; seek specialist interpretation for substitutions outside tested coverage. A component certificate does not prove the complete assembly.
+3. Assess compatibility with neighbouring materials, waterproofing, sealants and maintenance procedures. Agree sample/mock-up and testing needs before installation; an appearance sample does not verify hidden performance.
+4. For carbon claims, give the assessor product identity, declared unit, lifecycle stages, methodology, declaration validity, production location and transport assumptions. Match declarations on a common basis; a green label or lower per-kilogram factor does not prove lower impact for equal installed performance. Return quantities/assumptions to [carbon appraisal](../hk-building-sustainability/hk-building-sustainability.md#7-carbon-option-appraisal).
+5. Record all deviations and knock-on effects, including drawings, specialist design, submissions, access, replacement, warranty, procurement and operation. Refer cost/time to QS/contract administrator; no automatic saving, entitlement or approval is inferred.
+6. Issue a recommendation: `Insufficient evidence`, `Not recommended`, or `Technically supportable subject to listed conditions`. State reviewer, evidence and outstanding actions. Send it to [contract change control](../hk-tender-contract-administration/hk-tender-contract-administration.md#13-product-substitution-and-contract-change-control); use [site verification](../hk-site-supervision/hk-site-supervision.md#8-product-submittal-and-installation-verification) for delivered/installed products.
+
+| Requirement / source | Original product/system | Proposed product/system | Comparable evidence and limitations | Deviation / affected interfaces | Specialist owner | Recommendation / closure condition |
+|---|---|---|---|---|---|---|
+| Project facade build-up and required performance | Named assembly and revision | Alternative panel/finish/fixing system | Complete reports and installation scope required | Weight, fire/weather performance, anchors and maintenance | Architect + facade/structural/fire reviewers as applicable | Pending evidence; no procurement or installation release implied |
+
+**Hypothetical case:** a contractor offers a cheaper facade panel with a carbon label and a fire report for a different substrate. Record both the carbon-comparability gap and the assembly-test mismatch. Seek appropriate specialist evidence and evaluate changed fixings, weather performance and warranty. Do not accept the substitution because it is labelled “equivalent” or available sooner; contract authority and site verification still follow separately.

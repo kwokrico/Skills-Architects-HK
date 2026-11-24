@@ -26,6 +26,8 @@ Measure doors and routes using Table B2 notes 2–3: door clear width is between
 | Clear width | B14.4 refers to B8.1 and Table B2, not the exit-door column. Check occupant capacity, route count and width measurement. A 900 mm width also falls below Table B2's 1050 mm minimum route width; widening a spiral stair does not cure its geometry |
 | Discharge capacity | B12 assesses the population served across storeys, separately from each storey's B8 width check. Select Table B3 or B4 using B12.3–B12.5; partial sprinkler coverage does not automatically qualify. Apply the B12.6/B12.7 reductions where relevant |
 
+For a question about whether a width qualifies a required stair, report these checks separately even if geometry already fails: B14 geometry; B14.4 → B8.1/Table B2 route width (not B7 door width); and B12 discharge capacity. This prevents a concise rejection from implying that widening the stair is the remaining acceptance test. Establish its required-escape function rather than applying these checks indiscriminately to an ordinary circulation stair.
+
 Also check B14.4 headroom, B14.5 division of wide stairs and B14.6 handrails. B14.1 routes construction/fire resistance to Part C. Check B10 access/lobby provisions and the applicable FSI requirements for smoke protection; do not use a blanket height-based fire-resistance or pressurisation rule from an abbreviated stair table. Scissors stairs still require the relevant layout, protection and discharge checks, not assumed acceptance.
 
 Travel distance remains a separate check: use [the existing B11 reference](hk-travel-distance.md).

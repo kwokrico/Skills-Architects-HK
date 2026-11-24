@@ -13,6 +13,8 @@ For **Tender / CA / post-contract admin**, use `hk-tender-contract-administratio
 
 ## When to Use This Skill
 
+For proposed product substitutions and their commercial/instruction implications, use section 13 with the material-selection technical review.
+
 Tender docs, BoQ coordination, CA duties, variations, certificates, EOT.
 
 | Question type | Use this skill | Use instead |
@@ -399,3 +401,19 @@ Coordinate dates with QS valuations and client payment cycle. Cross-reference: `
 ---
 
 *Reference framework to verify on live projects: project-specific contract conditions, Hong Kong standard procurement practices, consultant appointments, and client governance requirements.*
+
+## 13. Product substitution and contract change control
+
+Use with the [material-selection recommendation](../hk-material-selection/hk-material-selection.md#7-product-evidence-and-substitution-review). Technical support, statutory acceptance where needed, contractual authorisation and site verification are separate decisions.
+
+**Inputs:** executed contract/appointment and amendments, baseline requirement, proposed deviation, technical evidence/conditions, design responsibility, cost/programme impacts and client authority. Distinguish pre-award tender clarification from post-award changes.
+
+1. Establish who may accept or instruct under the actual contract and required client/employer approvals. A consultant review stamp does not automatically change the contract.
+2. Obtain technical reviews and AP assessment of submission implications where relevant. Refer unresolved specialist questions to the corresponding role skill.
+3. Ask QS and the responsible programme/contract team to assess valuation, lead-time, warranty and time consequences. Do not promise savings, EOT or compensation entitlement from a vendor delivery claim.
+4. Record the authorised decision through the applicable addendum or contract communication process. Distinguish reviewed, accepted for a stated purpose and instructed; avoid unqualified approval language.
+5. Update drawings/specifications, procurement baseline and change register. Send the exact accepted system and hold points to [site verification](../hk-site-supervision/hk-site-supervision.md#8-product-submittal-and-installation-verification).
+
+**Decision register:** request ID; baseline; proposed change/reason; technical recommendation; statutory/design dependencies; decision-maker; commercial/time assessment; authority/instruction reference; conditions; affected records; site-verification status.
+
+**Boundary case:** the employer prefers a cheaper material but fire/facade evidence is incomplete. Record commercial preference without treating it as technical acceptance or permission to install. Seek the outstanding reviews and applicable contract decision; leave affected release unresolved.

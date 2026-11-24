@@ -15,6 +15,8 @@ Fictional regression examples for that office arrangement:
 | 40 m / 10 m, sprinklered | Fails B11.3(a)(iii): 40 m exceeds 36 m, although the dead end is within 18 m |
 | 30 m / 20 m, sprinklered | Fails B11.2(c)(i): 20 m exceeds 18 m, although overall travel is within 36 m |
 
+When reporting either comparison, identify what must be checked on the plan: actual measured routes and the B11.7 point of choice, including the minimum 30° angle to alternative exits. Saying only “assuming qualifying exits” leaves that verification unspecified. A failed numerical comparison does not make the route/choice check unnecessary.
+
 For other occupancies or exit arrangements, consult the applicable clause rather than extending these figures. A geometric calculator cannot establish the route's legal classification. For existing buildings or A&A, first check the applicable code basis and approved escape layout; see [the shared applicability guidance](hk-exits-and-required-staircases.md).
 
 Source checked 23 November 2026: [BD Fire Safety Code 2011 (2024 Edition), Part B, B10.6 and B11, printed pp. 37–39](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/fs_code2011.pdf). The supporting regulation is Building (Planning) Regulations regulation 41; the detailed travel rules are in the Code.

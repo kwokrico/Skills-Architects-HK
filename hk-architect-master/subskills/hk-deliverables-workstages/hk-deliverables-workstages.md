@@ -14,6 +14,8 @@ Optional output template: `../.../../references/templates/deliverables.md`
 
 ## When to Use This Skill
 
+**Role boundary:** Refer BIM governance, modelling/software procedures and automation to **Skills-BIM Manager-HK**; retain architectural information decisions and package release. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
 Issue packs, transmittals, drawing scales, consultant RACI, stage freezes.
 
 | Question type | Use this skill | Use instead |
@@ -332,3 +334,33 @@ Monthly minimum contents:
 - **Process checklists** (RIBA Stages 0–7): what to **do/verify** — use `hk-plan-of-work` and `../../references/hk-pow-stages-0-7.md`.
 - At each stage gate, run PoW checklist then update deliverables register for any new issue packs.
 
+## 7. Package release after technical review
+
+Use for pre-submission, tender and construction gates. The checking procedure and issue fields live in [construction documentation](../hk-construction-documentation/hk-construction-documentation.md#6-pre-issue-drawing-schedule-and-specification-qa); keep one technical checklist.
+
+**Inputs:** exact package/revisions, QA log, consultant responses, authority-comment status where relevant, recipients and intended use.
+
+1. Confirm scope and issue purpose; a statutory submission is not automatically suitable for construction.
+2. Identify technical checkers and design owners. Lead-consultant coordination does not replace specialist design responsibility.
+3. Reconcile the QA log against the issue set, including partial reviews and unchecked areas.
+4. Hold affected construction information for open safety/statutory or critical coordination issues. For partial release, check dependencies with affected disciplines and state excluded work and permitted use. Do not release dependent fabrication on an unresolved junction.
+5. Record issue authorisation under the appointment/office procedure, issue the transmittal, retain the superseded baseline and apply stage-freeze change control.
+
+**Release record:** package ID; purpose; documents/revisions; checked scope; open issue IDs; excluded/dependent work; consultant review evidence; authorising person/date; recipients; next gate. Internal authorisation is not statutory approval or a contractual instruction unless separately established through the appropriate process.
+
+**Hypothetical test:** a tender facade schedule changes glass performance while the specification and energy report retain the previous glass. Assign architect/facade/energy reviewers and reconcile pricing/performance documents before an unqualified tender issue. For option pricing only, identify both options and exclusions. A supplier acceptance email does not close the design review.
+
+## 8. Architect-to-BIM-manager handoff
+
+Refer BEP/EIR/CDE governance, federation/clash tooling, information standards, model health and automation to **Skills-BIM Manager-HK** (`hk-professional-bim-manager`). Retain architectural intent, spatial decisions, architectural information quality and the stage-release interface. Apply the [master role directory](../../SKILL.md#specialist-role-referrals).
+
+**Inputs:** client information requirements, agreed BEP/appointments, package purpose, model/document versions, coordinates/levels, stage information needs, issues and delivery schedule. Ask the BIM manager for missing technical definitions; do not invent project-wide LOD or naming rules.
+
+1. Identify the architectural question and required evidence rather than requesting a generic clash-free model.
+2. Hand off models/revisions, element/location IDs, coordinates/levels, affected disciplines, clearances from responsible designers, issue owners and dates. Distinguish geometry clashes, maintenance clearances and design/compliance decisions.
+3. Each design owner resolves their question; BIM management records federation/issue status. Software closure alone does not prove design acceptance.
+4. Recheck architectural outputs using [model/drawing QA](../hk-construction-documentation/hk-construction-documentation.md#7-model-and-drawing-consistency-at-the-bim-interface), then apply the section 7 release gate.
+
+**Record:** issue/decision ID; model/document revisions; view/location/element IDs; conflict and architectural intent; specialist owner; evidence; due date; affected outputs; status. Request evidence from the exported/delivered versions, not only the live authoring view.
+
+**Existing background:** in the full repository, [BIM Manager.md — BEP planning](../../../BIM%20Manager.md#1-bim-execution-plan-bep-authoring--lifecycle) and [clash coordination](../../../BIM%20Manager.md#2-clash-detection--coordination-coordination) provide background on exchange planning and issue ownership. This optional root document may be absent from an installed skill folder. It is not the dedicated role's entry point or authority for statutory/numerical assertions; do not execute its scripts or adopt its legal shortcuts. Refer specialist work to the user's dedicated BIM skill and state when that skill is unavailable.

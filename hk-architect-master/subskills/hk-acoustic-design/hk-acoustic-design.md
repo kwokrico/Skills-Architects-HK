@@ -95,3 +95,13 @@ TD lane-closure approval does not establish noise permission. Confirm the activi
 *Sources: EPD Technical Memorandum on Noise (TME), EIAO Technical Memorandum, Noise Control Ordinance Cap. 400, BEAM Plus NB v2.0 IEQ, EPD Railway Noise Impact Assessment guidelines.*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-acoustic-design.md`. The master router links these files directly.
+
+## 7. Inputs to an integrated indoor-environment review
+
+Use [integrated indoor environment](../hk-building-sustainability/hk-building-sustainability.md#6-integrated-indoor-environment-and-occupant-comfort-brief) for the coordinated room brief and decision record.
+
+**Request:** activity/hours, sensitive positions, adjacencies, external sources, facade/partition/door assemblies, ventilation paths and open/closed modes. Confirm metric, method, source/version and acceptance basis with the acoustic reviewer; an unrelated generic table is not a project limit.
+
+Assess noise ingress, room acoustics, speech privacy and services/flanking paths separately. Where a solution requires closed windows or sealed transfer paths, refer ventilation and thermal/moisture consequences to MEP before selection. Coordinate fire/accessibility requirements when assemblies change.
+
+**Return:** option/mode; input revisions; measured/modelled findings and limitations; untested paths; criterion/source; facade/MEP dependencies; evidence needed and reviewer. A laboratory product rating does not prove installed room performance.

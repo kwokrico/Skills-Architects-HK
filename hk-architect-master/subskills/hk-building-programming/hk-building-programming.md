@@ -14,6 +14,12 @@ For **Schedule of accommodation / unit mix**, use `hk-building-programming`. For
 
 ## When to Use This Skill
 
+Use section 7 for user workshops, functional adjacencies, journey studies and requirement-to-design validation; keep interior-led or other specialist design with the named role skills.
+
+**Role boundary:** Refer interior-led layouts, FF&E and detailed interior briefs to **Skills-Interior-Designer-HK**, and technical smart-system design to **Skills-MEP-Engineer-HK**. Retain the architectural accommodation and coordination brief. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
+Use section 6 to define smart-building user outcomes, operating modes and space/interface needs before selecting technology.
+
 Area schedules, HKPSG ratios, HA/HD unit mix, FEHD licensing constraints.
 
 | Question type | Use this skill | Use instead |
@@ -112,3 +118,47 @@ Section 4 states space ratios used in practice. The parent ordinances below do n
 ---
 
 *Sources: HA Schedule of Accommodation, HKPSG Chapters 3, 4, 6 and 8 (Chapter 4 and Chapter 8 December 2025), Cap. 132 (10 July 2026), Cap. 172 (1 July 2022), Cap. 279 (1 August 2026), Cap. 349 (1 September 2023), Cap. 459 and Cap. 613 (26 July 2024), Buildings Ordinance Cap. 123.*
+
+## 6. Smart-building user and operational brief
+
+Define outcomes before devices. Request client/FM priorities, uses/users/hours, existing systems, operating responsibilities, access needs, budget, outages and data/privacy constraints. Refer technical systems design to **Skills-MEP-Engineer-HK**; retain the architect's spatial and user-interface brief here.
+
+For each journey — arrival, after-hours access, room occupation, maintenance and fault response — record desired outcome, normal/exceptional modes, manual fallback and operating owner. Do not prescribe a vendor, sensor count or algorithm from a room name alone. Confirm monitoring need and access to data with client/ICT advisers.
+
+| Use-case ID / space | Outcome/hours | Spatial/device interface | Operator / specialist owner | Failure/manual mode | Acceptance evidence / questions |
+|---|---|---|---|---|---|
+| SB-01 / meeting rooms | Comfortable use including late meetings | Reachable controls; coordinated sensors and services access | Client/FM + MEP/controls | Missing signal must not be assumed to mean vacant | Reviewed sequence and witnessed scenarios; occupancy/hours pending |
+
+Send this to [services coordination](../hk-building-services/hk-building-services.md#12-smart-building-coordination-brief) for the architectural interface record and specialist referrals. Return plant/panel/cabling and access needs to the accommodation schedule. Freeze agreed outcomes and spatial allowances only; controls engineering, cybersecurity and systems integration remain specialist responsibilities.
+
+## 7. User research and functional brief validation
+
+Use for the architect's building-level brief, accommodation schedule, functional adjacencies and circulation. Apply the [role-referral rule](../../SKILL.md#specialist-role-referrals): refer interior-led layouts/FF&E/joinery to **Skills-Interior-Designer-HK**, landscape design to **Skills-Landscape-Architects-HK**, district/masterplanning to **Skills-Urban-Planner-HK**, and systems/capacity questions to the MEP/structural skills. Coordination requirements may be recorded here without answering those specialist questions.
+
+### 7.1 Prepare the workshop
+
+Obtain project purpose, client decisions to make, user/operator groups, existing-use evidence, site/building constraints, area/budget/programme assumptions and the stage of appointment. Include visitors, staff, people with differing access needs, cleaners/security and FM where relevant. Record missing representatives. Agree accessible formats/languages and proportionate handling of feedback; do not collect personal or medical details merely to describe an access requirement.
+
+Ask:
+
+- What activities occur, for whom, at what times, with what peak or exceptional demand? Which are observed and which are forecasts?
+- What must happen together, nearby, separately or out of public view? Why?
+- How do visitors, staff, goods, waste and maintenance personnel arrive, move and leave, including after-hours operation?
+- Where do queues, conflicts, privacy problems or difficult access occur? What evidence supports the concern?
+- What storage, cleaning, servicing and future changes must the building accommodate?
+- Which needs are essential, desirable or optional, and who may decide a trade-off? What would demonstrate a successful outcome?
+
+### 7.2 Convert activities into a testable brief
+
+1. Record requirements in the users' terms, then identify architectural implications. Distinguish verified obligations, client objectives, assumptions and preferences; do not turn a requested area into an established statutory minimum.
+2. Map user journeys and an adjacency table. Classify relationships as `Must connect`, `Prefer near`, `Separate`, or `Undecided`, with rationale, operating hours and relevant specialist dependencies.
+3. Develop building-level options and test ordinary, peak and exceptional scenarios. Check circulation, servicing, access, usable area and flexibility against the supplied constraints; refer technical sizing/design rather than inventing it.
+4. Show competing requirements and unresolved evidence. Ask QS/programme advisers for impacts and the appropriate role skill for specialist decisions. Do not silently remove a less-represented group's requirement to fit a target area.
+5. Validate the option with users/FM and the authorised client decision-maker. Record accepted changes, dissent, exclusions and unanswered questions; approval does not itself establish statutory compliance.
+6. Trace each requirement into the drawings/specification and handover checks. Revisit changes using [project decision governance](../hk-project-management/hk-project-management.md#13-brief-decisions-and-aftercare-governance); later compare outcomes through [POE](../hk-plan-of-work/hk-plan-of-work.md#9-post-occupancy-evaluation-and-aftercare-service).
+
+| Requirement ID / source | Activity/user/hours | Priority and rationale | Space/adjacency or journey implication | Evidence / assumption | Owner / specialist referral | Validation and design reference | Status |
+|---|---|---|---|---|---|---|---|
+| BR-01 / user workshop | Visitors arrive while deliveries occur | Essential safe, usable arrival; peak timing unconfirmed | Test shared versus separated arrival/service paths | Survey and operating observations required | Architect + client/FM; specialist access/traffic input if needed | Option plan/revision and client decision pending | Open |
+
+**Hypothetical case:** a Hong Kong community facility wants an open welcoming lobby, secure after-hours access and deliveries through the same entrance. Map visitor, staff and goods journeys at different times and test alternative layouts/operating arrangements. Refer security-system design to **Skills-MEP-Engineer-HK** and detailed interior-led reception design to **Skills-Interior-Designer-HK**. Do not solve the conflict by assuming an unverified corridor width or an automatic-lock sequence. Return options with unresolved constraints and named decision owners.

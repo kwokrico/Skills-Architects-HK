@@ -16,7 +16,7 @@ For **A&A scope and approval pathway**, use `hk-alterations-additions`. For othe
 
 ## When to Use This Skill
 
-A&A in existing buildings, major alterations, interface with MWCS.
+A&A in existing buildings, major alterations, interface with MWCS, acquisition/refurbishment due diligence and diagnostic survey briefs. Use section 7 for general investigation; prescribed MBIS/MWIS and suspected UBW retain their specialist routes.
 
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
@@ -95,3 +95,39 @@ Prescribed inspection and repair under MBIS/MWIS is `hk-mandatory-inspection`, n
 *Sources: Buildings Ordinance Cap. 123, PNAP APP-117, PNAP APP-147, Fire Safety Code 2011, Building Management Ordinance Cap. 344 (13 July 2025), Practice Notes for Mandatory Building Inspection (route to `hk-mandatory-inspection`).*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-alterations-additions.md`. The master router links these files directly.
+
+## 7. Existing-building due diligence and diagnostic survey
+
+Use for acquisition, lease/fit-out feasibility, refurbishment or change-of-use investigation. This architect-led workflow is not a structural certificate, valuation, legal title opinion or automatic MBIS/MWIS inspection. Route prescribed inspections to [mandatory inspection](../hk-mandatory-inspection/hk-mandatory-inspection.md#7-interface-with-general-due-diligence).
+
+### 7.1 Survey brief and required inputs
+
+Record purpose/intended reliance, site/lot and premises, proposed use/works, ownership/common-part boundaries, occupied areas, access permissions, survey date, records, exclusions and specialist appointments. Separate visual/measured/non-intrusive inspection from proposed opening-up/testing. Obtain authorisation and competent safety planning before intrusive work; a survey appointment does not automatically authorise disturbance.
+
+Request approved plans/amendments, applicable OP/completion records, measured/as-built drawings, structural/MEP records, repair/test history, orders/notices/directions and closure evidence, lease/DMC information and management/occupant reports. Obtain relevant OZP/lease records when assessing use or redevelopment feasibility. Record unavailable information; a missing drawing or unanswered search is not proof of legality or illegality.
+
+### 7.2 Investigation sequence
+
+1. **Reconcile records:** list date, source, status and coverage. Distinguish approved plans from as-built drawings, marketing plans and sketches. Identify contradictions before selecting survey priorities.
+2. **Plan access:** agree arrangements for occupied units, common areas, roofs, facades and concealed services with owners/management. Assess hazardous-material and service-isolation needs with specialists before disturbance.
+3. **Observe:** record element/location ID, photos, safely measured extent, inspection conditions and exclusions. Separate observation, reported history and hypotheses. Visual review cannot establish hidden reinforcement, structural capacity or membrane continuity.
+4. **Triage:** distinguish urgent safety, possible statutory/record discrepancies, performance defects and maintenance issues. For apparent instability, falling components or compromised escape, stop unsafe inspection, promptly alert the owner/manager and seek competent assistance; use emergency services for immediate danger. Do not wait for the final report to communicate urgent concerns.
+5. **Investigate selectively:** structural engineer for capacity/cracking; MEP for services/drainage; facade/waterproofing specialists for envelope defects; appropriate hazardous-material specialist before suspect materials are disturbed. Define the question, scope, permissions and output of each investigation.
+6. **Assess conditionally:** compare repair, retention, alteration or further investigation against evidence and the brief. Separate building, planning, lease, management and licensing questions; refer each to the relevant AP/specialist/legal adviser. Verify applicable criteria rather than applying generic numerical shortcuts.
+7. **Report and follow through:** assign each finding an owner and decision date. Close risks only when new records, tests or reviewed design evidence address the original question.
+
+### 7.3 Deliverables and example risk register
+
+**Survey brief:** purpose/reliance; areas/elements; records supplied/missing; access/exclusions; methods; specialist investigations; occupation/safety constraints; reporting format; programme; limitations and follow-up triggers.
+
+| ID / element | Observation/evidence | Hypothesis / unresolved question | Decision affected | Follow-up owner | Status / closure evidence |
+|---|---|---|---|---|---|
+| DD-01 / soffit below terrace | Staining photographed; outlet inaccessible | Membrane, drainage or service source unconfirmed | Repair scope and occupied-space protection | Architect arranges access; drainage/envelope specialists investigate | Open; diagnosis and remedy not established |
+| DD-02 / partition opening | On site, absent from available drawing | Later approval/exemption/minor-works evidence missing | Alteration feasibility and records position | AP checks records/works; structural/fire reviewers as needed | Awaiting information; mismatch alone is not a legal conclusion |
+| DD-03 / roof | No safe access | Condition unknown | Cost/programme and reliability of survey | Owner/manager arranges competent inspection | Not inspected; not “no defects” |
+
+Transfer suspected works to [UBW screening](../hk-unauthorised-building-works/hk-unauthorised-building-works.md#8-record-discrepancies-found-during-due-diligence). A contractor quote is not a diagnosis or an accepted statutory remedy. Develop cost/programme allowances with QS/contractor input and explicit uncertainty.
+
+**Boundary case:** a purchaser supplies only an agent's plan and asks whether a wall can be removed. Return the records/investigation list and conditional feasibility note, not removal permission. Obtain approved/survey evidence, structural/fire/services reviews and ownership/access constraints. Do not classify works by apparent wall thickness or assume long-standing occupation establishes approval.
+
+**HK source context:** [BD Building Maintenance Guidebook](https://www.bd.gov.hk/en/resources/codes-and-references/codes-and-design-manuals/bmg.html) provides maintenance background. This section is a practice workflow, not a prescribed survey scope. [BD MBIS scope and standard](https://www.bd.gov.hk/en/safety-inspection/mbis/registered-inspectors-and-registered-contractors/index_mbis_rirc_scope_inspection.html) describes the separate prescribed-inspection context. Pages checked 24 November 2026; verify live project requirements separately.

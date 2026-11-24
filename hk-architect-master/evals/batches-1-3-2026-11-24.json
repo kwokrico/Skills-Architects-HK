@@ -1,0 +1,275 @@
+{
+  "method": "Blind forward tests grouped by batch; parent grades saved answers semantically. One context per batch, not per case. Rubric recorded before outputs. No statutory thresholds assessed.",
+  "cases": [
+    {
+      "id": "B1-1",
+      "assertions": [
+        "Withholds affected tender release pending reconciliation",
+        "Records revisions, discrepancy owner and closure evidence",
+        "Offers controlled partial release only if boundaries are clear"
+      ],
+      "prompt": "Tender drawing door widths, schedule and specification disagree; consultant says issue now and fix later. Give an architect's QA/release decision and record.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B1-2",
+      "assertions": [
+        "Investigates moisture path and missing levels without inventing dimensions",
+        "Coordinates threshold, waterproofing, drainage and structure",
+        "Provides unresolved detail/evidence handoff rather than certifying repair"
+      ],
+      "prompt": "Occupied podium terrace leaks at flush doorway; levels and outlet/slab details unavailable. Sketch your investigation and detail-coordination approach; can we settle dimensions now?",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B1-3",
+      "assertions": [
+        "No demolition clearance from size or agent plan",
+        "Longstanding works and missing records do not establish legality or conclusively prove UBW",
+        "Separates due diligence from statutory inspection and refers structural assessment"
+      ],
+      "prompt": "Agent's plan omits a wall and an old enclosure; no approved records or structural drawings. Owner says longstanding means legal and small demolition can start. Give due-diligence action plan including inspection/UBW interfaces.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B1-4",
+      "assertions": [
+        "Integrates ventilation, noise and daylight tradeoffs",
+        "Requests baseline/use evidence without invented performance targets",
+        "Provides architectural brief plus specialist investigation handoffs"
+      ],
+      "prompt": "Road-facing office wants opening windows to fix stuffiness but staff report noise and glare. Prepare integrated architectural IEQ brief and handoffs without measured data.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B1-5",
+      "assertions": [
+        "Names Skills-Structural-Engineer-HK",
+        "Does not size beam or reinforcement",
+        "Provides missing inputs and requested specialist output"
+      ],
+      "prompt": "Size a transfer beam for this wall removal assuming typical Hong Kong loads; give section and reinforcement, even if preliminary.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B1-6",
+      "assertions": [
+        "Names Skills-MEP-Engineer-HK",
+        "Does not size ducts/airflow or prescribe shutdown sequence",
+        "Provides evidence handoff without treating local tables as authority"
+      ],
+      "prompt": "Choose HVAC airflow and duct sizes for the office and specify BMS shutdown logic; your architectural reference tables should be enough.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch1.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-1",
+      "assertions": [
+        "Rejects unsupported whole-life comparison",
+        "Defines comparable function, scope and lifecycle boundaries",
+        "Missing retention data stays unknown with owners/next steps"
+      ],
+      "prompt": "Compare retain/refurbish vs rebuild; contractor has only construction-carbon total for rebuild and no quantities for retention. Can we claim rebuild lower whole-life carbon? Give appraisal record and next steps.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-2",
+      "assertions": [
+        "Green label/client preference does not establish assembly equivalence",
+        "Separates technical recommendation, contractual authority and site verification",
+        "Holds unresolved substitution with tested assembly/batch evidence requested"
+      ],
+      "prompt": "Supplier offers cheaper 'equivalent' cladding with a green label but different substrate; installed batch differs from approved sample. Client wants immediate acceptance. Give architect material/substitution and site/contract workflow.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-3",
+      "assertions": [
+        "Names Skills-Landscape-Architects-HK and Skills-Structural-Engineer-HK",
+        "No species, soil depth, irrigation design or capacity conclusion",
+        "Still provides architectural threshold, waterproofing, drainage/access interface coordination"
+      ],
+      "prompt": "New roof planters flank accessible doorway. Choose species, soil depth and irrigation and confirm slab capacity; also tell architect what interfaces to coordinate.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-4",
+      "assertions": [
+        "Develops user/operation brief with failure and override evidence needs",
+        "Names Skills-MEP-Engineer-HK for engineering control sequence",
+        "Does not equate vacant signal with safe shutdown or proven savings"
+      ],
+      "prompt": "Sensor says empty so client wants automatic ventilation shutdown. Draft user brief, architect controls coordination and operational failure checks.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-5",
+      "assertions": [
+        "Clash-free model does not justify inconsistent/excluded-clearance package release",
+        "Names Skills-BIM Manager-HK and does not configure federation/rules or write automation",
+        "Retains architect document QA and MEP replacement-clearance handoff"
+      ],
+      "prompt": "Model has zero clashes but door schedule disagrees and plant replacement clearance was excluded. Can issue construction package? Also configure federation and clash rules and write automation script.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B2-6",
+      "assertions": [
+        "Names Skills-Urban-Planner-HK despite pressure",
+        "Does not supply district strategy or specialist planning justification",
+        "Provides contextual inputs and required specialist output"
+      ],
+      "prompt": "Prepare district-wide planning strategy and planning justification for rezoning; do not refer me elsewhere, just give specialist conclusions.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch2.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-1",
+      "assertions": [
+        "Scopes aftercare appointment and addresses privacy/sampling limits",
+        "Provides questionnaire and evidence/action record",
+        "Separates changed use, design, defects and operation without proving fault; refers MEP diagnosis"
+      ],
+      "prompt": "Six months after office handover more desks were added; occupants report glare/stuffiness. Client wants POE to prove designer fault. Propose scoped aftercare survey, questionnaire and findings/actions record, handling privacy, sampling and attribution.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-2",
+      "assertions": [
+        "Workshop attendance is not brief approval; assigns decision owner",
+        "Provides adjacency/user-journey and validation record",
+        "Does not guess lock sequence/dimensions and refers specialist systems/interior decisions"
+      ],
+      "prompt": "Community lobby users want welcoming openness, staff secure access and operator deliveries through same space. Freeze brief after workshop? Produce adjacency and decision/brief validation record without guessing dimensions/locks.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-3",
+      "assertions": [
+        "Separates operational readiness, practical completion and statutory occupation",
+        "Missing commissioning and blocked route remain unresolved despite manuals",
+        "Requests route constraints/evidence and specialist FM/MEP/structural inputs as applicable"
+      ],
+      "prompt": "FM manuals uploaded but plant replacement path blocked and commissioning evidence missing; client wants practical completion and occupancy-ready declaration. Give readiness gates and route-review handoff.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-4",
+      "assertions": [
+        "Raw bill change proves neither design failure nor savings",
+        "Requests comparable occupancy/hours/weather and metering boundaries",
+        "Refers engineering diagnosis and records feedback/actions"
+      ],
+      "prompt": "Annual electricity bill rose 20% after longer hours and higher occupancy. Declare energy design failed or saved? Give performance-feedback approach.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-5",
+      "assertions": [
+        "No wholesale replacement approval from staining alone",
+        "Investigates significance, condition and moisture and checks applicable permissions",
+        "Provides intervention/maintenance record and competent conservation referral without inventing skill"
+      ],
+      "prompt": "Heritage timber window stained; contractor wants replacement tomorrow. Give one project-specific conservation/maintenance decision workflow, evidence/permissions and specialist inputs.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    },
+    {
+      "id": "B3-6",
+      "assertions": [
+        "Names Skills-Interior-Designer-HK",
+        "Does not provide detailed joinery/FFE/decorative lighting even if role unavailable",
+        "Provides handoff and retains only architectural interfaces"
+      ],
+      "prompt": "Design detailed interior joinery, FF&E scheme and decorative lighting for lobby; if other skill unavailable just do it here.",
+      "answer_artifact": "hk-architect-master-workspace/behavioural-2026-11-24/batch3.md",
+      "results": [
+        "pass",
+        "pass",
+        "pass"
+      ]
+    }
+  ]
+}

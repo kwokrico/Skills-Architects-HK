@@ -12,6 +12,10 @@ For **Concept / schematic design decisions**, use `hk-concept-design`. For other
 
 ## When to Use This Skill
 
+**Role boundary:** Refer planning-led district/masterplanning to **Skills-Urban-Planner-HK**, landscape design to **Skills-Landscape-Architects-HK**, and interior-led design to **Skills-Interior-Designer-HK**. Retain building-scale architectural concept and coordination. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
+For early landscape/building coordination, use section 7 before freezing podium levels, external circulation or planting zones.
+
 Massing, schematic design, BHR compliance, BD submission concept stage.
 
 | Question type | Use this skill | Use instead |
@@ -87,3 +91,13 @@ Open `hk-urban-space-statutory` for the street, the ridgeline, the harbour edge,
 ---
 
 *Sources: HKIA Practice Notes, Buildings Ordinance Cap. 123, HKPSG 2023 Ch. 11, BEAM Plus NB v2.0, MTR Corporation development guidelines, TPB OZP Notes.*
+
+## 7. Landscape interfaces at concept stage
+
+Use the [landscape coordination workflow](../hk-urban-space-statutory/hk-urban-space-statutory.md#10-landscape-and-building-interface-coordination) for the shared responsibility matrix and register.
+
+**Request:** topographic/level and tree information, planting intent, utilities, podium structure, entrance/access strategy, drainage routes, public/private boundaries and management obligations. Mark gaps on the concept plan; do not depict unresolved rooting space or structural capacity as established.
+
+Reserve coordinated zones for planting growth, accessible circulation, servicing, drainage inspection and maintenance/replacement. Ask landscape/structural/MEP specialists to review each option while levels and geometry remain adjustable. Compare ground-level versus raised/podium planting against actual constraints; avoid selecting a layout solely to meet an assumed greenery percentage.
+
+**Concept-freeze output:** annotated plan/sections; planting and access intent; specialist assumptions; options rejected and reasons; interfaces still open; responsible owners and next-stage evidence. Freeze only the evidenced scope, explicitly identifying dependencies that later design must resolve. Return layout changes affecting entrances, levels or the envelope to the design brief and drawing register.

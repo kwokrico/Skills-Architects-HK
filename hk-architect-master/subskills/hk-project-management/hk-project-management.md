@@ -12,6 +12,8 @@ For **Project management / client delivery**, use `hk-project-management`. For o
 
 ## When to Use This Skill
 
+Use section 13 for brief-validation decisions, changed user requirements and aftercare appointment/action governance. Retain coordination duties; refer specialist questions through the [master role directory](../../SKILL.md#specialist-role-referrals).
+
 Delivery plan, business case, client reporting, programme/budget, disputes.
 
 | Question type | Use this skill | Use instead |
@@ -210,3 +212,23 @@ Cross-reference: `hk-cost-consultancy` for cost data; `hk-project-resource-level
 ---
 
 *Align governance with client organisation and executed contract. PM advice does not replace AP statutory certification or contract certifier determinations.*
+
+## 13. Brief decisions and aftercare governance
+
+Use when appointed to coordinate client decisions, design reviews or occupation transition. Apply the [role-referral rule](../../SKILL.md#specialist-role-referrals); do not turn project coordination into specialist design or legal determinations.
+
+### Brief validation and change control
+
+Use [functional briefing](../hk-building-programming/hk-building-programming.md#7-user-research-and-functional-brief-validation) for workshops and the requirement register. Identify the client decision-maker, user/FM representatives and specialist reviewers. Record dissent and missing groups; workshop attendance does not equal approval.
+
+At each brief freeze, review priority, evidence, cost/programme dependencies and unresolved constraints. Record the accepted revision, conditions and authorised decision. A post-freeze request needs an impact record identifying affected spaces, appointments, drawings, statutory/lease interfaces and specialist work; client preference alone does not establish feasibility. Refer district/planning strategy to **Skills-Urban-Planner-HK** and other specialist decisions through the master directory.
+
+**Decision record:** requirement/change ID; requestor and purpose; options and user impacts; design/specialist evidence; QS/programme advice; decision-maker/date; accepted brief revision; exclusions; next action. Trace the decision to the delivered design and later POE evidence.
+
+### Aftercare appointment and action ownership
+
+Agree the [POE service brief](../hk-plan-of-work/hk-plan-of-work.md#9-post-occupancy-evaluation-and-aftercare-service) separately where outside the existing appointment. Define who commissions investigations, who receives findings, access/data permissions and the agreed review period. Do not promise ongoing monitoring, emergency cover or warranty support unless actually appointed.
+
+Maintain one action log linking POE findings, contract defect records, FM tasks and approved changes without conflating their statuses. Name the person who may instruct work under the executed contract, and preserve applicable notice/response requirements; a POE meeting is not a contractual notice or waiver. Follow up on specialist referrals as `Referred — not assessed` until evidence is returned. Report unresolved dependencies and escalate urgent safety concerns promptly.
+
+**Feedback loop:** user concern → evidence/triage → responsible role → authorised action → verification → client decision → anonymised lesson and proposed brief improvement. Agree any reusable lesson before changing templates or future project briefs.

@@ -12,6 +12,10 @@ For **street, footpath, harbour-front, ridgeline, visual impact, or public open 
 
 ## When to Use This Skill
 
+**Role boundary:** Refer planting/soil/root/hardscape design to **Skills-Landscape-Architects-HK**, and planning-led masterplans or specialist planning studies to **Skills-Urban-Planner-HK**. Keep building/public-realm interfaces and architectural constraints here. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
+For podium/ground-level landscape interfaces, use section 10. Its design-coordination checklist supplements the statutory/planning routes; it is not a new set of numerical controls.
+
 | Question type | Use this skill | Use instead |
 |---|---|---|
 | Street, footpath, carriageway layout, harbour-front, ridgeline, visual impact, public open space in a private development | `hk-urban-space-statutory` | `—` |
@@ -136,5 +140,35 @@ Judge layout, scale, form, massing and disposition. The conclusion is one of: be
 ## 9. Human-scale check
 
 When a street or promenade is proposed, state at least one dimension from [hk-human-scale-dimensions.md](../../references/hk-human-scale-dimensions.md) and the Chapter 8 or TPDM figure that governs the same edge. The human-scale millimetres do not replace the Through Zone.
+
+## 10. Landscape and building-interface coordination
+
+Use for planting, public realm and podium/ground-level external works in Hong Kong. The architect coordinates the building interface; landscape/tree specialists establish planting and root requirements; engineers establish structural/drainage performance. A planting sketch does not establish approval, soil depth or slab capacity.
+
+**Inputs:** current survey/levels; boundaries and public/private access obligations; tree survey/status where relevant; approved/submitted landscape information and conditions; utilities/services; structure/load information; planting strategy; drainage/irrigation design; waterproofing system; occupation/maintenance requirements. Record missing evidence. Check lease/planning/tree conditions through the relevant existing topics, without treating design guidance as statutory permission.
+
+### Coordination sequence and responsibilities
+
+1. Define the intended use, accessible circulation, emergency/service access and management responsibilities. Identify affected public links, common parts and neighbouring premises.
+2. Overlay planting, rooting zones, structure, services, drainage and access on one revision baseline. Assign the conflicts below before freezing levels or landscape layouts.
+3. Compare feasible layouts with landscape, structural and MEP/drainage specialists. Record species/growth and maintenance assumptions, occupied-area disruption and replacement routes. Do not solve an unverified load problem by merely calling a planter “lightweight”.
+4. Coordinate details through [building envelope](../hk-building-envelope/hk-building-envelope.md#8-landscape-over-structure-and-waterproofing-interfaces); take unresolved layout constraints back to [concept design](../hk-concept-design/hk-concept-design.md#7-landscape-interfaces-at-concept-stage).
+5. Agree construction sequence, protected areas, inspections before concealment and project-specific testing. Establish who maintains outlets, irrigation and planting after handover.
+6. Record the selected layout, restrictions and evidence. Hold affected construction information if loads, drainage, water resistance or access remain unresolved; enter issues in the existing documentation QA log.
+
+| Interface | Decision to coordinate | Lead input / evidence |
+|---|---|---|
+| Trees/planting and services | Rooting space, growth, utility conflicts and repair access | Landscape/arboricultural input plus utility survey and coordinated section |
+| Podium/roof loading | Growing medium, retained water, plants, furniture and maintenance loads | Structural engineer's assessment of the actual build-up and load cases |
+| Drainage/irrigation | Outlets, overflow, water supply, leakage isolation and maintainable access | Drainage/MEP design coordinated with levels, structure and planting |
+| Waterproofing | Root protection, membrane continuity, penetrations and movement | Envelope/system specialist detail and agreed inspection/test evidence |
+| Circulation and boundaries | Accessible route, door thresholds, emergency/service access and public/private obligations | Architect with accessibility/fire/planning/lease reviewers as applicable |
+| Maintenance | Safe access, debris clearance, pruning and replacement logistics | Landscape/FM agreement and operational responsibility record |
+
+**Interface register:** location; drawing revisions; proposed planting/build-up; source of constraint; conflict; owner; required survey/calculation/detail; affected outputs; due date; status and closure evidence. Leave unavailable soil/load/drainage criteria unresolved rather than inventing dimensions.
+
+**Hypothetical case:** new planters on an occupied podium obstruct the route to a drain and move a door threshold. Request surveyed levels, drainage access and a structural check of the proposed saturated build-up. Compare relocation/reconfiguration with the landscape designer and accessibility reviewer. Keep construction release pending those checks; a greenery target or management endorsement does not close the interfaces.
+
+**HK source context:** [BD Guidelines on Greening in Buildings](https://www.bd.gov.hk/doc/en/resources/codes-and-references/code-and-design-manuals/IGG_e.pdf) address structural, drainage and waterproofing considerations for building greening. Consult the actual applicable project/authority requirements; this workflow adds no generic load, soil-depth or drainage threshold. Source checked 24 November 2026.
 
 *Sources: HKPSG Chapters 4, 8 and 11 (December 2025); TPDM Volumes 2 and 6 (August 2026); TPB PG-No. 41A (January 2026); Harbour Planning Principles (27 April 2006); draft Harbour Planning Guidelines (14 June 2007); Technical Circular No. 1/06 (19 July 2006); POSPD guidelines (14 February 2011); Active Design Guidelines consultancy report (May 2023); Planning Department strategic viewing points page (saved 15 November 2026); PNAP APP-101 and APP-152.*

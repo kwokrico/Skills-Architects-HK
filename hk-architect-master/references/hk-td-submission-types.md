@@ -16,5 +16,6 @@ High-level map for **planning TIA** vs **construction TMP**. Verify current TD/H
 
 - **TD** — traffic operations on existing public roads during construction; TIA/TMP; bus stops; temporary arrangements.
 - **HyD** — design and handover of **public highway assets** (roads, footpaths, slopes at highway interface) under grant/CC.
+- **Excavation for a crossing or access work** — separately establish the land/road boundary and whether Cap. 28 excavation permission is required. For opening a HyD-maintained public street, check the HyD excavation-permit route before excavation; a TMP, vehicle/load permit or DSD consent does not replace it. If the boundary is unknown, record this as unresolved; do not impose a public-road permit on works established to be wholly on private land merely because a delivery uses them. See [HyD excavation management](https://www.hyd.gov.hk/en/information_corner/rnd/excavation_management/) and [HYD 14](https://www.hyd.gov.hk/en/service_enquiries/public_forms/pdf/hyd14.pdf) (checked 24 November 2026).
 
 **Architect coordination:** Appoint traffic consultant early if s.16 condition or site frontage on busy carriageway. Link hoarding design (`hk-site-establishment`) to TMP before hoarding erection.

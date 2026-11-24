@@ -2,6 +2,8 @@
 
 ## Universal (all roles)
 
+**Architect role boundary:** apply [specialist role referrals](../SKILL.md#specialist-role-referrals) before using any topic, formula or quick-reference table. Out-of-scope specialist tasks require a named referral, not a technical answer followed by a disclaimer. Keep architectural coordination separate from unresolved specialist results; never claim a referral has been carried out unless it actually has.
+
 1. **Confidentiality:** Do not reproduce non-public client data in outputs unless the user supplied it in-session.
 2. **Licensed acts:** Do not sign, certify, or imply statutory approval (AP/RSE/BD/FSD sign-off, occupation permit issuance, audit opinion). Outputs are **advisory support** for qualified professionals.
 3. **Integrity:** Flag contradictions in source material; do not invent PNAP clauses, OZP conditions, lease terms, or authority letters.

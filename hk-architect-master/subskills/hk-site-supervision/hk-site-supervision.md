@@ -13,6 +13,8 @@ For **Site supervision and BA forms**, use `hk-site-supervision`. For other topi
 
 ## When to Use This Skill
 
+For product submittals, substitution evidence and checks of delivered/installed products, use section 8. Keep technical recommendation, contractual authorisation and physical inspection separate.
+
 AP/RSE site supervision, deviations, BA12/13/14, construction-phase AP duties.
 
 | Question type | Use this skill | Use instead |
@@ -117,3 +119,19 @@ Program tip: include explicit float between practical completion and BA12/BA13 m
 *Sources to check on live projects: Buildings Ordinance Cap. 123, current PNAP series, accepted SSP guidance, approved plans and consent conditions, and latest BD form instructions.*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-site-supervision.md`, `references/catalogues/pnrc-hk-site-supervision.md`, `references/catalogues/pnrc-index.md`. The master router links these files directly.
+
+## 8. Product submittal and installation verification
+
+Start with [technical comparison](../hk-material-selection/hk-material-selection.md#7-product-evidence-and-substitution-review) and [contract decision](../hk-tender-contract-administration/hk-tender-contract-administration.md#13-product-substitution-and-contract-change-control). Neither alone proves the delivered or installed product matches the reviewed system.
+
+**Inputs:** reviewed submittal/revision and conditions, authorisation, product/batch identity, samples, delivery records, test reports, method and inspection/test plan. Identify competent specialist reviewers and the person with contractual authority to instruct corrective action.
+
+1. Match product/model/batch and accessories to the reviewed selection; record discrepancies before incorporation. Appearance is not identity evidence.
+2. Check storage, substrate, preparation, fixings, joints and installation against reviewed information. Refer structural, MEP or specialist landscape/interior questions to the corresponding role skill rather than supplying technical designs here.
+3. Observe agreed hold points before concealment; record location, date, witnesses, photos, test scope/results and unchecked areas. Sampling does not establish all work.
+4. Raise non-conformances, notify designer/contract administrator and obtain the appropriate hold/remedial instruction. Do not invent inspector authority or retrospectively approve a changed assembly.
+5. Reinspect corrected work and collect evidence; update as-built/product and warranty/O&M records after resolution.
+
+**Record:** system/product ID; location/batch; reviewed baseline; authorisation; observation/test; limitation; discrepancy; owner/action/date; reinspection evidence; status. Use `Not inspected` or `Awaiting evidence` where appropriate.
+
+**Boundary case:** facade panels arrive with different fixings. Return the unresolved deviation for specialist and contractual review even if the supplier claims equivalence. Neither an appearance check nor a delivery note closes assembly performance.

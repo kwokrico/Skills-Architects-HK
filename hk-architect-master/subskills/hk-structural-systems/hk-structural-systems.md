@@ -12,6 +12,8 @@ For **Structural system selection**, use `hk-structural-systems`. For other topi
 
 ## When to Use This Skill
 
+**Role boundary:** Refer load/capacity calculations, member/foundation design, strengthening and structural modelling to **Skills-Structural-Engineer-HK**. Keep architectural geometry, options and engineering-input requests here. Apply the [master referral rule](../../SKILL.md#specialist-role-referrals); state the referral and do not supply the specialist answer from local background tables.
+
 SUC 2013, SUS, HKWC wind, transfer structures, foundations.
 
 | Question type | Use this skill | Use instead |

@@ -84,3 +84,13 @@ HK typical street H/W ratios of 3:1 to 8:1 severely limit sky component. Simulat
 *Sources: Buildings Ordinance Cap. 123 Reg. 30/30A, BEAM Plus NB v2.0 IEQ credits, CIBSE LG10, HK Observatory solar data.*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-daylighting-design.md`. The master router links these files directly.
+
+## 6. Inputs to an integrated indoor-environment review
+
+For the room brief and option decision use [integrated indoor environment](../hk-building-sustainability/hk-building-sustainability.md#6-integrated-indoor-environment-and-occupant-comfort-brief).
+
+**Request:** tasks/occupied positions and hours, room/external geometry, glazing properties, shading/blind operation, finishes and agreed criteria. Identify missing geometry/product assumptions for confirmation.
+
+Compare useful daylight and glare together, including effects on solar gain, views, privacy and lighting demand. State method, input revisions, locations/times and limitations. Daylight results do not establish thermal comfort or ventilation compliance. Return glazing/shading alternatives to MEP for thermal review and the architect for facade/maintenance coordination.
+
+**Return:** option ID; drawing/product revisions; findings; criterion/source; thermal/operational dependencies; recommended changes; missing evidence/reviewer. Do not describe an unperformed simulation as verified or substitute an optional rating metric for statutory opening requirements.
