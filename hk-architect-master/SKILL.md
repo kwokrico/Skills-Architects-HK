@@ -4,9 +4,10 @@ description: >
   Answers Hong Kong architecture, planning, and construction questions on the
   Buildings Ordinance (Cap. 123), PNAP, GFA, plot ratio, OZP, HKPSG, fire safety,
   FSD submissions, barrier-free access, BEAM Plus, occupation permits, minor works,
-  lease conditions, and Hong Kong procurement and contract administration. Use when
-  the user asks about a Hong Kong building, site, statutory submission, or
-  construction-stage architect decision.
+  lease conditions, Hong Kong procurement and contract administration, and the
+  HKIA/ARB Professional Assessment. Use when the user asks about a Hong Kong
+  building, site, statutory submission, a construction-stage architect decision,
+  or the Professional Assessment.
 ---
 
 # HK Architect Master Suite
@@ -105,6 +106,7 @@ The routes below apply only to the architectural scope remaining after the role 
 - Practical completion and snagging: [hk-practical-completion-snagging](subskills/hk-practical-completion-snagging/hk-practical-completion-snagging.md).
 - Professional indemnity: [hk-professional-indemnity](subskills/hk-professional-indemnity/hk-professional-indemnity.md).
 - Registration and professional conduct: [hk-professional-conduct](subskills/hk-professional-conduct/hk-professional-conduct.md). Institute rows: [hkia](references/catalogues/hkia.md). Source summaries: [hkia](references/statutory/hkia/).
+- HKIA/ARB Professional Assessment, which paper to sit, and where a Paper 1 or Paper 2 question is answered: [hk-professional-assessment](subskills/hk-professional-assessment/hk-professional-assessment.md). Open that file first, then the skill it names for the statutory point.
 - Mandatory building and window inspection: [hk-mandatory-inspection](subskills/hk-mandatory-inspection/hk-mandatory-inspection.md). Source summaries: [pnbi](references/statutory/pnbi/).
 - Modular integrated construction: [hk-mic-dfma](subskills/hk-mic-dfma/hk-mic-dfma.md). Practice-note rows: [pnap-hk-mic-dfma](references/catalogues/pnap-hk-mic-dfma.md). Source summaries: [pnap](references/statutory/pnap/).
 - Unauthorised building works: [hk-unauthorised-building-works](subskills/hk-unauthorised-building-works/hk-unauthorised-building-works.md).

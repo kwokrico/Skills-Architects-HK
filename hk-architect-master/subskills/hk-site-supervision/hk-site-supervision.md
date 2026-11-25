@@ -27,6 +27,17 @@ AP/RSE site supervision, deviations, BA12/13/14, construction-phase AP duties.
 - **RSE (Registered Structural Engineer):** Responsible for structural compliance, site inspections for structural elements, and certification of structural works.
 - **RGE / RC (where applicable):** Provide geotechnical and contractor-side statutory duties; AP/RSE remain accountable for their own certifications.
 
+### Statutory split (Cap. 123)
+
+From the Cap. 123 summary (1 March 2026). The summary does not print subsections 9(5) and 9(6) as separate tests, so those subsection numbers are not restated here.
+
+| Who | Section | Duty as summarised |
+|---|---|---|
+| AP, RSE, RGE | s.4(3) | Supervise in accordance with the supervision plan. Notify the Building Authority of any regulation contravention that would result from carrying out works shown on the approved plan. Comply with the Ordinance generally |
+| RGBC, RSC | s.9 | Continuously supervise under their supervision plan. Notify the Building Authority of an approved-plan regulatory contravention. Comply generally. Specialized works need the RSC registered in the matching category |
+
+The s.4(3) duty and the contractor’s continuous duty under s.9 are separate. One does not discharge the other.
+
 Core principle: supervision is not only quality control; it is legal risk control tied directly to consent, completion acknowledgment, and OP readiness.
 
 ---
@@ -116,7 +127,7 @@ Program tip: include explicit float between practical completion and BA12/BA13 m
 
 ---
 
-*Sources to check on live projects: Buildings Ordinance Cap. 123, current PNAP series, accepted SSP guidance, approved plans and consent conditions, and latest BD form instructions.*
+*Sources to check on live projects: Buildings Ordinance Cap. 123 (1 March 2026) ss.4(3) and 9, current PNAP series, accepted SSP guidance, approved plans and consent conditions, and latest BD form instructions. Summary: `hk_s_reference/Building Department (BD)/Cap 123 Building Ordience/Cap 123 (01-03-2026)_Buildings Ordinance_CS.md`.*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-site-supervision.md`, `references/catalogues/pnrc-hk-site-supervision.md`, `references/catalogues/pnrc-index.md`. The master router links these files directly.
 

@@ -284,6 +284,10 @@ START
 |   YES --> [hk-mandatory-inspection]
 |   NO  --> continue
 |
++-- Is the query about the HKIA/ARB Professional Assessment, which papers are sat, eligibility, or a Paper 1 or Paper 2 exam question?
+|   YES --> [hk-professional-assessment]
+|   NO  --> continue
+|
 +-- Is the query about architect registration, the title “architect”, or the ARB or HKIA code of conduct?
 |   YES --> [hk-professional-conduct]
 |   NO  --> continue

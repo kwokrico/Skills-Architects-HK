@@ -639,6 +639,11 @@
     "Chinese": "建築師註冊管理局",
     "Sub-skill": "hk-professional-conduct"
   },
+  "HKIA/ARB PA": {
+    "English": "HKIA/ARB Professional Assessment — eight papers plus the Professional Interview for HKIA membership and registration under Cap. 408",
+    "Chinese": "香港建築師學會／建築師註冊管理局專業評估",
+    "Sub-skill": "hk-professional-assessment"
+  },
   "PM": {
     "English": "Project manager — client delivery lead in this glossary",
     "Chinese": "項目經理",

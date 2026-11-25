@@ -395,6 +395,18 @@
         "Checks APP-153 applicability and approved escape layout for existing buildings or A&A"
       ],
       "files": []
+    },
+    {
+      "id": 32,
+      "slug": "eval-hkia-professional-assessment",
+      "prompt": "Which papers make up the HKIA/ARB Professional Assessment, and how is composite domestic plot ratio capped?",
+      "expected_output": "Name Papers 1 to 8 plus the Professional Interview from the July 2025 handbook. Cap composite domestic plot ratio with Building (Planning) Regulation 21(2): domestic plot ratio is at most [(permitted non-domestic plot ratio − actual non-domestic plot ratio) × permitted domestic plot ratio] / permitted non-domestic plot ratio. Do not treat an outline zoning plan figure as the Buildings Ordinance cap. The outline zoning plan and the lease can be stricter.",
+      "assertions": [
+        "Names eight written papers plus the Professional Interview",
+        "Uses Building (Planning) Regulation 21(2) for the composite domestic plot-ratio cap",
+        "Does not treat an outline zoning plan figure as the Buildings Ordinance plot-ratio cap"
+      ],
+      "files": []
     }
   ]
 }

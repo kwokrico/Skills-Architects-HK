@@ -35,8 +35,9 @@ BO Cap. 123, PNAP, GFA/plot ratio, MOE quick rules, and statutory development pa
 | Reg. 41 | Means of escape | Travel distance, exit widths, dead-end corridors |
 | Reg. 46 | Car parking headroom | Min 2.0 m clear (2.3 m practical) |
 | Reg. 72 | Projections over streets | Max 1.5 m canopy; no projection below 3.5 m AFL |
-| Reg. 23 | Site coverage | First Schedule, the outline zoning plan, and the lease. HKPSG Chapter 2 guides domestic plot ratio and is not this site-coverage schedule |
-| Reg. 20 | Plot ratio | Domestic + non-domestic PR per OZP annotation |
+| Reg. 20 | Site coverage | First Schedule by site class and height. The outline zoning plan and the lease can be stricter. HKPSG Chapter 2 is not this schedule. See section 2.2 |
+| Reg. 21 | Plot ratio | First Schedule by site class and height, and regulation 21(2) for a composite building. The outline zoning plan and the lease can be stricter. See section 2.2 |
+| Reg. 23(1) | Height for the First Schedule | The height used to enter the schedule. Not site coverage and not plot ratio |
 
 ---
 
@@ -59,17 +60,21 @@ BO Cap. 123, PNAP, GFA/plot ratio, MOE quick rules, and statutory development pa
 | Caretaker unit | ≤ 35 m² per building | One per building |
 | Refuse chamber | Full exemption | Per EPD/BD standards |
 
-### 2.2 Plot Ratio Calculation
+### 2.2 Plot ratio and site coverage (Cap. 123F)
 
-```
-Permissible GFA = Site Area × Plot Ratio (from OZP)
-Domestic GFA + Non-domestic GFA ≤ Permissible GFA
-(Domestic and non-domestic PRs are separate caps where both apply)
-```
+The Buildings Ordinance cap is the First Schedule of the Building (Planning) Regulations, read with site class and building height. It is not an outline-zoning-plan figure. The outline zoning plan and the lease can be stricter. Use the lowest cap. HKPSG values are not the schedule.
 
-- Verify OZP annotation for site-specific PR; HKPSG values are defaults
-- PR measured on GFA basis (post-exemptions do not reduce PR count unless explicitly stated)
-- Bonus PR possible for: public transport interchange, public open space dedication (per OZP)
+Site class A, B, or C depends on how the site abuts specified streets not less than 4.5 m wide. Domestic and non-domestic site coverage are regulation 20. Domestic and non-domestic plot ratio are regulation 21. Height for the schedule is regulation 23(1). The percentages stay in the summary; do not retype the schedule here.
+
+For a composite building, regulation 21(2) caps the domestic share:
+
+domestic plot ratio ≤ [(permitted non-domestic plot ratio − actual non-domestic plot ratio) × permitted domestic plot ratio] / permitted non-domestic plot ratio
+
+Plot ratio is gross floor area divided by site area (regulation 21(3)).
+
+A hotel, or the hotel part of a composite building, may be treated as non-domestic under regulation 23A. Dedication of land for public passage is regulation 22 and PNAP APP-108, not a bonus granted by the outline zoning plan alone.
+
+Summary: `hk_s_reference/Building Department (BD)/Cap 123 Building Ordience/Cap 123F (17-09-2026)_Building (Planning) Regulations_CS.md`.
 
 ---
 
@@ -194,6 +199,6 @@ Optional or streamlining notes. They are not a grant of planning permission, lea
 
 ---
 
-*Sources: Buildings Ordinance Cap. 123 (consolidated 1 March 2026) and Cap. 123A–123Q, Cap. 121 (2 August 2012), Joint Practice Notes Nos. 1–9, PNAP APP-2, APP-40, APP-67, APP-130, APP-151, APP-152, Code of Practice for Fire Safety in Buildings 2011, Design Manual: Barrier Free Access 2008, HKPSG.*
+*Sources: Buildings Ordinance Cap. 123 (consolidated 1 March 2026) and Cap. 123A–123Q, Building (Planning) Regulations Cap. 123F (17 September 2026) for regulations 20, 21, 22, 23 and 23A, Cap. 121 (2 August 2012), Joint Practice Notes Nos. 1–9, PNAP APP-2, APP-40, APP-67, APP-108, APP-130, APP-151, APP-152, Code of Practice for Fire Safety in Buildings 2011, Design Manual: Barrier Free Access 2008, HKPSG.*
 
 Catalogue detail for this topic is in `references/catalogues/pnap-hk-building-codes.md`, `references/catalogues/pnap-index.md`. The master router links these files directly.

@@ -1,6 +1,6 @@
 ---
 name: hk-professional-conduct
-description: Activate for Hong Kong architect registration and professional conduct, including Cap. 408 title and supervision rules, the Architects Registration Board code, the HKIA Code of Professional Conduct, and the HKIA Rules of the Institute.
+description: Activate for Hong Kong architect registration and professional conduct, including Cap. 408 title and supervision rules, the Architects Registration Board code, the HKIA Code of Professional Conduct, the HKIA Rules of the Institute, and the Prevention of Bribery Ordinance points in the 18 July 2025 ICAC handout.
 disable-model-invocation: true
 ---
 
@@ -17,6 +17,7 @@ Cap. 408 register, use of “architect” / “R.A.”, ARB conduct, HKIA conduc
 | Question type | Use this skill | Use instead |
 |---------------|----------------|-------------|
 | Registration, title, or conduct | `hk-professional-conduct` | `—` |
+| Prevention of Bribery Ordinance, advantage, or a conflict of interest | `hk-professional-conduct` | `—` |
 | PI limits and duty-of-care letters | `—` | `hk-professional-indemnity` |
 | Fee bidding and scope | `—` | `hk-fee-proposal-strategy` |
 
@@ -112,7 +113,37 @@ Internal membership, Council, meeting, and disciplinary rules under Cap. 1147. N
 
 ---
 
-## 7. Practice checks
+## 7. Prevention of Bribery Ordinance (ICAC handout, 18 July 2025)
+
+This section keeps the offences and distinctions printed in the Paper 2 Lecture 2 handout by Yvonne Chan. It is general guidance from that seminar. It is not a prosecution opinion. The handout says to read the Ordinance, or to ask the ICAC, where a live case needs more than this summary.
+
+| Provision | What the handout prints |
+|---|---|
+| s.9(1) | An agent solicits or accepts an advantage, without the principal’s approval, for an act in relation to the principal’s affairs or business. The handout prints a maximum of 7 years’ imprisonment and a $500,000 fine |
+| s.9(2) | A person offers an advantage to an agent, without that agent’s principal’s approval, as an inducement or reward for doing or forbearing to do an act in relation to the principal’s affairs. Offeror and acceptor are both liable. Same maximum as s.9(1) |
+| s.9(3) | An agent uses a false, erroneous, or defective receipt, account, or other document in which the principal is interested, with intent to deceive the principal. Examples printed: false quotations, false expense reimbursement, a false work-progress report, a false attendance record, a false material-testing report. Same maximum |
+| s.4 | A public servant solicits or accepts an advantage, in Hong Kong or elsewhere, for an act in an official capacity, without lawful authority or reasonable excuse and without the public body’s written permission. The same elements are printed for a person who offers that advantage |
+| s.8 | A person who has dealings with a government department or a public body offers an advantage to a public servant, without lawful authority or reasonable excuse. Maximum printed: 7 years and $500,000 |
+| s.11 | It is no defence that the recipient did not in fact have the power, did not intend to act, or did not act |
+| s.19 | Custom in a profession, trade, vocation, or calling is no defence to the offer in s.8 |
+| s.2 advantage | Gift, loan, fee, reward, or commission; employment or a contract; payment, release, or discharge of a loan or liability; a service or favour; exercise or forbearance of a right or power. Monetary value does not matter. Entertainment is excepted |
+| s.2 entertainment | Food or drink for consumption on the occasion, and other entertainment provided at the same time |
+
+Approval has to come from the principal of the recipient, before the advantage is solicited or accepted, or as soon as reasonably possible after acceptance. An employee looks to the employer’s code of conduct.
+
+A conflict of interest is the company’s interest and the person’s duties set against a private interest of that person, a family member, a relative, or a friend. The handout treats that conflict as distinct from a corruption offence. Frequent or lavish entertainment is printed as a conflict, an obligatory position, or a sweetening trap, even though entertainment is outside the s.2 definition of advantage. The printed handling is to put the employer or client first, to avoid an obligatory position, to declare the conflict, and to stay out of the discussion and the decision.
+
+The handout names a six-step ethical decision model and does not print the six steps. It does print the PLUS factors: the professional or company code, the legal requirements (this Ordinance, theft, fraud or deception, and the Building Management Ordinance), a sunshine test of disclosure without misgiving, and the person’s own honesty and fairness.
+
+On site, refuse an advantage and report the offer. Follow `references/statutory/pnap/ADV-18 Corruption Prevention_CS.md`. The handout prints the 24-hour report line as 25 266 366. ADV-18 prints 2526 6366.
+
+Handout: `hk_s_reference/HKIA Exam/P2/L2/02_2025-07-18_Yvonne Chan_ICAC_Paper 2 Lecture 2_handout.pdf`.
+
+The John Wong conduct slides in the same lecture are the HKIA Code and the ARB Code. Those rules stay in sections 4 and 5. This section does not restate them.
+
+---
+
+## 8. Practice checks
 
 1. Name the registered architect who supervises each office, and, if multidisciplinary, the registered architect in full-time control of the architecture work.
 2. Diary the 28-day-before-expiry renewal cutoff before describing the person, or a practice relying on that person, as architect.
@@ -121,6 +152,6 @@ Internal membership, Council, meeting, and disciplinary rules under Cap. 1147. N
 
 ---
 
-*Sources: Architects Registration Ordinance Cap. 408 (consolidated 30 September 2020), ARB Code of Professional Conduct (5 March 2024), HKIA Code of Professional Conduct (18 August 2017), HKIA Rules of the Institute (17 June 2021).*
+*Sources: Architects Registration Ordinance Cap. 408 (consolidated 30 September 2020), ARB Code of Professional Conduct (5 March 2024), HKIA Code of Professional Conduct (18 August 2017), HKIA Rules of the Institute (17 June 2021), ICAC Paper 2 Lecture 2 handout (18 July 2025) for Cap. 201 ss.2, 4, 8, 9, 11 and 19, PNAP ADV-18.*
 
 Institute catalogue: `references/catalogues/hkia.md`. Library copies and PDFs: `hk_s_reference/HKIA/`.
